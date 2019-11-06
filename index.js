@@ -4,6 +4,7 @@
 const Alexa = require('ask-sdk-core');
 const req = require('./request');
 const util = require('./util');
+const i18n = require('./i18n');
 
 const LaunchRequestHandler = {
     canHandle(handlerInput) {
@@ -11,8 +12,8 @@ const LaunchRequestHandler = {
     },
     handle(handlerInput) {
         let lang = handlerInput.requestEnvelope.request.locale.split('-')[0].toLowerCase();
-        process.env.LANG = lang;
-        const speakOutput = 'Bonjour. Je suis là pour vous conseiller sur des items à acheter en fonction des modes de jeu disponibles. De quoi avez-vous besoin ?';
+        i18n.setLocale(lang);
+        const speakOutput = i18n.t('WELCOME');
         return handlerInput.responseBuilder
             .speak(speakOutput)
             .reprompt(speakOutput)
@@ -27,34 +28,35 @@ const BuildIntentHandler = {
     handle(handlerInput) {
         const god = handlerInput.requestEnvelope.request.intent.slots.god.value;
         const queue = handlerInput.requestEnvelope.request.intent.slots.queue.value;
+        const lang = i18n.getCurrentLocale();
 
-        const englishGod =  util.normalizeGodName(god, process.env.LANG);
-        const queueId = util.getQueueIdByQueue(queue, process.env.LANG);
+        const englishGod =  util.normalizeGodName(god, lang);
+        const queueId = util.getQueueIdByQueue(queue, lang);
         
         let speakOutput;
 
         if (queueId && englishGod) {
             return req.httpGet(`https://api.smite.guru/v3/champions/${god}/builds`).then(res => {
-                const item1 = util.getItemById(res['builds'][queueId]['slot-1']['primary']['item'], process.env.LANG);
-                const item2 = util.getItemById(res['builds'][queueId]['slot-2']['primary']['item'], process.env.LANG);
-                const item3 = util.getItemById(res['builds'][queueId]['slot-3']['primary']['item'], process.env.LANG);
+                const item1 = util.getItemById(res['builds'][queueId]['slot-1']['primary']['item'], lang);
+                const item2 = util.getItemById(res['builds'][queueId]['slot-2']['primary']['item'], lang);
+                const item3 = util.getItemById(res['builds'][queueId]['slot-3']['primary']['item'], lang);
     
-                speakOutput = `Vous avez demandé un build pour ${god} en ${queue}. Le premier item est ${item1.DeviceName}. Le deuxième item est ${item2.DeviceName}. Le troisième item est ${item3.DeviceName}.`;
+                speakOutput = i18n.tmf('BUID.RESULT.3_ITEMS', {god: god, queue: queue, item1: item1.DeviceName, item2: item2.DeviceName, item3: item3.DeviceName, });
                 return handlerInput.responseBuilder
                 .speak(speakOutput)
                 .getResponse();
             }).catch(e => {
-                speakOutput = `Il semblerait qu'il y ait une erreur quelque part. ${e}`;
+                speakOutput = i18n.t('ERROR.UNKNOWN');
                 return handlerInput.responseBuilder
                 .speak(speakOutput)
                 .getResponse();
             });
         } else if (!englishGod && ! queueId) {
-            speakOutput = `Il n'existe ni dieu ${god} ni mode de jeu "${queue}".`;
+                speakOutput = i18n.t('ERROR.NO_GOD_NO_QUEUE', {god: god, queue: queue});
         } else if (!englishGod) {
-            speakOutput = `Il n'existe pas de dieu "${god}".`;
+                speakOutput = i18n.t('ERROR.NO_GOD', {god: god});
         } else if (!queueId) {
-            speakOutput = `Il n'existe pas de mode de jeu "${queue}".`;
+                speakOutput = i18n.t('ERROR.NO_QUEUE', {queue: queue});
         }
         return handlerInput.responseBuilder
         .speak(speakOutput)
@@ -67,7 +69,7 @@ const HelpIntentHandler = {
             && handlerInput.requestEnvelope.request.intent.name === 'AMAZON.HelpIntent';
     },
     handle(handlerInput) {
-        const speakOutput = 'Vous pouvez me demander par exemple "Quel est le build pour Thanatos en Joute". De quoi avez-vous besoin ?';
+        const speakOutput = i18n.t('HELP');
 
         return handlerInput.responseBuilder
             .speak(speakOutput)
@@ -82,7 +84,7 @@ const CancelAndStopIntentHandler = {
                 || handlerInput.requestEnvelope.request.intent.name === 'AMAZON.StopIntent');
     },
     handle(handlerInput) {
-        const speakOutput = 'Good luck, have fun.';
+        const speakOutput = i18n.t('BYE');
         return handlerInput.responseBuilder
             .speak(speakOutput)
             .getResponse();
