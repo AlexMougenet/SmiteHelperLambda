@@ -1,16 +1,22 @@
 {
 	"BUILD": {
 		"RESULT": {
-			"3_ITEMS": "Vous avez demandé un build pour {god} en {queue}. Le premier item est {item1}. Le deuxième item est {item2}. Le troisième item est {item3}."
+			"3_FIRST_ITEMS": "D'après SmiteGuru, voici le build le plus populaire pour \"{god}\" en \"{queue}\". Le premier item est \"{item1}\". Le deuxième item est \"{item2}\". Le troisième item est \"{item3}\". Voulez-vous les trois derniers items ?",
+			"3_LAST_ITEMS": "Le quatrième item est \"{item4}\". Le cinquième item est \"{item5}\". Enfin, le sixième item est \"{item6}\".",
+			"CONTINUE": "Voulez-vous les trois derniers items ?"
 		}
 	},
 	"BYE": "Good luck, have fun",
 	"ERROR": {
-		"NO_GOD_NO_QUEUE": "Il n'existe ni dieu {god} ni mode de jeu {queue}.",
-		"NO_GOD": "Il n'existe pas de dieu {god}.",
-		"NO_QUEUE": "Il n'existe pas de mode de jeu {queue}.",
-		"UNKNOWN": "Il semblerait qu'il y ait une erreur quelque part..."
+		"NO_GOD_NO_QUEUE": "Il n'existe ni dieu \"{god}\" ni mode de jeu \"{queue}\".",
+		"NO_GOD": "Il n'existe pas de dieu \"{god}\".",
+		"NO_QUEUE": "Il n'existe pas de mode de jeu \"{queue}\".",
+		"UNKNOWN": "Il semblerait qu'il y ait une erreur quelque part... \"{error}\""
 	},
 	"HELP": "Vous pouvez me demander par exemple \"Quel est le build pour Thanatos en Joute\". De quoi avez-vous besoin ?",
-	"WELCOME": "Bonjour. Je suis là pour vous conseiller sur des items à acheter en fonction des modes de jeu disponibles. De quoi avez-vous besoin ?"
+	"NEWS": "Vous pouvez désormais demander par exemple \"Quel est le build pour Thanatos en Joute\". De quoi avez-vous besoin ?",
+	"SMITEGURU": "SmiteGuru est un site web qui met à disposition les builds les plus populaires, des guides créés par la communauté, et permet un suivi très détaillé de votre profil. Pour en apprendre plus, rendez-vous sur smite.guru.",
+	"UNHANDLED": "Désolé, je n'ai pas compris. Dites \"aide\" pour obtenir de l'aide.",
+	"WELCOME": "Bonjour. Je suis là pour vous conseiller sur des items à acheter en fonction des modes de jeu disponibles. De quoi avez-vous besoin ?",
+	"WELCOME_NEW_VERSION": "Bonjour. De nouvelles fonctionnalités sont maintenant disponibles. Découvrez les en demandant \"Quoi de neuf ?\". De quoi avez-vous besoin ?"
 }

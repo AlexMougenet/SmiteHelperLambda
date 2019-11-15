@@ -21,7 +21,6 @@ function getLocales() {
 function setLocale(locale) {
   if (getLocales().indexOf(locale) !== -1) {
     i18n.setLocale(locale);
-    process.env.LANG = locale;
   }
 }
 function t(string, args = undefined) {

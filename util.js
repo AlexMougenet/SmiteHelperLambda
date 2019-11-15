@@ -13,22 +13,22 @@ function getQueueIdByQueue(queue, lang) {
 }
 
 function normalizeGodName(godName, lang) {
-  const god = getGodId(godName, lang);
+  const god = getGodByName(godName, lang);
   if (god) {
-    return JSON.parse(fs.readFileSync(`./assets/gods/en.json`)).find(x => x.Id == god.Id);
+    return JSON.parse(fs.readFileSync(`./assets/gods/en.json`)).find(x => x.id == god.id).Name;
   }
   return undefined;
 }
 
-function getGodId(godName, lang) {
-  return JSON.parse(fs.readFileSync(`./assets/gods/${lang}.json`)).find(x => x.Name.toLowerCase() == godName);
+function getGodByName(godName, lang) {
+  return JSON.parse(fs.readFileSync(`./assets/gods/${lang}.json`)).find(x => x.Name.toLowerCase() == godName.toLowerCase());
 }
 
 module.exports = {
   getItemById : getItemById,
   getQueueIdByQueue: getQueueIdByQueue,
   normalizeGodName: normalizeGodName,
-  getGodId: getGodId
+  getGodByName: getGodByName
 };
 
 

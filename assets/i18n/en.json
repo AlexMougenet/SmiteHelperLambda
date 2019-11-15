@@ -1,16 +1,22 @@
 {
 	"BUILD": {
 		"RESULT": {
-			"3_ITEMS": "Vous avez demandé un build pour {god} en {queue}. Le premier item est {item1}. Le deuxième item est {item2}. Le troisième item est {item3}."
+			"3_FIST_ITEMS": "According to SmiteGuru, here is the most popular build for \"{god}\" in \"{queue}\". The first popular item is \"{item1}\". The second item is \"{item2}\". The third item is \"{item3}\". Do you want the three last items ?",
+			"3_LAST_ITEMS": "The fourth item is \"{item4}\". The fifth item is \"{item5}\". Finally, The sixth item is \"{item6}\".",
+			"CONTINUE": "Do you want the three last items ?"
 		}
 	},
 	"BYE": "Good luck, have fun",
 	"ERROR": {
-		"NO_GOD_NO_QUEUE": "Il n'existe ni dieu {god} ni mode de jeu {queue}.",
-		"NO_GOD": "Il n'existe pas de dieu {god}.",
-		"NO_QUEUE": "Il n'existe pas de mode de jeu {queue}.",
-		"UNKNOWN": "Il semblerait qu'il y ait une erreur quelque part..."
+		"NO_GOD_NO_QUEUE": "There is no god \"{god}\" and no queue \"{queue}\".",
+		"NO_GOD": "There is no god \"{god}\".",
+		"NO_QUEUE": "There is no queue \"{queue}\".",
+		"UNKNOWN": "It looks like and error occured... {error}"
 	},
-	"HELP": "Vous pouvez me demander par exemple \"Quel est le build pour Thanatos en Joute\". De quoi avez-vous besoin ?",
-	"WELCOME": "Bonjour. Je suis là pour vous conseiller sur des items à acheter en fonction des modes de jeu disponibles. De quoi avez-vous besoin ?"
+	"HELP": "You can ask me for example \"What should I buy for Thanatos in Joust\". What are you looking for ?",
+	"NEWS": "You can now ask me for example \"What should I buy for Thanatos in Joust\". What are you looking for ?",
+	"SMITEGURU": "SmiteGuru is a website provides popular builds, guides created by the community, and a very detailled follow-up of your profile. To learn more about SmiteGuru, go on smite.guru",
+	"UNHANDLED": "Sorry, I did not understand. Say \"help\" to get some help.",
+	"WELCOME": "Hi. I'm here to recommend you on items to buy for specific gods in specific queues. What are you looking for ?",
+	"WELCOME_NEW_VERSION": "Hi. New features are now available. Discover them by asking \"What is new ?\". What are you looking for ?"
 }
