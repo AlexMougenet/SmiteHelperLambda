@@ -4,6 +4,11 @@ const fs = require('fs');
 //   return JSON.parse(fs.readFileSync('./assets/languages/langs.json', 'utf8'))[lang];
 // }
 
+function savePersistentAttributes(manager, attributes) {
+  manager.setPersistentAttributes(attributes);
+  manager.savePersistentAttributes();
+}
+
 function getItemById(itemId, lang) {
   return JSON.parse(fs.readFileSync(`./assets/items/${lang}.json`)).find(x => x.ItemId == itemId);
 }
@@ -25,6 +30,7 @@ function getGodByName(godName, lang) {
 }
 
 module.exports = {
+  savePersistentAttributes: savePersistentAttributes,
   getItemById : getItemById,
   getQueueIdByQueue: getQueueIdByQueue,
   normalizeGodName: normalizeGodName,
