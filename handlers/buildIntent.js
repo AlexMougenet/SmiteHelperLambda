@@ -1,5 +1,5 @@
 const i18n = require('../i18n');
-const req = require('../request');
+const fs = require('fs');
 const util = require('../util');
 
 const handle = async (handlerInput, itemNumber) => {
@@ -27,7 +27,7 @@ const handle = async (handlerInput, itemNumber) => {
 
   if (queueId && normalizedGod) {
     if (itemNumber || !isYesIntent) {
-      let res = await req.httpGet(`https://api.smite.guru/v3/champions/${normalizedGod}/builds`);
+      let res = JSON.parse(fs.readFileSync(`./assets/builds/${normalizedGod}.json`));
       const itemId = (i) => {
         if (!!res['builds'][queueId][`slot-${i}`]['primary']) {
           return util.getItemById(res['builds'][queueId][`slot-${i}`]['primary']['item'], lang);
