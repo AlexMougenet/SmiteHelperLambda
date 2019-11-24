@@ -35,7 +35,17 @@ const BuildIntentHandler = {
     },
     handle(handlerInput) {
         const buildIntent = require('./handlers/buildIntent');
-        return buildIntent.handle(handlerInput);
+        return buildIntent.handle(handlerInput, null);
+    }
+};
+const ItemNumberIntentHandler = {
+    canHandle(handlerInput) {
+        return handlerInput.requestEnvelope.request.type === 'IntentRequest'
+            && (handlerInput.requestEnvelope.request.intent.name === 'ItemNumberIntent');
+    },
+    handle(handlerInput) {
+        const itemNumberIntent = require('./handlers/itemNumberIntent');
+        return itemNumberIntent.handle(handlerInput);
     }
 };
 const SmiteGuruIntentHandler = {
@@ -135,6 +145,7 @@ exports.handler = Alexa.SkillBuilders.custom()
     .addRequestHandlers(
         LaunchRequestHandler,
         BuildIntentHandler,
+        ItemNumberIntentHandler,
         HelpIntentHandler,
         CancelAndStopIntentHandler,
         SessionEndedRequestHandler,
