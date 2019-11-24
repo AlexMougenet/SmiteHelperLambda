@@ -6,13 +6,10 @@ const { version } = require('../package.json');
 const handle = async handlerInput => {
   const attributesManager = handlerInput.attributesManager;
   const attributes = await attributesManager.getPersistentAttributes();
-  const sessionAttributes = handlerInput.attributesManager.getSessionAttributes();
 
-  const lang = sessionAttributes.lang || handlerInput.requestEnvelope.request.locale.split('-')[0].toLowerCase();
+  const lang = handlerInput.requestEnvelope.request.locale.split('-')[0].toLowerCase();
   if (i18n.getLocales().includes(lang)) {
     i18n.setLocale(lang);
-    attributes.lang = lang;
-    handlerInput.attributesManager.setSessionAttributes(attributes);
   }
   
   let speakOutput;

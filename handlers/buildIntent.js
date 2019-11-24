@@ -5,7 +5,8 @@ const util = require('../util');
 const handle = async (handlerInput, itemNumber) => {
   const isYesIntent = handlerInput.requestEnvelope.request.intent.name === "AMAZON.YesIntent";
   const attributes = handlerInput.attributesManager.getSessionAttributes();
-  const lang = attributes.lang || handlerInput.requestEnvelope.request.locale.split('-')[0].toLowerCase();
+  const lang = handlerInput.requestEnvelope.request.locale.split('-')[0].toLowerCase();
+  i18n.setLocale(lang);
   let god;
   let queue;
   if (isYesIntent) {
