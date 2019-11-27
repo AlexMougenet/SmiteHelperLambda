@@ -40,6 +40,7 @@ const handle = async (handlerInput, itemNumber) => {
       if (itemNumber) {
         const item = itemId(itemNumber);
         speakOutput = i18n.tmf('BUILD.RESULT.ITEM_NUMBER', {god: god, queue: queue, index: itemNumber, item: item.DeviceName});
+        repromptSpeech = i18n.t('DO_YOU_NEED_MORE');
       }
       else if (!isYesIntent) {
         const item1 = itemId(1);
@@ -74,7 +75,7 @@ const handle = async (handlerInput, itemNumber) => {
   } 
   return handlerInput.responseBuilder
     .speak(speakOutput)
-    .withShouldEndSession(itemNumber ? true : false)
+    .withShouldEndSession(false)
     .reprompt(repromptSpeech)
     .getResponse();
 }
