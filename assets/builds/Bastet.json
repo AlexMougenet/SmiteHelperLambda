@@ -1,12 +1,12 @@
 {
   "_meta": {
-    "champions": "e2723a2f0cde",
-    "items": "c03859adcbc7",
+    "champions": "da8bc2a1f241",
+    "items": "45b3e7804c5e",
     "patch": {
-      "_id": "5c8b6763f7ed2a58e2e64cba",
-      "version": "6.3",
+      "_id": "5e302e281b1c5502390c7f22",
+      "version": "7.1",
       "platform": 0,
-      "start": "2019-03-15T08:50:43.215Z"
+      "start": "2020-01-28T12:50:48.976Z"
     }
   },
   "champion": {
@@ -17,7 +17,7 @@
     "pantheon": "Egyptian",
     "type": "Physical",
     "passive": {
-      "name": "Open Wound"
+      "name": "Tracking Scent"
     },
     "abilities": {
       "1": {
@@ -27,10 +27,10 @@
         "name": "Razor Whip"
       },
       "3": {
-        "name": "Declaw"
+        "name": "Ensnaring Claw"
       },
       "4": {
-        "name": "Cat Call"
+        "name": "Guardians of Bast"
       }
     }
   },
@@ -39,456 +39,456 @@
       "active": {
         "items": [
           {
-            "item": "8879",
-            "percentage": 24.806
+            "item": "8844",
+            "percentage": 28.251
           },
           {
-            "item": "8844",
-            "percentage": 23.952
+            "item": "8879",
+            "percentage": 25.09
+          },
+          {
+            "item": "18307",
+            "percentage": 17.698
           },
           {
             "item": "7672",
-            "percentage": 20.786
-          },
-          {
-            "item": "9041",
-            "percentage": 9.642
+            "percentage": 14.932
           }
         ],
-        "total": 694204
+        "total": 27772
       },
       "boots": {
         "items": [
           {
             "item": "9626",
-            "percentage": 77.976
+            "percentage": 83.953
           },
           {
             "item": "9627",
-            "percentage": 11.421
+            "percentage": 12.248
           },
           {
             "item": "9630",
-            "percentage": 9.526
+            "percentage": 3.379
           }
         ],
-        "total": 302410
+        "total": 10712
       },
       "core": {
         "items": [
           {
             "item": "7904",
-            "percentage": 30.082
+            "percentage": 26.466
           },
           {
             "item": "11111",
-            "percentage": 20.111
+            "percentage": 22.085
           },
           {
-            "item": "8550",
-            "percentage": 9.178
+            "item": "8547",
+            "percentage": 9.841
           },
           {
             "item": "7829",
-            "percentage": 6.781
+            "percentage": 8.266
           }
         ],
-        "total": 613683
+        "total": 19357
       },
       "slot-1": {
         "items": [
           {
-            "item": "7523",
-            "percentage": 5.632
+            "item": "12680",
+            "percentage": 5.911
           },
           {
-            "item": "7829",
-            "percentage": 4.381
+            "item": "7523",
+            "percentage": 5.567
           },
           {
             "item": "9236",
-            "percentage": 4.27
+            "percentage": 5.301
           },
           {
-            "item": "11111",
-            "percentage": 2.984
+            "item": "7829",
+            "percentage": 3.01
           }
         ],
-        "total": 357464,
+        "total": 12789,
         "primary": {
           "item": "15486",
-          "percentage": 46.156
+          "percentage": 52.42
         }
       },
       "slot-2": {
         "items": [
           {
-            "item": "9626",
-            "percentage": 23.597
-          },
-          {
             "item": "11111",
-            "percentage": 17.269
+            "percentage": 21.085
           },
           {
-            "item": "9627",
-            "percentage": 4.961
+            "item": "9626",
+            "percentage": 18.21
           },
           {
             "item": "8547",
-            "percentage": 4.74
+            "percentage": 13.083
+          },
+          {
+            "item": "9627",
+            "percentage": 5.104
           }
         ],
-        "total": 306382,
+        "total": 8660,
         "primary": {
           "item": "7904",
-          "percentage": 23.702
+          "percentage": 21.952
+        }
+      },
+      "slot-3": {
+        "items": [
+          {
+            "item": "9627",
+            "percentage": 6.033
+          },
+          {
+            "item": "7904",
+            "percentage": 5.26
+          },
+          {
+            "item": "11111",
+            "percentage": 5.244
+          },
+          {
+            "item": "9236",
+            "percentage": 3.141
+          }
+        ],
+        "total": 12415,
+        "primary": {
+          "item": "9626",
+          "percentage": 57.938
         }
       },
       "slot-4": {
         "items": [
           {
             "item": "7904",
-            "percentage": 25.078
-          },
-          {
-            "item": "8550",
-            "percentage": 12.818
+            "percentage": 27.966
           },
           {
             "item": "7829",
-            "percentage": 8.574
+            "percentage": 10.244
+          },
+          {
+            "item": "8547",
+            "percentage": 6.238
           },
           {
             "item": "12680",
-            "percentage": 4.511
+            "percentage": 6.085
           }
         ],
-        "total": 271656,
+        "total": 9186,
         "primary": {
           "item": "11111",
-          "percentage": 18.722
-        }
-      },
-      "slot-5": {
-        "items": [
-          {
-            "item": "11111",
-            "percentage": 18.506
-          },
-          {
-            "item": "7904",
-            "percentage": 12.379
-          },
-          {
-            "item": "8550",
-            "percentage": 7.566
-          },
-          {
-            "item": "12680",
-            "percentage": 7.037
-          }
-        ],
-        "total": 248965,
-        "primary": {
-          "item": "7829",
-          "percentage": 13.416
+          "percentage": 19.573
         }
       },
       "slot-6": {
         "items": [
           {
             "item": "7829",
-            "percentage": 12.141
-          },
-          {
-            "item": "11111",
-            "percentage": 10.035
-          },
-          {
-            "item": "12680",
-            "percentage": 8.145
+            "percentage": 9.88
           },
           {
             "item": "9236",
-            "percentage": 7.041
-          }
-        ],
-        "total": 201273,
-        "primary": {
-          "item": "7523",
-          "percentage": 12.935
-        }
-      },
-      "slot-3": {
-        "items": [
-          {
-            "item": "7904",
-            "percentage": 12.806
+            "percentage": 8.664
           },
           {
             "item": "11111",
-            "percentage": 5.737
+            "percentage": 7.793
           },
           {
-            "item": "9630",
-            "percentage": 5.716
-          },
-          {
-            "item": "9627",
-            "percentage": 4.004
+            "item": "7904",
+            "percentage": 6.646
           }
         ],
-        "total": 342537,
+        "total": 7237,
         "primary": {
-          "item": "9626",
-          "percentage": 43.713
+          "item": "12680",
+          "percentage": 22.164
         }
       },
       "starter": {
         "items": [
           {
             "item": "15486",
-            "percentage": 86.842
+            "percentage": 93.489
           },
           {
             "item": "15479",
-            "percentage": 5.063
+            "percentage": 4.021
           },
           {
-            "item": "16395",
-            "percentage": 3.285
+            "item": "15482",
+            "percentage": 1.176
           }
         ],
-        "total": 195178
+        "total": 7311
+      },
+      "slot-5": {
+        "items": [
+          {
+            "item": "12680",
+            "percentage": 17.166
+          },
+          {
+            "item": "11111",
+            "percentage": 13.351
+          },
+          {
+            "item": "7904",
+            "percentage": 11.754
+          },
+          {
+            "item": "8550",
+            "percentage": 7.485
+          }
+        ],
+        "total": 9018,
+        "primary": {
+          "item": "7829",
+          "percentage": 14.97
+        }
       }
     },
     "435": {
       "active": {
         "items": [
           {
-            "item": "7672",
-            "percentage": 31.626
-          },
-          {
             "item": "8879",
-            "percentage": 29.767
+            "percentage": 29.634
           },
           {
-            "item": "9041",
-            "percentage": 12.136
+            "item": "7672",
+            "percentage": 24.395
           },
           {
-            "item": "7353",
-            "percentage": 8.497
+            "item": "18307",
+            "percentage": 15.478
+          },
+          {
+            "item": "8844",
+            "percentage": 9.745
           }
         ],
-        "total": 1462234
-      },
-      "boots": {
-        "items": [
-          {
-            "item": "9626",
-            "percentage": 79.898
-          },
-          {
-            "item": "9627",
-            "percentage": 14.071
-          },
-          {
-            "item": "9630",
-            "percentage": 4.321
-          }
-        ],
-        "total": 683641
+        "total": 26915
       },
       "core": {
         "items": [
           {
             "item": "7904",
-            "percentage": 28.109
+            "percentage": 24.48
           },
           {
             "item": "11111",
-            "percentage": 20.123
+            "percentage": 19.287
           },
           {
-            "item": "8550",
-            "percentage": 6.224
+            "item": "12680",
+            "percentage": 7.736
           },
           {
             "item": "7829",
-            "percentage": 6.16
+            "percentage": 6.651
           }
         ],
-        "total": 1691327
+        "total": 28942
       },
       "slot-1": {
         "items": [
           {
             "item": "15577",
-            "percentage": 9.069
+            "percentage": 9.322
           },
           {
             "item": "9627",
-            "percentage": 8.576
+            "percentage": 9.26
           },
           {
-            "item": "7904",
-            "percentage": 5.666
+            "item": "11111",
+            "percentage": 4.719
           },
           {
-            "item": "7935",
-            "percentage": 5.119
+            "item": "12680",
+            "percentage": 4.55
           }
         ],
-        "total": 662751,
+        "total": 11210,
         "primary": {
           "item": "9626",
-          "percentage": 34
+          "percentage": 30.705
         }
       },
       "slot-2": {
         "items": [
           {
             "item": "9626",
-            "percentage": 37.389
+            "percentage": 38.664
           },
           {
             "item": "11111",
-            "percentage": 7.891
+            "percentage": 9.071
           },
           {
             "item": "9627",
-            "percentage": 4.513
+            "percentage": 5.7
           },
           {
-            "item": "8550",
-            "percentage": 3.374
+            "item": "8547",
+            "percentage": 4.642
           }
         ],
-        "total": 689842,
+        "total": 11719,
         "primary": {
           "item": "7904",
-          "percentage": 20.522
+          "percentage": 13.61
         }
       },
       "slot-3": {
         "items": [
           {
             "item": "7904",
-            "percentage": 32.827
+            "percentage": 27.065
           },
           {
             "item": "9626",
-            "percentage": 7.811
-          },
-          {
-            "item": "8550",
-            "percentage": 4.915
+            "percentage": 11.164
           },
           {
             "item": "7829",
-            "percentage": 4.906
+            "percentage": 5.132
+          },
+          {
+            "item": "12680",
+            "percentage": 4.753
           }
         ],
-        "total": 718833,
+        "total": 12666,
         "primary": {
           "item": "11111",
-          "percentage": 15.963
+          "percentage": 19.051
         }
       },
       "slot-4": {
         "items": [
           {
             "item": "11111",
-            "percentage": 23.821
+            "percentage": 16.561
           },
           {
             "item": "7904",
-            "percentage": 13.623
+            "percentage": 16.215
           },
           {
-            "item": "7523",
-            "percentage": 7.077
+            "item": "7829",
+            "percentage": 8.147
           },
           {
             "item": "9236",
-            "percentage": 6.589
+            "percentage": 5.866
           }
         ],
-        "total": 718511,
+        "total": 12717,
         "primary": {
-          "item": "7829",
-          "percentage": 7.657
+          "item": "12680",
+          "percentage": 9.295
         }
       },
       "slot-5": {
         "items": [
           {
+            "item": "12680",
+            "percentage": 12.31
+          },
+          {
             "item": "11111",
-            "percentage": 11.621
+            "percentage": 11.49
           },
           {
             "item": "9236",
-            "percentage": 9.005
-          },
-          {
-            "item": "7829",
-            "percentage": 8.455
+            "percentage": 8.601
           },
           {
             "item": "7904",
-            "percentage": 6.786
+            "percentage": 8.018
           }
         ],
-        "total": 684321,
+        "total": 12185,
         "primary": {
-          "item": "7523",
-          "percentage": 15.842
+          "item": "7829",
+          "percentage": 10.029
         }
       },
       "slot-6": {
         "items": [
           {
-            "item": "7523",
-            "percentage": 10.617
-          },
-          {
-            "item": "12673",
-            "percentage": 10.196
+            "item": "12680",
+            "percentage": 12.394
           },
           {
             "item": "11111",
-            "percentage": 7.545
+            "percentage": 9.001
+          },
+          {
+            "item": "7523",
+            "percentage": 8.981
           },
           {
             "item": "7829",
-            "percentage": 7.438
+            "percentage": 8.487
           }
         ],
-        "total": 592908,
+        "total": 10110,
         "primary": {
           "item": "9236",
-          "percentage": 11.093
+          "percentage": 11.721
         }
       },
       "starter": {
         "items": [
           {
             "item": "15577",
-            "percentage": 74.23
+            "percentage": 67.106
           },
           {
-            "item": "16395",
-            "percentage": 7.525
+            "item": "15482",
+            "percentage": 10.785
           },
           {
             "item": "15486",
-            "percentage": 6.64
+            "percentage": 9.227
           }
         ],
-        "total": 87015
+        "total": 1669
+      },
+      "boots": {
+        "items": [
+          {
+            "item": "9626",
+            "percentage": 79.39
+          },
+          {
+            "item": "9627",
+            "percentage": 16.095
+          },
+          {
+            "item": "9630",
+            "percentage": 3.37
+          }
+        ],
+        "total": 11960
       }
     },
     "440": {
@@ -496,226 +496,226 @@
         "items": [
           {
             "item": "14112",
-            "percentage": 29.182
+            "percentage": 24.831
+          },
+          {
+            "item": "18307",
+            "percentage": 19.486
           },
           {
             "item": "7672",
-            "percentage": 16.689
+            "percentage": 13.87
           },
           {
             "item": "8879",
-            "percentage": 11.782
-          },
-          {
-            "item": "11106",
-            "percentage": 10.927
+            "percentage": 11.028
           }
         ],
-        "total": 79245
+        "total": 1478
       },
       "boots": {
         "items": [
           {
             "item": "9626",
-            "percentage": 87.354
+            "percentage": 76.115
           },
           {
             "item": "9627",
-            "percentage": 6.427
+            "percentage": 17.516
           },
           {
             "item": "9630",
-            "percentage": 5.48
+            "percentage": 5.732
           }
         ],
-        "total": 39816
+        "total": 628
       },
       "core": {
         "items": [
           {
             "item": "7641",
-            "percentage": 16.919
+            "percentage": 18.418
+          },
+          {
+            "item": "8547",
+            "percentage": 12.243
           },
           {
             "item": "7829",
-            "percentage": 14.196
+            "percentage": 11.918
           },
           {
             "item": "7904",
-            "percentage": 13.103
-          },
-          {
-            "item": "11111",
-            "percentage": 8.498
+            "percentage": 10.726
           }
         ],
-        "total": 61759
+        "total": 923
       },
       "slot-1": {
         "items": [
           {
-            "item": "9626",
-            "percentage": 5.248
+            "item": "15486",
+            "percentage": 4.975
           },
           {
-            "item": "14096",
-            "percentage": 5.204
+            "item": "11111",
+            "percentage": 4.312
           },
           {
             "item": "15479",
-            "percentage": 5.196
+            "percentage": 4.312
           },
           {
-            "item": "8547",
-            "percentage": 4.99
+            "item": "15482",
+            "percentage": 3.814
           }
         ],
-        "total": 36413,
+        "total": 603,
         "primary": {
           "item": "15577",
-          "percentage": 47.365
+          "percentage": 53.4
         }
       },
       "slot-3": {
         "items": [
           {
+            "item": "9627",
+            "percentage": 10.552
+          },
+          {
             "item": "7641",
-            "percentage": 9.288
+            "percentage": 7.143
           },
           {
             "item": "7904",
-            "percentage": 8.094
+            "percentage": 4.383
           },
           {
-            "item": "7829",
-            "percentage": 6.628
-          },
-          {
-            "item": "11111",
-            "percentage": 4.01
+            "item": "9630",
+            "percentage": 4.058
           }
         ],
-        "total": 37856,
+        "total": 616,
         "primary": {
           "item": "9626",
-          "percentage": 46.55
+          "percentage": 51.623
         }
       },
       "slot-4": {
         "items": [
           {
             "item": "7829",
-            "percentage": 16.215
+            "percentage": 13.566
           },
           {
             "item": "7904",
-            "percentage": 10.351
-          },
-          {
-            "item": "12678",
-            "percentage": 10.134
+            "percentage": 9.302
           },
           {
             "item": "11111",
-            "percentage": 8.348
+            "percentage": 7.364
+          },
+          {
+            "item": "12678",
+            "percentage": 7.364
           }
         ],
-        "total": 30916,
+        "total": 516,
         "primary": {
           "item": "7641",
-          "percentage": 20.714
+          "percentage": 23.837
         }
       },
       "slot-5": {
         "items": [
           {
             "item": "11111",
-            "percentage": 13.446
-          },
-          {
-            "item": "7523",
-            "percentage": 13.197
+            "percentage": 14.963
           },
           {
             "item": "7904",
-            "percentage": 11.553
+            "percentage": 11.471
+          },
+          {
+            "item": "7523",
+            "percentage": 9.726
           },
           {
             "item": "7641",
-            "percentage": 6.113
+            "percentage": 5.237
           }
         ],
-        "total": 24097,
+        "total": 401,
         "primary": {
           "item": "7829",
-          "percentage": 23.231
+          "percentage": 27.93
+        }
+      },
+      "slot-6": {
+        "items": [
+          {
+            "item": "7829",
+            "percentage": 14.559
+          },
+          {
+            "item": "12680",
+            "percentage": 11.877
+          },
+          {
+            "item": "7904",
+            "percentage": 11.494
+          },
+          {
+            "item": "11111",
+            "percentage": 10.728
+          }
+        ],
+        "total": 261,
+        "primary": {
+          "item": "7523",
+          "percentage": 15.326
         }
       },
       "starter": {
         "items": [
           {
             "item": "15577",
-            "percentage": 78.936
+            "percentage": 79.512
+          },
+          {
+            "item": "15486",
+            "percentage": 7.317
           },
           {
             "item": "15479",
-            "percentage": 8.728
-          },
-          {
-            "item": "15482",
-            "percentage": 7.999
+            "percentage": 6.341
           }
         ],
-        "total": 22227
+        "total": 410
       },
       "slot-2": {
         "items": [
           {
             "item": "9626",
-            "percentage": 45.541
+            "percentage": 33.985
           },
           {
-            "item": "14096",
-            "percentage": 9.084
+            "item": "9627",
+            "percentage": 8.068
           },
           {
             "item": "7904",
-            "percentage": 5.698
+            "percentage": 5.868
           },
           {
             "item": "7829",
-            "percentage": 3.881
+            "percentage": 4.645
           }
         ],
-        "total": 32079,
+        "total": 409,
         "primary": {
           "item": "8547",
-          "percentage": 11.169
-        }
-      },
-      "slot-6": {
-        "items": [
-          {
-            "item": "11111",
-            "percentage": 14.008
-          },
-          {
-            "item": "7829",
-            "percentage": 12.958
-          },
-          {
-            "item": "7904",
-            "percentage": 10.298
-          },
-          {
-            "item": "7578",
-            "percentage": 3.278
-          }
-        ],
-        "total": 15527,
-        "primary": {
-          "item": "7523",
-          "percentage": 19.695
+          "percentage": 24.205
         }
       }
     },
@@ -724,450 +724,450 @@
         "items": [
           {
             "item": "9041",
-            "percentage": 46.966
+            "percentage": 42.165
           },
           {
-            "item": "7672",
-            "percentage": 18.746
+            "item": "18307",
+            "percentage": 16.345
           },
           {
             "item": "8879",
-            "percentage": 16.81
+            "percentage": 15.625
           },
           {
-            "item": "8844",
-            "percentage": 5.205
+            "item": "7672",
+            "percentage": 13.104
           }
         ],
-        "total": 828267
-      },
-      "boots": {
-        "items": [
-          {
-            "item": "9626",
-            "percentage": 82.904
-          },
-          {
-            "item": "9627",
-            "percentage": 12.291
-          },
-          {
-            "item": "9630",
-            "percentage": 3.233
-          }
-        ],
-        "total": 397463
+        "total": 19559
       },
       "core": {
         "items": [
           {
-            "item": "7904",
-            "percentage": 20.524
+            "item": "11111",
+            "percentage": 17.47
           },
           {
-            "item": "11111",
-            "percentage": 17.567
+            "item": "7904",
+            "percentage": 17.457
           },
           {
             "item": "7829",
-            "percentage": 10.78
+            "percentage": 11.144
           },
           {
-            "item": "8550",
-            "percentage": 7.511
+            "item": "12680",
+            "percentage": 9.278
           }
         ],
-        "total": 745836
+        "total": 16188
       },
       "slot-1": {
         "items": [
           {
             "item": "11111",
-            "percentage": 11.83
-          },
-          {
-            "item": "9626",
-            "percentage": 8.377
-          },
-          {
-            "item": "15577",
-            "percentage": 7.099
+            "percentage": 11.273
           },
           {
             "item": "14096",
-            "percentage": 6.58
+            "percentage": 10.213
+          },
+          {
+            "item": "15577",
+            "percentage": 9.008
+          },
+          {
+            "item": "9236",
+            "percentage": 8.925
           }
         ],
-        "total": 429707,
+        "total": 9625,
         "primary": {
           "item": "7904",
-          "percentage": 21.453
+          "percentage": 14.805
         }
       },
       "slot-2": {
         "items": [
           {
             "item": "9627",
-            "percentage": 6.916
-          },
-          {
-            "item": "7904",
-            "percentage": 6.759
+            "percentage": 9.215
           },
           {
             "item": "15577",
-            "percentage": 5.158
+            "percentage": 6.101
           },
           {
-            "item": "11111",
-            "percentage": 3.592
+            "item": "14096",
+            "percentage": 5.116
+          },
+          {
+            "item": "7904",
+            "percentage": 4.841
           }
         ],
-        "total": 421213,
+        "total": 9441,
         "primary": {
           "item": "9626",
-          "percentage": 47.459
+          "percentage": 43.195
         }
       },
       "slot-3": {
         "items": [
           {
-            "item": "7904",
-            "percentage": 19.056
+            "item": "9626",
+            "percentage": 20.959
           },
           {
-            "item": "9626",
-            "percentage": 18.864
+            "item": "7904",
+            "percentage": 14.759
           },
           {
             "item": "7829",
-            "percentage": 8.577
+            "percentage": 8.293
           },
           {
-            "item": "8550",
-            "percentage": 5.355
+            "item": "12680",
+            "percentage": 6.444
           }
         ],
-        "total": 407591,
+        "total": 9032,
         "primary": {
           "item": "11111",
-          "percentage": 14.937
+          "percentage": 15.412
         }
+      },
+      "starter": {
+        "items": [
+          {
+            "item": "15577",
+            "percentage": 56.424
+          },
+          {
+            "item": "15482",
+            "percentage": 15.853
+          },
+          {
+            "item": "15479",
+            "percentage": 13.336
+          }
+        ],
+        "total": 2662
+      },
+      "boots": {
+        "items": [
+          {
+            "item": "9626",
+            "percentage": 79.089
+          },
+          {
+            "item": "9627",
+            "percentage": 16.725
+          },
+          {
+            "item": "9630",
+            "percentage": 2.806
+          }
+        ],
+        "total": 8909
       },
       "slot-4": {
         "items": [
           {
-            "item": "11111",
-            "percentage": 16.521
-          },
-          {
             "item": "7904",
-            "percentage": 14.096
+            "percentage": 14.643
           },
           {
-            "item": "8550",
-            "percentage": 6.698
+            "item": "11111",
+            "percentage": 14.53
           },
           {
-            "item": "7523",
-            "percentage": 6.441
+            "item": "12680",
+            "percentage": 8.989
+          },
+          {
+            "item": "9236",
+            "percentage": 6.502
           }
         ],
-        "total": 332966,
+        "total": 7075,
         "primary": {
           "item": "7829",
-          "percentage": 11.607
+          "percentage": 12.339
         }
       },
       "slot-5": {
         "items": [
           {
             "item": "11111",
-            "percentage": 12.192
-          },
-          {
-            "item": "7829",
-            "percentage": 10.542
+            "percentage": 11.379
           },
           {
             "item": "7904",
-            "percentage": 9.332
+            "percentage": 10.906
           },
           {
-            "item": "8550",
-            "percentage": 6.31
+            "item": "7829",
+            "percentage": 10.508
+          },
+          {
+            "item": "12680",
+            "percentage": 9.736
           }
         ],
-        "total": 201795,
-        "primary": {
-          "item": "7523",
-          "percentage": 10.506
-        }
+        "total": 4016
       },
       "slot-6": {
         "items": [
           {
             "item": "7523",
-            "percentage": 10.843
-          },
-          {
-            "item": "7829",
-            "percentage": 8.887
+            "percentage": 9.14
           },
           {
             "item": "11111",
-            "percentage": 8.733
+            "percentage": 8.662
           },
           {
-            "item": "9236",
-            "percentage": 7.326
+            "item": "7829",
+            "percentage": 7.467
+          },
+          {
+            "item": "7904",
+            "percentage": 6.989
           }
         ],
-        "total": 86836
-      },
-      "starter": {
-        "items": [
-          {
-            "item": "15577",
-            "percentage": 56.427
-          },
-          {
-            "item": "15482",
-            "percentage": 16.178
-          },
-          {
-            "item": "15479",
-            "percentage": 9.054
-          }
-        ],
-        "total": 97958
+        "total": 1674,
+        "primary": {
+          "item": "12680",
+          "percentage": 9.797
+        }
       }
     },
     "448": {
       "active": {
         "items": [
           {
-            "item": "7672",
-            "percentage": 31.485
+            "item": "18307",
+            "percentage": 32.109
           },
           {
             "item": "8879",
-            "percentage": 25.892
+            "percentage": 22.465
+          },
+          {
+            "item": "7672",
+            "percentage": 20.765
           },
           {
             "item": "9041",
-            "percentage": 18.127
-          },
-          {
-            "item": "8844",
-            "percentage": 8.03
+            "percentage": 10.115
           }
         ],
-        "total": 1169707
+        "total": 23352
       },
       "boots": {
         "items": [
           {
             "item": "9626",
-            "percentage": 80.399
+            "percentage": 77.733
           },
           {
             "item": "9627",
-            "percentage": 14.555
+            "percentage": 18.619
           },
           {
             "item": "9630",
-            "percentage": 3.819
+            "percentage": 3.081
           }
         ],
-        "total": 665760
-      },
-      "core": {
-        "items": [
-          {
-            "item": "7904",
-            "percentage": 28.185
-          },
-          {
-            "item": "11111",
-            "percentage": 18.811
-          },
-          {
-            "item": "8550",
-            "percentage": 8.93
-          },
-          {
-            "item": "7829",
-            "percentage": 7.591
-          }
-        ],
-        "total": 1334081
+        "total": 10774
       },
       "slot-1": {
         "items": [
           {
             "item": "9626",
-            "percentage": 17.698
+            "percentage": 11.07
           },
           {
             "item": "15486",
-            "percentage": 6.143
+            "percentage": 9.095
           },
           {
             "item": "9627",
-            "percentage": 5.904
+            "percentage": 6.039
           },
           {
             "item": "8547",
-            "percentage": 5.643
+            "percentage": 5.581
           }
         ],
-        "total": 620367,
+        "total": 9819,
         "primary": {
           "item": "15577",
-          "percentage": 24.675
+          "percentage": 33.822
         }
       },
       "slot-3": {
         "items": [
           {
-            "item": "9626",
-            "percentage": 21.83
-          },
-          {
             "item": "11111",
-            "percentage": 13.666
+            "percentage": 16.398
           },
           {
-            "item": "8550",
-            "percentage": 5.638
+            "item": "7904",
+            "percentage": 15.94
           },
           {
-            "item": "7829",
-            "percentage": 5.028
+            "item": "9627",
+            "percentage": 5.049
+          },
+          {
+            "item": "8547",
+            "percentage": 4.753
           }
         ],
-        "total": 665312,
+        "total": 10477,
         "primary": {
-          "item": "7904",
-          "percentage": 26.342
+          "item": "9626",
+          "percentage": 29.894
         }
       },
       "slot-4": {
         "items": [
           {
-            "item": "7904",
-            "percentage": 19.056
+            "item": "11111",
+            "percentage": 17.998
           },
           {
-            "item": "8550",
-            "percentage": 9.838
+            "item": "12680",
+            "percentage": 10.473
           },
           {
             "item": "7829",
-            "percentage": 9.614
+            "percentage": 9.197
           },
           {
-            "item": "7523",
-            "percentage": 4.805
+            "item": "8550",
+            "percentage": 6.858
           }
         ],
-        "total": 560572,
+        "total": 8851,
         "primary": {
-          "item": "11111",
-          "percentage": 19.347
+          "item": "7904",
+          "percentage": 19.489
         }
       },
       "slot-5": {
         "items": [
           {
             "item": "11111",
-            "percentage": 16.406
+            "percentage": 12.374
           },
           {
             "item": "7904",
-            "percentage": 9.834
+            "percentage": 9.839
           },
-          {
-            "item": "7523",
-            "percentage": 8.961
-          },
-          {
-            "item": "9236",
-            "percentage": 6.775
-          }
-        ],
-        "total": 405417,
-        "primary": {
-          "item": "7829",
-          "percentage": 10.71
-        }
-      },
-      "slot-6": {
-        "items": [
           {
             "item": "7829",
-            "percentage": 9.664
+            "percentage": 9.509
           },
           {
-            "item": "11111",
-            "percentage": 9.465
-          },
-          {
-            "item": "9236",
-            "percentage": 9.102
-          },
-          {
-            "item": "7904",
-            "percentage": 5.378
+            "item": "8550",
+            "percentage": 7.336
           }
         ],
-        "total": 253637,
+        "total": 6352,
         "primary": {
-          "item": "7523",
-          "percentage": 13.09
+          "item": "12680",
+          "percentage": 14.641
         }
       },
       "starter": {
         "items": [
           {
             "item": "15577",
-            "percentage": 63.105
+            "percentage": 64.678
           },
           {
             "item": "15486",
-            "percentage": 15.817
+            "percentage": 18.199
           },
           {
-            "item": "15482",
-            "percentage": 7.652
+            "item": "15479",
+            "percentage": 8.93
           }
         ],
-        "total": 254153
+        "total": 5297
+      },
+      "core": {
+        "items": [
+          {
+            "item": "7904",
+            "percentage": 21.789
+          },
+          {
+            "item": "11111",
+            "percentage": 21.661
+          },
+          {
+            "item": "8547",
+            "percentage": 9.554
+          },
+          {
+            "item": "12680",
+            "percentage": 8.423
+          }
+        ],
+        "total": 19625
       },
       "slot-2": {
         "items": [
           {
-            "item": "7904",
-            "percentage": 14.281
-          },
-          {
-            "item": "11111",
-            "percentage": 7.842
-          },
-          {
-            "item": "9627",
-            "percentage": 6.831
+            "item": "9626",
+            "percentage": 40.992
           },
           {
             "item": "8547",
-            "percentage": 5.551
+            "percentage": 9.265
+          },
+          {
+            "item": "7904",
+            "percentage": 8.882
+          },
+          {
+            "item": "9627",
+            "percentage": 8.67
           }
         ],
-        "total": 657737,
+        "total": 9919,
         "primary": {
-          "item": "9626",
-          "percentage": 41.478
+          "item": "11111",
+          "percentage": 9.477
+        }
+      },
+      "slot-6": {
+        "items": [
+          {
+            "item": "12680",
+            "percentage": 15.146
+          },
+          {
+            "item": "11111",
+            "percentage": 8.595
+          },
+          {
+            "item": "7523",
+            "percentage": 7.391
+          },
+          {
+            "item": "9236",
+            "percentage": 7.027
+          }
+        ],
+        "total": 3572,
+        "primary": {
+          "item": "7829",
+          "percentage": 9.015
         }
       }
     },
@@ -1175,228 +1175,228 @@
       "active": {
         "items": [
           {
-            "item": "7672",
-            "percentage": 33.734
-          },
-          {
             "item": "8879",
-            "percentage": 28.623
+            "percentage": 30.31
           },
           {
-            "item": "9041",
-            "percentage": 13.071
+            "item": "7672",
+            "percentage": 24.189
+          },
+          {
+            "item": "18307",
+            "percentage": 22.824
           },
           {
             "item": "8844",
-            "percentage": 8.563
+            "percentage": 10.827
           }
         ],
-        "total": 78282
+        "total": 4101
       },
       "boots": {
         "items": [
           {
             "item": "9626",
-            "percentage": 81.976
+            "percentage": 85.684
           },
           {
             "item": "9627",
-            "percentage": 11.515
+            "percentage": 11.939
           },
           {
             "item": "9630",
-            "percentage": 4.931
+            "percentage": 1.849
           }
         ],
-        "total": 41434
+        "total": 1893
       },
       "core": {
         "items": [
           {
             "item": "7904",
-            "percentage": 26.495
+            "percentage": 22.597
           },
           {
             "item": "11111",
-            "percentage": 18.4
+            "percentage": 18.083
           },
           {
             "item": "7829",
-            "percentage": 9.201
+            "percentage": 13.511
           },
           {
-            "item": "14096",
-            "percentage": 7.471
+            "item": "12680",
+            "percentage": 8.792
           }
         ],
-        "total": 84424
-      },
-      "slot-1": {
-        "items": [
-          {
-            "item": "9626",
-            "percentage": 12.697
-          },
-          {
-            "item": "15479",
-            "percentage": 8.068
-          },
-          {
-            "item": "8547",
-            "percentage": 6.072
-          },
-          {
-            "item": "14096",
-            "percentage": 4.398
-          }
-        ],
-        "total": 37632,
-        "primary": {
-          "item": "15577",
-          "percentage": 25.183
-        }
+        "total": 3412
       },
       "slot-2": {
         "items": [
           {
             "item": "7904",
-            "percentage": 11.44
-          },
-          {
-            "item": "14096",
-            "percentage": 8.241
+            "percentage": 11.069
           },
           {
             "item": "11111",
-            "percentage": 7.142
+            "percentage": 10.063
           },
           {
-            "item": "9627",
-            "percentage": 5.996
+            "item": "8547",
+            "percentage": 7.987
+          },
+          {
+            "item": "14096",
+            "percentage": 7.547
           }
         ],
-        "total": 41110,
+        "total": 1590,
         "primary": {
           "item": "9626",
-          "percentage": 41.9
+          "percentage": 37.61
         }
       },
       "slot-3": {
         "items": [
           {
             "item": "9626",
-            "percentage": 26.5
+            "percentage": 48.31
           },
           {
             "item": "11111",
-            "percentage": 12.232
+            "percentage": 9.724
           },
           {
             "item": "7829",
-            "percentage": 5.882
+            "percentage": 6.292
           },
           {
-            "item": "8550",
-            "percentage": 3.668
+            "item": "9627",
+            "percentage": 5.408
           }
         ],
-        "total": 42724,
+        "total": 1923,
         "primary": {
           "item": "7904",
-          "percentage": 24.045
+          "percentage": 12.22
         }
       },
       "slot-4": {
         "items": [
           {
             "item": "7904",
-            "percentage": 19.448
+            "percentage": 20.761
           },
           {
             "item": "7829",
-            "percentage": 10.666
+            "percentage": 14.648
+          },
+          {
+            "item": "12680",
+            "percentage": 11.476
           },
           {
             "item": "8550",
-            "percentage": 6.746
-          },
-          {
-            "item": "14096",
-            "percentage": 4.057
+            "percentage": 6.459
           }
         ],
-        "total": 38010,
+        "total": 1734,
         "primary": {
           "item": "11111",
-          "percentage": 19.395
+          "percentage": 15.571
+        }
+      },
+      "slot-1": {
+        "items": [
+          {
+            "item": "15479",
+            "percentage": 10.452
+          },
+          {
+            "item": "15486",
+            "percentage": 5.257
+          },
+          {
+            "item": "9626",
+            "percentage": 5.196
+          },
+          {
+            "item": "12680",
+            "percentage": 4.279
+          }
+        ],
+        "total": 1636,
+        "primary": {
+          "item": "15577",
+          "percentage": 40.709
         }
       },
       "slot-5": {
         "items": [
           {
             "item": "11111",
-            "percentage": 15.296
+            "percentage": 14.778
           },
-          {
-            "item": "7904",
-            "percentage": 10.948
-          },
-          {
-            "item": "7523",
-            "percentage": 7.479
-          },
-          {
-            "item": "9236",
-            "percentage": 5.493
-          }
-        ],
-        "total": 28799,
-        "primary": {
-          "item": "7829",
-          "percentage": 11.237
-        }
-      },
-      "slot-6": {
-        "items": [
           {
             "item": "7829",
-            "percentage": 9.53
-          },
-          {
-            "item": "11111",
-            "percentage": 9.435
-          },
-          {
-            "item": "9236",
-            "percentage": 8.333
+            "percentage": 11.639
           },
           {
             "item": "7904",
-            "percentage": 6.493
+            "percentage": 11.026
+          },
+          {
+            "item": "9836",
+            "percentage": 5.59
           }
         ],
-        "total": 17880,
+        "total": 1306,
         "primary": {
-          "item": "7523",
-          "percentage": 12.164
+          "item": "12680",
+          "percentage": 15.161
         }
       },
       "starter": {
         "items": [
           {
             "item": "15577",
-            "percentage": 58.422
+            "percentage": 65.598
           },
           {
             "item": "15479",
-            "percentage": 18.452
+            "percentage": 17.298
           },
           {
-            "item": "15482",
-            "percentage": 9.324
+            "item": "15486",
+            "percentage": 8.746
           }
         ],
-        "total": 16903
+        "total": 1029
+      },
+      "slot-6": {
+        "items": [
+          {
+            "item": "12680",
+            "percentage": 17.553
+          },
+          {
+            "item": "11111",
+            "percentage": 8.644
+          },
+          {
+            "item": "7904",
+            "percentage": 7.048
+          },
+          {
+            "item": "7935",
+            "percentage": 6.516
+          }
+        ],
+        "total": 752,
+        "primary": {
+          "item": "7829",
+          "percentage": 8.777
+        }
       }
     },
     "451": {
@@ -1404,455 +1404,451 @@
         "items": [
           {
             "item": "8879",
-            "percentage": 33.292
+            "percentage": 36.854
           },
           {
             "item": "8844",
-            "percentage": 29.764
+            "percentage": 35.866
           },
           {
             "item": "7672",
-            "percentage": 20.841
+            "percentage": 14.413
           },
           {
-            "item": "14056",
-            "percentage": 4.605
+            "item": "18307",
+            "percentage": 6.999
           }
         ],
-        "total": 144739
+        "total": 12544
       },
       "boots": {
         "items": [
           {
             "item": "9626",
-            "percentage": 80.788
-          },
-          {
-            "item": "9630",
-            "percentage": 11.138
+            "percentage": 92.609
           },
           {
             "item": "9627",
-            "percentage": 7.709
+            "percentage": 4.792
+          },
+          {
+            "item": "9630",
+            "percentage": 2.407
           }
         ],
-        "total": 55180
+        "total": 4695
       },
       "core": {
         "items": [
           {
             "item": "7904",
-            "percentage": 30.922
+            "percentage": 28.832
           },
           {
             "item": "11111",
-            "percentage": 21.314
+            "percentage": 22.915
           },
           {
             "item": "7829",
-            "percentage": 10.502
+            "percentage": 12.5
           },
           {
-            "item": "8550",
-            "percentage": 6.303
+            "item": "8547",
+            "percentage": 6.053
           }
         ],
-        "total": 120683
+        "total": 8872
+      },
+      "slot-1": {
+        "items": [
+          {
+            "item": "12680",
+            "percentage": 9.321
+          },
+          {
+            "item": "7523",
+            "percentage": 7.788
+          },
+          {
+            "item": "9236",
+            "percentage": 7.111
+          },
+          {
+            "item": "7829",
+            "percentage": 4.384
+          }
+        ],
+        "total": 5611,
+        "primary": {
+          "item": "15486",
+          "percentage": 42.328
+        }
       },
       "slot-3": {
         "items": [
           {
-            "item": "9630",
-            "percentage": 7.11
-          },
-          {
-            "item": "7904",
-            "percentage": 7.073
-          },
-          {
-            "item": "11111",
-            "percentage": 3.965
+            "item": "9236",
+            "percentage": 3.669
           },
           {
             "item": "9627",
-            "percentage": 3.571
+            "percentage": 3.026
+          },
+          {
+            "item": "7523",
+            "percentage": 2.959
+          },
+          {
+            "item": "11111",
+            "percentage": 2.519
           }
         ],
-        "total": 69254,
+        "total": 5915,
         "primary": {
           "item": "9626",
-          "percentage": 50.894
+          "percentage": 67.743
         }
       },
       "slot-4": {
         "items": [
           {
             "item": "11111",
-            "percentage": 19.217
+            "percentage": 20.317
           },
           {
             "item": "7829",
-            "percentage": 12.518
-          },
-          {
-            "item": "8550",
-            "percentage": 9.091
+            "percentage": 15.922
           },
           {
             "item": "12680",
-            "percentage": 5.85
+            "percentage": 6.772
+          },
+          {
+            "item": "8547",
+            "percentage": 6.7
           }
         ],
-        "total": 53842,
+        "total": 4164,
         "primary": {
           "item": "7904",
-          "percentage": 28.026
+          "percentage": 27.954
         }
       },
       "slot-5": {
         "items": [
           {
-            "item": "11111",
-            "percentage": 15.856
+            "item": "7829",
+            "percentage": 17.191
           },
           {
             "item": "7904",
-            "percentage": 12.995
+            "percentage": 12.439
           },
           {
-            "item": "12680",
-            "percentage": 9.756
+            "item": "11111",
+            "percentage": 11.07
           },
           {
             "item": "8550",
-            "percentage": 6.733
+            "percentage": 8.195
           }
         ],
-        "total": 60463,
+        "total": 5113,
         "primary": {
-          "item": "7829",
-          "percentage": 17.884
+          "item": "12680",
+          "percentage": 22.726
         }
       },
       "slot-6": {
         "items": [
           {
-            "item": "7829",
-            "percentage": 13.703
-          },
-          {
             "item": "12680",
-            "percentage": 10.738
+            "percentage": 26.422
           },
-          {
-            "item": "11111",
-            "percentage": 9.526
-          },
-          {
-            "item": "7935",
-            "percentage": 7.629
-          }
-        ],
-        "total": 51659,
-        "primary": {
-          "item": "7523",
-          "percentage": 13.428
-        }
-      },
-      "slot-1": {
-        "items": [
           {
             "item": "7523",
-            "percentage": 8.889
-          },
-          {
-            "item": "7829",
-            "percentage": 5.622
-          },
-          {
-            "item": "7935",
-            "percentage": 5.169
+            "percentage": 7.689
           },
           {
             "item": "9236",
-            "percentage": 5.093
+            "percentage": 7.546
+          },
+          {
+            "item": "11111",
+            "percentage": 7.046
           }
         ],
-        "total": 67872,
+        "total": 4201,
         "primary": {
-          "item": "15486",
-          "percentage": 37.886
+          "item": "7829",
+          "percentage": 11.688
         }
       },
       "slot-2": {
         "items": [
           {
             "item": "7904",
-            "percentage": 31.577
-          },
-          {
-            "item": "9626",
-            "percentage": 14.995
+            "percentage": 34.779
           },
           {
             "item": "7829",
-            "percentage": 7.2
+            "percentage": 9.174
+          },
+          {
+            "item": "9626",
+            "percentage": 9.063
           },
           {
             "item": "8547",
-            "percentage": 2.819
+            "percentage": 6.839
           }
         ],
-        "total": 54878,
+        "total": 3597,
         "primary": {
           "item": "11111",
-          "percentage": 23.013
+          "percentage": 28.857
         }
       },
       "starter": {
         "items": [
           {
             "item": "15486",
-            "percentage": 90.243
+            "percentage": 93.757
           },
           {
             "item": "15479",
-            "percentage": 3.82
+            "percentage": 4.437
           },
           {
-            "item": "16395",
-            "percentage": 2.989
+            "item": "15482",
+            "percentage": 1.374
           }
         ],
-        "total": 29004
+        "total": 2547
       }
     },
     "459": {
       "active": {
         "items": [
           {
-            "item": "7672",
-            "percentage": 30.58
+            "item": "8879",
+            "percentage": 31.752
           },
           {
-            "item": "8879",
-            "percentage": 28.772
+            "item": "7672",
+            "percentage": 24.843
           },
           {
             "item": "8844",
-            "percentage": 13.185
+            "percentage": 14.236
           },
           {
-            "item": "9041",
-            "percentage": 11.158
+            "item": "18307",
+            "percentage": 13.119
           }
         ],
-        "total": 74860
+        "total": 1433
       },
       "boots": {
         "items": [
           {
             "item": "9626",
-            "percentage": 84.771
+            "percentage": 82.114
           },
           {
             "item": "9627",
-            "percentage": 9.414
+            "percentage": 13.659
           },
           {
             "item": "9630",
-            "percentage": 4.933
+            "percentage": 3.252
           }
         ],
-        "total": 34926
+        "total": 615
       },
       "core": {
         "items": [
           {
             "item": "7904",
-            "percentage": 29.175
+            "percentage": 22.864
           },
           {
             "item": "11111",
-            "percentage": 20.062
+            "percentage": 19.565
           },
           {
             "item": "7829",
-            "percentage": 9.76
+            "percentage": 10.57
           },
           {
-            "item": "8550",
-            "percentage": 6.351
+            "item": "12680",
+            "percentage": 9.295
           }
         ],
-        "total": 73248
+        "total": 1334
+      },
+      "slot-1": {
+        "items": [
+          {
+            "item": "15577",
+            "percentage": 20.811
+          },
+          {
+            "item": "8547",
+            "percentage": 6.878
+          },
+          {
+            "item": "12680",
+            "percentage": 3.704
+          },
+          {
+            "item": "15479",
+            "percentage": 3.704
+          }
+        ],
+        "total": 567,
+        "primary": {
+          "item": "9626",
+          "percentage": 28.924
+        }
       },
       "slot-2": {
         "items": [
           {
-            "item": "7904",
-            "percentage": 15.222
-          },
-          {
-            "item": "11111",
-            "percentage": 7.812
-          },
-          {
-            "item": "8547",
-            "percentage": 5.003
+            "item": "9626",
+            "percentage": 35.677
           },
           {
             "item": "9627",
-            "percentage": 4.549
-          }
-        ],
-        "total": 33063,
-        "primary": {
-          "item": "9626",
-          "percentage": 41.043
-        }
-      },
-      "slot-3": {
-        "items": [
-          {
-            "item": "9626",
-            "percentage": 18.478
+            "percentage": 8.084
           },
           {
             "item": "11111",
-            "percentage": 15.301
+            "percentage": 7.909
           },
           {
-            "item": "7829",
-            "percentage": 7.203
-          },
-          {
-            "item": "8550",
-            "percentage": 4.427
+            "item": "8547",
+            "percentage": 5.624
           }
         ],
-        "total": 35691,
+        "total": 569,
         "primary": {
           "item": "7904",
-          "percentage": 27.388
+          "percentage": 10.545
         }
       },
       "slot-4": {
         "items": [
           {
             "item": "7904",
-            "percentage": 20.734
+            "percentage": 19.667
+          },
+          {
+            "item": "12680",
+            "percentage": 12
           },
           {
             "item": "7829",
-            "percentage": 11.428
+            "percentage": 11.833
           },
           {
             "item": "8550",
-            "percentage": 7.346
-          },
-          {
-            "item": "7523",
-            "percentage": 5.172
+            "percentage": 6.5
           }
         ],
-        "total": 31649,
+        "total": 600,
         "primary": {
           "item": "11111",
-          "percentage": 21.015
-        }
-      },
-      "slot-1": {
-        "items": [
-          {
-            "item": "9626",
-            "percentage": 28.994
-          },
-          {
-            "item": "14096",
-            "percentage": 5.059
-          },
-          {
-            "item": "7904",
-            "percentage": 4.559
-          },
-          {
-            "item": "8547",
-            "percentage": 4.502
-          }
-        ],
-        "total": 31589,
-        "primary": {
-          "item": "15577",
-          "percentage": 20.491
+          "percentage": 19.333
         }
       },
       "slot-5": {
         "items": [
           {
-            "item": "11111",
-            "percentage": 14.592
-          },
-          {
-            "item": "7523",
-            "percentage": 10.523
+            "item": "7829",
+            "percentage": 12.695
           },
           {
             "item": "7904",
-            "percentage": 9.894
+            "percentage": 12.249
           },
           {
-            "item": "8550",
-            "percentage": 7.585
+            "item": "11111",
+            "percentage": 12.027
+          },
+          {
+            "item": "9236",
+            "percentage": 8.241
           }
         ],
-        "total": 23862,
+        "total": 449,
         "primary": {
-          "item": "7829",
-          "percentage": 11.851
+          "item": "12680",
+          "percentage": 14.477
         }
       },
       "slot-6": {
         "items": [
           {
-            "item": "7829",
-            "percentage": 10.411
+            "item": "12680",
+            "percentage": 18.966
           },
           {
             "item": "11111",
-            "percentage": 9.244
-          },
-          {
-            "item": "9236",
-            "percentage": 8.389
+            "percentage": 9.655
           },
           {
             "item": "8550",
-            "percentage": 6.118
+            "percentage": 8.966
+          },
+          {
+            "item": "7904",
+            "percentage": 7.931
           }
         ],
-        "total": 15675,
+        "total": 290,
         "primary": {
-          "item": "7523",
-          "percentage": 12.944
+          "item": "7829",
+          "percentage": 8.966
         }
+      },
+      "slot-3": {
+        "items": [
+          {
+            "item": "9626",
+            "percentage": 21.151
+          },
+          {
+            "item": "7904",
+            "percentage": 19.751
+          },
+          {
+            "item": "11111",
+            "percentage": 15.552
+          },
+          {
+            "item": "7829",
+            "percentage": 6.687
+          }
+        ],
+        "total": 643
       },
       "starter": {
         "items": [
           {
             "item": "15577",
-            "percentage": 73.644
-          },
-          {
-            "item": "15482",
-            "percentage": 9.702
+            "percentage": 71.642
           },
           {
             "item": "15479",
-            "percentage": 6.021
+            "percentage": 11.94
+          },
+          {
+            "item": "15482",
+            "percentage": 7.463
           }
         ],
-        "total": 10214
+        "total": 201
       }
     },
     "466": {
@@ -1860,924 +1856,284 @@
         "items": [
           {
             "item": "8879",
-            "percentage": 33.157
+            "percentage": 35.205
           },
           {
             "item": "7672",
-            "percentage": 32.492
+            "percentage": 26.602
           },
           {
             "item": "8844",
-            "percentage": 12.116
+            "percentage": 13.519
           },
           {
-            "item": "9041",
-            "percentage": 8.899
+            "item": "18307",
+            "percentage": 11.798
           }
         ],
-        "total": 282569
+        "total": 5289
       },
       "boots": {
         "items": [
           {
             "item": "9626",
-            "percentage": 85.179
+            "percentage": 83.802
           },
           {
             "item": "9627",
-            "percentage": 9.728
+            "percentage": 11.809
           },
           {
             "item": "9630",
-            "percentage": 4.325
+            "percentage": 3.907
           }
         ],
-        "total": 122676
+        "total": 2278
       },
       "core": {
         "items": [
           {
             "item": "7904",
-            "percentage": 30.473
+            "percentage": 27.74
           },
           {
             "item": "11111",
-            "percentage": 19.449
+            "percentage": 20.056
           },
           {
             "item": "7829",
-            "percentage": 9.625
-          },
-          {
-            "item": "8550",
-            "percentage": 9.13
-          }
-        ],
-        "total": 273728
-      },
-      "slot-1": {
-        "items": [
-          {
-            "item": "9626",
-            "percentage": 19.125
-          },
-          {
-            "item": "7904",
-            "percentage": 5.008
-          },
-          {
-            "item": "8547",
-            "percentage": 4.307
-          },
-          {
-            "item": "7523",
-            "percentage": 4.023
-          }
-        ],
-        "total": 112699,
-        "primary": {
-          "item": "15577",
-          "percentage": 21.119
-        }
-      },
-      "slot-3": {
-        "items": [
-          {
-            "item": "9626",
-            "percentage": 19.235
-          },
-          {
-            "item": "11111",
-            "percentage": 14.305
-          },
-          {
-            "item": "7829",
-            "percentage": 6.378
-          },
-          {
-            "item": "8550",
-            "percentage": 6.036
-          }
-        ],
-        "total": 131306,
-        "primary": {
-          "item": "7904",
-          "percentage": 30.147
-        }
-      },
-      "slot-4": {
-        "items": [
-          {
-            "item": "7904",
-            "percentage": 20.501
-          },
-          {
-            "item": "7829",
-            "percentage": 12.173
-          },
-          {
-            "item": "8550",
-            "percentage": 10.055
-          },
-          {
-            "item": "7523",
-            "percentage": 5.14
-          }
-        ],
-        "total": 121436,
-        "primary": {
-          "item": "11111",
-          "percentage": 20.954
-        }
-      },
-      "slot-5": {
-        "items": [
-          {
-            "item": "11111",
-            "percentage": 16.724
-          },
-          {
-            "item": "7523",
-            "percentage": 10.087
-          },
-          {
-            "item": "7904",
-            "percentage": 10.016
-          },
-          {
-            "item": "8550",
-            "percentage": 7.31
-          }
-        ],
-        "total": 100505,
-        "primary": {
-          "item": "7829",
-          "percentage": 13.124
-        }
-      },
-      "slot-6": {
-        "items": [
-          {
-            "item": "7829",
-            "percentage": 11.417
-          },
-          {
-            "item": "11111",
-            "percentage": 9.845
-          },
-          {
-            "item": "9236",
-            "percentage": 9.59
-          },
-          {
-            "item": "12666",
-            "percentage": 6.458
-          }
-        ],
-        "total": 71262,
-        "primary": {
-          "item": "7523",
-          "percentage": 14.65
-        }
-      },
-      "slot-2": {
-        "items": [
-          {
-            "item": "7904",
-            "percentage": 15.056
-          },
-          {
-            "item": "11111",
-            "percentage": 7.163
-          },
-          {
-            "item": "9627",
-            "percentage": 4.53
-          },
-          {
-            "item": "8550",
-            "percentage": 3.862
-          }
-        ],
-        "total": 125750,
-        "primary": {
-          "item": "9626",
-          "percentage": 45.179
-        }
-      },
-      "starter": {
-        "items": [
-          {
-            "item": "15577",
-            "percentage": 64.502
-          },
-          {
-            "item": "15482",
-            "percentage": 11.121
-          },
-          {
-            "item": "15486",
-            "percentage": 10.676
-          }
-        ],
-        "total": 38611
-      }
-    },
-    "502": {
-      "active": {
-        "items": [
-          {
-            "item": "14112",
-            "percentage": 21.394
-          },
-          {
-            "item": "7672",
-            "percentage": 19.651
-          },
-          {
-            "item": "8879",
-            "percentage": 12.549
-          },
-          {
-            "item": "9041",
-            "percentage": 11.324
-          }
-        ],
-        "total": 28400
-      },
-      "boots": {
-        "items": [
-          {
-            "item": "9626",
-            "percentage": 87.793
-          },
-          {
-            "item": "9627",
-            "percentage": 9.28
-          },
-          {
-            "item": "9630",
-            "percentage": 2.403
-          }
-        ],
-        "total": 14483
-      },
-      "core": {
-        "items": [
-          {
-            "item": "7904",
-            "percentage": 19.08
-          },
-          {
-            "item": "7641",
-            "percentage": 14.802
-          },
-          {
-            "item": "7829",
-            "percentage": 13.325
-          },
-          {
-            "item": "11111",
-            "percentage": 10.101
-          }
-        ],
-        "total": 21929
-      },
-      "slot-1": {
-        "items": [
-          {
-            "item": "9626",
-            "percentage": 5.994
-          },
-          {
-            "item": "8547",
-            "percentage": 5.401
-          },
-          {
-            "item": "15482",
-            "percentage": 5.247
-          },
-          {
-            "item": "14096",
-            "percentage": 3.899
-          }
-        ],
-        "total": 12312,
-        "primary": {
-          "item": "15577",
-          "percentage": 42.942
-        }
-      },
-      "slot-2": {
-        "items": [
-          {
-            "item": "7904",
-            "percentage": 9.514
-          },
-          {
-            "item": "8547",
-            "percentage": 8.406
-          },
-          {
-            "item": "9627",
-            "percentage": 5.458
-          },
-          {
-            "item": "11111",
-            "percentage": 3.893
-          }
-        ],
-        "total": 11635,
-        "primary": {
-          "item": "9626",
-          "percentage": 52.402
-        }
-      },
-      "slot-3": {
-        "items": [
-          {
-            "item": "9626",
-            "percentage": 42.267
-          },
-          {
-            "item": "7641",
-            "percentage": 8.73
-          },
-          {
-            "item": "7829",
-            "percentage": 6.758
-          },
-          {
-            "item": "11111",
-            "percentage": 5.231
-          }
-        ],
-        "total": 13287,
-        "primary": {
-          "item": "7904",
-          "percentage": 11.839
-        }
-      },
-      "slot-4": {
-        "items": [
-          {
-            "item": "7829",
-            "percentage": 14.342
-          },
-          {
-            "item": "7904",
-            "percentage": 13.49
-          },
-          {
-            "item": "11111",
-            "percentage": 9.57
-          },
-          {
-            "item": "12678",
-            "percentage": 8.898
-          }
-        ],
-        "total": 11149,
-        "primary": {
-          "item": "7641",
-          "percentage": 17.446
-        }
-      },
-      "slot-5": {
-        "items": [
-          {
-            "item": "11111",
-            "percentage": 14.26
-          },
-          {
-            "item": "7904",
-            "percentage": 12.907
-          },
-          {
-            "item": "7523",
-            "percentage": 12.515
-          },
-          {
-            "item": "7641",
-            "percentage": 5.268
-          }
-        ],
-        "total": 8941,
-        "primary": {
-          "item": "7829",
-          "percentage": 20.333
-        }
-      },
-      "starter": {
-        "items": [
-          {
-            "item": "15577",
-            "percentage": 79.003
-          },
-          {
-            "item": "15482",
-            "percentage": 9.634
-          },
-          {
-            "item": "15479",
-            "percentage": 5.187
-          }
-        ],
-        "total": 6882
-      },
-      "slot-6": {
-        "items": [
-          {
-            "item": "11111",
-            "percentage": 14.734
-          },
-          {
-            "item": "7829",
-            "percentage": 12.728
-          },
-          {
-            "item": "7904",
-            "percentage": 10.607
-          },
-          {
-            "item": "8550",
-            "percentage": 3.568
-          }
-        ],
-        "total": 6081,
-        "primary": {
-          "item": "7523",
-          "percentage": 16.478
-        }
-      }
-    },
-    "503": {
-      "active": {
-        "items": [
-          {
-            "item": "7672",
-            "percentage": 33.626
-          },
-          {
-            "item": "8879",
-            "percentage": 25.566
-          },
-          {
-            "item": "9041",
-            "percentage": 16.804
-          },
-          {
-            "item": "8844",
-            "percentage": 5.925
-          }
-        ],
-        "total": 50916
-      },
-      "boots": {
-        "items": [
-          {
-            "item": "9626",
-            "percentage": 82.303
-          },
-          {
-            "item": "9627",
-            "percentage": 12.943
-          },
-          {
-            "item": "9630",
-            "percentage": 3.619
-          }
-        ],
-        "total": 27767
-      },
-      "core": {
-        "items": [
-          {
-            "item": "7904",
-            "percentage": 30.882
-          },
-          {
-            "item": "11111",
-            "percentage": 19.567
-          },
-          {
-            "item": "7829",
-            "percentage": 7.897
-          },
-          {
-            "item": "8550",
-            "percentage": 7.015
-          }
-        ],
-        "total": 53161
-      },
-      "slot-1": {
-        "items": [
-          {
-            "item": "9626",
-            "percentage": 16.247
-          },
-          {
-            "item": "8547",
-            "percentage": 7.294
-          },
-          {
-            "item": "15482",
-            "percentage": 4.411
-          },
-          {
-            "item": "7904",
-            "percentage": 4.117
-          }
-        ],
-        "total": 23100,
-        "primary": {
-          "item": "15577",
-          "percentage": 24.407
-        }
-      },
-      "slot-2": {
-        "items": [
-          {
-            "item": "7904",
-            "percentage": 15.35
-          },
-          {
-            "item": "9627",
-            "percentage": 7.629
-          },
-          {
-            "item": "11111",
-            "percentage": 6.839
-          },
-          {
-            "item": "8547",
-            "percentage": 4.491
-          }
-        ],
-        "total": 26320,
-        "primary": {
-          "item": "9626",
-          "percentage": 47.257
-        }
-      },
-      "slot-3": {
-        "items": [
-          {
-            "item": "9626",
-            "percentage": 22.696
-          },
-          {
-            "item": "11111",
-            "percentage": 12.422
-          },
-          {
-            "item": "8550",
-            "percentage": 4.84
-          },
-          {
-            "item": "7829",
-            "percentage": 4.651
-          }
-        ],
-        "total": 27089,
-        "primary": {
-          "item": "7904",
-          "percentage": 28.177
-        }
-      },
-      "slot-4": {
-        "items": [
-          {
-            "item": "7904",
-            "percentage": 19.49
-          },
-          {
-            "item": "7829",
-            "percentage": 9.408
-          },
-          {
-            "item": "8550",
-            "percentage": 7.469
-          },
-          {
-            "item": "9236",
-            "percentage": 5.07
-          }
-        ],
-        "total": 24341,
-        "primary": {
-          "item": "11111",
-          "percentage": 21.515
-        }
-      },
-      "slot-5": {
-        "items": [
-          {
-            "item": "11111",
-            "percentage": 15.912
-          },
-          {
-            "item": "7904",
-            "percentage": 10.95
-          },
-          {
-            "item": "7523",
-            "percentage": 9.36
-          },
-          {
-            "item": "9236",
-            "percentage": 7.065
-          }
-        ],
-        "total": 18740,
-        "primary": {
-          "item": "7829",
-          "percentage": 11.542
-        }
-      },
-      "slot-6": {
-        "items": [
-          {
-            "item": "11111",
-            "percentage": 11.043
-          },
-          {
-            "item": "7829",
-            "percentage": 10.324
-          },
-          {
-            "item": "9236",
-            "percentage": 10.307
-          },
-          {
-            "item": "7904",
-            "percentage": 5.781
-          }
-        ],
-        "total": 11953,
-        "primary": {
-          "item": "7523",
-          "percentage": 13.528
-        }
-      },
-      "starter": {
-        "items": [
-          {
-            "item": "15577",
-            "percentage": 62.961
-          },
-          {
-            "item": "15482",
-            "percentage": 11.384
-          },
-          {
-            "item": "15486",
-            "percentage": 10.307
-          }
-        ],
-        "total": 9382
-      }
-    },
-    "504": {
-      "active": {
-        "items": [
-          {
-            "item": "8879",
-            "percentage": 27.849
-          },
-          {
-            "item": "7672",
-            "percentage": 23.878
-          },
-          {
-            "item": "8844",
-            "percentage": 22.731
-          },
-          {
-            "item": "14056",
-            "percentage": 9.221
-          }
-        ],
-        "total": 44292
-      },
-      "boots": {
-        "items": [
-          {
-            "item": "9626",
-            "percentage": 80.655
-          },
-          {
-            "item": "9630",
-            "percentage": 9.32
-          },
-          {
-            "item": "9627",
-            "percentage": 9.268
-          }
-        ],
-        "total": 17286
-      },
-      "slot-1": {
-        "items": [
-          {
-            "item": "7523",
-            "percentage": 8.917
-          },
-          {
-            "item": "7829",
-            "percentage": 6.068
-          },
-          {
-            "item": "9236",
-            "percentage": 5.454
-          },
-          {
-            "item": "7935",
-            "percentage": 5.008
-          }
-        ],
-        "total": 20848,
-        "primary": {
-          "item": "15486",
-          "percentage": 36.68
-        }
-      },
-      "slot-2": {
-        "items": [
-          {
-            "item": "11111",
-            "percentage": 20.585
-          },
-          {
-            "item": "9626",
-            "percentage": 17.476
-          },
-          {
-            "item": "7829",
-            "percentage": 5.154
-          },
-          {
-            "item": "9627",
-            "percentage": 3.517
-          }
-        ],
-        "total": 16920,
-        "primary": {
-          "item": "7904",
-          "percentage": 31.005
-        }
-      },
-      "slot-3": {
-        "items": [
-          {
-            "item": "7904",
-            "percentage": 9.225
-          },
-          {
-            "item": "9630",
-            "percentage": 6.155
-          },
-          {
-            "item": "11111",
-            "percentage": 4.284
-          },
-          {
-            "item": "9627",
-            "percentage": 3.881
-          }
-        ],
-        "total": 20846,
-        "primary": {
-          "item": "9626",
-          "percentage": 50.369
-        }
-      },
-      "slot-5": {
-        "items": [
-          {
-            "item": "7829",
-            "percentage": 16.284
-          },
-          {
-            "item": "7904",
-            "percentage": 13.805
-          },
-          {
-            "item": "7523",
-            "percentage": 7.298
-          },
-          {
-            "item": "8550",
-            "percentage": 6.671
-          }
-        ],
-        "total": 18319,
-        "primary": {
-          "item": "11111",
-          "percentage": 19.39
-        }
-      },
-      "slot-6": {
-        "items": [
-          {
-            "item": "7829",
-            "percentage": 13.251
-          },
-          {
-            "item": "11111",
-            "percentage": 10.572
-          },
-          {
-            "item": "7935",
-            "percentage": 7.071
-          },
-          {
-            "item": "9236",
-            "percentage": 6.724
-          }
-        ],
-        "total": 15825,
-        "primary": {
-          "item": "7523",
-          "percentage": 14.774
-        }
-      },
-      "starter": {
-        "items": [
-          {
-            "item": "15486",
-            "percentage": 87.485
-          },
-          {
-            "item": "16395",
-            "percentage": 6.163
-          },
-          {
-            "item": "15479",
-            "percentage": 3.159
-          }
-        ],
-        "total": 8989
-      },
-      "core": {
-        "items": [
-          {
-            "item": "7904",
-            "percentage": 33.803
-          },
-          {
-            "item": "11111",
-            "percentage": 21.715
-          },
-          {
-            "item": "7829",
-            "percentage": 8.615
-          },
-          {
-            "item": "8550",
-            "percentage": 6.744
-          }
-        ],
-        "total": 36878
-      },
-      "slot-4": {
-        "items": [
-          {
-            "item": "7904",
-            "percentage": 30.944
-          },
-          {
-            "item": "11111",
-            "percentage": 21.217
-          },
-          {
-            "item": "8550",
-            "percentage": 9.008
+            "percentage": 9.653
           },
           {
             "item": "12680",
-            "percentage": 3.984
+            "percentage": 7.684
           }
         ],
-        "total": 17118,
+        "total": 4672
+      },
+      "slot-1": {
+        "items": [
+          {
+            "item": "9626",
+            "percentage": 12.94
+          },
+          {
+            "item": "8547",
+            "percentage": 7.288
+          },
+          {
+            "item": "12680",
+            "percentage": 5.007
+          },
+          {
+            "item": "15482",
+            "percentage": 4.611
+          }
+        ],
+        "total": 2017,
         "primary": {
-          "item": "7829",
-          "percentage": 10.147
+          "item": "15577",
+          "percentage": 30.54
+        }
+      },
+      "slot-2": {
+        "items": [
+          {
+            "item": "7904",
+            "percentage": 11.194
+          },
+          {
+            "item": "8547",
+            "percentage": 7.541
+          },
+          {
+            "item": "11111",
+            "percentage": 7.119
+          },
+          {
+            "item": "9627",
+            "percentage": 6.183
+          }
+        ],
+        "total": 2135,
+        "primary": {
+          "item": "9626",
+          "percentage": 46.604
+        }
+      },
+      "slot-3": {
+        "items": [
+          {
+            "item": "9626",
+            "percentage": 26.823
+          },
+          {
+            "item": "11111",
+            "percentage": 14.585
+          },
+          {
+            "item": "7829",
+            "percentage": 4.946
+          },
+          {
+            "item": "8547",
+            "percentage": 4.862
+          }
+        ],
+        "total": 2386,
+        "primary": {
+          "item": "7904",
+          "percentage": 22.255
+        }
+      },
+      "slot-4": {
+        "items": [
+          {
+            "item": "7904",
+            "percentage": 23.909
+          },
+          {
+            "item": "7829",
+            "percentage": 12.364
+          },
+          {
+            "item": "12680",
+            "percentage": 9.5
+          },
+          {
+            "item": "8550",
+            "percentage": 4.727
+          }
+        ],
+        "total": 2200,
+        "primary": {
+          "item": "11111",
+          "percentage": 19.864
+        }
+      },
+      "starter": {
+        "items": [
+          {
+            "item": "15577",
+            "percentage": 73.241
+          },
+          {
+            "item": "15482",
+            "percentage": 11.419
+          },
+          {
+            "item": "15486",
+            "percentage": 6.574
+          }
+        ],
+        "total": 867
+      },
+      "slot-5": {
+        "items": [
+          {
+            "item": "11111",
+            "percentage": 14.626
+          },
+          {
+            "item": "7829",
+            "percentage": 13.265
+          },
+          {
+            "item": "7904",
+            "percentage": 10.714
+          },
+          {
+            "item": "9236",
+            "percentage": 7.2
+          }
+        ],
+        "total": 1764,
+        "primary": {
+          "item": "12680",
+          "percentage": 14.966
+        }
+      },
+      "slot-6": {
+        "items": [
+          {
+            "item": "12680",
+            "percentage": 19.254
+          },
+          {
+            "item": "7829",
+            "percentage": 9.974
+          },
+          {
+            "item": "7523",
+            "percentage": 7.806
+          },
+          {
+            "item": "11111",
+            "percentage": 7.285
+          }
+        ],
+        "total": 1153,
+        "primary": {
+          "item": "9236",
+          "percentage": 11.015
         }
       }
     },
     "pro_builds": [
       {
-        "player_id": 701006544,
-        "player_name": "water8394",
+        "player_id": 13657285,
+        "player_name": "M�lekith",
+        "final_build": [
+          15481,
+          9626,
+          15767,
+          11111,
+          7829,
+          8560
+        ],
+        "final_actives": [
+          8879,
+          7672
+        ],
+        "starting_build": [
+          15479,
+          9624,
+          14031,
+          8879
+        ],
+        "abilities": [
+          2,
+          1,
+          2,
+          3,
+          4,
+          2,
+          2,
+          3,
+          4,
+          2,
+          3,
+          3,
+          4,
+          3,
+          1,
+          1,
+          4,
+          1,
+          1,
+          4
+        ]
+      },
+      {
+        "player_id": 704060380,
+        "player_name": "Privative",
         "final_build": [
           7523,
-          14096,
+          15767,
+          9626,
+          11111,
           7904,
-          7829,
-          7935,
-          8959
+          12680
         ],
         "final_actives": [
           14146,
@@ -2785,15 +2141,152 @@
         ],
         "starting_build": [
           15486,
-          9830,
-          7621,
-          7621,
+          7922,
+          9804,
+          9804,
           8844
         ],
         "abilities": [
           2,
+          1,
+          3,
+          2,
+          4,
+          2,
+          2,
+          3,
+          2,
+          3,
           3,
           1,
+          1,
+          3,
+          1,
+          1,
+          4,
+          4,
+          4,
+          4
+        ]
+      },
+      {
+        "player_id": 4517805,
+        "player_name": "Glorify",
+        "final_build": [
+          12680,
+          11111,
+          9626,
+          15767,
+          7904,
+          7935
+        ],
+        "final_actives": [
+          8879,
+          8844
+        ],
+        "starting_build": [
+          15486,
+          7827,
+          8879,
+          7621,
+          7622
+        ],
+        "abilities": [
+          2,
+          1,
+          3,
+          2,
+          4,
+          2,
+          2,
+          1,
+          2,
+          4,
+          1,
+          1,
+          4,
+          1,
+          3,
+          3,
+          4,
+          3,
+          3,
+          4
+        ]
+      },
+      {
+        "player_id": 700050396,
+        "player_name": "PYRADiZE",
+        "final_build": [
+          9836,
+          11111,
+          9626,
+          15316,
+          15646,
+          8547
+        ],
+        "final_actives": [
+          9040,
+          8844
+        ],
+        "starting_build": [
+          15479,
+          14031,
+          9804,
+          9804,
+          9804,
+          9804,
+          9040
+        ],
+        "abilities": [
+          2,
+          1,
+          2,
+          3,
+          4,
+          2,
+          2,
+          3,
+          4,
+          2,
+          3,
+          1,
+          4,
+          1,
+          1,
+          1,
+          4,
+          3,
+          3,
+          4
+        ]
+      },
+      {
+        "player_id": 700538154,
+        "player_name": "Krysticss",
+        "final_build": [
+          9236,
+          7904,
+          9626,
+          15767,
+          12680,
+          9840
+        ],
+        "final_actives": [
+          8879,
+          7672
+        ],
+        "starting_build": [
+          15486,
+          7827,
+          7621,
+          9804,
+          8879
+        ],
+        "abilities": [
+          2,
+          1,
+          3,
           2,
           4,
           2,
@@ -2814,151 +2307,15 @@
         ]
       },
       {
-        "player_id": 505737740,
-        "player_name": "Stephen3926",
+        "player_id": 701403510,
+        "player_name": "MN",
         "final_build": [
           15487,
+          7904,
+          9626,
+          8547,
           7829,
-          9630,
-          15767,
-          7904,
-          9338
-        ],
-        "final_actives": [
-          8879,
-          8844
-        ],
-        "starting_build": [
-          15486,
-          7827,
-          7621,
-          7621,
-          8844
-        ],
-        "abilities": [
-          2,
-          3,
-          1,
-          2,
-          4,
-          2,
-          2,
-          3,
-          2,
-          3,
-          3,
-          3,
-          1,
-          1,
-          1,
-          1,
-          4,
-          4,
-          4,
-          4
-        ]
-      },
-      {
-        "player_id": 6248360,
-        "player_name": "sam4soccer2",
-        "final_build": [
-          7523,
-          15767,
-          9626,
-          7904,
-          8549,
-          9236
-        ],
-        "final_actives": [
-          8879,
-          8844
-        ],
-        "starting_build": [
-          15486,
-          7621,
-          9804,
-          8844,
-          7922,
-          7621
-        ],
-        "abilities": [
-          2,
-          3,
-          2,
-          1,
-          4,
-          2,
-          2,
-          3,
-          2,
-          3,
-          4,
-          3,
-          4,
-          3,
-          1,
-          1,
-          4,
-          1,
-          1,
-          4
-        ]
-      },
-      {
-        "player_id": 700301990,
-        "player_name": "Panda Mase",
-        "final_build": [
-          14096,
-          11111,
-          9626,
-          15767,
-          7904,
-          9236
-        ],
-        "final_actives": [
-          8879,
-          8844
-        ],
-        "starting_build": [
-          15486,
-          7827,
-          7621,
-          7621,
-          8844
-        ],
-        "abilities": [
-          2,
-          1,
-          2,
-          3,
-          4,
-          2,
-          2,
-          1,
-          2,
-          1,
-          1,
-          1,
-          3,
-          3,
-          3,
-          3,
-          4,
-          4,
-          4,
-          4
-        ]
-      },
-      {
-        "player_id": 501450410,
-        "player_name": "TheProdigyGohan",
-        "final_build": [
-          11111,
-          7904,
-          9626,
-          7829,
-          15767,
-          15646
+          0
         ],
         "final_actives": [
           8844,
@@ -2968,54 +2325,8 @@
           15486,
           7827,
           7621,
-          9804,
-          8844
-        ],
-        "abilities": [
-          2,
-          1,
-          2,
-          3,
-          4,
-          2,
-          2,
-          1,
-          2,
-          1,
-          1,
-          1,
-          4,
-          4,
-          3,
-          3,
-          4,
-          3,
-          3,
-          4
-        ]
-      },
-      {
-        "player_id": 2118297,
-        "player_name": "Lorwis",
-        "final_build": [
-          7523,
-          14096,
-          9630,
-          15767,
-          7829,
-          7904
-        ],
-        "final_actives": [
-          8844,
-          8879
-        ],
-        "starting_build": [
-          15486,
-          7621,
-          7621,
-          9830,
           7622,
-          8879
+          8844
         ],
         "abilities": [
           2,
@@ -3025,18 +2336,15 @@
           4,
           2,
           2,
-          3,
+          1,
+          4,
           2,
-          3,
-          3,
-          3,
-          4,
-          4,
           1,
           1,
           4,
           1,
-          1,
+          3,
+          3,
           4
         ]
       }
