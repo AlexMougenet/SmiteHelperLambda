@@ -69,7 +69,7 @@
           "rankitems": [
             {
               "description": "Heilung:",
-              "value": "24/28/32/36/40 (10% deiner Physischen Kraft)"
+              "value": "20/23/26/29/32 (10% deiner Physischen Kraft)"
             },
             {
               "description": "Max. Anzahl Heilungen pro Fertigkeit:",
@@ -77,7 +77,7 @@
             },
             {
               "description": "Physische Kraft:",
-              "value": "+10/11/12/13/14%"
+              "value": "+6/7/8/9/10%"
             },
             {
               "description": "Schutz:",
@@ -121,7 +121,7 @@
           "rankitems": [
             {
               "description": "Schaden:",
-              "value": "50/90/130/170/210 (+45% deiner Physischen Kraft)"
+              "value": "50/85/120/155/190 (+45% deiner Physischen Kraft)"
             }
           ]
         }
@@ -291,7 +291,7 @@
         "rankitems": [
           {
             "description": "Heilung:",
-            "value": "24/28/32/36/40 (10% deiner Physischen Kraft)"
+            "value": "20/23/26/29/32 (10% deiner Physischen Kraft)"
           },
           {
             "description": "Max. Anzahl Heilungen pro Fertigkeit:",
@@ -299,7 +299,7 @@
           },
           {
             "description": "Physische Kraft:",
-            "value": "+10/11/12/13/14%"
+            "value": "+6/7/8/9/10%"
           },
           {
             "description": "Schutz:",
@@ -338,7 +338,7 @@
         "rankitems": [
           {
             "description": "Schaden:",
-            "value": "50/90/130/170/210 (+45% deiner Physischen Kraft)"
+            "value": "50/85/120/155/190 (+45% deiner Physischen Kraft)"
           }
         ]
       }
@@ -887,7 +887,7 @@
             },
             {
               "description": "Angriffstempo:",
-              "value": "10/17.5/25/32.5/40%"
+              "value": "10/20/30/40/50%"
             }
           ]
         }
@@ -937,7 +937,7 @@
         "itemDescription": {
           "cooldown": "10s",
           "cost": "60",
-          "description": "Ah Muzen Cab sprüht Honig auf ein bewegliches Bodenziel und verlangsamt alle Gegner in dem Gebiet. Bienen von Bienenstöcken im Umkreis von 90 Einheiten und der Schwarm fliegen zum Ziel, um den Honig zu schützen, verursachen alle 0,5s Schaden und wenden „Bienen!“ auf alle Gegner an, wenn sie den Honig verlassen.",
+          "description": "Ah Muzen Cab sprüht Honig auf ein bewegliches Bodenziel, der 4s lang dort verbleibt und alle Gegner in dem Gebiet verlangsamt. Bienen von Bienenstöcken im Umkreis von 90 Einheiten und der Schwarm fliegen zum Ziel, um den Honig zu schützen, verursachen alle 0,5s Schaden und wenden „Bienen!“ auf alle Gegner an, wenn sie den Honig verlassen.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -1098,7 +1098,7 @@
           },
           {
             "description": "Angriffstempo:",
-            "value": "10/17.5/25/32.5/40%"
+            "value": "10/20/30/40/50%"
           }
         ]
       }
@@ -1138,7 +1138,7 @@
       "itemDescription": {
         "cooldown": "10s",
         "cost": "60",
-        "description": "Ah Muzen Cab sprüht Honig auf ein bewegliches Bodenziel und verlangsamt alle Gegner in dem Gebiet. Bienen von Bienenstöcken im Umkreis von 90 Einheiten und der Schwarm fliegen zum Ziel, um den Honig zu schützen, verursachen alle 0,5s Schaden und wenden „Bienen!“ auf alle Gegner an, wenn sie den Honig verlassen.",
+        "description": "Ah Muzen Cab sprüht Honig auf ein bewegliches Bodenziel, der 4s lang dort verbleibt und alle Gegner in dem Gebiet verlangsamt. Bienen von Bienenstöcken im Umkreis von 90 Einheiten und der Schwarm fliegen zum Ziel, um den Honig zu schützen, verursachen alle 0,5s Schaden und wenden „Bienen!“ auf alle Gegner an, wenn sie den Honig verlassen.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -1957,7 +1957,7 @@
     "ManaPerFive": 4.8,
     "ManaPerLevel": 35,
     "Name": "Amaterasu",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Japanisch",
     "PhysicalPower": 39,
     "PhysicalPowerPerLevel": 2,
@@ -4819,7 +4819,7 @@
     "ManaPerFive": 4.8,
     "ManaPerLevel": 41,
     "Name": "Arachne",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Griechisch",
     "PhysicalPower": 38,
     "PhysicalPowerPerLevel": 2.2,
@@ -5568,7 +5568,7 @@
           "rankitems": [
             {
               "description": "Schaden:",
-              "value": "80/130/180/230/280 (+40% deiner Physischen Kraft)"
+              "value": "80/130/180/230/280 (+60% deiner Physischen Kraft)"
             },
             {
               "description": "Verlangsamung:",
@@ -5665,7 +5665,7 @@
     "ManaPerFive": 4.4,
     "ManaPerLevel": 34,
     "Name": "Artemis",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Griechisch",
     "PhysicalPower": 35,
     "PhysicalPowerPerLevel": 2.5,
@@ -5768,7 +5768,7 @@
         "rankitems": [
           {
             "description": "Schaden:",
-            "value": "80/130/180/230/280 (+40% deiner Physischen Kraft)"
+            "value": "80/130/180/230/280 (+60% deiner Physischen Kraft)"
           },
           {
             "description": "Verlangsamung:",
@@ -8090,7 +8090,7 @@
           "rankitems": [
             {
               "description": "Schaden:",
-              "value": "60/105/150/195/240 (+60% deiner Magischen Kraft)"
+              "value": "80/120/160/200/240 (+60% deiner Magischen Kraft)"
             },
             {
               "description": "Kraft-Reduktion:",
@@ -8336,7 +8336,7 @@
         "rankitems": [
           {
             "description": "Schaden:",
-            "value": "60/105/150/195/240 (+60% deiner Magischen Kraft)"
+            "value": "80/120/160/200/240 (+60% deiner Magischen Kraft)"
           },
           {
             "description": "Kraft-Reduktion:",
@@ -8536,20 +8536,20 @@
   {
     "Ability1": "Sprung",
     "Ability2": "Peitschenhieb",
-    "Ability3": "Entkrallen",
-    "Ability4": "Katzenruf",
-    "Ability5": "Offene Wunde",
-    "AbilityId1": 10138,
-    "AbilityId2": 10001,
-    "AbilityId3": 7494,
-    "AbilityId4": 7513,
+    "Ability3": "Fesselnde Klaue",
+    "Ability4": "Wächter von Bast",
+    "Ability5": "Witterung aufnehmen",
+    "AbilityId1": 18286,
+    "AbilityId2": 18258,
+    "AbilityId3": 18299,
+    "AbilityId4": 18250,
     "AbilityId5": 9337,
     "Ability_1": {
       "Description": {
         "itemDescription": {
           "cooldown": "12s",
           "cost": "60/65/70/75/80",
-          "description": "Bastet springt zu ihrem Ziel und fügt Gegnern im Radius Schaden zu. Innerhalb von 4 Sekunden nach dem Sprung kann die Fertigkeit erneut aktiviert werden, um an den Ursprungsort zurückzuspringen. Bastet bewegt sich in Rückkehrbereitschaft 25% schneller.",
+          "description": "Bastet springt zu ihrem Ziel und fügt Gegnern im Radius Schaden zu. Innerhalb von 4 Sekunden nach dem Sprung kann die Fertigkeit erneut aktiviert werden, um an den Ursprungsort zurückzuspringen. Bastet bewegt sich in Rückkehrbereitschaft 25% schneller.\n\nIst Wächter von Bast aktiv, befiehlt Bastet ihren Katzen, ebenfalls zu springen.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -8571,12 +8571,12 @@
           "rankitems": [
             {
               "description": "Schaden:",
-              "value": "80/145/210/275/340 (+100% deiner Physischen Kraft)"
+              "value": "80/145/210/275/340 (+90% deiner Physischen Kraft)"
             }
           ]
         }
       },
-      "Id": 10138,
+      "Id": 18286,
       "Summary": "Sprung",
       "URL": "https://web2.hirez.com/smite/god-abilities/pounce.jpg"
     },
@@ -8584,8 +8584,8 @@
       "Description": {
         "itemDescription": {
           "cooldown": "13s",
-          "cost": "60/65/70/75/80",
-          "description": "Bastet schlägt mit ihrer Peitsche nach ihren Gegnern aus und fügt ihnen Blutungen zu, sodass sie während der Dauer jede Sekunde Schaden erleiden.",
+          "cost": "40/45/50/55/60",
+          "description": "Bastet schlägt mit ihrer Peitsche nach ihren Gegnern aus und fügt ihnen Blutungen zu, sodass sie während der Dauer jede Sekunde Schaden erleiden. \n\nIst Wächter von Bast aktiv, befiehlt Bastet ihren Wächtern, die Gegner ebenfalls anzugreifen.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -8612,20 +8612,20 @@
           ]
         }
       },
-      "Id": 10001,
+      "Id": 18258,
       "Summary": "Peitschenhieb",
       "URL": "https://web2.hirez.com/smite/god-abilities/razor-whip.jpg"
     },
     "Ability_3": {
       "Description": {
         "itemDescription": {
-          "cooldown": "10s",
-          "cost": "60",
-          "description": "Bastet wirft ihren Dolch, der auf ihrem Ziel explodiert, dabei Schaden verursacht und die Gegner in dem Bereich verlangsamt.",
+          "cooldown": "12s",
+          "cost": "60/65/70/75/80",
+          "description": "Bastet schickt eine Katze nach vorn. Trifft sie auf einen Gegner, wird er 0,5s lang verwurzelt und erleidet Schaden. Die Katze greift 4s lang nahe Gegner an, falls sie nicht zuvor besiegt wird. Die Angriffe der Katze verlangsamen Gegner 2s lang.\n\nIst Wächter von Bast aktiv, befiehlt Bastet ihren Wächtern, ebenfalls nach vorn zu sprinten.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
-              "value": "Projektil"
+              "value": "Linie"
             },
             {
               "description": "Betrifft:",
@@ -8638,38 +8638,46 @@
           ],
           "rankitems": [
             {
-              "description": "Schaden:",
-              "value": "70/120/170/220/270 (+100% deiner Physischen Kraft)"
+              "description": "Schaden bei Verwurzelung:",
+              "value": "60/95/130/165/200 (65% deiner Physischen Kraft)"
+            },
+            {
+              "description": "Katzenschaden:",
+              "value": "20/25/30/35/40 (0% deiner Grundangriffskraft)"
+            },
+            {
+              "description": "Katzen-Trefferpunkte:",
+              "value": "2"
+            },
+            {
+              "description": "Schaden durch Lane-Diener:",
+              "value": "1 Trefferpunkt nach 5 Treffern"
             },
             {
               "description": "Verlangsamung:",
-              "value": "30%"
-            },
-            {
-              "description": "Verlangsamungsdauer:",
-              "value": "2s"
+              "value": "25%"
             }
           ]
         }
       },
-      "Id": 7494,
-      "Summary": "Entkrallen",
-      "URL": "https://web2.hirez.com/smite/god-abilities/declaw.jpg"
+      "Id": 18299,
+      "Summary": "Fesselnde Klaue",
+      "URL": "https://web2.hirez.com/smite/god-abilities/ensnaring-claw.jpg"
     },
     "Ability_4": {
       "Description": {
         "itemDescription": {
           "cooldown": "90s",
-          "cost": "90/95/100/105/110",
-          "description": "Bastet beschwört 3 Katzen, die in der Nähe befindliche Ziele 10s lang angreifen, dabei Schaden verursachen und sie verlangsamen. Die Katzen greifen dabei zuerst von Peitschenhieb betroffene Ziele an. Wenn eine der Katzen besiegt wird, erhält Bastet 9s lang zusätzliche Physische Kraft (bis zu 3 Stapel).",
+          "cost": "80/85/90/95/100",
+          "description": "Bastet ruft ihre treuen Wächterkatzen zu sich. Sie folgen Bastets Befehlen und unterstützen sie bei allen von ihr gewirkten Fertigkeiten, wobei sie jeweils einen Anteil von Bastets Schaden verursachen.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
-              "value": "Begleiter"
+              "value": "Stim"
             },
             {
               "description": "Betrifft:",
-              "value": "Gegner"
+              "value": "Selbst"
             },
             {
               "description": "Schaden:",
@@ -8678,38 +8686,26 @@
           ],
           "rankitems": [
             {
-              "description": "Schaden pro Treffer:",
-              "value": "25/35/45/55/65 (+20% deiner Physischen Kraft)"
+              "description": "Wächterschaden:",
+              "value": "20/25/30/35/40%"
             },
             {
-              "description": "Katzen-Gesundheit:",
-              "value": "500/550/600/650/700"
-            },
-            {
-              "description": "Katzen-Schutz:",
-              "value": "20/30/40/50/60"
-            },
-            {
-              "description": "Verlangsamung:",
-              "value": "20%"
-            },
-            {
-              "description": "Zusätzliche Physische Kraft:",
-              "value": "7/9/11/13/15"
+              "description": "Dauer:",
+              "value": "12s"
             }
           ]
         }
       },
-      "Id": 7513,
-      "Summary": "Katzenruf",
-      "URL": "https://web2.hirez.com/smite/god-abilities/cat-call.jpg"
+      "Id": 18250,
+      "Summary": "Wächter von Bast",
+      "URL": "https://web2.hirez.com/smite/god-abilities/guardians-of-bast.jpg"
     },
     "Ability_5": {
       "Description": {
         "itemDescription": {
           "cooldown": "",
           "cost": "",
-          "description": "Wenn Bastet einen Gegner mit Sprung, Peitschenhieb oder Entkrallen trifft, verwundet sie das Ziel für kurze Zeit. Wenn das Ziel bereits eine Wunde hat, fügen diese Fertigkeiten zusätzlichen Schaden zu und entfernen die Wunde stattdessen.",
+          "description": "Trifft Bastet einen Gegner, markiert sie ihn für eine kurze Zeit. Markierte Gegner hinterlassen eine Duftspur, der Bastet folgen kann und in der sich ihr Lauftempo erhöht.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -8722,19 +8718,19 @@
           ],
           "rankitems": [
             {
-              "description": "Verwundungsdauer:",
+              "description": "Duftspur-Dauer:",
               "value": "3s"
             },
             {
-              "description": "Zusätzlicher Schaden:",
+              "description": "Lauftempo:",
               "value": "20%"
             }
           ]
         }
       },
       "Id": 9337,
-      "Summary": "Offene Wunde",
-      "URL": "https://web2.hirez.com/smite/god-abilities/open-wound.jpg"
+      "Summary": "Witterung aufnehmen",
+      "URL": "https://web2.hirez.com/smite/god-abilities/tracking-scent.jpg"
     },
     "AttackSpeed": 1,
     "AttackSpeedPerLevel": 0.02,
@@ -8768,7 +8764,7 @@
       "itemDescription": {
         "cooldown": "12s",
         "cost": "60/65/70/75/80",
-        "description": "Bastet springt zu ihrem Ziel und fügt Gegnern im Radius Schaden zu. Innerhalb von 4 Sekunden nach dem Sprung kann die Fertigkeit erneut aktiviert werden, um an den Ursprungsort zurückzuspringen. Bastet bewegt sich in Rückkehrbereitschaft 25% schneller.",
+        "description": "Bastet springt zu ihrem Ziel und fügt Gegnern im Radius Schaden zu. Innerhalb von 4 Sekunden nach dem Sprung kann die Fertigkeit erneut aktiviert werden, um an den Ursprungsort zurückzuspringen. Bastet bewegt sich in Rückkehrbereitschaft 25% schneller.\n\nIst Wächter von Bast aktiv, befiehlt Bastet ihren Katzen, ebenfalls zu springen.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -8790,7 +8786,7 @@
         "rankitems": [
           {
             "description": "Schaden:",
-            "value": "80/145/210/275/340 (+100% deiner Physischen Kraft)"
+            "value": "80/145/210/275/340 (+90% deiner Physischen Kraft)"
           }
         ]
       }
@@ -8798,8 +8794,8 @@
     "abilityDescription2": {
       "itemDescription": {
         "cooldown": "13s",
-        "cost": "60/65/70/75/80",
-        "description": "Bastet schlägt mit ihrer Peitsche nach ihren Gegnern aus und fügt ihnen Blutungen zu, sodass sie während der Dauer jede Sekunde Schaden erleiden.",
+        "cost": "40/45/50/55/60",
+        "description": "Bastet schlägt mit ihrer Peitsche nach ihren Gegnern aus und fügt ihnen Blutungen zu, sodass sie während der Dauer jede Sekunde Schaden erleiden. \n\nIst Wächter von Bast aktiv, befiehlt Bastet ihren Wächtern, die Gegner ebenfalls anzugreifen.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -8828,13 +8824,13 @@
     },
     "abilityDescription3": {
       "itemDescription": {
-        "cooldown": "10s",
-        "cost": "60",
-        "description": "Bastet wirft ihren Dolch, der auf ihrem Ziel explodiert, dabei Schaden verursacht und die Gegner in dem Bereich verlangsamt.",
+        "cooldown": "12s",
+        "cost": "60/65/70/75/80",
+        "description": "Bastet schickt eine Katze nach vorn. Trifft sie auf einen Gegner, wird er 0,5s lang verwurzelt und erleidet Schaden. Die Katze greift 4s lang nahe Gegner an, falls sie nicht zuvor besiegt wird. Die Angriffe der Katze verlangsamen Gegner 2s lang.\n\nIst Wächter von Bast aktiv, befiehlt Bastet ihren Wächtern, ebenfalls nach vorn zu sprinten.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
-            "value": "Projektil"
+            "value": "Linie"
           },
           {
             "description": "Betrifft:",
@@ -8847,16 +8843,24 @@
         ],
         "rankitems": [
           {
-            "description": "Schaden:",
-            "value": "70/120/170/220/270 (+100% deiner Physischen Kraft)"
+            "description": "Schaden bei Verwurzelung:",
+            "value": "60/95/130/165/200 (65% deiner Physischen Kraft)"
+          },
+          {
+            "description": "Katzenschaden:",
+            "value": "20/25/30/35/40 (0% deiner Grundangriffskraft)"
+          },
+          {
+            "description": "Katzen-Trefferpunkte:",
+            "value": "2"
+          },
+          {
+            "description": "Schaden durch Lane-Diener:",
+            "value": "1 Trefferpunkt nach 5 Treffern"
           },
           {
             "description": "Verlangsamung:",
-            "value": "30%"
-          },
-          {
-            "description": "Verlangsamungsdauer:",
-            "value": "2s"
+            "value": "25%"
           }
         ]
       }
@@ -8864,16 +8868,16 @@
     "abilityDescription4": {
       "itemDescription": {
         "cooldown": "90s",
-        "cost": "90/95/100/105/110",
-        "description": "Bastet beschwört 3 Katzen, die in der Nähe befindliche Ziele 10s lang angreifen, dabei Schaden verursachen und sie verlangsamen. Die Katzen greifen dabei zuerst von Peitschenhieb betroffene Ziele an. Wenn eine der Katzen besiegt wird, erhält Bastet 9s lang zusätzliche Physische Kraft (bis zu 3 Stapel).",
+        "cost": "80/85/90/95/100",
+        "description": "Bastet ruft ihre treuen Wächterkatzen zu sich. Sie folgen Bastets Befehlen und unterstützen sie bei allen von ihr gewirkten Fertigkeiten, wobei sie jeweils einen Anteil von Bastets Schaden verursachen.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
-            "value": "Begleiter"
+            "value": "Stim"
           },
           {
             "description": "Betrifft:",
-            "value": "Gegner"
+            "value": "Selbst"
           },
           {
             "description": "Schaden:",
@@ -8882,24 +8886,12 @@
         ],
         "rankitems": [
           {
-            "description": "Schaden pro Treffer:",
-            "value": "25/35/45/55/65 (+20% deiner Physischen Kraft)"
+            "description": "Wächterschaden:",
+            "value": "20/25/30/35/40%"
           },
           {
-            "description": "Katzen-Gesundheit:",
-            "value": "500/550/600/650/700"
-          },
-          {
-            "description": "Katzen-Schutz:",
-            "value": "20/30/40/50/60"
-          },
-          {
-            "description": "Verlangsamung:",
-            "value": "20%"
-          },
-          {
-            "description": "Zusätzliche Physische Kraft:",
-            "value": "7/9/11/13/15"
+            "description": "Dauer:",
+            "value": "12s"
           }
         ]
       }
@@ -8908,7 +8900,7 @@
       "itemDescription": {
         "cooldown": "",
         "cost": "",
-        "description": "Wenn Bastet einen Gegner mit Sprung, Peitschenhieb oder Entkrallen trifft, verwundet sie das Ziel für kurze Zeit. Wenn das Ziel bereits eine Wunde hat, fügen diese Fertigkeiten zusätzlichen Schaden zu und entfernen die Wunde stattdessen.",
+        "description": "Trifft Bastet einen Gegner, markiert sie ihn für eine kurze Zeit. Markierte Gegner hinterlassen eine Duftspur, der Bastet folgen kann und in der sich ihr Lauftempo erhöht.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -8921,11 +8913,11 @@
         ],
         "rankitems": [
           {
-            "description": "Verwundungsdauer:",
+            "description": "Duftspur-Dauer:",
             "value": "3s"
           },
           {
-            "description": "Zusätzlicher Schaden:",
+            "description": "Lauftempo:",
             "value": "20%"
           }
         ]
@@ -8951,9 +8943,9 @@
     },
     "godAbility1_URL": "https://web2.hirez.com/smite/god-abilities/pounce.jpg",
     "godAbility2_URL": "https://web2.hirez.com/smite/god-abilities/razor-whip.jpg",
-    "godAbility3_URL": "https://web2.hirez.com/smite/god-abilities/declaw.jpg",
-    "godAbility4_URL": "https://web2.hirez.com/smite/god-abilities/cat-call.jpg",
-    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/open-wound.jpg",
+    "godAbility3_URL": "https://web2.hirez.com/smite/god-abilities/ensnaring-claw.jpg",
+    "godAbility4_URL": "https://web2.hirez.com/smite/god-abilities/guardians-of-bast.jpg",
+    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/tracking-scent.jpg",
     "godCard_URL": "https://web2.hirez.com/smite/god-cards/bastet.jpg",
     "godIcon_URL": "https://web2.hirez.com/smite/god-icons/bastet.jpg",
     "id": 1678,
@@ -9638,7 +9630,7 @@
     "ManaPerFive": 4.6,
     "ManaPerLevel": 38,
     "Name": "Cabracán",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Maya",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -9858,7 +9850,7 @@
     "Ability_1": {
       "Description": {
         "itemDescription": {
-          "cooldown": "12s",
+          "cooldown": "13s",
           "cost": "50/55/60/65/70",
           "description": "Camazotz kreischt lauthals und sendet eine Schallwelle aus, die Diener durchdringt und Schaden verursacht.\n\nWenn der Schrei einen gegnerischen Gott trifft, entsteht ein Echo. Wenn Camazotz von einem Echo getroffen wird, erhält er 15s lang Sicht auf den getroffenen Gott und zusätzliche Physische Kraft.",
           "menuitems": [
@@ -9900,7 +9892,7 @@
         "itemDescription": {
           "cooldown": "10s",
           "cost": "60/65/70/75/80",
-          "description": "Camazotz befiehlt einem Schwarm Fledermäuse auszuschwärmen, ein einzelnes Ziel anzugreifen und es 3s lang um 30% zu verlangsamen. Bei der Rückkehr wird Camazotz geheilt. Falls das Ziel ein großes Dschungelmonster war, wird es markiert und Camazotz erhält zusätzlich zur Heilung 300s lang einen stapelbaren Vampirismus-Buff. Markierte Monster gewähren Camazotz keine weiteren Vampirismus-Stapel oder zusätzliche Heilung.",
+          "description": "Camazotz befiehlt einem Schwarm Fledermäuse auszuschwärmen, ein einzelnes Ziel anzugreifen und es 3s lang um 30% zu verlangsamen. Bei der Rückkehr wird Camazotz geheilt. Falls das Ziel ein Buffträger, ein Orakel oder eine Alpha-Harpyie war, wird es markiert und Camazotz erhält zusätzlich zur Heilung 300s lang einen stapelbaren Vampirismus-Buff. Markierte Monster gewähren Camazotz keine weiteren Vampirismus-Stapel oder zusätzliche Heilung.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -9930,7 +9922,7 @@
             },
             {
               "description": "Buff pro Stapel:",
-              "value": "4% Physischer Lebensraub und erhöhte Heilung"
+              "value": "3% Physischer Lebensraub und erhöhte Heilung"
             },
             {
               "description": "Maximale Stapel:",
@@ -10054,7 +10046,7 @@
             },
             {
               "description": "Essenzverschlinger-Buff:",
-              "value": "8% Physischer Lebensraub und erhöhte Heilung"
+              "value": "6% Physischer Lebensraub und erhöhte Heilung"
             }
           ]
         }
@@ -10093,7 +10085,7 @@
     "Type": " Nahkampf, Physisch",
     "abilityDescription1": {
       "itemDescription": {
-        "cooldown": "12s",
+        "cooldown": "13s",
         "cost": "50/55/60/65/70",
         "description": "Camazotz kreischt lauthals und sendet eine Schallwelle aus, die Diener durchdringt und Schaden verursacht.\n\nWenn der Schrei einen gegnerischen Gott trifft, entsteht ein Echo. Wenn Camazotz von einem Echo getroffen wird, erhält er 15s lang Sicht auf den getroffenen Gott und zusätzliche Physische Kraft.",
         "menuitems": [
@@ -10130,7 +10122,7 @@
       "itemDescription": {
         "cooldown": "10s",
         "cost": "60/65/70/75/80",
-        "description": "Camazotz befiehlt einem Schwarm Fledermäuse auszuschwärmen, ein einzelnes Ziel anzugreifen und es 3s lang um 30% zu verlangsamen. Bei der Rückkehr wird Camazotz geheilt. Falls das Ziel ein großes Dschungelmonster war, wird es markiert und Camazotz erhält zusätzlich zur Heilung 300s lang einen stapelbaren Vampirismus-Buff. Markierte Monster gewähren Camazotz keine weiteren Vampirismus-Stapel oder zusätzliche Heilung.",
+        "description": "Camazotz befiehlt einem Schwarm Fledermäuse auszuschwärmen, ein einzelnes Ziel anzugreifen und es 3s lang um 30% zu verlangsamen. Bei der Rückkehr wird Camazotz geheilt. Falls das Ziel ein Buffträger, ein Orakel oder eine Alpha-Harpyie war, wird es markiert und Camazotz erhält zusätzlich zur Heilung 300s lang einen stapelbaren Vampirismus-Buff. Markierte Monster gewähren Camazotz keine weiteren Vampirismus-Stapel oder zusätzliche Heilung.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -10160,7 +10152,7 @@
           },
           {
             "description": "Buff pro Stapel:",
-            "value": "4% Physischer Lebensraub und erhöhte Heilung"
+            "value": "3% Physischer Lebensraub und erhöhte Heilung"
           },
           {
             "description": "Maximale Stapel:",
@@ -10269,7 +10261,7 @@
           },
           {
             "description": "Essenzverschlinger-Buff:",
-            "value": "8% Physischer Lebensraub und erhöhte Heilung"
+            "value": "6% Physischer Lebensraub und erhöhte Heilung"
           }
         ]
       }
@@ -10545,7 +10537,7 @@
     "Roles": " Jäger",
     "Speed": 365,
     "Title": "Der gehörnte Gott",
-    "Type": " Fernkampf",
+    "Type": " Fernkampf, Physisch",
     "abilityDescription1": {
       "itemDescription": {
         "cooldown": "0s",
@@ -11359,7 +11351,7 @@
     "ManaPerFive": 5.5,
     "ManaPerLevel": 48,
     "Name": "Chang'e",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Chinesisch",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -12476,7 +12468,7 @@
         "itemDescription": {
           "cooldown": "85s",
           "cost": "14 Wut",
-          "description": "Cu Chulainn wirbelt seinen Speer Gae Bulg im Kreis, wobei alle Gegner Schaden erleiden und hochgeworfen werden. Treffer mit dieser Fertigkeit bei gegnerischen Dienern stellen 10 Wut wieder her, 16 bei einem Gott (bis maximal 36). In seiner Berserker-Form stößt Cu Chulainn stattdessen einen markerschütternden Schrei aus, der Gegnern Schaden zufügt und sie erzittern lässt. Dieser Schrei verbraucht keine Wut und hat eine Abklingzeit von 35s.",
+          "description": "Cu Chulainn wirbelt seinen Speer Gae Bulg im Kreis, wobei alle Gegner Schaden erleiden und hochgeworfen werden. Treffer mit dieser Fertigkeit bei gegnerischen Dienern stellen 10 Wut wieder her, 26 bei einem Gott (bis maximal 36). In seiner Berserker-Form stößt Cu Chulainn stattdessen einen markerschütternden Schrei aus, der Gegnern Schaden zufügt und sie erzittern lässt. Dieser Schrei verbraucht keine Wut und hat eine Abklingzeit von 35s.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -12546,7 +12538,7 @@
             },
             {
               "description": "Bonuskraft:",
-              "value": "2 pro Stufe"
+              "value": "3 pro Stufe"
             }
           ]
         }
@@ -12700,7 +12692,7 @@
       "itemDescription": {
         "cooldown": "85s",
         "cost": "14 Wut",
-        "description": "Cu Chulainn wirbelt seinen Speer Gae Bulg im Kreis, wobei alle Gegner Schaden erleiden und hochgeworfen werden. Treffer mit dieser Fertigkeit bei gegnerischen Dienern stellen 10 Wut wieder her, 16 bei einem Gott (bis maximal 36). In seiner Berserker-Form stößt Cu Chulainn stattdessen einen markerschütternden Schrei aus, der Gegnern Schaden zufügt und sie erzittern lässt. Dieser Schrei verbraucht keine Wut und hat eine Abklingzeit von 35s.",
+        "description": "Cu Chulainn wirbelt seinen Speer Gae Bulg im Kreis, wobei alle Gegner Schaden erleiden und hochgeworfen werden. Treffer mit dieser Fertigkeit bei gegnerischen Dienern stellen 10 Wut wieder her, 26 bei einem Gott (bis maximal 36). In seiner Berserker-Form stößt Cu Chulainn stattdessen einen markerschütternden Schrei aus, der Gegnern Schaden zufügt und sie erzittern lässt. Dieser Schrei verbraucht keine Wut und hat eine Abklingzeit von 35s.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -12765,7 +12757,7 @@
           },
           {
             "description": "Bonuskraft:",
-            "value": "2 pro Stufe"
+            "value": "3 pro Stufe"
           }
         ]
       }
@@ -13462,7 +13454,7 @@
     "ManaPerFive": 5,
     "ManaPerLevel": 51,
     "Name": "Discordia",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Römisch",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -14738,7 +14730,7 @@
     "ManaPerFive": 4.2,
     "ManaPerLevel": 35,
     "Name": "Fenrir",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Nordisch",
     "PhysicalPower": 38,
     "PhysicalPowerPerLevel": 2.3,
@@ -15102,7 +15094,7 @@
           "rankitems": [
             {
               "description": "Magischer Lebensraub:",
-              "value": "15%"
+              "value": "10% + 0.25% pro Stufe"
             }
           ]
         }
@@ -15285,7 +15277,7 @@
         "rankitems": [
           {
             "description": "Magischer Lebensraub:",
-            "value": "15%"
+            "value": "10% + 0.25% pro Stufe"
           }
         ]
       }
@@ -16367,7 +16359,7 @@
       "URL": "https://web2.hirez.com/smite/god-abilities/painless.jpg"
     },
     "AttackSpeed": 1,
-    "AttackSpeedPerLevel": 0.009,
+    "AttackSpeedPerLevel": 0.012,
     "Cons": "",
     "HP5PerLevel": 0.7,
     "Health": 480,
@@ -16381,7 +16373,7 @@
     "MagicalPowerPerLevel": 0,
     "Mana": 220,
     "ManaPerFive": 4.8,
-    "ManaPerLevel": 35,
+    "ManaPerLevel": 39,
     "Name": "Guan Yu",
     "OnFreeRotation": "",
     "Pantheon": "Chinesisch",
@@ -17193,7 +17185,7 @@
         "itemDescription": {
           "cooldown": "90s",
           "cost": "100",
-          "description": "Hades ruft alle Seelen in der Nähe befindlicher Gegner zu sich, zieht sie mit der Zeit näher an sich heran und verursacht dabei 4s lang alle 0,5s Schaden. Der Schutz von Gegnern, die von Pesthauch betroffen sind, wird außerdem reduziert. Hades erhält während der Dauer Schutz.",
+          "description": "Hades ruft alle Seelen in der Nähe befindlicher Gegner zu sich, zieht sie mit der Zeit näher an sich heran und verursacht dabei 4s lang alle 0,5s Schaden. Der Schutz von Gegnern, die von Pesthauch betroffen sind, wird außerdem reduziert. Hades erhält während der Dauer Schutz und 10% Schadensminderung.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -17272,9 +17264,9 @@
     "AttackSpeedPerLevel": 0.01,
     "Cons": "",
     "HP5PerLevel": 0.54,
-    "Health": 450,
+    "Health": 475,
     "HealthPerFive": 5,
-    "HealthPerLevel": 80,
+    "HealthPerLevel": 85,
     "Lore": "Der Tod schickt jeden unweigerlich zu Hades, dem Gott der Unterwelt. Am Schluss bekommt er immer, was er will.\\n\\nHades ist der älteste Sohn der Titanen Chronos und Rhea. Als Säugling wurde er zusammen mit seinen fünf Geschwistern von seinem Vater verschlungen. Nur Zeus, sein jüngster Bruder, entkam diesem Schicksal und befreite sie später, als er stark genug war, um Chronos herauszufordern. Zusammen besiegten die sechs Geschwister die Titanen und verbannten sie in das dunkle Reich des Tartaros. Die Götter Zeus, Poseidon und Hades losten aus, wer von ihnen welche Sphäre beherrschen sollte, und Hades zog dabei die Unterwelt.\\n\\nDie Handvoll Sterblicher, die es geschafft hat, die Unterwelt zu betreten und lebend zurückzukommen, zeichnet ausnahmslos ein grässliches Bild von diesem Ort, an den niemand freiwillig zurückkehren würde. Doch Hades selbst verlässt das unterirdische Reich nur selten und sucht ständig nach neuen Wegen, die Zahl der Toten zu vergrößern.\\n\\nAls er auf Brautschau war, entführte er die strahlend schöne Persephone, die Tochter der Göttin Demeter. Da sie in der Unterwelt versteckt gehalten wurde, konnte niemand sie finden. Demeter verfluchte deswegen die Erde und bewirkte eine große Hungersnot. Die anderen Götter flehten sie an, den Fluch aufzuheben, da sie fürchteten, sie würde die Menschheit ausrotten, aber sie wollte nicht nachgeben, bis sie ihre Tochter zurückerhalten hatte. Letzten Endes ließ Hades Persephone frei, aber nicht, ohne sie zuvor Granatäpfel essen zu lassen. Damit ist sie für immer an Hades gebunden und muss nun einmal pro Jahr zu ihrem Ehemann zurückkehren, um die Samen des Granatapfels zu essen. Diese Zeit des Jahres, so sagt man, ist eine Zeit des Trauerns und der Grund für den Winter auf Erden.\\n\\nAuch wenn viele den Tod fürchten und ihn als großes Übel ansehen, ist es in Wirklichkeit so, dass Hades nur die Schöpfung im Gleichgewicht zu halten versucht. Er ist streng, aber fair. Als Gott der Toten und der Unterwelt betrachtet er seine Autorität auf diesem Gebiet als absolut und verbietet es jedem, sein Königreich je wieder zu verlassen. Er wird zornig, wenn ihm jemand nicht gehorcht oder versucht, den Tod zu betrügen oder von ihm zu stehlen.\\n\\nNiemand kann dem Tod entrinnen und Hades seinen Dienst verweigern. Nicht einmal die Götter.",
     "MP5PerLevel": 0.36,
     "MagicProtection": 30,
@@ -17405,7 +17397,7 @@
       "itemDescription": {
         "cooldown": "90s",
         "cost": "100",
-        "description": "Hades ruft alle Seelen in der Nähe befindlicher Gegner zu sich, zieht sie mit der Zeit näher an sich heran und verursacht dabei 4s lang alle 0,5s Schaden. Der Schutz von Gegnern, die von Pesthauch betroffen sind, wird außerdem reduziert. Hades erhält während der Dauer Schutz.",
+        "description": "Hades ruft alle Seelen in der Nähe befindlicher Gegner zu sich, zieht sie mit der Zeit näher an sich heran und verursacht dabei 4s lang alle 0,5s Schaden. Der Schutz von Gegnern, die von Pesthauch betroffen sind, wird außerdem reduziert. Hades erhält während der Dauer Schutz und 10% Schadensminderung.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -17925,7 +17917,7 @@
           "rankitems": [
             {
               "description": "Schaden:",
-              "value": "70/130/190/250/310 (+95% deiner Physischen Kraft)"
+              "value": "70/130/190/250/310 (+85% deiner Physischen Kraft)"
             }
           ]
         }
@@ -17939,7 +17931,7 @@
         "itemDescription": {
           "cooldown": "14s",
           "cost": "60/65/70/75/80",
-          "description": "Heimdallr bläst 2s lang ins Gjallarhorn, was das Lauf- und Angriffstempo von Gegnern vor ihm reduziert und ihnen alle 0,5s Schaden zufügt. Währeddessen kann Heimdallr nicht in die Luft geschleudert werden und erhält Bonusschutz. Nach Ende der Dauer oder bei vorzeitigem Abbruch durch Heimdallr selbst wird eine Schockwelle ausgelöst, die Gegnern Schaden zufügt und sie von Heimdallr fortstößt.",
+          "description": "Heimdallr bläst 2s lang ins Gjallarhorn, was das Lauf- und Angriffstempo von Gegnern vor ihm reduziert und ihnen alle 0,5s Schaden zufügt. Währeddessen kann Heimdallr nicht in die Luft geschleudert werden. Nach Ende der Dauer oder bei vorzeitigem Abbruch durch Heimdallr selbst wird eine Schockwelle ausgelöst, die Gegnern Schaden zufügt und sie von Heimdallr fortstößt.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -17961,15 +17953,11 @@
           "rankitems": [
             {
               "description": "Schaden pro Tick:",
-              "value": "8/16/24/32/40 (+35% deiner Physischen Kraft)"
+              "value": "8/16/24/32/40 (+30% deiner Physischen Kraft)"
             },
             {
               "description": "Schockwellenschaden:",
               "value": "50/90/130/170/210 (+60% deiner Physischen Kraft)"
-            },
-            {
-              "description": "Schutz:",
-              "value": "16/22/28/34/40"
             },
             {
               "description": "Verlangsamung:",
@@ -18049,7 +18037,7 @@
           "rankitems": [
             {
               "description": "Trefferschaden:",
-              "value": "150/240/330/420/510 (+110% deiner Physischen Kraft)"
+              "value": "150/240/330/420/510 (+90% deiner Physischen Kraft)"
             },
             {
               "description": "Muspelheim-Schaden:",
@@ -18093,7 +18081,7 @@
           "rankitems": [
             {
               "description": "Physische Kraft pro Stapel:",
-              "value": "3%"
+              "value": "2%"
             }
           ]
         }
@@ -18129,7 +18117,7 @@
     "Roles": " Jäger",
     "Speed": 365,
     "Title": "Der Wachsame",
-    "Type": " Fernkampf",
+    "Type": " Fernkampf, Physisch",
     "abilityDescription1": {
       "itemDescription": {
         "cooldown": "14s",
@@ -18156,7 +18144,7 @@
         "rankitems": [
           {
             "description": "Schaden:",
-            "value": "70/130/190/250/310 (+95% deiner Physischen Kraft)"
+            "value": "70/130/190/250/310 (+85% deiner Physischen Kraft)"
           }
         ]
       }
@@ -18165,7 +18153,7 @@
       "itemDescription": {
         "cooldown": "14s",
         "cost": "60/65/70/75/80",
-        "description": "Heimdallr bläst 2s lang ins Gjallarhorn, was das Lauf- und Angriffstempo von Gegnern vor ihm reduziert und ihnen alle 0,5s Schaden zufügt. Währeddessen kann Heimdallr nicht in die Luft geschleudert werden und erhält Bonusschutz. Nach Ende der Dauer oder bei vorzeitigem Abbruch durch Heimdallr selbst wird eine Schockwelle ausgelöst, die Gegnern Schaden zufügt und sie von Heimdallr fortstößt.",
+        "description": "Heimdallr bläst 2s lang ins Gjallarhorn, was das Lauf- und Angriffstempo von Gegnern vor ihm reduziert und ihnen alle 0,5s Schaden zufügt. Währeddessen kann Heimdallr nicht in die Luft geschleudert werden. Nach Ende der Dauer oder bei vorzeitigem Abbruch durch Heimdallr selbst wird eine Schockwelle ausgelöst, die Gegnern Schaden zufügt und sie von Heimdallr fortstößt.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -18187,15 +18175,11 @@
         "rankitems": [
           {
             "description": "Schaden pro Tick:",
-            "value": "8/16/24/32/40 (+35% deiner Physischen Kraft)"
+            "value": "8/16/24/32/40 (+30% deiner Physischen Kraft)"
           },
           {
             "description": "Schockwellenschaden:",
             "value": "50/90/130/170/210 (+60% deiner Physischen Kraft)"
-          },
-          {
-            "description": "Schutz:",
-            "value": "16/22/28/34/40"
           },
           {
             "description": "Verlangsamung:",
@@ -18265,7 +18249,7 @@
         "rankitems": [
           {
             "description": "Trefferschaden:",
-            "value": "150/240/330/420/510 (+110% deiner Physischen Kraft)"
+            "value": "150/240/330/420/510 (+90% deiner Physischen Kraft)"
           },
           {
             "description": "Muspelheim-Schaden:",
@@ -18304,7 +18288,7 @@
         "rankitems": [
           {
             "description": "Physische Kraft pro Stapel:",
-            "value": "3%"
+            "value": "2%"
           }
         ]
       }
@@ -18321,7 +18305,7 @@
           },
           {
             "description": "Entwicklung:",
-            "value": "1,3/1,3/1,5x Schaden und Schwungzeit, erste zwei Treffer haben Wirkungsbereich mit 7,5-Einheiten-Radius"
+            "value": "1,25/1,25/1,5x Schaden und 1,3/1,3/1,5x Schwungzeit, erste zwei Treffer haben Wirkungsbereich mit 7,5-Einheiten-Radius"
           }
         ],
         "rankitems": []
@@ -18335,7 +18319,7 @@
     "godCard_URL": "https://web2.hirez.com/smite/god-cards/heimdallr.jpg",
     "godIcon_URL": "https://web2.hirez.com/smite/god-icons/heimdallr.jpg",
     "id": 3812,
-    "latestGod": "y",
+    "latestGod": "n",
     "ret_msg": null
   },
   {
@@ -18442,7 +18426,7 @@
         "itemDescription": {
           "cooldown": "12s",
           "cost": "60/65/70/75/80",
-          "description": "ABSTOSSEN (Dunkle Haltung) – Hel beschwört einen dunklen Energieimpuls herauf, der allen in der Nähe befindlichen Gegnern Schaden zufügt.\nANSPORNEN (Helle Haltung) – Hel beschwört einen Lichtimpuls um sich herum, mit dem sie sich heilt und auf in der Nähe befindliche Verbündete Heilung über Zeit mit einem Tick pro Sekunde anwendet. Hels Lauftempo erhöht sich. Ihre Verbündeten erhalten für den Zeitraum einen Bonus von 10%.",
+          "description": "ABSTOSSEN (Dunkle Haltung) – Hel beschwört einen dunklen Energieimpuls herauf, der allen in der Nähe befindlichen Gegnern Schaden zufügt.\\nANSPORNEN (Helle Haltung) – Hel beschwört einen Lichtimpuls um sich herum, mit dem sie sich heilt und auf in der Nähe befindliche Verbündete Heilung über Zeit mit einem Tick pro Sekunde anwendet. Hels Lauftempo erhöht sich. Ihre Verbündeten erhalten für den Zeitraum einen Bonus von 10%.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -18463,11 +18447,15 @@
           ],
           "rankitems": [
             {
+              "description": "Schaden (dunkel):",
+              "value": "80/130/180/230/280 (+70% deiner Magischen Kraft)"
+            },
+            {
               "description": "Selbstheilung (hell):",
               "value": "60/90/120/150/180 (+30% deiner Magischen Kraft)"
             },
             {
-              "description": "Heil. pro Tick (hell):",
+              "description": "Heilung pro Tick (hell):",
               "value": "10/15/20/25/30 (+5% deiner Magischen Kraft)"
             },
             {
@@ -18477,10 +18465,6 @@
             {
               "description": "Dauer (hell):",
               "value": "6s"
-            },
-            {
-              "description": "Schaden (dunkel):",
-              "value": "80/130/180/230/280 (+70% deiner Magischen Kraft)"
             }
           ]
         }
@@ -18658,7 +18642,7 @@
       "itemDescription": {
         "cooldown": "12s",
         "cost": "60/65/70/75/80",
-        "description": "ABSTOSSEN (Dunkle Haltung) – Hel beschwört einen dunklen Energieimpuls herauf, der allen in der Nähe befindlichen Gegnern Schaden zufügt.\nANSPORNEN (Helle Haltung) – Hel beschwört einen Lichtimpuls um sich herum, mit dem sie sich heilt und auf in der Nähe befindliche Verbündete Heilung über Zeit mit einem Tick pro Sekunde anwendet. Hels Lauftempo erhöht sich. Ihre Verbündeten erhalten für den Zeitraum einen Bonus von 10%.",
+        "description": "ABSTOSSEN (Dunkle Haltung) – Hel beschwört einen dunklen Energieimpuls herauf, der allen in der Nähe befindlichen Gegnern Schaden zufügt.\\nANSPORNEN (Helle Haltung) – Hel beschwört einen Lichtimpuls um sich herum, mit dem sie sich heilt und auf in der Nähe befindliche Verbündete Heilung über Zeit mit einem Tick pro Sekunde anwendet. Hels Lauftempo erhöht sich. Ihre Verbündeten erhalten für den Zeitraum einen Bonus von 10%.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -18679,11 +18663,15 @@
         ],
         "rankitems": [
           {
+            "description": "Schaden (dunkel):",
+            "value": "80/130/180/230/280 (+70% deiner Magischen Kraft)"
+          },
+          {
             "description": "Selbstheilung (hell):",
             "value": "60/90/120/150/180 (+30% deiner Magischen Kraft)"
           },
           {
-            "description": "Heil. pro Tick (hell):",
+            "description": "Heilung pro Tick (hell):",
             "value": "10/15/20/25/30 (+5% deiner Magischen Kraft)"
           },
           {
@@ -18693,10 +18681,6 @@
           {
             "description": "Dauer (hell):",
             "value": "6s"
-          },
-          {
-            "description": "Schaden (dunkel):",
-            "value": "80/130/180/230/280 (+70% deiner Magischen Kraft)"
           }
         ]
       }
@@ -18905,7 +18889,7 @@
             },
             {
               "description": "Argus Aura-Schaden:",
-              "value": "7/11/15/19/23 (/+7/5% deiner Magischen Kraft)"
+              "value": "7/11/15/19/23 (/+7.5% deiner Magischen Kraft)"
             },
             {
               "description": "Argus-Tempo:",
@@ -19138,7 +19122,7 @@
           },
           {
             "description": "Argus Aura-Schaden:",
-            "value": "7/11/15/19/23 (/+7/5% deiner Magischen Kraft)"
+            "value": "7/11/15/19/23 (/+7.5% deiner Magischen Kraft)"
           },
           {
             "description": "Argus-Tempo:",
@@ -19873,7 +19857,7 @@
     "ManaPerFive": 4.7,
     "ManaPerLevel": 37,
     "Name": "Horus",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Ägyptisch",
     "PhysicalPower": 37,
     "PhysicalPowerPerLevel": 2.1,
@@ -20920,7 +20904,7 @@
           "rankitems": [
             {
               "description": "Schaden:",
-              "value": "35/55/75/95/115 (+40% deiner Magischen Kraft)"
+              "value": "30/50/70/90/110 (+35% deiner Magischen Kraft)"
             },
             {
               "description": "Flügelschläge:",
@@ -21171,7 +21155,7 @@
         "rankitems": [
           {
             "description": "Schaden:",
-            "value": "35/55/75/95/115 (+40% deiner Magischen Kraft)"
+            "value": "30/50/70/90/110 (+35% deiner Magischen Kraft)"
           },
           {
             "description": "Flügelschläge:",
@@ -21423,7 +21407,7 @@
     "Ability_2": {
       "Description": {
         "itemDescription": {
-          "cooldown": "16/15/14/13/12s",
+          "cooldown": "14/13/5/13/12/5/12s",
           "cost": "70",
           "description": "Izanami schickt ein dämonisches Abbild ihres Gesichts in einer geraden Linie aus, um ihre Feinde niederzustrecken, wobei alle Gegner in der Flugbahn Schaden erleiden und verlangsamt werden.\n\nWenn ein verlangsamter gegnerischer Gott getötet wird, werden weitere Aktivierungen der Verlangsamung bis zu zweimal um 6% pro Kill erhöht, bis zu einem Maximum von 30%.",
           "menuitems": [
@@ -21585,7 +21569,7 @@
     "ManaPerFive": 4.4,
     "ManaPerLevel": 35,
     "Name": "Izanami",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Japanisch",
     "PhysicalPower": 36,
     "PhysicalPowerPerLevel": 2.4,
@@ -21625,7 +21609,7 @@
     },
     "abilityDescription2": {
       "itemDescription": {
-        "cooldown": "16/15/14/13/12s",
+        "cooldown": "14/13/5/13/12/5/12s",
         "cost": "70",
         "description": "Izanami schickt ein dämonisches Abbild ihres Gesichts in einer geraden Linie aus, um ihre Feinde niederzustrecken, wobei alle Gegner in der Flugbahn Schaden erleiden und verlangsamt werden.\n\nWenn ein verlangsamter gegnerischer Gott getötet wird, werden weitere Aktivierungen der Verlangsamung bis zu zweimal um 6% pro Kill erhöht, bis zu einem Maximum von 30%.",
         "menuitems": [
@@ -21759,7 +21743,7 @@
         "menuitems": [
           {
             "description": "Schaden:",
-            "value": "Hinweg: 27 + 1,8/St. (+75% der Physischen Kraft), Rückweg: 9 + 0,6/St. (+25% der Physischen Kraft)"
+            "value": "Hinweg: 27 + 1,8/St. (+75% der Physischen Kraft), Rückweg: 12,6 + 0,6/St. (+35% der Physischen Kraft)"
           },
           {
             "description": "Entwicklung:",
@@ -22287,7 +22271,7 @@
         "itemDescription": {
           "cooldown": "18/18/17/17/16s",
           "cost": "75/70/65/60/55",
-          "description": "Jing Wei stürmt vorwärts. Sie kann diese Fertigkeit in der Luft verwenden, um weiter zu stürmen. Während Agilität werden ihre physische Kraft und ihr Lauftempo 4s lang erhöht. Der Effekt ist erhöht, wenn die Fertigkeit in der Luft verwendet wird. ",
+          "description": "Jing Wei stürmt vorwärts. Sie kann diese Fertigkeit in der Luft verwenden, um weiter zu stürmen. Während Agilität werden ihre physische Kraft und ihr Lauftempo 4s lang erhöht. Der Effekt ist erhöht, wenn die Fertigkeit in der Luft verwendet wird.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -22313,7 +22297,7 @@
             },
             {
               "description": "Lauftempo:",
-              "value": "20%"
+              "value": "15%"
             },
             {
               "description": "Kraft in der Luft:",
@@ -22321,7 +22305,7 @@
             },
             {
               "description": "Lauftempo in der Luft:",
-              "value": "30%"
+              "value": "25%"
             }
           ]
         }
@@ -22491,7 +22475,7 @@
       "itemDescription": {
         "cooldown": "18/18/17/17/16s",
         "cost": "75/70/65/60/55",
-        "description": "Jing Wei stürmt vorwärts. Sie kann diese Fertigkeit in der Luft verwenden, um weiter zu stürmen. Während Agilität werden ihre physische Kraft und ihr Lauftempo 4s lang erhöht. Der Effekt ist erhöht, wenn die Fertigkeit in der Luft verwendet wird. ",
+        "description": "Jing Wei stürmt vorwärts. Sie kann diese Fertigkeit in der Luft verwenden, um weiter zu stürmen. Während Agilität werden ihre physische Kraft und ihr Lauftempo 4s lang erhöht. Der Effekt ist erhöht, wenn die Fertigkeit in der Luft verwendet wird.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -22517,7 +22501,7 @@
           },
           {
             "description": "Lauftempo:",
-            "value": "20%"
+            "value": "15%"
           },
           {
             "description": "Kraft in der Luft:",
@@ -22525,7 +22509,7 @@
           },
           {
             "description": "Lauftempo in der Luft:",
-            "value": "30%"
+            "value": "25%"
           }
         ]
       }
@@ -23973,53 +23957,7 @@
     "AbilityId4": 16637,
     "AbilityId5": 16658,
     "Ability_1": {
-      "Description": {
-        "itemDescription": {
-          "cooldown": "14s",
-          "cost": "35/40/45/50/55",
-          "description": "Standard: König Artus führt einen vernichtenden Überkopfhieb in Nahkampfreichweite aus, der einen schneidenden Angriff erzeugt, der sich vorwärts bewegt. Vom Nahkampfangriff getroffene Gegner erleiden Bonusschaden durch den schneidenden Angriff. Kombo: König Artus führt einen tiefen Schwertschwung aus. Getroffene Gegner erleiden Schaden und werden verkrüppelt.",
-          "menuitems": [
-            {
-              "description": "Fertigkeit:",
-              "value": "Linie (Kegel)"
-            },
-            {
-              "description": "Betrifft:",
-              "value": "Gegner"
-            },
-            {
-              "description": "Schaden:",
-              "value": "Physisch"
-            },
-            {
-              "description": "Reichweite:",
-              "value": "70 (30)"
-            }
-          ],
-          "rankitems": [
-            {
-              "description": "Schnitt-Schaden:",
-              "value": "60/115/170/225/280 (60% deiner Physischen Kraft)"
-            },
-            {
-              "description": "Nahkampf-Bonusschaden:",
-              "value": "30/35/40/45/50%"
-            },
-            {
-              "description": "Kombo-Schaden:",
-              "value": "60/120/180/240/300 (+60% deiner Physischen Kraft)"
-            },
-            {
-              "description": "Verkrüppelungsdauer:",
-              "value": "1.25s"
-            },
-            {
-              "description": "Energiegewinn:",
-              "value": "3"
-            }
-          ]
-        }
-      },
+      "Description": null,
       "Id": 16596,
       "Summary": "Überkopfschlitzer (Unterbindung)",
       "URL": "https://web2.hirez.com/smite/god-abilities/overhead-slash.jpg"
@@ -24252,53 +24190,7 @@
     "Speed": 370,
     "Title": "Träger Excaliburs",
     "Type": " Nahkampf, Physisch",
-    "abilityDescription1": {
-      "itemDescription": {
-        "cooldown": "14s",
-        "cost": "35/40/45/50/55",
-        "description": "Standard: König Artus führt einen vernichtenden Überkopfhieb in Nahkampfreichweite aus, der einen schneidenden Angriff erzeugt, der sich vorwärts bewegt. Vom Nahkampfangriff getroffene Gegner erleiden Bonusschaden durch den schneidenden Angriff. Kombo: König Artus führt einen tiefen Schwertschwung aus. Getroffene Gegner erleiden Schaden und werden verkrüppelt.",
-        "menuitems": [
-          {
-            "description": "Fertigkeit:",
-            "value": "Linie (Kegel)"
-          },
-          {
-            "description": "Betrifft:",
-            "value": "Gegner"
-          },
-          {
-            "description": "Schaden:",
-            "value": "Physisch"
-          },
-          {
-            "description": "Reichweite:",
-            "value": "70 (30)"
-          }
-        ],
-        "rankitems": [
-          {
-            "description": "Schnitt-Schaden:",
-            "value": "60/115/170/225/280 (60% deiner Physischen Kraft)"
-          },
-          {
-            "description": "Nahkampf-Bonusschaden:",
-            "value": "30/35/40/45/50%"
-          },
-          {
-            "description": "Kombo-Schaden:",
-            "value": "60/120/180/240/300 (+60% deiner Physischen Kraft)"
-          },
-          {
-            "description": "Verkrüppelungsdauer:",
-            "value": "1.25s"
-          },
-          {
-            "description": "Energiegewinn:",
-            "value": "3"
-          }
-        ]
-      }
-    },
+    "abilityDescription1": null,
     "abilityDescription2": {
       "itemDescription": {
         "cooldown": "14s",
@@ -24546,7 +24438,7 @@
             },
             {
               "description": "Verlangsamung:",
-              "value": "30/35/40/45/50%"
+              "value": "20/25/30/35/40%"
             },
             {
               "description": "Verlangsamungsdauer:",
@@ -24618,7 +24510,7 @@
           "rankitems": [
             {
               "description": "Schaden pro Tick:",
-              "value": "9/18/27/36/45 (+15% deiner Magischen Kraft)"
+              "value": "8/16/24/32/40 (+15% deiner Magischen Kraft)"
             },
             {
               "description": "Tornado-Dauer:",
@@ -24740,7 +24632,7 @@
           },
           {
             "description": "Verlangsamung:",
-            "value": "30/35/40/45/50%"
+            "value": "20/25/30/35/40%"
           },
           {
             "description": "Verlangsamungsdauer:",
@@ -24802,7 +24694,7 @@
         "rankitems": [
           {
             "description": "Schaden pro Tick:",
-            "value": "9/18/27/36/45 (+15% deiner Magischen Kraft)"
+            "value": "8/16/24/32/40 (+15% deiner Magischen Kraft)"
           },
           {
             "description": "Tornado-Dauer:",
@@ -25051,7 +24943,7 @@
             },
             {
               "description": "Landungsschaden:",
-              "value": "250/350/450/550/650 (+40% deiner Magischen Kraft)"
+              "value": "200/290/380/470/560 (+40% deiner Magischen Kraft)"
             },
             {
               "description": "Hochwerfen:",
@@ -25250,7 +25142,7 @@
           },
           {
             "description": "Landungsschaden:",
-            "value": "250/350/450/550/650 (+40% deiner Magischen Kraft)"
+            "value": "200/290/380/470/560 (+40% deiner Magischen Kraft)"
           },
           {
             "description": "Hochwerfen:",
@@ -26416,7 +26308,7 @@
     "Pros": " Hoher Einzelzielschaden",
     "Roles": " Jäger",
     "Speed": 365,
-    "Title": "Gorgone",
+    "Title": "Die Gorgone",
     "Type": " Fernkampf, Physisch",
     "abilityDescription1": {
       "itemDescription": {
@@ -27859,6 +27751,513 @@
     "ret_msg": null
   },
   {
+    "Ability1": "Kreuzschnitt",
+    "Ability2": "Speerstoß",
+    "Ability3": "Wurfhaken",
+    "Ability4": "Himmlische Meisterung",
+    "Ability5": "Trainingsplan",
+    "AbilityId1": 17913,
+    "AbilityId2": 17914,
+    "AbilityId3": 17915,
+    "AbilityId4": 17916,
+    "AbilityId5": 17912,
+    "Ability_1": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "16/15/14/13/12s",
+          "cost": "60/65/70/75/80",
+          "description": "Mulan führt zwei präzise Schwertschwünge aus und fügt allen getroffenen Gegnern Schaden zu.\n\nGelernt: Mulans Angriffstempo erhöht sich nach Einsatz dieser Fertigkeit.\nGeübt: Mulan trifft ein drittes Mal in einem kegelförmigen Gebiet vor ihr.\nGemeistert: Mulans Angriffstempo erhöht sich dauerhaft um 5%.",
+          "menuitems": [
+            {
+              "description": "Fertigkeit:",
+              "value": "Fläche"
+            },
+            {
+              "description": "Betrifft:",
+              "value": "Gegner"
+            },
+            {
+              "description": "Schaden:",
+              "value": "Physisch"
+            },
+            {
+              "description": "Radius:",
+              "value": "25"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Schaden pro Treffer:",
+              "value": "75/95/115/135/155 (+30% deiner Physischen Kraft)"
+            },
+            {
+              "description": "Angriffstempo:",
+              "value": "25%"
+            },
+            {
+              "description": "Dauer:",
+              "value": "4s"
+            }
+          ]
+        }
+      },
+      "Id": 17913,
+      "Summary": "Kreuzschnitt",
+      "URL": "https://web2.hirez.com/smite/god-abilities/cross-strike.jpg"
+    },
+    "Ability_2": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "14s",
+          "cost": "50/55/60/65/70",
+          "description": "Mulan greift mit ihrem Speer an und fügt getroffenen Gegnern Schaden zu und verlangsamt sie.\n\nGelernt: Mulan wird für bis zu 3 getroffene Gegner geheilt.\nGeübt: Mulan schlägt ein zweites Mal zu und verursacht Bonusschaden, falls derselbe Gegner erneut getroffen wird.\nGemeistert: Mulans Kraft erhöht sich dauerhaft um 5%.",
+          "menuitems": [
+            {
+              "description": "Fertigkeit:",
+              "value": "Linie"
+            },
+            {
+              "description": "Betrifft:",
+              "value": "Gegner"
+            },
+            {
+              "description": "Schaden:",
+              "value": "Physisch"
+            },
+            {
+              "description": "Reichweite:",
+              "value": "25"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Schaden pro Treffer:",
+              "value": "120/155/190/225/260 (+35% deiner Physischen Kraft)"
+            },
+            {
+              "description": "Verlangsamung:",
+              "value": "20%"
+            },
+            {
+              "description": "Dauer:",
+              "value": "2s"
+            },
+            {
+              "description": "Heilung:",
+              "value": "15/30/45/60/75 (+10% deiner Physischen Kraft)"
+            },
+            {
+              "description": "Bonusschaden:",
+              "value": "20/35/50/65/80 (+15% deiner Physischen Kraft)"
+            }
+          ]
+        }
+      },
+      "Id": 17914,
+      "Summary": "Speerstoß",
+      "URL": "https://web2.hirez.com/smite/god-abilities/spear-thrust.jpg"
+    },
+    "Ability_3": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "16s",
+          "cost": "60",
+          "description": "Mulan feuert einen an einem Seil befestigten Pfeil ab. Trifft sie einen gegnerischen Gott, fügt sie ihm Schaden zu, zieht ihn in ihre Richtung, sprintet zu ihm und fügt ihm Bonusschaden zu.\n\nGelernt: Mulan erhält Schutz, nachdem sie einen gegnerischen Gott getroffen hat.\nGeübt: Mulan kann diese Fertigkeit einsetzen, um zu Wänden zu sprinten.\nGemeistert: Mulans Lauftempo erhöht sich dauerhaft um 5%.",
+          "menuitems": [
+            {
+              "description": "Fertigkeit:",
+              "value": "Projektil, Sprint"
+            },
+            {
+              "description": "Betrifft:",
+              "value": "Gegnerische Götter"
+            },
+            {
+              "description": "Schaden:",
+              "value": "Physisch"
+            },
+            {
+              "description": "Reichweite:",
+              "value": "60"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Pfeilschaden:",
+              "value": "90/135/180/225/270 (+50% deiner Physischen Kraft)"
+            },
+            {
+              "description": "Betäubungsdauer:",
+              "value": "0.8s"
+            },
+            {
+              "description": "Bonusschaden:",
+              "value": "40/50/60/70/80 (+20% deiner Physischen Kraft)"
+            },
+            {
+              "description": "Schutzerhöhung:",
+              "value": "15/20/25/30/35%"
+            },
+            {
+              "description": "Dauer:",
+              "value": "4s"
+            }
+          ]
+        }
+      },
+      "Id": 17915,
+      "Summary": "Wurfhaken",
+      "URL": "https://web2.hirez.com/smite/god-abilities/grapple.jpg"
+    },
+    "Ability_4": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "100s",
+          "cost": "100",
+          "description": "Mulan macht sich ihr gesamtes Arsenal zunutze und sprintet nach vorn, wobei sie Gegnern mit schnellen Schwerthieben Schaden zufügt und sie 1s lang verwurzelt. Trifft sie währenddessen einen gegnerischen Gott, schöpft sie neue Kraft und schleudert Gegner mit ihrem Speer in die Luft, bevor sie mit ihrem Bogen ein mächtiges Geschoss abfeuert. Mit einer Komponente dieser Fertigkeit verursachter Schaden wird auf das Geschick der jeweiligen Waffe angerechnet.",
+          "menuitems": [
+            {
+              "description": "Fertigkeit:",
+              "value": "Sprint, Linie, Projektil"
+            },
+            {
+              "description": "Betrifft:",
+              "value": "Gegner"
+            },
+            {
+              "description": "Schaden:",
+              "value": "Physisch"
+            },
+            {
+              "description": "Reichweite:",
+              "value": "65/65/85"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Schwertschaden:",
+              "value": "80/140/200/260/320 (+60% deiner Physischen Kraft)"
+            },
+            {
+              "description": "Speerschaden:",
+              "value": "100/140/180/220/260 (+40% deiner Physischen Kraft)"
+            },
+            {
+              "description": "Pfeilschaden:",
+              "value": "150/200/250/300/350 (+50% deiner Physischen Kraft)"
+            }
+          ]
+        }
+      },
+      "Id": 17916,
+      "Summary": "Himmlische Meisterung",
+      "URL": "https://web2.hirez.com/smite/god-abilities/divine-mastery.jpg"
+    },
+    "Ability_5": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "",
+          "cost": "",
+          "description": "Mulan steigert ihr Geschick im Umgang mit ihren Waffen (Schwert, Speer, Bogen), indem sie Gegnern mit ihren Fertigkeiten Schaden zufügt. Durch höhere Kompetenz mit einer Waffe erhält sie verschiedene Boni. Außerdem erhält Mulan alle 10s einen Buff, der die Abklingzeit der nächsten eingesetzten Fertigkeit um 2s reduziert.",
+          "menuitems": [
+            {
+              "description": "Fertigkeit:",
+              "value": "Buff"
+            },
+            {
+              "description": "Betrifft:",
+              "value": "Selbst"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Schwert-Geschick:",
+              "value": "600/2400/6000 Schaden"
+            },
+            {
+              "description": "Speer-Geschick:",
+              "value": "600/2400/6000 Schaden"
+            },
+            {
+              "description": "Bogen-Geschick:",
+              "value": "300/700/1500 Schaden"
+            },
+            {
+              "description": "Erhaltenes Geschick bei Dienern:",
+              "value": "20%"
+            }
+          ]
+        }
+      },
+      "Id": 17912,
+      "Summary": "Trainingsplan",
+      "URL": "https://web2.hirez.com/smite/god-abilities/training-arc.jpg"
+    },
+    "AttackSpeed": 1,
+    "AttackSpeedPerLevel": 0.01,
+    "Cons": "",
+    "HP5PerLevel": 0.7,
+    "Health": 480,
+    "HealthPerFive": 9,
+    "HealthPerLevel": 82,
+    "Lore": "Es gibt viele Geschichten über das Mädchen, das zur Heldin wurde. Die meisten von ihnen reich ausgeschmückt, die Ereignisse von Ungereimtheiten befreit und zur Legende aufpoliert. Es wird erzählt, dass Hua Mulan gesegnet gewesen sei, ihr Bogen und ihr Schwert Geschenke der Götter. Dass sie unermesslich weise war, stärker als hundert Krieger und ihr Herz rein. Dass die Tochter des Königs ihr zur Schwester geworden sei. Dass sie nach Hause zurückgekehrt und einen Prinzen geheiratet habe, oder vielleicht einen Bauern. Dass sie gestorben sei.\\n\\nDoch jede Geschichte, so befremdlich sie auch sein mag, enthält ein Körnchen Wahrheit. Und dies ist die Wahrheit von Hua Mulan. Invasoren waren in China eingefallen und zu deren Bekämpfung wurde ein Mann aus jeder Familie zur Armee eingezogen. Ihr Vater war bereits ein alter Mann, ihr Bruder noch ein Kind und so ließ Mulan ihren Webstuhl zurück und zog anstelle der beiden in den Krieg. Sie gab sich als junger Mann aus und niemand bemerkte diese List, denn ihr Vater hatte ihr den Umgang mit Bogen und Schwert beigebracht, wodurch sie es mit jedem männlichen Soldaten aufnehmen konnte.\\n\\nZwölf Jahre lang erhielt sie diesen Schein aufrecht. Sie bekämpfte die Feinde Chinas, stieg in den Rängen der Armee auf und erwarb den Respekt ihrer Kameraden. Mehr als nur einmal war sie es, die Männer in die Schlacht führte, wobei sie stets vorbildhaft voranging und sich an vorderster Front ins Kampfgetümmel stürzte. Nach diesen zwölf Jahren bot man ihr eine Beförderung auf einen hohen Rang an, was sie jedoch ablehnte. Dem Krieg überdrüssig bat sie stattdessen darum, zu ihrer Familie zurückkehren zu dürfen. Sie hatte ihre Pflicht getan, und so kehrte sie schließlich heim.\\n\\nDoch nicht alle Geschichten enden mit der Heimkehr des Helden. Für manche Geschichten ist dies erst der Anfang. Denn China sieht sich einer neuen Bedrohung ausgesetzt, sodass Hua Mulan erneut zu den Waffen greifen muss, um ihr Heimatland zu verteidigen ...",
+    "MP5PerLevel": 0.4,
+    "MagicProtection": 30,
+    "MagicProtectionPerLevel": 0.9,
+    "MagicalPower": 0,
+    "MagicalPowerPerLevel": 0,
+    "Mana": 220,
+    "ManaPerFive": 4.7,
+    "ManaPerLevel": 38,
+    "Name": "Mulan",
+    "OnFreeRotation": "",
+    "Pantheon": "Chinesisch",
+    "PhysicalPower": 39,
+    "PhysicalPowerPerLevel": 2.2,
+    "PhysicalProtection": 18,
+    "PhysicalProtectionPerLevel": 3,
+    "Pros": " Hoher Flächenschaden",
+    "Roles": " Krieger",
+    "Speed": 375,
+    "Title": "Die aufgestiegene Kriegerin",
+    "Type": " Nahkampf, Physisch",
+    "abilityDescription1": {
+      "itemDescription": {
+        "cooldown": "16/15/14/13/12s",
+        "cost": "60/65/70/75/80",
+        "description": "Mulan führt zwei präzise Schwertschwünge aus und fügt allen getroffenen Gegnern Schaden zu.\n\nGelernt: Mulans Angriffstempo erhöht sich nach Einsatz dieser Fertigkeit.\nGeübt: Mulan trifft ein drittes Mal in einem kegelförmigen Gebiet vor ihr.\nGemeistert: Mulans Angriffstempo erhöht sich dauerhaft um 5%.",
+        "menuitems": [
+          {
+            "description": "Fertigkeit:",
+            "value": "Fläche"
+          },
+          {
+            "description": "Betrifft:",
+            "value": "Gegner"
+          },
+          {
+            "description": "Schaden:",
+            "value": "Physisch"
+          },
+          {
+            "description": "Radius:",
+            "value": "25"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Schaden pro Treffer:",
+            "value": "75/95/115/135/155 (+30% deiner Physischen Kraft)"
+          },
+          {
+            "description": "Angriffstempo:",
+            "value": "25%"
+          },
+          {
+            "description": "Dauer:",
+            "value": "4s"
+          }
+        ]
+      }
+    },
+    "abilityDescription2": {
+      "itemDescription": {
+        "cooldown": "14s",
+        "cost": "50/55/60/65/70",
+        "description": "Mulan greift mit ihrem Speer an und fügt getroffenen Gegnern Schaden zu und verlangsamt sie.\n\nGelernt: Mulan wird für bis zu 3 getroffene Gegner geheilt.\nGeübt: Mulan schlägt ein zweites Mal zu und verursacht Bonusschaden, falls derselbe Gegner erneut getroffen wird.\nGemeistert: Mulans Kraft erhöht sich dauerhaft um 5%.",
+        "menuitems": [
+          {
+            "description": "Fertigkeit:",
+            "value": "Linie"
+          },
+          {
+            "description": "Betrifft:",
+            "value": "Gegner"
+          },
+          {
+            "description": "Schaden:",
+            "value": "Physisch"
+          },
+          {
+            "description": "Reichweite:",
+            "value": "25"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Schaden pro Treffer:",
+            "value": "120/155/190/225/260 (+35% deiner Physischen Kraft)"
+          },
+          {
+            "description": "Verlangsamung:",
+            "value": "20%"
+          },
+          {
+            "description": "Dauer:",
+            "value": "2s"
+          },
+          {
+            "description": "Heilung:",
+            "value": "15/30/45/60/75 (+10% deiner Physischen Kraft)"
+          },
+          {
+            "description": "Bonusschaden:",
+            "value": "20/35/50/65/80 (+15% deiner Physischen Kraft)"
+          }
+        ]
+      }
+    },
+    "abilityDescription3": {
+      "itemDescription": {
+        "cooldown": "16s",
+        "cost": "60",
+        "description": "Mulan feuert einen an einem Seil befestigten Pfeil ab. Trifft sie einen gegnerischen Gott, fügt sie ihm Schaden zu, zieht ihn in ihre Richtung, sprintet zu ihm und fügt ihm Bonusschaden zu.\n\nGelernt: Mulan erhält Schutz, nachdem sie einen gegnerischen Gott getroffen hat.\nGeübt: Mulan kann diese Fertigkeit einsetzen, um zu Wänden zu sprinten.\nGemeistert: Mulans Lauftempo erhöht sich dauerhaft um 5%.",
+        "menuitems": [
+          {
+            "description": "Fertigkeit:",
+            "value": "Projektil, Sprint"
+          },
+          {
+            "description": "Betrifft:",
+            "value": "Gegnerische Götter"
+          },
+          {
+            "description": "Schaden:",
+            "value": "Physisch"
+          },
+          {
+            "description": "Reichweite:",
+            "value": "60"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Pfeilschaden:",
+            "value": "90/135/180/225/270 (+50% deiner Physischen Kraft)"
+          },
+          {
+            "description": "Betäubungsdauer:",
+            "value": "0.8s"
+          },
+          {
+            "description": "Bonusschaden:",
+            "value": "40/50/60/70/80 (+20% deiner Physischen Kraft)"
+          },
+          {
+            "description": "Schutzerhöhung:",
+            "value": "15/20/25/30/35%"
+          },
+          {
+            "description": "Dauer:",
+            "value": "4s"
+          }
+        ]
+      }
+    },
+    "abilityDescription4": {
+      "itemDescription": {
+        "cooldown": "100s",
+        "cost": "100",
+        "description": "Mulan macht sich ihr gesamtes Arsenal zunutze und sprintet nach vorn, wobei sie Gegnern mit schnellen Schwerthieben Schaden zufügt und sie 1s lang verwurzelt. Trifft sie währenddessen einen gegnerischen Gott, schöpft sie neue Kraft und schleudert Gegner mit ihrem Speer in die Luft, bevor sie mit ihrem Bogen ein mächtiges Geschoss abfeuert. Mit einer Komponente dieser Fertigkeit verursachter Schaden wird auf das Geschick der jeweiligen Waffe angerechnet.",
+        "menuitems": [
+          {
+            "description": "Fertigkeit:",
+            "value": "Sprint, Linie, Projektil"
+          },
+          {
+            "description": "Betrifft:",
+            "value": "Gegner"
+          },
+          {
+            "description": "Schaden:",
+            "value": "Physisch"
+          },
+          {
+            "description": "Reichweite:",
+            "value": "65/65/85"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Schwertschaden:",
+            "value": "80/140/200/260/320 (+60% deiner Physischen Kraft)"
+          },
+          {
+            "description": "Speerschaden:",
+            "value": "100/140/180/220/260 (+40% deiner Physischen Kraft)"
+          },
+          {
+            "description": "Pfeilschaden:",
+            "value": "150/200/250/300/350 (+50% deiner Physischen Kraft)"
+          }
+        ]
+      }
+    },
+    "abilityDescription5": {
+      "itemDescription": {
+        "cooldown": "",
+        "cost": "",
+        "description": "Mulan steigert ihr Geschick im Umgang mit ihren Waffen (Schwert, Speer, Bogen), indem sie Gegnern mit ihren Fertigkeiten Schaden zufügt. Durch höhere Kompetenz mit einer Waffe erhält sie verschiedene Boni. Außerdem erhält Mulan alle 10s einen Buff, der die Abklingzeit der nächsten eingesetzten Fertigkeit um 2s reduziert.",
+        "menuitems": [
+          {
+            "description": "Fertigkeit:",
+            "value": "Buff"
+          },
+          {
+            "description": "Betrifft:",
+            "value": "Selbst"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Schwert-Geschick:",
+            "value": "600/2400/6000 Schaden"
+          },
+          {
+            "description": "Speer-Geschick:",
+            "value": "600/2400/6000 Schaden"
+          },
+          {
+            "description": "Bogen-Geschick:",
+            "value": "300/700/1500 Schaden"
+          },
+          {
+            "description": "Erhaltenes Geschick bei Dienern:",
+            "value": "20%"
+          }
+        ]
+      }
+    },
+    "basicAttack": {
+      "itemDescription": {
+        "cooldown": "",
+        "cost": "",
+        "description": "",
+        "menuitems": [
+          {
+            "description": "Schaden:",
+            "value": "37 + 2/St. (+100% der Physischen Kraft)"
+          },
+          {
+            "description": "Entwicklung:",
+            "value": "1/1/1,25x Schaden und Schwungzeit, trifft beim finalen Schlag in einem Wirkungsbereich"
+          }
+        ],
+        "rankitems": []
+      }
+    },
+    "godAbility1_URL": "https://web2.hirez.com/smite/god-abilities/cross-strike.jpg",
+    "godAbility2_URL": "https://web2.hirez.com/smite/god-abilities/spear-thrust.jpg",
+    "godAbility3_URL": "https://web2.hirez.com/smite/god-abilities/grapple.jpg",
+    "godAbility4_URL": "https://web2.hirez.com/smite/god-abilities/divine-mastery.jpg",
+    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/training-arc.jpg",
+    "godCard_URL": "https://web2.hirez.com/smite/god-cards/mulan.jpg",
+    "godIcon_URL": "https://web2.hirez.com/smite/god-icons/mulan.jpg",
+    "id": 3881,
+    "latestGod": "y",
+    "ret_msg": null
+  },
+  {
     "Ability1": "Ring des Universums",
     "Ability2": "Lodernder Speer",
     "Ability3": "Armillarschärpe",
@@ -27900,7 +28299,7 @@
             },
             {
               "description": "Schutz-Debuff:",
-              "value": "10/11/12/13/14 pro Treffer"
+              "value": "5/7/9/11/13 pro Treffer"
             },
             {
               "description": "Verlangsamung:",
@@ -28020,7 +28419,7 @@
           "rankitems": [
             {
               "description": "Schaden pro Treffer:",
-              "value": "30/50/70/90/110 (+30% deiner Physischen Kraft)"
+              "value": "20/35/50/65/80 (40% deiner Physischen Kraft)"
             },
             {
               "description": "Schaden (Anfang/Landung):",
@@ -28123,7 +28522,7 @@
           },
           {
             "description": "Schutz-Debuff:",
-            "value": "10/11/12/13/14 pro Treffer"
+            "value": "5/7/9/11/13 pro Treffer"
           },
           {
             "description": "Verlangsamung:",
@@ -28228,7 +28627,7 @@
         "rankitems": [
           {
             "description": "Schaden pro Treffer:",
-            "value": "30/50/70/90/110 (+30% deiner Physischen Kraft)"
+            "value": "20/35/50/65/80 (40% deiner Physischen Kraft)"
           },
           {
             "description": "Schaden (Anfang/Landung):",
@@ -28744,7 +29143,7 @@
           "rankitems": [
             {
               "description": "Schaden:",
-              "value": "50/80/110/140/170 (+30% deiner Physischen Kraft)"
+              "value": "50/80/110/140/170 (+35% deiner Physischen Kraft)"
             }
           ]
         }
@@ -28963,7 +29362,7 @@
         "rankitems": [
           {
             "description": "Schaden:",
-            "value": "50/80/110/140/170 (+30% deiner Physischen Kraft)"
+            "value": "50/80/110/140/170 (+35% deiner Physischen Kraft)"
           }
         ]
       }
@@ -29171,7 +29570,7 @@
           "rankitems": [
             {
               "description": "Schaden:",
-              "value": "50/80/110/140/170 (+40% deiner Physischen Kraft)"
+              "value": "60/90/120/150/180 (+40% deiner Physischen Kraft)"
             },
             {
               "description": "Schutzreduktion:",
@@ -29215,7 +29614,7 @@
           "rankitems": [
             {
               "description": "Schaden:",
-              "value": "65/120/175/230/285 (+50% deiner Physischen Kraft)"
+              "value": "85/140/195/250/305 (+50% deiner Physischen Kraft)"
             },
             {
               "description": "Rückstoß-Schaden:",
@@ -29235,7 +29634,7 @@
     "Ability_3": {
       "Description": {
         "itemDescription": {
-          "cooldown": "18s",
+          "cooldown": "16s",
           "cost": "55/60/65/70/75",
           "description": "Nike springt in die Luft und schlägt am Zielort auf, was Gegnern Schaden zufügt und sie in die Luft schleudert.",
           "menuitems": [
@@ -29361,7 +29760,7 @@
     "Cons": "",
     "HP5PerLevel": 0.8,
     "Health": 480,
-    "HealthPerFive": 7,
+    "HealthPerFive": 10,
     "HealthPerLevel": 83,
     "Lore": "Oft heißt es, die Geschichte werde vom Sieger geschrieben. Sollte das stimmen, dann hat eine einzelne Göttin die Geschichte geschrieben: Nike, die geflügelte Kriegerin.\\n\\nWenn der schnellste Läufer die Goldmedaille erhält, wenn ein geschickter Jäger die größte Beute erlegt, wenn die Soldaten ihr Tagwerk verrichten, dann huldigen die Gläubigen des Olymp der Göttin Nike. Ohne ihre Gunst ist das Scheitern sicher.\\n\\nSelbst der mächtige Zeus, ein König unter den Göttern, strebt nach der Gunst Nikes. Als der Gott des Donners auf den Schlachtfeldern des Altertums gegen seine Titanen-Vorfahren marschierte, kämpfte Nike an seiner Seite und verlieh ihren Verbündeten mit ihrer furchtlosen Klinge Zuversicht, als sie einem schier unbesiegbaren Gegner gegenüberstanden. Nur das Himmelreich weiß, ob Zeus auch ohne sie den Sieg davongetragen hätte. Wäre Zeus gefallen, so wäre die Welt, wie wir sie kennen, mit ihm untergegangen.\\n\\nEin Hoch auf die Siegesgöttin, die nun endlich das Schlachtfeld betritt! Wenn Götter und Gorgonen sich erbitterte und unehrenhafte Gefechte liefern, bestimmt allein sie über den Ausgang. Denn die Geschichte wird vom Sieger geschrieben, und Nike ist der personifizierte Sieg.",
     "MP5PerLevel": 0.39,
@@ -29406,7 +29805,7 @@
         "rankitems": [
           {
             "description": "Schaden:",
-            "value": "50/80/110/140/170 (+40% deiner Physischen Kraft)"
+            "value": "60/90/120/150/180 (+40% deiner Physischen Kraft)"
           },
           {
             "description": "Schutzreduktion:",
@@ -29445,7 +29844,7 @@
         "rankitems": [
           {
             "description": "Schaden:",
-            "value": "65/120/175/230/285 (+50% deiner Physischen Kraft)"
+            "value": "85/140/195/250/305 (+50% deiner Physischen Kraft)"
           },
           {
             "description": "Rückstoß-Schaden:",
@@ -29460,7 +29859,7 @@
     },
     "abilityDescription3": {
       "itemDescription": {
-        "cooldown": "18s",
+        "cooldown": "16s",
         "cost": "55/60/65/70/75",
         "description": "Nike springt in die Luft und schlägt am Zielort auf, was Gegnern Schaden zufügt und sie in die Luft schleudert.",
         "menuitems": [
@@ -30464,8 +30863,8 @@
     "Ability5": "Weg nach Walhalla",
     "AbilityId1": 7598,
     "AbilityId2": 10488,
-    "AbilityId3": 7284,
-    "AbilityId4": 10479,
+    "AbilityId3": 18301,
+    "AbilityId4": 18099,
     "AbilityId5": 10489,
     "Ability_1": {
       "Description": {
@@ -30550,13 +30949,13 @@
     "Ability_3": {
       "Description": {
         "itemDescription": {
-          "cooldown": "10s",
-          "cost": "70",
-          "description": "Odin führt einen wuchtigen Speerangriff aus, der zweimal trifft, Schaden verursacht und bei beiden Treffern alle Gegner um ihn herum verlangsamt.",
+          "cooldown": "12s",
+          "cost": "70/75/80/85/90",
+          "description": "Odin verstärkt Gungnir mit Runenmagie und kann währenddessen nicht zurückgestoßen werden. Gungnirs Rune wechselt alle 0,7s und Odin verursacht um sich herum pulsierend Schaden und verlangsamt Gegner 2s lang. Lässt Odin Gungnir los, fliegt er nach vorn, fügt getroffenen Gegnern Schaden zu stoppt beim ersten getroffenen Gott. 1. Rune: Verbündete in Odins Nähe erhalten 3s lang Angriffstempo. 2. Rune: Gungnir verfolgt anvisierte Götter. 3. Rune: Gungnir betäubt Gegner.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
-              "value": "Fläche"
+              "value": "Linie"
             },
             {
               "description": "Betrifft:",
@@ -30573,21 +30972,29 @@
           ],
           "rankitems": [
             {
-              "description": "Schaden pro Treffer:",
-              "value": "45/65/85/105/125 (+30% deiner Physischen Kraft)"
+              "description": "Puls-Schaden:",
+              "value": "20/40/60/80/100 (+20% deiner Physischen Kraft)"
             },
             {
-              "description": "Verlangsamung:",
-              "value": "40%"
+              "description": "Puls-Verlangsamung:",
+              "value": "20%"
             },
             {
-              "description": "Verlangsamungsdauer:",
-              "value": "2/2.2/2.4/2.6/2.8s"
+              "description": "Gungnir-Schaden:",
+              "value": "60/110/160/210/260 (+60% deiner Physischen Kraft)"
+            },
+            {
+              "description": "Angriffstempo:",
+              "value": "30%"
+            },
+            {
+              "description": "Betäubungsdauer:",
+              "value": "1.2s"
             }
           ]
         }
       },
-      "Id": 7284,
+      "Id": 18301,
       "Summary": "Gungnirs Macht",
       "URL": "https://web2.hirez.com/smite/god-abilities/gungnirs-might.jpg"
     },
@@ -30596,7 +31003,7 @@
         "itemDescription": {
           "cooldown": "75",
           "cost": "100",
-          "description": "Odin ruft einen Wall aus Speeren herbei, der Bewegungen seines Gegners unterbindet – Odin und seine Verbündeten können sich jedoch frei bewegen. Der Wall blockiert jedoch keine Angriffe. Gegner innerhalb des Rings können nicht heilen. Odin ist im Inneren des Rings immun gegen Verlangsamungen und Verwurzelungen. Gegner, die innerhalb des Rings aus Speeren sterben, geben Odin einen permanenten Bonus auf seine Physische Kraft.",
+          "description": "Odin ruft einen Wall aus Speeren herbei, der Bewegungen seiner Gegner blockiert. Gegner innerhalb des Rings können nicht heilen. Odin ist im Inneren des Rings immun gegen Verlangsamungen und Verwurzelungen. Abschnitte des Rings können durch 5 Grundangriffe zerstört werden. Gegner, die den Ring durch oder über eine Wand verlassen, erleiden Schaden und werden 2,5s lang verlangsamt. Stirbt ein Gegner innerhalb des Rings, erhöht sich Odins Physische Kraft.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -30613,6 +31020,10 @@
           ],
           "rankitems": [
             {
+              "description": "Schaden:",
+              "value": "120/190/260/330/400 (+75% deiner Physischen Kraft)"
+            },
+            {
               "description": "Dauer:",
               "value": "4/4.5/5/5.5/6s"
             },
@@ -30622,12 +31033,16 @@
             },
             {
               "description": "Heilungsreduktion:",
-              "value": "komplett"
+              "value": "Gesamte Heilung"
+            },
+            {
+              "description": "Verlangsamung:",
+              "value": "25%"
             }
           ]
         }
       },
-      "Id": 10479,
+      "Id": 18099,
       "Summary": "Ring aus Speeren",
       "URL": "https://web2.hirez.com/smite/god-abilities/ring-of-spears.jpg"
     },
@@ -30767,13 +31182,13 @@
     },
     "abilityDescription3": {
       "itemDescription": {
-        "cooldown": "10s",
-        "cost": "70",
-        "description": "Odin führt einen wuchtigen Speerangriff aus, der zweimal trifft, Schaden verursacht und bei beiden Treffern alle Gegner um ihn herum verlangsamt.",
+        "cooldown": "12s",
+        "cost": "70/75/80/85/90",
+        "description": "Odin verstärkt Gungnir mit Runenmagie und kann währenddessen nicht zurückgestoßen werden. Gungnirs Rune wechselt alle 0,7s und Odin verursacht um sich herum pulsierend Schaden und verlangsamt Gegner 2s lang. Lässt Odin Gungnir los, fliegt er nach vorn, fügt getroffenen Gegnern Schaden zu stoppt beim ersten getroffenen Gott. 1. Rune: Verbündete in Odins Nähe erhalten 3s lang Angriffstempo. 2. Rune: Gungnir verfolgt anvisierte Götter. 3. Rune: Gungnir betäubt Gegner.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
-            "value": "Fläche"
+            "value": "Linie"
           },
           {
             "description": "Betrifft:",
@@ -30790,16 +31205,24 @@
         ],
         "rankitems": [
           {
-            "description": "Schaden pro Treffer:",
-            "value": "45/65/85/105/125 (+30% deiner Physischen Kraft)"
+            "description": "Puls-Schaden:",
+            "value": "20/40/60/80/100 (+20% deiner Physischen Kraft)"
           },
           {
-            "description": "Verlangsamung:",
-            "value": "40%"
+            "description": "Puls-Verlangsamung:",
+            "value": "20%"
           },
           {
-            "description": "Verlangsamungsdauer:",
-            "value": "2/2.2/2.4/2.6/2.8s"
+            "description": "Gungnir-Schaden:",
+            "value": "60/110/160/210/260 (+60% deiner Physischen Kraft)"
+          },
+          {
+            "description": "Angriffstempo:",
+            "value": "30%"
+          },
+          {
+            "description": "Betäubungsdauer:",
+            "value": "1.2s"
           }
         ]
       }
@@ -30808,7 +31231,7 @@
       "itemDescription": {
         "cooldown": "75",
         "cost": "100",
-        "description": "Odin ruft einen Wall aus Speeren herbei, der Bewegungen seines Gegners unterbindet – Odin und seine Verbündeten können sich jedoch frei bewegen. Der Wall blockiert jedoch keine Angriffe. Gegner innerhalb des Rings können nicht heilen. Odin ist im Inneren des Rings immun gegen Verlangsamungen und Verwurzelungen. Gegner, die innerhalb des Rings aus Speeren sterben, geben Odin einen permanenten Bonus auf seine Physische Kraft.",
+        "description": "Odin ruft einen Wall aus Speeren herbei, der Bewegungen seiner Gegner blockiert. Gegner innerhalb des Rings können nicht heilen. Odin ist im Inneren des Rings immun gegen Verlangsamungen und Verwurzelungen. Abschnitte des Rings können durch 5 Grundangriffe zerstört werden. Gegner, die den Ring durch oder über eine Wand verlassen, erleiden Schaden und werden 2,5s lang verlangsamt. Stirbt ein Gegner innerhalb des Rings, erhöht sich Odins Physische Kraft.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -30825,6 +31248,10 @@
         ],
         "rankitems": [
           {
+            "description": "Schaden:",
+            "value": "120/190/260/330/400 (+75% deiner Physischen Kraft)"
+          },
+          {
             "description": "Dauer:",
             "value": "4/4.5/5/5.5/6s"
           },
@@ -30834,7 +31261,11 @@
           },
           {
             "description": "Heilungsreduktion:",
-            "value": "komplett"
+            "value": "Gesamte Heilung"
+          },
+          {
+            "description": "Verlangsamung:",
+            "value": "25%"
           }
         ]
       }
@@ -33557,7 +33988,7 @@
           "rankitems": [
             {
               "description": "Schaden pro Schuss:",
-              "value": "25/40/55/70/85 (30% deiner Magischen Kraft)"
+              "value": "30/45/60/75/90 (30% deiner Magischen Kraft)"
             }
           ]
         }
@@ -33779,7 +34210,7 @@
         "rankitems": [
           {
             "description": "Schaden pro Schuss:",
-            "value": "25/40/55/70/85 (30% deiner Magischen Kraft)"
+            "value": "30/45/60/75/90 (30% deiner Magischen Kraft)"
           }
         ]
       }
@@ -34075,7 +34506,7 @@
       "Description": {
         "itemDescription": {
           "cooldown": "90s",
-          "cost": "100/110/120/130/140",
+          "cost": "80",
           "description": "Rama springt in die Luft und feuert 3 mächtige Pfeile auf den Boden ab. Dabei wird der Schaden mit jedem Schuss erhöht (70%, 85%, 100%), der Radius jedoch verringert (15, 10, 7,5).",
           "menuitems": [
             {
@@ -34151,7 +34582,7 @@
     "PhysicalProtectionPerLevel": 2.8,
     "Pros": " Hohe Mobilität, Hohes Angriffstempo",
     "Roles": " Jäger",
-    "Speed": 365,
+    "Speed": 370,
     "Title": "Siebter Avatar von Vishnu",
     "Type": " Fernkampf, Physisch",
     "abilityDescription1": {
@@ -34250,7 +34681,7 @@
     "abilityDescription4": {
       "itemDescription": {
         "cooldown": "90s",
-        "cost": "100/110/120/130/140",
+        "cost": "80",
         "description": "Rama springt in die Luft und feuert 3 mächtige Pfeile auf den Boden ab. Dabei wird der Schaden mit jedem Schuss erhöht (70%, 85%, 100%), der Radius jedoch verringert (15, 10, 7,5).",
         "menuitems": [
           {
@@ -35229,7 +35660,7 @@
           "rankitems": [
             {
               "description": "Schaden:",
-              "value": "60/80/100/120/140 (+45% deiner Physischen Kraft)"
+              "value": "50/70/90/110/130 (+45% deiner Physischen Kraft)"
             },
             {
               "description": "Schutzreduktion:",
@@ -35323,7 +35754,7 @@
         "itemDescription": {
           "cooldown": "90s",
           "cost": "100",
-          "description": "Serqet springt zu einem Gegner, betäubt ihn, vergiftet ihn mit dem Gift des letzten Atemzugs und stößt ihn dann 30 Einheiten weit von sich weg.\n \nDas Gift des letzten Atemzugs fügt dem Gegner Schaden über die nächsten 5s zu und verhindert Heilung. Wenn ein Gegner stirbt, während das Gift des letzten Atemzugs auf ihn wirkt, explodiert er und infiziert alle umstehenden Gegner mit dem Gift.",
+          "description": "Serqet springt zu einem Gegner, betäubt ihn, vergiftet ihn mit dem Gift des letzten Atemzugs und stößt ihn dann 30 Einheiten weit von sich weg. Das Gift des letzten Atemzugs fügt dem Gegner über die nächsten 5s Absoluten Schaden zu und verhindert Heilung. Wenn ein Gegner stirbt, während das Gift des letzten Atemzugs auf ihn wirkt, explodiert er und infiziert alle umstehenden Gegner mit dem Gift.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -35345,7 +35776,7 @@
           "rankitems": [
             {
               "description": "Schaden:",
-              "value": "180/300/420/540/660 Absoluter Schaden über 5s"
+              "value": "140/230/320/410/500 (+55% deiner Physischen Kraft als Absoluter Schaden)"
             },
             {
               "description": "Betäubungsdauer:",
@@ -35444,7 +35875,7 @@
         "rankitems": [
           {
             "description": "Schaden:",
-            "value": "60/80/100/120/140 (+45% deiner Physischen Kraft)"
+            "value": "50/70/90/110/130 (+45% deiner Physischen Kraft)"
           },
           {
             "description": "Schutzreduktion:",
@@ -35523,7 +35954,7 @@
       "itemDescription": {
         "cooldown": "90s",
         "cost": "100",
-        "description": "Serqet springt zu einem Gegner, betäubt ihn, vergiftet ihn mit dem Gift des letzten Atemzugs und stößt ihn dann 30 Einheiten weit von sich weg.\n \nDas Gift des letzten Atemzugs fügt dem Gegner Schaden über die nächsten 5s zu und verhindert Heilung. Wenn ein Gegner stirbt, während das Gift des letzten Atemzugs auf ihn wirkt, explodiert er und infiziert alle umstehenden Gegner mit dem Gift.",
+        "description": "Serqet springt zu einem Gegner, betäubt ihn, vergiftet ihn mit dem Gift des letzten Atemzugs und stößt ihn dann 30 Einheiten weit von sich weg. Das Gift des letzten Atemzugs fügt dem Gegner über die nächsten 5s Absoluten Schaden zu und verhindert Heilung. Wenn ein Gegner stirbt, während das Gift des letzten Atemzugs auf ihn wirkt, explodiert er und infiziert alle umstehenden Gegner mit dem Gift.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -35545,7 +35976,7 @@
         "rankitems": [
           {
             "description": "Schaden:",
-            "value": "180/300/420/540/660 Absoluter Schaden über 5s"
+            "value": "140/230/320/410/500 (+55% deiner Physischen Kraft als Absoluter Schaden)"
           },
           {
             "description": "Betäubungsdauer:",
@@ -35648,7 +36079,7 @@
           "rankitems": [
             {
               "description": "Schaden:",
-              "value": "70/110/150/190/230 (+80% deiner Physischen Kraft)"
+              "value": "70/115/160/205/250 (+80% deiner Physischen Kraft)"
             },
             {
               "description": "Abbild-Schaden:",
@@ -35844,7 +36275,7 @@
     "Name": "Seth",
     "OnFreeRotation": "",
     "Pantheon": "Ägyptisch",
-    "PhysicalPower": 37,
+    "PhysicalPower": 39,
     "PhysicalPowerPerLevel": 2.3,
     "PhysicalProtection": 13,
     "PhysicalProtectionPerLevel": 2.9,
@@ -35879,7 +36310,7 @@
         "rankitems": [
           {
             "description": "Schaden:",
-            "value": "70/110/150/190/230 (+80% deiner Physischen Kraft)"
+            "value": "70/115/160/205/250 (+80% deiner Physischen Kraft)"
           },
           {
             "description": "Abbild-Schaden:",
@@ -37538,7 +37969,7 @@
     "ManaPerFive": 4.5,
     "ManaPerLevel": 35,
     "Name": "Sobek",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Ägyptisch",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -38237,8 +38668,12 @@
               "value": "90/145/200/255/310 (+65% deiner Physischen Kraft)"
             },
             {
-              "description": "Verlangsamung:",
+              "description": "Lauftempo-Verlangsamung:",
               "value": "30% für 2s"
+            },
+            {
+              "description": "Angriffstempo-Verlangsamung:",
+              "value": "25% für 2s"
             }
           ]
         }
@@ -38314,7 +38749,7 @@
           "rankitems": [
             {
               "description": "Schaden:",
-              "value": "200/250/300/350/400 (+120% deiner Physischen Kraft)"
+              "value": "200/275/350/425/500 (+120% deiner Physischen Kraft)"
             },
             {
               "description": "Heilung:",
@@ -38430,8 +38865,12 @@
             "value": "90/145/200/255/310 (+65% deiner Physischen Kraft)"
           },
           {
-            "description": "Verlangsamung:",
+            "description": "Lauftempo-Verlangsamung:",
             "value": "30% für 2s"
+          },
+          {
+            "description": "Angriffstempo-Verlangsamung:",
+            "value": "25% für 2s"
           }
         ]
       }
@@ -38497,7 +38936,7 @@
         "rankitems": [
           {
             "description": "Schaden:",
-            "value": "200/250/300/350/400 (+120% deiner Physischen Kraft)"
+            "value": "200/275/350/425/500 (+120% deiner Physischen Kraft)"
           },
           {
             "description": "Heilung:",
@@ -38641,11 +39080,11 @@
         "itemDescription": {
           "cooldown": "16s",
           "cost": "45/50/55/60/65",
-          "description": "Susano erzeugt einen Windstoß nach vorne, der einen Wirbelwind auslöst und 3s lang alle 0,75s Schaden verursacht.\nEr kann diese Fertigkeit erneut aktivieren, um sich zum Wirbelwind zu teleportieren.\nWenn der erste Windstoß einen Gegner trifft, wird dieser vom Wirbelwind eingehüllt und begleitet. Teleportiert sich Susano zum Gegner, wird die Abklingzeit auf 8s reduziert.",
+          "description": "Susano erzeugt einen Windstoß nach vorne, der einen Wirbelwind auslöst und 3s lang alle 0,75s Schaden verursacht.\nEr kann diese Fertigkeit erneut aktivieren, um sich zum Wirbelwind zu teleportieren.\nWenn der erste Windstoß einen Gegner trifft, wird dieser vom Wirbelwind eingehüllt und begleitet. Teleportiert sich Susano zum Gegner, wird die Abklingzeit auf 10s reduziert.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
-              "value": "Spezial-Projektil"
+              "value": "Projektil-Spezial"
             },
             {
               "description": "Betrifft:",
@@ -38663,7 +39102,7 @@
           "rankitems": [
             {
               "description": "Schaden pro Tick:",
-              "value": "20/30/40/50/60 (30% deiner Physischen Kraft)"
+              "value": "20/30/40/50/60 (+25% deiner Physischen Kraft)"
             }
           ]
         }
@@ -38713,7 +39152,7 @@
         "itemDescription": {
           "cooldown": "",
           "cost": "",
-          "description": "Jedes Mal, wenn Susano mindestens einem gegnerischen Gott mit einer Fertigkeit Schaden zufügt, erhält er einen Stapel. Bei vier Stapeln verursacht seine nächste Fertigkeit, die innerhalb von 5 Sekunden einen gegnerischen Gott trifft, Bonusschaden.",
+          "description": "Jedes Mal, wenn Susano mindestens einem gegnerischen Gott mit einer Fertigkeit Schaden zufügt, erhält er einen Stapel. Bei vier Stapeln verursacht seine nächste Fertigkeit innerhalb von 5s, die einen gegnerischen Gott trifft, Bonusschaden.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -38727,7 +39166,7 @@
           "rankitems": [
             {
               "description": "Bonusschaden:",
-              "value": "25 (+60% deiner Physischen Kraft)"
+              "value": "25 (+40% deiner Physischen Kraft)"
             }
           ]
         }
@@ -38830,11 +39269,11 @@
       "itemDescription": {
         "cooldown": "16s",
         "cost": "45/50/55/60/65",
-        "description": "Susano erzeugt einen Windstoß nach vorne, der einen Wirbelwind auslöst und 3s lang alle 0,75s Schaden verursacht.\nEr kann diese Fertigkeit erneut aktivieren, um sich zum Wirbelwind zu teleportieren.\nWenn der erste Windstoß einen Gegner trifft, wird dieser vom Wirbelwind eingehüllt und begleitet. Teleportiert sich Susano zum Gegner, wird die Abklingzeit auf 8s reduziert.",
+        "description": "Susano erzeugt einen Windstoß nach vorne, der einen Wirbelwind auslöst und 3s lang alle 0,75s Schaden verursacht.\nEr kann diese Fertigkeit erneut aktivieren, um sich zum Wirbelwind zu teleportieren.\nWenn der erste Windstoß einen Gegner trifft, wird dieser vom Wirbelwind eingehüllt und begleitet. Teleportiert sich Susano zum Gegner, wird die Abklingzeit auf 10s reduziert.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
-            "value": "Spezial-Projektil"
+            "value": "Projektil-Spezial"
           },
           {
             "description": "Betrifft:",
@@ -38852,7 +39291,7 @@
         "rankitems": [
           {
             "description": "Schaden pro Tick:",
-            "value": "20/30/40/50/60 (30% deiner Physischen Kraft)"
+            "value": "20/30/40/50/60 (+25% deiner Physischen Kraft)"
           }
         ]
       }
@@ -38892,7 +39331,7 @@
       "itemDescription": {
         "cooldown": "",
         "cost": "",
-        "description": "Jedes Mal, wenn Susano mindestens einem gegnerischen Gott mit einer Fertigkeit Schaden zufügt, erhält er einen Stapel. Bei vier Stapeln verursacht seine nächste Fertigkeit, die innerhalb von 5 Sekunden einen gegnerischen Gott trifft, Bonusschaden.",
+        "description": "Jedes Mal, wenn Susano mindestens einem gegnerischen Gott mit einer Fertigkeit Schaden zufügt, erhält er einen Stapel. Bei vier Stapeln verursacht seine nächste Fertigkeit innerhalb von 5s, die einen gegnerischen Gott trifft, Bonusschaden.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -38906,7 +39345,7 @@
         "rankitems": [
           {
             "description": "Bonusschaden:",
-            "value": "25 (+60% deiner Physischen Kraft)"
+            "value": "25 (+40% deiner Physischen Kraft)"
           }
         ]
       }
@@ -39132,7 +39571,7 @@
         "itemDescription": {
           "cooldown": "",
           "cost": "",
-          "description": "Terras Fertigkeiten erzeugen Menhire. Solange sich Menhire auf dem Schlachtfeld befinden, ist Terra gegen Hochwerfen immun und ihre Grundangriffe verlangsamen Gegner und verursachen Bonusschaden. Dieser Bonusschaden löst Gegenstandseffekte für Grundangriffe aus, nicht aber für Fertigkeiten. Wenn Terra alle ihre Menhire zerschmettert, bleibt dieser Buff danach weitere 3s lang aktiv.",
+          "description": "Terras Fertigkeiten erzeugen Menhire. Solange sich Menhire auf dem Schlachtfeld befinden, kann Terra nicht in die Luft geschleudert werden und ihre Grundangriffe verlangsamen Gegner und verursachen Bonusschaden (löst keine Gegenstandseffekte aus). Wenn Terra ihre Menhire zerschmettert, bleibt der Buff danach noch 3s lang aktiv.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -39347,7 +39786,7 @@
       "itemDescription": {
         "cooldown": "",
         "cost": "",
-        "description": "Terras Fertigkeiten erzeugen Menhire. Solange sich Menhire auf dem Schlachtfeld befinden, ist Terra gegen Hochwerfen immun und ihre Grundangriffe verlangsamen Gegner und verursachen Bonusschaden. Dieser Bonusschaden löst Gegenstandseffekte für Grundangriffe aus, nicht aber für Fertigkeiten. Wenn Terra alle ihre Menhire zerschmettert, bleibt dieser Buff danach weitere 3s lang aktiv.",
+        "description": "Terras Fertigkeiten erzeugen Menhire. Solange sich Menhire auf dem Schlachtfeld befinden, kann Terra nicht in die Luft geschleudert werden und ihre Grundangriffe verlangsamen Gegner und verursachen Bonusschaden (löst keine Gegenstandseffekte aus). Wenn Terra ihre Menhire zerschmettert, bleibt der Buff danach noch 3s lang aktiv.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -39924,7 +40363,7 @@
     "Ability_3": {
       "Description": {
         "itemDescription": {
-          "cooldown": "8s",
+          "cooldown": "10s",
           "cost": "55/60/65/70/75",
           "description": "Thor wirbelt seinen Hammer um sich herum, wobei Gegner vor ihm bis zu dreimal und Gegner hinter ihm bis zu zweimal Schaden erleiden. Die letzte Drehung verursacht zusätzlichen Schaden. Thor kann währenddessen nicht in die Luft geschleudert werden.",
           "menuitems": [
@@ -39948,11 +40387,11 @@
           "rankitems": [
             {
               "description": "Schaden pro Tick:",
-              "value": "30/50/70/90/110 (+40% deiner Physischen Kraft)"
+              "value": "30/50/70/90/110 (+35% deiner Physischen Kraft)"
             },
             {
               "description": "Schaden letzte Drehung:",
-              "value": "45/65/85/105/125 (+60% deiner Physischen Kraft)"
+              "value": "45/65/85/105/125 (+50% deiner Physischen Kraft)"
             }
           ]
         }
@@ -39964,7 +40403,7 @@
     "Ability_4": {
       "Description": {
         "itemDescription": {
-          "cooldown": "90s",
+          "cooldown": "110/105/100/95/90s",
           "cost": "80/90/100/110/120",
           "description": "Nach kurzer Konzentration erhebt sich Thor in die Lüfte. Aus der Luft kann Thor ein weit entferntes Zielgebiet anvisieren und sich schließlich herabstürzen, um allen dort befindlichen Gegnern Schaden zuzufügen und sie zu betäuben. Innerhalb von 6s nach der Landung erzeugt Thor Blitze, wenn er gegnerischen Göttern mit Mjölnir Schaden zufügt, welche dem getroffenen Gegner und bis zu zwei weiteren Gegnern innerhalb von 30 Einheiten weiteren Schaden zufügen. Nachfolgende Blitztreffer verursachen 50% des Schadens.",
           "menuitems": [
@@ -40125,7 +40564,7 @@
     },
     "abilityDescription3": {
       "itemDescription": {
-        "cooldown": "8s",
+        "cooldown": "10s",
         "cost": "55/60/65/70/75",
         "description": "Thor wirbelt seinen Hammer um sich herum, wobei Gegner vor ihm bis zu dreimal und Gegner hinter ihm bis zu zweimal Schaden erleiden. Die letzte Drehung verursacht zusätzlichen Schaden. Thor kann währenddessen nicht in die Luft geschleudert werden.",
         "menuitems": [
@@ -40149,18 +40588,18 @@
         "rankitems": [
           {
             "description": "Schaden pro Tick:",
-            "value": "30/50/70/90/110 (+40% deiner Physischen Kraft)"
+            "value": "30/50/70/90/110 (+35% deiner Physischen Kraft)"
           },
           {
             "description": "Schaden letzte Drehung:",
-            "value": "45/65/85/105/125 (+60% deiner Physischen Kraft)"
+            "value": "45/65/85/105/125 (+50% deiner Physischen Kraft)"
           }
         ]
       }
     },
     "abilityDescription4": {
       "itemDescription": {
-        "cooldown": "90s",
+        "cooldown": "110/105/100/95/90s",
         "cost": "80/90/100/110/120",
         "description": "Nach kurzer Konzentration erhebt sich Thor in die Lüfte. Aus der Luft kann Thor ein weit entferntes Zielgebiet anvisieren und sich schließlich herabstürzen, um allen dort befindlichen Gegnern Schaden zuzufügen und sie zu betäuben. Innerhalb von 6s nach der Landung erzeugt Thor Blitze, wenn er gegnerischen Göttern mit Mjölnir Schaden zufügt, welche dem getroffenen Gegner und bis zu zwei weiteren Gegnern innerhalb von 30 Einheiten weiteren Schaden zufügen. Nachfolgende Blitztreffer verursachen 50% des Schadens.",
         "menuitems": [
@@ -42079,7 +42518,7 @@
         "itemDescription": {
           "cooldown": "90s",
           "cost": "100",
-          "description": "Vamana wird zu einem gewaltigen Riesen. Während Vamana wütend ist, ist er immun gegen CC-Effekte, gewinnt Schutz, Physische Kraft, starke Regeneration und seine Grundangriffe schädigen alle in der Nähe befindlichen Gegner. In Riesenform kann Vamana von Spielern erzeugte Mauern durchdringen und die Dauer erhöht sich, wenn Götter ihm Schaden zufügen. \nDie Riesenform kann vorzeitig abgebrochen werden.",
+          "description": "Vamana wird für 6s zu einem gewaltigen Riesen, wird immun gegen CC-Effekte, gewinnt Schutz, Physische Kraft, Regeneration und seine Grundangriffe treffen alle in der Nähe befindlichen Gegner. Trifft er währenddessen einen Gegner, erhält er 3s lang einen stapelbaren Lauftempobonus. In Riesenform kann Vamana von Spielern erzeugte Mauern durchdringen und die Dauer erhöht sich, wenn Götter ihm Schaden zufügen. Die Riesenform kann vorzeitig abgebrochen werden.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -42113,15 +42552,11 @@
             },
             {
               "description": "Schild:",
-              "value": "0.6% der max. Gesundheit alle 0.2s"
+              "value": "1% der maximalen Gesundheit alle 0.2s"
             },
             {
-              "description": "Dauer der Riesenform:",
-              "value": "6s"
-            },
-            {
-              "description": "Verlängerte Dauer der Riesenform:",
-              "value": "0.5s pro Treffer. bis zu 10s"
+              "description": "Lauftempo:",
+              "value": "5% (bis zu 3 Stapel)"
             }
           ]
         }
@@ -42279,7 +42714,7 @@
       "itemDescription": {
         "cooldown": "90s",
         "cost": "100",
-        "description": "Vamana wird zu einem gewaltigen Riesen. Während Vamana wütend ist, ist er immun gegen CC-Effekte, gewinnt Schutz, Physische Kraft, starke Regeneration und seine Grundangriffe schädigen alle in der Nähe befindlichen Gegner. In Riesenform kann Vamana von Spielern erzeugte Mauern durchdringen und die Dauer erhöht sich, wenn Götter ihm Schaden zufügen. \nDie Riesenform kann vorzeitig abgebrochen werden.",
+        "description": "Vamana wird für 6s zu einem gewaltigen Riesen, wird immun gegen CC-Effekte, gewinnt Schutz, Physische Kraft, Regeneration und seine Grundangriffe treffen alle in der Nähe befindlichen Gegner. Trifft er währenddessen einen Gegner, erhält er 3s lang einen stapelbaren Lauftempobonus. In Riesenform kann Vamana von Spielern erzeugte Mauern durchdringen und die Dauer erhöht sich, wenn Götter ihm Schaden zufügen. Die Riesenform kann vorzeitig abgebrochen werden.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -42313,15 +42748,11 @@
           },
           {
             "description": "Schild:",
-            "value": "0.6% der max. Gesundheit alle 0.2s"
+            "value": "1% der maximalen Gesundheit alle 0.2s"
           },
           {
-            "description": "Dauer der Riesenform:",
-            "value": "6s"
-          },
-          {
-            "description": "Verlängerte Dauer der Riesenform:",
-            "value": "0.5s pro Treffer. bis zu 10s"
+            "description": "Lauftempo:",
+            "value": "5% (bis zu 3 Stapel)"
           }
         ]
       }
@@ -42773,7 +43204,7 @@
         "itemDescription": {
           "cooldown": "0.5s",
           "cost": "3/6/9/12/15 pro Schuss",
-          "description": "Aktiviert Xbalanque diese Fähigkeit, verursachen seine Grundangriffe zusätzlichen Schaden. Bei einem Treffer teilt sich die Bola in 2 Teile, die Gegner bis zu 30 Einheiten hinter dem Ziel mit 30% Schaden treffen (Treffereffekte wirken nicht). Erneutes Drücken beendet die Fertigkeit.",
+          "description": "Aktiviert Xbalanque diese Fertigkeit, verursachen seine Grundangriffe zusätzlichen Schaden. Bei einem Treffer teilt sich die Bola in 2 Teile, die Gegner bis zu 30 Einheiten hinter dem Ziel mit 40% Schaden treffen (Treffereffekte wirken nicht). Erneutes Drücken beendet die Fertigkeit.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -42887,7 +43318,7 @@
     "Ability_4": {
       "Description": {
         "itemDescription": {
-          "cooldown": "110s",
+          "cooldown": "90s",
           "cost": "100",
           "description": "Xbalanque hüllt Gegner für 3s in Dunkelheit. Währenddessen steigen die Reichweite seiner Grundangriffe und sein Lauftempo.",
           "menuitems": [
@@ -42980,7 +43411,7 @@
       "itemDescription": {
         "cooldown": "0.5s",
         "cost": "3/6/9/12/15 pro Schuss",
-        "description": "Aktiviert Xbalanque diese Fähigkeit, verursachen seine Grundangriffe zusätzlichen Schaden. Bei einem Treffer teilt sich die Bola in 2 Teile, die Gegner bis zu 30 Einheiten hinter dem Ziel mit 30% Schaden treffen (Treffereffekte wirken nicht). Erneutes Drücken beendet die Fertigkeit.",
+        "description": "Aktiviert Xbalanque diese Fertigkeit, verursachen seine Grundangriffe zusätzlichen Schaden. Bei einem Treffer teilt sich die Bola in 2 Teile, die Gegner bis zu 30 Einheiten hinter dem Ziel mit 40% Schaden treffen (Treffereffekte wirken nicht). Erneutes Drücken beendet die Fertigkeit.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -43079,7 +43510,7 @@
     },
     "abilityDescription4": {
       "itemDescription": {
-        "cooldown": "110s",
+        "cooldown": "90s",
         "cost": "100",
         "description": "Xbalanque hüllt Gegner für 3s in Dunkelheit. Währenddessen steigen die Reichweite seiner Grundangriffe und sein Lauftempo.",
         "menuitems": [
@@ -43649,15 +44080,15 @@
             },
             {
               "description": "Innerer Schaden:",
-              "value": "50/90/130/170/210 (+55% deiner Magischen Kraft)"
+              "value": "50/90/130/170/210 (+45% deiner Magischen Kraft)"
             },
             {
               "description": "Äußerer Schaden:",
-              "value": "20/40/60/80/100 (+20% deiner Magischen Kraft)"
+              "value": "20/40/60/80/100 (+15% deiner Magischen Kraft)"
             },
             {
               "description": "Betäubungsdauer:",
-              "value": "1/1.1/1.2/1.3/1.4s"
+              "value": "1s"
             }
           ]
         }
@@ -43705,7 +44136,7 @@
             },
             {
               "description": "Schild:",
-              "value": "40/80/120/160/200 (+20% deiner Magischen kraft)"
+              "value": "40/70/100/130/160 (+20% deiner Magischen kraft)"
             }
           ]
         }
@@ -43900,15 +44331,15 @@
           },
           {
             "description": "Innerer Schaden:",
-            "value": "50/90/130/170/210 (+55% deiner Magischen Kraft)"
+            "value": "50/90/130/170/210 (+45% deiner Magischen Kraft)"
           },
           {
             "description": "Äußerer Schaden:",
-            "value": "20/40/60/80/100 (+20% deiner Magischen Kraft)"
+            "value": "20/40/60/80/100 (+15% deiner Magischen Kraft)"
           },
           {
             "description": "Betäubungsdauer:",
-            "value": "1/1.1/1.2/1.3/1.4s"
+            "value": "1s"
           }
         ]
       }
@@ -43951,7 +44382,7 @@
           },
           {
             "description": "Schild:",
-            "value": "40/80/120/160/200 (+20% deiner Magischen kraft)"
+            "value": "40/70/100/130/160 (+20% deiner Magischen kraft)"
           }
         ]
       }
@@ -44254,15 +44685,11 @@
         "itemDescription": {
           "cooldown": "",
           "cost": "",
-          "description": "Alle Fertigkeiten von Ymir, die Gegner betreffen, belegen diese zusätzlich mit Frostbeule. Ymirs Grundangriffe verursachen bei Gegnern mit Frostbeule zusätzlich 100% Schaden.  Von Frostbeule betroffene Gegner verursachen 10% weniger Schaden. Hält 4s lang an.",
+          "description": "Alle Fertigkeiten von Ymir, die Gegner betreffen, belegen diese zusätzlich mit Frostbeule. Ymirs Grundangriffe fügen von Frostbeule betroffenen Gegnern 100% mehr Schaden zu. Von Frostbeule betroffene Gegner verursachen 10% weniger Schaden. Hält 4s lang an.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
               "value": "Buff"
-            },
-            {
-              "description": "Schadensreduktion:",
-              "value": "!{rankprog:10}!%"
             },
             {
               "description": "Betrifft:",
@@ -44271,8 +44698,12 @@
           ],
           "rankitems": [
             {
-              "description": "Frostbeule-Schadensbonus:",
+              "description": "Schadenserhöhung:",
               "value": "100%"
+            },
+            {
+              "description": "Schadensreduktion (Gegner):",
+              "value": "10%"
             }
           ]
         }
@@ -44437,15 +44868,11 @@
       "itemDescription": {
         "cooldown": "",
         "cost": "",
-        "description": "Alle Fertigkeiten von Ymir, die Gegner betreffen, belegen diese zusätzlich mit Frostbeule. Ymirs Grundangriffe verursachen bei Gegnern mit Frostbeule zusätzlich 100% Schaden.  Von Frostbeule betroffene Gegner verursachen 10% weniger Schaden. Hält 4s lang an.",
+        "description": "Alle Fertigkeiten von Ymir, die Gegner betreffen, belegen diese zusätzlich mit Frostbeule. Ymirs Grundangriffe fügen von Frostbeule betroffenen Gegnern 100% mehr Schaden zu. Von Frostbeule betroffene Gegner verursachen 10% weniger Schaden. Hält 4s lang an.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
             "value": "Buff"
-          },
-          {
-            "description": "Schadensreduktion:",
-            "value": "!{rankprog:10}!%"
           },
           {
             "description": "Betrifft:",
@@ -44454,8 +44881,12 @@
         ],
         "rankitems": [
           {
-            "description": "Frostbeule-Schadensbonus:",
+            "description": "Schadenserhöhung:",
             "value": "100%"
+          },
+          {
+            "description": "Schadensreduktion (Gegner):",
+            "value": "10%"
           }
         ]
       }

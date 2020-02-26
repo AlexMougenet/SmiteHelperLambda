@@ -69,7 +69,7 @@
           "rankitems": [
             {
               "description": "Heal:",
-              "value": "24/28/32/36/40 (10% of your Physical Power)"
+              "value": "20/23/26/29/32 (10% of your Physical Power)"
             },
             {
               "description": "Max Heals per Ability:",
@@ -77,7 +77,7 @@
             },
             {
               "description": "Physical Power:",
-              "value": "+10/11/12/13/14%"
+              "value": "+6/7/8/9/10%"
             },
             {
               "description": "Protections:",
@@ -121,7 +121,7 @@
           "rankitems": [
             {
               "description": "Damage:",
-              "value": "50/90/130/170/210 (+45% of your Physical Power)"
+              "value": "50/85/120/155/190 (+45% of your Physical Power)"
             }
           ]
         }
@@ -291,7 +291,7 @@
         "rankitems": [
           {
             "description": "Heal:",
-            "value": "24/28/32/36/40 (10% of your Physical Power)"
+            "value": "20/23/26/29/32 (10% of your Physical Power)"
           },
           {
             "description": "Max Heals per Ability:",
@@ -299,7 +299,7 @@
           },
           {
             "description": "Physical Power:",
-            "value": "+10/11/12/13/14%"
+            "value": "+6/7/8/9/10%"
           },
           {
             "description": "Protections:",
@@ -338,7 +338,7 @@
         "rankitems": [
           {
             "description": "Damage:",
-            "value": "50/90/130/170/210 (+45% of your Physical Power)"
+            "value": "50/85/120/155/190 (+45% of your Physical Power)"
           }
         ]
       }
@@ -887,7 +887,7 @@
             },
             {
               "description": "Attack Speed:",
-              "value": "10/17.5/25/32.5/40%"
+              "value": "10/20/30/40/50%"
             }
           ]
         }
@@ -937,7 +937,7 @@
         "itemDescription": {
           "cooldown": "10s",
           "cost": "60",
-          "description": "Ah Muzen Cab sprays honey at a moveable ground target location, Slowing all enemies in the area. Bees from Hives within 90 units and Swarm will fly over to protect the honey, dealing damage every .5 second and applying Bees! to all enemies as they leave the honey.",
+          "description": "Ah Muzen Cab sprays honey that lasts for 4s at a moveable ground target location, Slowing all enemies in the area. Bees from Hives within 90 units and Swarm will fly over to protect the honey, dealing damage every .5 second and applying Bees! to all enemies as they leave the honey.",
           "menuitems": [
             {
               "description": "Ability:",
@@ -1098,7 +1098,7 @@
           },
           {
             "description": "Attack Speed:",
-            "value": "10/17.5/25/32.5/40%"
+            "value": "10/20/30/40/50%"
           }
         ]
       }
@@ -1138,7 +1138,7 @@
       "itemDescription": {
         "cooldown": "10s",
         "cost": "60",
-        "description": "Ah Muzen Cab sprays honey at a moveable ground target location, Slowing all enemies in the area. Bees from Hives within 90 units and Swarm will fly over to protect the honey, dealing damage every .5 second and applying Bees! to all enemies as they leave the honey.",
+        "description": "Ah Muzen Cab sprays honey that lasts for 4s at a moveable ground target location, Slowing all enemies in the area. Bees from Hives within 90 units and Swarm will fly over to protect the honey, dealing damage every .5 second and applying Bees! to all enemies as they leave the honey.",
         "menuitems": [
           {
             "description": "Ability:",
@@ -1957,7 +1957,7 @@
     "ManaPerFive": 4.8,
     "ManaPerLevel": 35,
     "Name": "Amaterasu",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Japanese",
     "PhysicalPower": 39,
     "PhysicalPowerPerLevel": 2,
@@ -4392,7 +4392,7 @@
     "ManaPerFive": 4.8,
     "ManaPerLevel": 41,
     "Name": "Arachne",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Greek",
     "PhysicalPower": 38,
     "PhysicalPowerPerLevel": 2.2,
@@ -5141,7 +5141,7 @@
           "rankitems": [
             {
               "description": "Damage:",
-              "value": "80/130/180/230/280 (+40% of your Physical Power)"
+              "value": "80/130/180/230/280 (+60% of your Physical Power)"
             },
             {
               "description": "Slow:",
@@ -5238,7 +5238,7 @@
     "ManaPerFive": 4.4,
     "ManaPerLevel": 34,
     "Name": "Artemis",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Greek",
     "PhysicalPower": 35,
     "PhysicalPowerPerLevel": 2.5,
@@ -5341,7 +5341,7 @@
         "rankitems": [
           {
             "description": "Damage:",
-            "value": "80/130/180/230/280 (+40% of your Physical Power)"
+            "value": "80/130/180/230/280 (+60% of your Physical Power)"
           },
           {
             "description": "Slow:",
@@ -7663,7 +7663,7 @@
           "rankitems": [
             {
               "description": "Damage:",
-              "value": "60/105/150/195/240 (+60% of your Magical Power)"
+              "value": "80/120/160/200/240 (+60% of your Magical Power)"
             },
             {
               "description": "Power Reduction:",
@@ -7909,7 +7909,7 @@
         "rankitems": [
           {
             "description": "Damage:",
-            "value": "60/105/150/195/240 (+60% of your Magical Power)"
+            "value": "80/120/160/200/240 (+60% of your Magical Power)"
           },
           {
             "description": "Power Reduction:",
@@ -8109,20 +8109,20 @@
   {
     "Ability1": "Pounce",
     "Ability2": "Razor Whip",
-    "Ability3": "Declaw",
-    "Ability4": "Cat Call",
-    "Ability5": "Open Wound",
-    "AbilityId1": 10138,
-    "AbilityId2": 10001,
-    "AbilityId3": 7494,
-    "AbilityId4": 7513,
+    "Ability3": "Ensnaring Claw",
+    "Ability4": "Guardians of Bast",
+    "Ability5": "Tracking Scent",
+    "AbilityId1": 18286,
+    "AbilityId2": 18258,
+    "AbilityId3": 18299,
+    "AbilityId4": 18250,
     "AbilityId5": 9337,
     "Ability_1": {
       "Description": {
         "itemDescription": {
           "cooldown": "12s",
           "cost": "60/65/70/75/80",
-          "description": "Bastet pounces to her target location, damaging enemies within the radius. For 4 seconds after pouncing, you can press the button again to pounce back to your initial location. Bastet moves 25% faster while in the return pounce state.",
+          "description": "Bastet pounces to her target location, damaging enemies within the radius. For 4 seconds after pouncing, you can press the button again to pounce back to your initial location. Bastet moves 25% faster while in the return pounce state.\n\nIf Guardians of Bast is active, she will command her guardians to also pounce with her.",
           "menuitems": [
             {
               "description": "Ability:",
@@ -8144,12 +8144,12 @@
           "rankitems": [
             {
               "description": "Damage:",
-              "value": "80/145/210/275/340 (+100% of your Physical Power)"
+              "value": "80/145/210/275/340 (+90% of your Physical Power)"
             }
           ]
         }
       },
-      "Id": 10138,
+      "Id": 18286,
       "Summary": "Pounce",
       "URL": "https://web2.hirez.com/smite/god-abilities/pounce.jpg"
     },
@@ -8157,8 +8157,8 @@
       "Description": {
         "itemDescription": {
           "cooldown": "13s",
-          "cost": "60/65/70/75/80",
-          "description": "Bastet swipes at her enemies, causing them to Bleed for damage every second for the duration.",
+          "cost": "40/45/50/55/60",
+          "description": "Bastet swipes at her enemies, causing them to Bleed for damage every second for the duration.\n\nIf Guardians of Bast is active, she will command her guardians to also swipe at her enemies.",
           "menuitems": [
             {
               "description": "Ability:",
@@ -8185,20 +8185,20 @@
           ]
         }
       },
-      "Id": 10001,
+      "Id": 18258,
       "Summary": "Razor Whip",
       "URL": "https://web2.hirez.com/smite/god-abilities/razor-whip.jpg"
     },
     "Ability_3": {
       "Description": {
         "itemDescription": {
-          "cooldown": "10s",
-          "cost": "60",
-          "description": "Bastet throws her dagger, which detonates on her target dealing damage and slowing the enemies in the area.",
+          "cooldown": "12s",
+          "cost": "60/65/70/75/80",
+          "description": "Bastet sends a cat forward at her enemies. If a cat finds an enemy it ensnares them, damaging them and rooting them for .5s. The cat persists for 4s or until defeated, continuing to attack nearby enemies. The cats attacks will apply a 2s slow to the enemy.\n\nIf Guardians of Bast is active, she will command her guardians to also charge forward.",
           "menuitems": [
             {
               "description": "Ability:",
-              "value": "Projectile"
+              "value": "Line"
             },
             {
               "description": "Affects:",
@@ -8211,38 +8211,46 @@
           ],
           "rankitems": [
             {
-              "description": "Damage:",
-              "value": "70/120/170/220/270 (+100% of your Physical Power)"
+              "description": "Root Damage:",
+              "value": "60/95/130/165/200 (65% of your Physical Power)"
+            },
+            {
+              "description": "Cat Damage:",
+              "value": "20/25/30/35/40 (0% of your Inhand Power)"
+            },
+            {
+              "description": "Cat Hit Points:",
+              "value": "2"
+            },
+            {
+              "description": "Lane Minion Damage:",
+              "value": "1 HP lost per 5 hits"
             },
             {
               "description": "Slow:",
-              "value": "30%"
-            },
-            {
-              "description": "Slow Duration:",
-              "value": "2s"
+              "value": "25%"
             }
           ]
         }
       },
-      "Id": 7494,
-      "Summary": "Declaw",
-      "URL": "https://web2.hirez.com/smite/god-abilities/declaw.jpg"
+      "Id": 18299,
+      "Summary": "Ensnaring Claw",
+      "URL": "https://web2.hirez.com/smite/god-abilities/ensnaring-claw.jpg"
     },
     "Ability_4": {
       "Description": {
         "itemDescription": {
           "cooldown": "90s",
-          "cost": "90/95/100/105/110",
-          "description": "Bastet summons 3 cats that attack nearby targets for 10s, Slowing and damaging them. Sensing the smell of blood, the cats will attack enemies affected by Razor Whip first. When any cat is defeated Bastet will gain bonus Physical Power for 9 seconds, stacking up to 3 times.",
+          "cost": "80/85/90/95/100",
+          "description": "Bastet calls her loyal Guardian cats to her side. These Guardians will follow Bastet's order, assisting her in any ability she casts and dealing a percentage of Bastet's damage.",
           "menuitems": [
             {
               "description": "Ability:",
-              "value": "Pet"
+              "value": "Stim"
             },
             {
               "description": "Affects:",
-              "value": "Enemy"
+              "value": "Self"
             },
             {
               "description": "Damage:",
@@ -8251,38 +8259,26 @@
           ],
           "rankitems": [
             {
-              "description": "Damage per Hit:",
-              "value": "25/35/45/55/65 (+20% of your Physical Power)"
+              "description": "Guardian Damage:",
+              "value": "20/25/30/35/40%"
             },
             {
-              "description": "Cat Health:",
-              "value": "500/550/600/650/700"
-            },
-            {
-              "description": "Cat Protections:",
-              "value": "20/30/40/50/60"
-            },
-            {
-              "description": "Slow:",
-              "value": "20%"
-            },
-            {
-              "description": "Bonus Physical Power:",
-              "value": "7/9/11/13/15"
+              "description": "Duration:",
+              "value": "12s"
             }
           ]
         }
       },
-      "Id": 7513,
-      "Summary": "Cat Call",
-      "URL": "https://web2.hirez.com/smite/god-abilities/cat-call.jpg"
+      "Id": 18250,
+      "Summary": "Guardians of Bast",
+      "URL": "https://web2.hirez.com/smite/god-abilities/guardians-of-bast.jpg"
     },
     "Ability_5": {
       "Description": {
         "itemDescription": {
           "cooldown": "",
           "cost": "",
-          "description": "When Bastet hits an enemy with Pounce, Razor Whip or Declaw, she wounds the target for a brief time.  If the target has a wound, those abilities deal additional damage and remove the wound instead.",
+          "description": "When Bastet hits an enemy she marks the target for a brief time. Marked targets leave behind a scent trail Bastet can follow, gaining Movement Speed while in the scent trail.",
           "menuitems": [
             {
               "description": "Ability:",
@@ -8295,19 +8291,19 @@
           ],
           "rankitems": [
             {
-              "description": "Wound Duration:",
+              "description": "Scent Duration:",
               "value": "3s"
             },
             {
-              "description": "Additional Damage:",
+              "description": "Movement Speed:",
               "value": "20%"
             }
           ]
         }
       },
       "Id": 9337,
-      "Summary": "Open Wound",
-      "URL": "https://web2.hirez.com/smite/god-abilities/open-wound.jpg"
+      "Summary": "Tracking Scent",
+      "URL": "https://web2.hirez.com/smite/god-abilities/tracking-scent.jpg"
     },
     "AttackSpeed": 1,
     "AttackSpeedPerLevel": 0.02,
@@ -8341,7 +8337,7 @@
       "itemDescription": {
         "cooldown": "12s",
         "cost": "60/65/70/75/80",
-        "description": "Bastet pounces to her target location, damaging enemies within the radius. For 4 seconds after pouncing, you can press the button again to pounce back to your initial location. Bastet moves 25% faster while in the return pounce state.",
+        "description": "Bastet pounces to her target location, damaging enemies within the radius. For 4 seconds after pouncing, you can press the button again to pounce back to your initial location. Bastet moves 25% faster while in the return pounce state.\n\nIf Guardians of Bast is active, she will command her guardians to also pounce with her.",
         "menuitems": [
           {
             "description": "Ability:",
@@ -8363,7 +8359,7 @@
         "rankitems": [
           {
             "description": "Damage:",
-            "value": "80/145/210/275/340 (+100% of your Physical Power)"
+            "value": "80/145/210/275/340 (+90% of your Physical Power)"
           }
         ]
       }
@@ -8371,8 +8367,8 @@
     "abilityDescription2": {
       "itemDescription": {
         "cooldown": "13s",
-        "cost": "60/65/70/75/80",
-        "description": "Bastet swipes at her enemies, causing them to Bleed for damage every second for the duration.",
+        "cost": "40/45/50/55/60",
+        "description": "Bastet swipes at her enemies, causing them to Bleed for damage every second for the duration.\n\nIf Guardians of Bast is active, she will command her guardians to also swipe at her enemies.",
         "menuitems": [
           {
             "description": "Ability:",
@@ -8401,13 +8397,13 @@
     },
     "abilityDescription3": {
       "itemDescription": {
-        "cooldown": "10s",
-        "cost": "60",
-        "description": "Bastet throws her dagger, which detonates on her target dealing damage and slowing the enemies in the area.",
+        "cooldown": "12s",
+        "cost": "60/65/70/75/80",
+        "description": "Bastet sends a cat forward at her enemies. If a cat finds an enemy it ensnares them, damaging them and rooting them for .5s. The cat persists for 4s or until defeated, continuing to attack nearby enemies. The cats attacks will apply a 2s slow to the enemy.\n\nIf Guardians of Bast is active, she will command her guardians to also charge forward.",
         "menuitems": [
           {
             "description": "Ability:",
-            "value": "Projectile"
+            "value": "Line"
           },
           {
             "description": "Affects:",
@@ -8420,16 +8416,24 @@
         ],
         "rankitems": [
           {
-            "description": "Damage:",
-            "value": "70/120/170/220/270 (+100% of your Physical Power)"
+            "description": "Root Damage:",
+            "value": "60/95/130/165/200 (65% of your Physical Power)"
+          },
+          {
+            "description": "Cat Damage:",
+            "value": "20/25/30/35/40 (0% of your Inhand Power)"
+          },
+          {
+            "description": "Cat Hit Points:",
+            "value": "2"
+          },
+          {
+            "description": "Lane Minion Damage:",
+            "value": "1 HP lost per 5 hits"
           },
           {
             "description": "Slow:",
-            "value": "30%"
-          },
-          {
-            "description": "Slow Duration:",
-            "value": "2s"
+            "value": "25%"
           }
         ]
       }
@@ -8437,16 +8441,16 @@
     "abilityDescription4": {
       "itemDescription": {
         "cooldown": "90s",
-        "cost": "90/95/100/105/110",
-        "description": "Bastet summons 3 cats that attack nearby targets for 10s, Slowing and damaging them. Sensing the smell of blood, the cats will attack enemies affected by Razor Whip first. When any cat is defeated Bastet will gain bonus Physical Power for 9 seconds, stacking up to 3 times.",
+        "cost": "80/85/90/95/100",
+        "description": "Bastet calls her loyal Guardian cats to her side. These Guardians will follow Bastet's order, assisting her in any ability she casts and dealing a percentage of Bastet's damage.",
         "menuitems": [
           {
             "description": "Ability:",
-            "value": "Pet"
+            "value": "Stim"
           },
           {
             "description": "Affects:",
-            "value": "Enemy"
+            "value": "Self"
           },
           {
             "description": "Damage:",
@@ -8455,24 +8459,12 @@
         ],
         "rankitems": [
           {
-            "description": "Damage per Hit:",
-            "value": "25/35/45/55/65 (+20% of your Physical Power)"
+            "description": "Guardian Damage:",
+            "value": "20/25/30/35/40%"
           },
           {
-            "description": "Cat Health:",
-            "value": "500/550/600/650/700"
-          },
-          {
-            "description": "Cat Protections:",
-            "value": "20/30/40/50/60"
-          },
-          {
-            "description": "Slow:",
-            "value": "20%"
-          },
-          {
-            "description": "Bonus Physical Power:",
-            "value": "7/9/11/13/15"
+            "description": "Duration:",
+            "value": "12s"
           }
         ]
       }
@@ -8481,7 +8473,7 @@
       "itemDescription": {
         "cooldown": "",
         "cost": "",
-        "description": "When Bastet hits an enemy with Pounce, Razor Whip or Declaw, she wounds the target for a brief time.  If the target has a wound, those abilities deal additional damage and remove the wound instead.",
+        "description": "When Bastet hits an enemy she marks the target for a brief time. Marked targets leave behind a scent trail Bastet can follow, gaining Movement Speed while in the scent trail.",
         "menuitems": [
           {
             "description": "Ability:",
@@ -8494,11 +8486,11 @@
         ],
         "rankitems": [
           {
-            "description": "Wound Duration:",
+            "description": "Scent Duration:",
             "value": "3s"
           },
           {
-            "description": "Additional Damage:",
+            "description": "Movement Speed:",
             "value": "20%"
           }
         ]
@@ -8524,9 +8516,9 @@
     },
     "godAbility1_URL": "https://web2.hirez.com/smite/god-abilities/pounce.jpg",
     "godAbility2_URL": "https://web2.hirez.com/smite/god-abilities/razor-whip.jpg",
-    "godAbility3_URL": "https://web2.hirez.com/smite/god-abilities/declaw.jpg",
-    "godAbility4_URL": "https://web2.hirez.com/smite/god-abilities/cat-call.jpg",
-    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/open-wound.jpg",
+    "godAbility3_URL": "https://web2.hirez.com/smite/god-abilities/ensnaring-claw.jpg",
+    "godAbility4_URL": "https://web2.hirez.com/smite/god-abilities/guardians-of-bast.jpg",
+    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/tracking-scent.jpg",
     "godCard_URL": "https://web2.hirez.com/smite/god-cards/bastet.jpg",
     "godIcon_URL": "https://web2.hirez.com/smite/god-icons/bastet.jpg",
     "id": 1678,
@@ -9211,7 +9203,7 @@
     "ManaPerFive": 4.6,
     "ManaPerLevel": 38,
     "Name": "Cabrakan",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Mayan",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -9431,7 +9423,7 @@
     "Ability_1": {
       "Description": {
         "itemDescription": {
-          "cooldown": "12s",
+          "cooldown": "13s",
           "cost": "50/55/60/65/70",
           "description": "Camazotz screeches loudly and launches a sound wave that pierces through minions and deals damage.\n\nIf the screech hits an enemy god, the sound wave will echo. If Camazotz is hit by an echo, he gains vision of the god that was hit by screech for the next 15s and gains bonus Physical Power for the duration.",
           "menuitems": [
@@ -9473,7 +9465,7 @@
         "itemDescription": {
           "cooldown": "10s",
           "cost": "60/65/70/75/80",
-          "description": "Camazotz commands a swarm of bats to fly out and attack a single target, damaging and slowing them by 30% for 3s and then carrying back a heal.\n\nIf the target was a Large Jungle monster they will be marked and Camazotz will receive a heal as well as a stackable Vampirism buff that lasts 300s. Marked monsters will not provide Camazotz with another stack of Vampirism or an additional heal.",
+          "description": "Camazotz commands a swarm of bats to fly out and attack a single target, damaging and slowing them by 30% for 3s and then carrying back a heal.\n\nIf the target was a Buff Holder, Oracle, or Alpha Harpy, they will be marked and Camazotz will receive a heal as well as a stackable Vampirism buff that lasts 300s. Marked monsters will not provide Camazotz with another stack of Vampirism or an additional heal.",
           "menuitems": [
             {
               "description": "Ability:",
@@ -9503,7 +9495,7 @@
             },
             {
               "description": "Buff per Stack:",
-              "value": "4% Physical Lifesteal and Increased Healing"
+              "value": "3% Physical Lifesteal and Increased Healing"
             },
             {
               "description": "Max Buff Stacks:",
@@ -9627,7 +9619,7 @@
             },
             {
               "description": "Essence Drinker Buff:",
-              "value": "8% Physical Lifesteal and Increased Healing"
+              "value": "6% Physical Lifesteal and Increased Healing"
             }
           ]
         }
@@ -9666,7 +9658,7 @@
     "Type": " Melee, Physical",
     "abilityDescription1": {
       "itemDescription": {
-        "cooldown": "12s",
+        "cooldown": "13s",
         "cost": "50/55/60/65/70",
         "description": "Camazotz screeches loudly and launches a sound wave that pierces through minions and deals damage.\n\nIf the screech hits an enemy god, the sound wave will echo. If Camazotz is hit by an echo, he gains vision of the god that was hit by screech for the next 15s and gains bonus Physical Power for the duration.",
         "menuitems": [
@@ -9703,7 +9695,7 @@
       "itemDescription": {
         "cooldown": "10s",
         "cost": "60/65/70/75/80",
-        "description": "Camazotz commands a swarm of bats to fly out and attack a single target, damaging and slowing them by 30% for 3s and then carrying back a heal.\n\nIf the target was a Large Jungle monster they will be marked and Camazotz will receive a heal as well as a stackable Vampirism buff that lasts 300s. Marked monsters will not provide Camazotz with another stack of Vampirism or an additional heal.",
+        "description": "Camazotz commands a swarm of bats to fly out and attack a single target, damaging and slowing them by 30% for 3s and then carrying back a heal.\n\nIf the target was a Buff Holder, Oracle, or Alpha Harpy, they will be marked and Camazotz will receive a heal as well as a stackable Vampirism buff that lasts 300s. Marked monsters will not provide Camazotz with another stack of Vampirism or an additional heal.",
         "menuitems": [
           {
             "description": "Ability:",
@@ -9733,7 +9725,7 @@
           },
           {
             "description": "Buff per Stack:",
-            "value": "4% Physical Lifesteal and Increased Healing"
+            "value": "3% Physical Lifesteal and Increased Healing"
           },
           {
             "description": "Max Buff Stacks:",
@@ -9842,7 +9834,7 @@
           },
           {
             "description": "Essence Drinker Buff:",
-            "value": "8% Physical Lifesteal and Increased Healing"
+            "value": "6% Physical Lifesteal and Increased Healing"
           }
         ]
       }
@@ -10569,7 +10561,7 @@
     "Roles": " Hunter",
     "Speed": 365,
     "Title": "The Horned God",
-    "Type": " Ranged",
+    "Type": " Ranged, Physical",
     "abilityDescription1": {
       "itemDescription": {
         "cooldown": "0s",
@@ -11383,7 +11375,7 @@
     "ManaPerFive": 5.5,
     "ManaPerLevel": 48,
     "Name": "Chang'e",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Chinese",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -12959,7 +12951,7 @@
         "itemDescription": {
           "cooldown": "85s",
           "cost": "14 Rage",
-          "description": "Cu Chulainn swings his spear Gae Bulg in a circle around him, Damaging and Knocking Up all Enemies. Successfully hitting an enemy minion with this ability restores 10 Rage, 16 for a god (to a max of 36).\n\nIn his Berserk Form, Cu Chulainn instead gives a terrifying yell, Damaging all Enemies and causing them to Tremble. This yell costs no Rage and has a 35s cooldown.",
+          "description": "Cu Chulainn swings his spear Gae Bulg in a circle around him, Damaging and Knocking Up all Enemies. Successfully hitting an enemy minion with this ability restores 10 Rage, 26 for a god (to a max of 36).\n\nIn his Berserk Form, Cu Chulainn instead gives a terrifying yell, Damaging all Enemies and causing them to Tremble. This yell costs no Rage and has a 35s cooldown.",
           "menuitems": [
             {
               "description": "Ability:",
@@ -13029,7 +13021,7 @@
             },
             {
               "description": "Bonus Power:",
-              "value": "2 per level"
+              "value": "3 per level"
             }
           ]
         }
@@ -13183,7 +13175,7 @@
       "itemDescription": {
         "cooldown": "85s",
         "cost": "14 Rage",
-        "description": "Cu Chulainn swings his spear Gae Bulg in a circle around him, Damaging and Knocking Up all Enemies. Successfully hitting an enemy minion with this ability restores 10 Rage, 16 for a god (to a max of 36).\n\nIn his Berserk Form, Cu Chulainn instead gives a terrifying yell, Damaging all Enemies and causing them to Tremble. This yell costs no Rage and has a 35s cooldown.",
+        "description": "Cu Chulainn swings his spear Gae Bulg in a circle around him, Damaging and Knocking Up all Enemies. Successfully hitting an enemy minion with this ability restores 10 Rage, 26 for a god (to a max of 36).\n\nIn his Berserk Form, Cu Chulainn instead gives a terrifying yell, Damaging all Enemies and causing them to Tremble. This yell costs no Rage and has a 35s cooldown.",
         "menuitems": [
           {
             "description": "Ability:",
@@ -13248,7 +13240,7 @@
           },
           {
             "description": "Bonus Power:",
-            "value": "2 per level"
+            "value": "3 per level"
           }
         ]
       }
@@ -14372,7 +14364,7 @@
     "ManaPerFive": 5,
     "ManaPerLevel": 51,
     "Name": "Discordia",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Roman",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -15648,7 +15640,7 @@
     "ManaPerFive": 4.2,
     "ManaPerLevel": 35,
     "Name": "Fenrir",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Norse",
     "PhysicalPower": 38,
     "PhysicalPowerPerLevel": 2.3,
@@ -16012,7 +16004,7 @@
           "rankitems": [
             {
               "description": "Magical Lifesteal:",
-              "value": "15%"
+              "value": "10% + 0.25% per Level"
             }
           ]
         }
@@ -16195,7 +16187,7 @@
         "rankitems": [
           {
             "description": "Magical Lifesteal:",
-            "value": "15%"
+            "value": "10% + 0.25% per Level"
           }
         ]
       }
@@ -17277,7 +17269,7 @@
       "URL": "https://web2.hirez.com/smite/god-abilities/painless.jpg"
     },
     "AttackSpeed": 1,
-    "AttackSpeedPerLevel": 0.009,
+    "AttackSpeedPerLevel": 0.012,
     "Cons": "",
     "HP5PerLevel": 0.7,
     "Health": 480,
@@ -17291,7 +17283,7 @@
     "MagicalPowerPerLevel": 0,
     "Mana": 220,
     "ManaPerFive": 4.8,
-    "ManaPerLevel": 35,
+    "ManaPerLevel": 39,
     "Name": "Guan Yu",
     "OnFreeRotation": "",
     "Pantheon": "Chinese",
@@ -18103,7 +18095,7 @@
         "itemDescription": {
           "cooldown": "90s",
           "cost": "100",
-          "description": "Hades calls to all enemy souls nearby, pulling them closer to him over time, doing damage every .5s for 4s. If the enemy is Blighted, their Protections are reduced.  Hades also gains Protections for the duration.",
+          "description": "Hades calls to all enemy souls nearby, pulling them closer to him over time, doing damage every .5s for 4s. If the enemy is Blighted, their Protections are reduced.  Hades also gains Protections and 10% damage mitigation for the duration.",
           "menuitems": [
             {
               "description": "Ability:",
@@ -18182,9 +18174,9 @@
     "AttackSpeedPerLevel": 0.01,
     "Cons": "",
     "HP5PerLevel": 0.54,
-    "Health": 450,
+    "Health": 475,
     "HealthPerFive": 5,
-    "HealthPerLevel": 80,
+    "HealthPerLevel": 85,
     "Lore": "Inevitably, death sends everyone to Hades, God of the Underworld. In the end, he always gets his way.\\n\\nEldest son of the Titans Cronus and Rhea, Hades was swallowed by his father as an infant along with five other siblings. Zeus, the youngest brother, escaped this fate and freed them once he’d grown strong enough to battle Cronus. Together, the six siblings defeated the Titans and banished them to the dark realm of Tartarus. Now the reigning Gods, Zeus, Poseidon, and Hades drew lots for dominion. Hades drew the Underworld.\\n\\nOf the few that have entered the Underworld and come back, all speak dismally of the place, never wishing to return. Yet Hades, himself, rarely leaves the subterranean realm, constantly seeking ways to grow the numbers of the dead.\\n\\nWhen he desired a wife, Hades captured the radiant Persephone, daughter of the Goddess Demeter. Concealed in the Underworld, none could reach her, so Demeter cursed the land with a great famine. The other Gods pleaded with her to end it lest she destroy mankind, but she would not relent until her daughter was returned. Hades finally let Persephone leave, though not before feeding her pomegranate seeds. Having consumed the fruit, she was bound forever to Hades and required to return to her husband once per year to eat of the seeds again. This, it is said, is a time of mourning and the cause of winter.\\n\\nWhile many fear death and view it as evil, in truth, Hades endeavors only to keep balance. He is stern but fair. As God of the Dead and the Underworld, he views his authority on this matter absolute, forbidding anyone to leave his realm and growing wrathful when disobeyed or when someone tries to cheat death or steal from him.\\n\\nFor everyone, death is unavoidable and service to Hades inevitable. Even the Gods.",
     "MP5PerLevel": 0.36,
     "MagicProtection": 30,
@@ -18315,7 +18307,7 @@
       "itemDescription": {
         "cooldown": "90s",
         "cost": "100",
-        "description": "Hades calls to all enemy souls nearby, pulling them closer to him over time, doing damage every .5s for 4s. If the enemy is Blighted, their Protections are reduced.  Hades also gains Protections for the duration.",
+        "description": "Hades calls to all enemy souls nearby, pulling them closer to him over time, doing damage every .5s for 4s. If the enemy is Blighted, their Protections are reduced.  Hades also gains Protections and 10% damage mitigation for the duration.",
         "menuitems": [
           {
             "description": "Ability:",
@@ -18813,7 +18805,7 @@
         "itemDescription": {
           "cooldown": "14s",
           "cost": "50/55/60/65/70",
-          "description": "Heimdallr throws his sword, Hofuð, into the air. It shines with brilliant light that reveals enemies within 120 ft. Heimdallr can refire this ability to call the sword down, causing it to fly to the target location and damage enemies.",
+          "description": "Heimdallr throws his sword, Hofuð, into the air. It shines with brilliant light that reveals enemies within 120 units. Heimdallr can refire this ability to call the sword down, causing it to fly to the target location and damage enemies.",
           "menuitems": [
             {
               "description": "Ability:",
@@ -18835,7 +18827,7 @@
           "rankitems": [
             {
               "description": "Damage:",
-              "value": "70/130/190/250/310 (+105% of your Physical Power)"
+              "value": "70/130/190/250/310 (+85% of your Physical Power)"
             }
           ]
         }
@@ -18849,7 +18841,7 @@
         "itemDescription": {
           "cooldown": "14s",
           "cost": "60/65/70/75/80",
-          "description": "Heimdallr blows the Gjallarhorn for 2s, causing enemies in front of him to lose Movement and Attack Speed while taking damage every .5s. While blowing his horn Heimdallr is immune to knockups and gains bonus protections. When Heimdallr ends this cast, either through cancelling it himself or after 2s, he raises the Gjallarhorn for a final blast. This blast damages enemies and knocks them away from Heimdallr.",
+          "description": "Heimdallr blows the Gjallarhorn for 2s, causing enemies in front of him to lose Movement and Attack Speed while taking damage every .5s. While blowing his horn Heimdallr is immune to knockups. When Heimdallr ends this cast, either through cancelling it himself or after 2s, he raises the Gjallarhorn for a final blast. This blast damages enemies and knocks them away from Heimdallr.",
           "menuitems": [
             {
               "description": "Ability:",
@@ -18871,15 +18863,11 @@
           "rankitems": [
             {
               "description": "Damage Per Tick:",
-              "value": "8/16/24/32/40 (+45% of your Physical Power)"
+              "value": "8/16/24/32/40 (+30% of your Physical Power)"
             },
             {
               "description": "Knockback Damage:",
               "value": "50/90/130/170/210 (+60% of your Physical Power)"
-            },
-            {
-              "description": "Protections:",
-              "value": "8/16/24/32/40"
             },
             {
               "description": "Slow:",
@@ -18919,7 +18907,7 @@
           "rankitems": [
             {
               "description": "Distance Scale:",
-              "value": "85ft to 700ft"
+              "value": "85 to 700 units"
             },
             {
               "description": "Warmup Scale:",
@@ -18959,7 +18947,7 @@
           "rankitems": [
             {
               "description": "Hit Damage:",
-              "value": "150/240/330/420/510 (+110% of your Physical Power)"
+              "value": "150/240/330/420/510 (+90% of your Physical Power)"
             },
             {
               "description": "Muspelheim Damage:",
@@ -18967,7 +18955,7 @@
             },
             {
               "description": "Wall Hit Damage:",
-              "value": "35/75/115/155/195 (+45% of your Physical Power)"
+              "value": "35/75/115/155/195 (+30% of your Physical Power)"
             },
             {
               "description": "Niflheim Slow:",
@@ -18989,7 +18977,7 @@
         "itemDescription": {
           "cooldown": "",
           "cost": "",
-          "description": "When Heimdallr gains vision of a enemy god he gains Physical Power, up to a maximum of 5 gods. When an enemy god would disappear from vision (including Stealth) Heimdallr continues to see them for 4s. Heimdallr's Critical Strikes only deal 70% bonus damage.",
+          "description": "When Heimdallr gains vision of an enemy god he gains Physical Power, up to a maximum of 5 gods. When an enemy god would disappear from vision (including Stealth) Heimdallr continues to see them for 4s. Heimdallr's Critical Strikes only deal 70% bonus damage.",
           "menuitems": [
             {
               "description": "Ability:",
@@ -19003,7 +18991,7 @@
           "rankitems": [
             {
               "description": "Physical Power per Stack",
-              "value": "3%"
+              "value": "2%"
             }
           ]
         }
@@ -19039,12 +19027,12 @@
     "Roles": " Hunter",
     "Speed": 365,
     "Title": "The Vigilant",
-    "Type": " Ranged",
+    "Type": " Ranged, Physical",
     "abilityDescription1": {
       "itemDescription": {
         "cooldown": "14s",
         "cost": "50/55/60/65/70",
-        "description": "Heimdallr throws his sword, Hofuð, into the air. It shines with brilliant light that reveals enemies within 120 ft. Heimdallr can refire this ability to call the sword down, causing it to fly to the target location and damage enemies.",
+        "description": "Heimdallr throws his sword, Hofuð, into the air. It shines with brilliant light that reveals enemies within 120 units. Heimdallr can refire this ability to call the sword down, causing it to fly to the target location and damage enemies.",
         "menuitems": [
           {
             "description": "Ability:",
@@ -19066,7 +19054,7 @@
         "rankitems": [
           {
             "description": "Damage:",
-            "value": "70/130/190/250/310 (+105% of your Physical Power)"
+            "value": "70/130/190/250/310 (+85% of your Physical Power)"
           }
         ]
       }
@@ -19075,7 +19063,7 @@
       "itemDescription": {
         "cooldown": "14s",
         "cost": "60/65/70/75/80",
-        "description": "Heimdallr blows the Gjallarhorn for 2s, causing enemies in front of him to lose Movement and Attack Speed while taking damage every .5s. While blowing his horn Heimdallr is immune to knockups and gains bonus protections. When Heimdallr ends this cast, either through cancelling it himself or after 2s, he raises the Gjallarhorn for a final blast. This blast damages enemies and knocks them away from Heimdallr.",
+        "description": "Heimdallr blows the Gjallarhorn for 2s, causing enemies in front of him to lose Movement and Attack Speed while taking damage every .5s. While blowing his horn Heimdallr is immune to knockups. When Heimdallr ends this cast, either through cancelling it himself or after 2s, he raises the Gjallarhorn for a final blast. This blast damages enemies and knocks them away from Heimdallr.",
         "menuitems": [
           {
             "description": "Ability:",
@@ -19097,15 +19085,11 @@
         "rankitems": [
           {
             "description": "Damage Per Tick:",
-            "value": "8/16/24/32/40 (+45% of your Physical Power)"
+            "value": "8/16/24/32/40 (+30% of your Physical Power)"
           },
           {
             "description": "Knockback Damage:",
             "value": "50/90/130/170/210 (+60% of your Physical Power)"
-          },
-          {
-            "description": "Protections:",
-            "value": "8/16/24/32/40"
           },
           {
             "description": "Slow:",
@@ -19140,7 +19124,7 @@
         "rankitems": [
           {
             "description": "Distance Scale:",
-            "value": "85ft to 700ft"
+            "value": "85 to 700 units"
           },
           {
             "description": "Warmup Scale:",
@@ -19175,7 +19159,7 @@
         "rankitems": [
           {
             "description": "Hit Damage:",
-            "value": "150/240/330/420/510 (+110% of your Physical Power)"
+            "value": "150/240/330/420/510 (+90% of your Physical Power)"
           },
           {
             "description": "Muspelheim Damage:",
@@ -19183,7 +19167,7 @@
           },
           {
             "description": "Wall Hit Damage:",
-            "value": "35/75/115/155/195 (+45% of your Physical Power)"
+            "value": "35/75/115/155/195 (+30% of your Physical Power)"
           },
           {
             "description": "Niflheim Slow:",
@@ -19200,7 +19184,7 @@
       "itemDescription": {
         "cooldown": "",
         "cost": "",
-        "description": "When Heimdallr gains vision of a enemy god he gains Physical Power, up to a maximum of 5 gods. When an enemy god would disappear from vision (including Stealth) Heimdallr continues to see them for 4s. Heimdallr's Critical Strikes only deal 70% bonus damage.",
+        "description": "When Heimdallr gains vision of an enemy god he gains Physical Power, up to a maximum of 5 gods. When an enemy god would disappear from vision (including Stealth) Heimdallr continues to see them for 4s. Heimdallr's Critical Strikes only deal 70% bonus damage.",
         "menuitems": [
           {
             "description": "Ability:",
@@ -19214,7 +19198,7 @@
         "rankitems": [
           {
             "description": "Physical Power per Stack",
-            "value": "3%"
+            "value": "2%"
           }
         ]
       }
@@ -19231,7 +19215,7 @@
           },
           {
             "description": "Progression:",
-            "value": "1.3/1.3/1.5x damage and swing time, hitting in a 7.5 AoE on first two hits"
+            "value": "1.25/1.25/1.5x damage and 1.3/1.3/1.5 swing time, hitting in a 7.5 AoE on first two hits"
           }
         ],
         "rankitems": []
@@ -19245,7 +19229,7 @@
     "godCard_URL": "https://web2.hirez.com/smite/god-cards/heimdallr.jpg",
     "godIcon_URL": "https://web2.hirez.com/smite/god-icons/heimdallr.jpg",
     "id": 3812,
-    "latestGod": "y",
+    "latestGod": "n",
     "ret_msg": null
   },
   {
@@ -19373,6 +19357,10 @@
           ],
           "rankitems": [
             {
+              "description": "Dark Damage:",
+              "value": "80/130/180/230/280 (+70% of your Magical Power)"
+            },
+            {
               "description": "Light Self Heal: ",
               "value": "60/90/120/150/180 (+30% of your Magical Power)"
             },
@@ -19387,10 +19375,6 @@
             {
               "description": "Light Duration:",
               "value": "6s"
-            },
-            {
-              "description": "Dark Damage:",
-              "value": "80/130/180/230/280 (+70% of your Magical Power)"
             }
           ]
         }
@@ -19589,6 +19573,10 @@
         ],
         "rankitems": [
           {
+            "description": "Dark Damage:",
+            "value": "80/130/180/230/280 (+70% of your Magical Power)"
+          },
+          {
             "description": "Light Self Heal: ",
             "value": "60/90/120/150/180 (+30% of your Magical Power)"
           },
@@ -19603,10 +19591,6 @@
           {
             "description": "Light Duration:",
             "value": "6s"
-          },
-          {
-            "description": "Dark Damage:",
-            "value": "80/130/180/230/280 (+70% of your Magical Power)"
           }
         ]
       }
@@ -20783,7 +20767,7 @@
     "ManaPerFive": 4.7,
     "ManaPerLevel": 37,
     "Name": "Horus",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Egyptian",
     "PhysicalPower": 37,
     "PhysicalPowerPerLevel": 2.1,
@@ -21830,7 +21814,7 @@
           "rankitems": [
             {
               "description": "Damage:",
-              "value": "35/55/75/95/115 (+40% of your Magical Power)"
+              "value": "30/50/70/90/110 (+35% of your Magical Power)"
             },
             {
               "description": "Gusts Spawned:",
@@ -22081,7 +22065,7 @@
         "rankitems": [
           {
             "description": "Damage:",
-            "value": "35/55/75/95/115 (+40% of your Magical Power)"
+            "value": "30/50/70/90/110 (+35% of your Magical Power)"
           },
           {
             "description": "Gusts Spawned:",
@@ -22333,7 +22317,7 @@
     "Ability_2": {
       "Description": {
         "itemDescription": {
-          "cooldown": "16/15/14/13/12s",
+          "cooldown": "14/13.5/13/12.5/12s",
           "cost": "70",
           "description": "Izanami sends forth a demonic visage of herself to strike down her enemies, damaging and Slowing all Enemies in a line.\n\nIf an Enemy God is killed while slowed by this ability, future uses of the slow will be increased by 6% per kill up to twice, for a maximum of 30%.",
           "menuitems": [
@@ -22495,7 +22479,7 @@
     "ManaPerFive": 4.4,
     "ManaPerLevel": 35,
     "Name": "Izanami",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Japanese",
     "PhysicalPower": 36,
     "PhysicalPowerPerLevel": 2.4,
@@ -22535,7 +22519,7 @@
     },
     "abilityDescription2": {
       "itemDescription": {
-        "cooldown": "16/15/14/13/12s",
+        "cooldown": "14/13.5/13/12.5/12s",
         "cost": "70",
         "description": "Izanami sends forth a demonic visage of herself to strike down her enemies, damaging and Slowing all Enemies in a line.\n\nIf an Enemy God is killed while slowed by this ability, future uses of the slow will be increased by 6% per kill up to twice, for a maximum of 30%.",
         "menuitems": [
@@ -22669,7 +22653,7 @@
         "menuitems": [
           {
             "description": "Damage:",
-            "value": "27 + 1.8/Lvl (+75% of Physical Power) out; 9 + .6/Lvl (+25% of Physical Power) back"
+            "value": "27 + 1.8/Lvl (+75% of Physical Power) out; 12.6 + .6/Lvl (+35% of Physical Power) back"
           },
           {
             "description": "Progression:",
@@ -23223,7 +23207,7 @@
             },
             {
               "description": "Movement Speed:",
-              "value": "20%"
+              "value": "15%"
             },
             {
               "description": "Air Power:",
@@ -23231,7 +23215,7 @@
             },
             {
               "description": "Air Movement Speed:",
-              "value": "30%"
+              "value": "25%"
             }
           ]
         }
@@ -23427,7 +23411,7 @@
           },
           {
             "description": "Movement Speed:",
-            "value": "20%"
+            "value": "15%"
           },
           {
             "description": "Air Power:",
@@ -23435,7 +23419,7 @@
           },
           {
             "description": "Air Movement Speed:",
-            "value": "30%"
+            "value": "25%"
           }
         ]
       }
@@ -24580,7 +24564,7 @@
         "itemDescription": {
           "cooldown": "110s",
           "cost": "80/90/100/110/120",
-          "description": "Khepri blesses an allied god, immediately cleansing them of all crowd control as well as granting them Movement Speed, and immunity to slow effects. If the marked ally would die while blessed, they are instead revived with a percentage of their maximum Health at Khepri's location. Executed allies do no revive.",
+          "description": "Khepri blesses an allied god, immediately cleansing them of all crowd control as well as granting them Movement Speed, and immunity to slow effects. If the marked ally would die while blessed, they are instead revived with a percentage of their maximum Health at Khepri's location. Executed allies do not revive.",
           "menuitems": [
             {
               "description": "Ability:",
@@ -24788,7 +24772,7 @@
       "itemDescription": {
         "cooldown": "110s",
         "cost": "80/90/100/110/120",
-        "description": "Khepri blesses an allied god, immediately cleansing them of all crowd control as well as granting them Movement Speed, and immunity to slow effects. If the marked ally would die while blessed, they are instead revived with a percentage of their maximum Health at Khepri's location. Executed allies do no revive.",
+        "description": "Khepri blesses an allied god, immediately cleansing them of all crowd control as well as granting them Movement Speed, and immunity to slow effects. If the marked ally would die while blessed, they are instead revived with a percentage of their maximum Health at Khepri's location. Executed allies do not revive.",
         "menuitems": [
           {
             "description": "Ability:",
@@ -24887,7 +24871,7 @@
         "itemDescription": {
           "cooldown": "14s",
           "cost": "35/40/45/50/55",
-          "description": "Standard: King Arthur deals a devastating overhead blow in Melee range that creates a slashing attack that travels forwards. Enemies hit by the Melee strike take bonus damage from the Slicing attack. Combo: King Arthur swipes low, crippling and damaging enemies that are struck.",
+          "description": "Standard: King Arthur deals a devastating overhead blow in Melee range that creates a slashing attack that travels forwards. Enemies hit by the Melee strike take bonus damage from the Slicing attack.\r\n\r\nCombo: King Arthur swipes low, crippling and damaging enemies that are struck.",
           "menuitems": [
             {
               "description": "Ability:",
@@ -25166,7 +25150,7 @@
       "itemDescription": {
         "cooldown": "14s",
         "cost": "35/40/45/50/55",
-        "description": "Standard: King Arthur deals a devastating overhead blow in Melee range that creates a slashing attack that travels forwards. Enemies hit by the Melee strike take bonus damage from the Slicing attack. Combo: King Arthur swipes low, crippling and damaging enemies that are struck.",
+        "description": "Standard: King Arthur deals a devastating overhead blow in Melee range that creates a slashing attack that travels forwards. Enemies hit by the Melee strike take bonus damage from the Slicing attack.\r\n\r\nCombo: King Arthur swipes low, crippling and damaging enemies that are struck.",
         "menuitems": [
           {
             "description": "Ability:",
@@ -25456,7 +25440,7 @@
             },
             {
               "description": "Slow:",
-              "value": "30/35/40/45/50%"
+              "value": "20/25/30/35/40%"
             },
             {
               "description": "Slow Duration:",
@@ -25528,7 +25512,7 @@
           "rankitems": [
             {
               "description": "Damage per Tick:",
-              "value": "9/18/27/36/45 (+15% of your Magical Power)"
+              "value": "8/16/24/32/40 (+15% of your Magical Power)"
             },
             {
               "description": "Tornado Lifetime:",
@@ -25650,7 +25634,7 @@
           },
           {
             "description": "Slow:",
-            "value": "30/35/40/45/50%"
+            "value": "20/25/30/35/40%"
           },
           {
             "description": "Slow Duration:",
@@ -25712,7 +25696,7 @@
         "rankitems": [
           {
             "description": "Damage per Tick:",
-            "value": "9/18/27/36/45 (+15% of your Magical Power)"
+            "value": "8/16/24/32/40 (+15% of your Magical Power)"
           },
           {
             "description": "Tornado Lifetime:",
@@ -25961,7 +25945,7 @@
             },
             {
               "description": "Landing Damage:",
-              "value": "250/350/450/550/650 (+40% of your Magical Power)"
+              "value": "200/290/380/470/560 (+40% of your Magical Power)"
             },
             {
               "description": "Knockup Time:",
@@ -26160,7 +26144,7 @@
           },
           {
             "description": "Landing Damage:",
-            "value": "250/350/450/550/650 (+40% of your Magical Power)"
+            "value": "200/290/380/470/560 (+40% of your Magical Power)"
           },
           {
             "description": "Knockup Time:",
@@ -28350,6 +28334,513 @@
     "ret_msg": null
   },
   {
+    "Ability1": "Cross Strike",
+    "Ability2": "Spear Thrust",
+    "Ability3": "Grapple",
+    "Ability4": "Divine Mastery",
+    "Ability5": "Training Arc",
+    "AbilityId1": 17913,
+    "AbilityId2": 17914,
+    "AbilityId3": 17915,
+    "AbilityId4": 17916,
+    "AbilityId5": 17912,
+    "Ability_1": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "16/15/14/13/12s",
+          "cost": "60/65/70/75/80",
+          "description": "Mulan swings her sword with precision, striking twice and dealing damage to all enemies hit.\n\nSkilled - Mulan gains an Attack Speed increase after using this ability.\nAdept - Mulan strikes a third time in a large cone in front of her.\nMastered - Mulan gains 5% Attack Speed.",
+          "menuitems": [
+            {
+              "description": "Ability:",
+              "value": "Area"
+            },
+            {
+              "description": "Affects:",
+              "value": "Enemies"
+            },
+            {
+              "description": "Damage:",
+              "value": "Physical"
+            },
+            {
+              "description": "Radius:",
+              "value": "25"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Damage per Hit:",
+              "value": "75/95/115/135/155 (+30% of your Physical Power)"
+            },
+            {
+              "description": "Attack Speed:",
+              "value": "25%"
+            },
+            {
+              "description": "Duration:",
+              "value": "4s"
+            }
+          ]
+        }
+      },
+      "Id": 17913,
+      "Summary": "Cross Strike",
+      "URL": "https://web2.hirez.com/smite/god-abilities/cross-strike.jpg"
+    },
+    "Ability_2": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "14s",
+          "cost": "50/55/60/65/70",
+          "description": "Mulan brings forth her spear striking in front of her, dealing damage and slowing all enemies hit.\n\nSkilled - Mulan heals for up to 3 enemies hit.\nAdept - Mulan strikes a second time further in front of her, dealing bonus damage if she hits the same enemy.\nMastered - Mulan gains 5% Power.",
+          "menuitems": [
+            {
+              "description": "Ability:",
+              "value": "Line"
+            },
+            {
+              "description": "Affects:",
+              "value": "Enemies"
+            },
+            {
+              "description": "Damage:",
+              "value": "Physical"
+            },
+            {
+              "description": "Range:",
+              "value": "25"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Damage per Hit:",
+              "value": "120/155/190/225/260 (+35% of your Physical Power)"
+            },
+            {
+              "description": "Slow:",
+              "value": "30%"
+            },
+            {
+              "description": "Duration:",
+              "value": "2s"
+            },
+            {
+              "description": "Heal:",
+              "value": "15/30/45/60/75 (+10% of your Physical Power)"
+            },
+            {
+              "description": "Bonus Damage:",
+              "value": "20/35/50/65/80 (+15% of your Physical Power)"
+            }
+          ]
+        }
+      },
+      "Id": 17914,
+      "Summary": "Spear Thrust",
+      "URL": "https://web2.hirez.com/smite/god-abilities/spear-thrust.jpg"
+    },
+    "Ability_3": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "16s",
+          "cost": "60",
+          "description": "Mulan readies herself and fires an arrow with a rope attached to it. If she hits an enemy god she stuns them, dealing damage and pulling them towards her while dashing and hitting them again for extra damage.\n\nSkilled - Mulan gains a Protection buff after hitting an enemy god.\nAdept - Mulan is able to dash to walls.\nMastered - Mulan gains 5% Movement Speed.",
+          "menuitems": [
+            {
+              "description": "Ability:",
+              "value": "Projectile, Dash"
+            },
+            {
+              "description": "Affects:",
+              "value": "Enemy Gods"
+            },
+            {
+              "description": "Damage:",
+              "value": "Physical"
+            },
+            {
+              "description": "Range:",
+              "value": "60"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Arrow Damage:",
+              "value": "90/135/180/225/270 (+50% of your Physical Power)"
+            },
+            {
+              "description": "Stun Duration:",
+              "value": "0.8s"
+            },
+            {
+              "description": "Bonus Damage:",
+              "value": "40/50/60/70/80 (+20% of your Physical Power)"
+            },
+            {
+              "description": "Protection Increase:",
+              "value": "15/20/25/30/35"
+            },
+            {
+              "description": "Duration:",
+              "value": "4s"
+            }
+          ]
+        }
+      },
+      "Id": 17915,
+      "Summary": "Grapple",
+      "URL": "https://web2.hirez.com/smite/god-abilities/grapple.jpg"
+    },
+    "Ability_4": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "100s",
+          "cost": "100",
+          "description": "Mulan brings forth her entire arsenal dashing forwards with sword slashes, dealing damage and rooting enemies for 1s.\n\nIf she hits an enemy god during the dash, Mulan uses her new divine energy to knock up enemies with her spear before firing a large projectile attack with her bow.\n\nDealing damage with any part of this ability gains Skill towards the weapon used.",
+          "menuitems": [
+            {
+              "description": "Ability:",
+              "value": "Dash, Line, Projectile"
+            },
+            {
+              "description": "Affects:",
+              "value": "Enemies"
+            },
+            {
+              "description": "Damage:",
+              "value": "Physical"
+            },
+            {
+              "description": "Range:",
+              "value": "65, 65, 85"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Sword Damage:",
+              "value": "80/140/200/260/320 (+60% of your Physical Power)"
+            },
+            {
+              "description": "Spear Damage:",
+              "value": "100/140/180/220/260 (+40% of your Physical Power)"
+            },
+            {
+              "description": "Arrow Damage:",
+              "value": "150/200/250/300/350 (+50% of your Physical Power)"
+            }
+          ]
+        }
+      },
+      "Id": 17916,
+      "Summary": "Divine Mastery",
+      "URL": "https://web2.hirez.com/smite/god-abilities/divine-mastery.jpg"
+    },
+    "Ability_5": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "",
+          "cost": "",
+          "description": "Mulan utilizes a Sword, Spear and Bow with her abilities and can gain Skill towards them by damaging enemy gods. Her expertise in each weapon provides different bonuses. Mulan also gains a buff every 10 seconds that reduces the cooldown of the next non-ultimate ability used by 2 seconds.",
+          "menuitems": [
+            {
+              "description": "Ability:",
+              "value": "Buff"
+            },
+            {
+              "description": "Affects:",
+              "value": "Self"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Sword Skill:",
+              "value": "600/ 2400/ 6000 damage done"
+            },
+            {
+              "description": "Spear Skill:",
+              "value": "600/ 2400/ 6000 damage done"
+            },
+            {
+              "description": "Bow Skill:",
+              "value": "300/ 700/ 1500 damage done"
+            },
+            {
+              "description": "Skill gain for Minions:",
+              "value": "20%"
+            }
+          ]
+        }
+      },
+      "Id": 17912,
+      "Summary": "Training Arc",
+      "URL": "https://web2.hirez.com/smite/god-abilities/training-arc.jpg"
+    },
+    "AttackSpeed": 1,
+    "AttackSpeedPerLevel": 0.01,
+    "Cons": "",
+    "HP5PerLevel": 0.7,
+    "Health": 480,
+    "HealthPerFive": 9,
+    "HealthPerLevel": 82,
+    "Lore": "There are many stories about the girl who became a hero. Most are embellished, the events polished to a legendary sheen. They say that Hua Mulan was blessed, that her bow and blade were gifts of the gods. That she was wise beyond measure, and stronger than a hundred warriors, for her heart was pure. That she became the sworn sister of the king’s daughter. That she returned home and married a prince, or perhaps a farmer. That she died.\\n\\nBut every story, no matter how outlandish, has a grain of truth to it. And this is the truth of Hua Mulan. China was invaded and a man from every family was called to serve in the army. But her father was old and her brother a child, and so for love’s sake, she set aside her loom and went to war in their place. She disguised herself as a young man, and no one was the wiser, for her father had trained her in the ways of the bow and the blade, making her the equal of any man in the army.\\n\\nFor twelve years, she maintained the pretence. She fought well against the enemies of China, attaining rank and the loyalty of her fellow soldiers. She led men into battle more than once, setting herself where the fighting was thickest so that those who followed her might see her and take heart. At the end of that twelve years, she was offered a high rank, but turned it down. Instead, having grown tired of war, she asked only that she might return home to her family. And so she did, her duty complete.\\n\\nBut some stories do not end when the hero returns home. For some stories, that is only the beginning. For now, a new danger stirs, and Hua Mulan must once more take up her weapons in defense of her homeland...",
+    "MP5PerLevel": 0.4,
+    "MagicProtection": 30,
+    "MagicProtectionPerLevel": 0.9,
+    "MagicalPower": 0,
+    "MagicalPowerPerLevel": 0,
+    "Mana": 220,
+    "ManaPerFive": 4.7,
+    "ManaPerLevel": 38,
+    "Name": "Mulan",
+    "OnFreeRotation": "",
+    "Pantheon": "Chinese",
+    "PhysicalPower": 39,
+    "PhysicalPowerPerLevel": 2.2,
+    "PhysicalProtection": 18,
+    "PhysicalProtectionPerLevel": 3,
+    "Pros": " High Area Damage",
+    "Roles": " Warrior",
+    "Speed": 375,
+    "Title": "The Ascendant Warrior",
+    "Type": " Melee, Physical",
+    "abilityDescription1": {
+      "itemDescription": {
+        "cooldown": "16/15/14/13/12s",
+        "cost": "60/65/70/75/80",
+        "description": "Mulan swings her sword with precision, striking twice and dealing damage to all enemies hit.\n\nSkilled - Mulan gains an Attack Speed increase after using this ability.\nAdept - Mulan strikes a third time in a large cone in front of her.\nMastered - Mulan gains 5% Attack Speed.",
+        "menuitems": [
+          {
+            "description": "Ability:",
+            "value": "Area"
+          },
+          {
+            "description": "Affects:",
+            "value": "Enemies"
+          },
+          {
+            "description": "Damage:",
+            "value": "Physical"
+          },
+          {
+            "description": "Radius:",
+            "value": "25"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Damage per Hit:",
+            "value": "75/95/115/135/155 (+30% of your Physical Power)"
+          },
+          {
+            "description": "Attack Speed:",
+            "value": "25%"
+          },
+          {
+            "description": "Duration:",
+            "value": "4s"
+          }
+        ]
+      }
+    },
+    "abilityDescription2": {
+      "itemDescription": {
+        "cooldown": "14s",
+        "cost": "50/55/60/65/70",
+        "description": "Mulan brings forth her spear striking in front of her, dealing damage and slowing all enemies hit.\n\nSkilled - Mulan heals for up to 3 enemies hit.\nAdept - Mulan strikes a second time further in front of her, dealing bonus damage if she hits the same enemy.\nMastered - Mulan gains 5% Power.",
+        "menuitems": [
+          {
+            "description": "Ability:",
+            "value": "Line"
+          },
+          {
+            "description": "Affects:",
+            "value": "Enemies"
+          },
+          {
+            "description": "Damage:",
+            "value": "Physical"
+          },
+          {
+            "description": "Range:",
+            "value": "25"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Damage per Hit:",
+            "value": "120/155/190/225/260 (+35% of your Physical Power)"
+          },
+          {
+            "description": "Slow:",
+            "value": "30%"
+          },
+          {
+            "description": "Duration:",
+            "value": "2s"
+          },
+          {
+            "description": "Heal:",
+            "value": "15/30/45/60/75 (+10% of your Physical Power)"
+          },
+          {
+            "description": "Bonus Damage:",
+            "value": "20/35/50/65/80 (+15% of your Physical Power)"
+          }
+        ]
+      }
+    },
+    "abilityDescription3": {
+      "itemDescription": {
+        "cooldown": "16s",
+        "cost": "60",
+        "description": "Mulan readies herself and fires an arrow with a rope attached to it. If she hits an enemy god she stuns them, dealing damage and pulling them towards her while dashing and hitting them again for extra damage.\n\nSkilled - Mulan gains a Protection buff after hitting an enemy god.\nAdept - Mulan is able to dash to walls.\nMastered - Mulan gains 5% Movement Speed.",
+        "menuitems": [
+          {
+            "description": "Ability:",
+            "value": "Projectile, Dash"
+          },
+          {
+            "description": "Affects:",
+            "value": "Enemy Gods"
+          },
+          {
+            "description": "Damage:",
+            "value": "Physical"
+          },
+          {
+            "description": "Range:",
+            "value": "60"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Arrow Damage:",
+            "value": "90/135/180/225/270 (+50% of your Physical Power)"
+          },
+          {
+            "description": "Stun Duration:",
+            "value": "0.8s"
+          },
+          {
+            "description": "Bonus Damage:",
+            "value": "40/50/60/70/80 (+20% of your Physical Power)"
+          },
+          {
+            "description": "Protection Increase:",
+            "value": "15/20/25/30/35"
+          },
+          {
+            "description": "Duration:",
+            "value": "4s"
+          }
+        ]
+      }
+    },
+    "abilityDescription4": {
+      "itemDescription": {
+        "cooldown": "100s",
+        "cost": "100",
+        "description": "Mulan brings forth her entire arsenal dashing forwards with sword slashes, dealing damage and rooting enemies for 1s.\n\nIf she hits an enemy god during the dash, Mulan uses her new divine energy to knock up enemies with her spear before firing a large projectile attack with her bow.\n\nDealing damage with any part of this ability gains Skill towards the weapon used.",
+        "menuitems": [
+          {
+            "description": "Ability:",
+            "value": "Dash, Line, Projectile"
+          },
+          {
+            "description": "Affects:",
+            "value": "Enemies"
+          },
+          {
+            "description": "Damage:",
+            "value": "Physical"
+          },
+          {
+            "description": "Range:",
+            "value": "65, 65, 85"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Sword Damage:",
+            "value": "80/140/200/260/320 (+60% of your Physical Power)"
+          },
+          {
+            "description": "Spear Damage:",
+            "value": "100/140/180/220/260 (+40% of your Physical Power)"
+          },
+          {
+            "description": "Arrow Damage:",
+            "value": "150/200/250/300/350 (+50% of your Physical Power)"
+          }
+        ]
+      }
+    },
+    "abilityDescription5": {
+      "itemDescription": {
+        "cooldown": "",
+        "cost": "",
+        "description": "Mulan utilizes a Sword, Spear and Bow with her abilities and can gain Skill towards them by damaging enemy gods. Her expertise in each weapon provides different bonuses. Mulan also gains a buff every 10 seconds that reduces the cooldown of the next non-ultimate ability used by 2 seconds.",
+        "menuitems": [
+          {
+            "description": "Ability:",
+            "value": "Buff"
+          },
+          {
+            "description": "Affects:",
+            "value": "Self"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Sword Skill:",
+            "value": "600/ 2400/ 6000 damage done"
+          },
+          {
+            "description": "Spear Skill:",
+            "value": "600/ 2400/ 6000 damage done"
+          },
+          {
+            "description": "Bow Skill:",
+            "value": "300/ 700/ 1500 damage done"
+          },
+          {
+            "description": "Skill gain for Minions:",
+            "value": "20%"
+          }
+        ]
+      }
+    },
+    "basicAttack": {
+      "itemDescription": {
+        "cooldown": "",
+        "cost": "",
+        "description": "",
+        "menuitems": [
+          {
+            "description": "Damage:",
+            "value": "37 + 2/Lvl (+100% of Physical Power)"
+          },
+          {
+            "description": "Progression:",
+            "value": "1/1/1.25x damage and swing time, hitting in an AoE on the final blow"
+          }
+        ],
+        "rankitems": []
+      }
+    },
+    "godAbility1_URL": "https://web2.hirez.com/smite/god-abilities/cross-strike.jpg",
+    "godAbility2_URL": "https://web2.hirez.com/smite/god-abilities/spear-thrust.jpg",
+    "godAbility3_URL": "https://web2.hirez.com/smite/god-abilities/grapple.jpg",
+    "godAbility4_URL": "https://web2.hirez.com/smite/god-abilities/divine-mastery.jpg",
+    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/training-arc.jpg",
+    "godCard_URL": "https://web2.hirez.com/smite/god-cards/mulan.jpg",
+    "godIcon_URL": "https://web2.hirez.com/smite/god-icons/mulan.jpg",
+    "id": 3881,
+    "latestGod": "y",
+    "ret_msg": null
+  },
+  {
     "Ability1": "Universe Ring Toss",
     "Ability2": "Flaming Spear",
     "Ability3": "Armillary Sash",
@@ -28391,7 +28882,7 @@
             },
             {
               "description": "Protections Debuff:",
-              "value": "10/11/12/13/14 per hit"
+              "value": "5/7/9/11/13 per hit"
             },
             {
               "description": "Slow:",
@@ -28511,7 +29002,7 @@
           "rankitems": [
             {
               "description": "Damage per Hit:",
-              "value": "30/50/70/90/110 (+30% of your Physical Power)"
+              "value": "20/35/50/65/80 (+35% of your Physical Power)"
             },
             {
               "description": "Damage (Initial/Landing):",
@@ -28614,7 +29105,7 @@
           },
           {
             "description": "Protections Debuff:",
-            "value": "10/11/12/13/14 per hit"
+            "value": "5/7/9/11/13 per hit"
           },
           {
             "description": "Slow:",
@@ -28719,7 +29210,7 @@
         "rankitems": [
           {
             "description": "Damage per Hit:",
-            "value": "30/50/70/90/110 (+30% of your Physical Power)"
+            "value": "20/35/50/65/80 (+35% of your Physical Power)"
           },
           {
             "description": "Damage (Initial/Landing):",
@@ -29235,7 +29726,7 @@
           "rankitems": [
             {
               "description": "Damage:",
-              "value": "50/80/110/140/170 (+30% of your Physical Power)"
+              "value": "50/80/110/140/170 (+35% of your Physical Power)"
             }
           ]
         }
@@ -29454,7 +29945,7 @@
         "rankitems": [
           {
             "description": "Damage:",
-            "value": "50/80/110/140/170 (+30% of your Physical Power)"
+            "value": "50/80/110/140/170 (+35% of your Physical Power)"
           }
         ]
       }
@@ -29662,7 +30153,7 @@
           "rankitems": [
             {
               "description": "Damage:",
-              "value": "50/80/110/140/170 (+40% of your Physical Power)"
+              "value": "60/90/120/150/180 (+40% of your Physical Power)"
             },
             {
               "description": "Protections Shred:",
@@ -29706,7 +30197,7 @@
           "rankitems": [
             {
               "description": "Damage:",
-              "value": "65/120/175/230/285 (+50% of your Physical Power)"
+              "value": "85/140/195/250/305 (+50% of your Physical Power)"
             },
             {
               "description": "Repel Damage:",
@@ -29726,7 +30217,7 @@
     "Ability_3": {
       "Description": {
         "itemDescription": {
-          "cooldown": "18s",
+          "cooldown": "16s",
           "cost": "55/60/65/70/75",
           "description": "Nike leaps into the air, then crashes down at a location dealing damage and knocking up enemies.",
           "menuitems": [
@@ -29852,7 +30343,7 @@
     "Cons": "",
     "HP5PerLevel": 0.8,
     "Health": 480,
-    "HealthPerFive": 7,
+    "HealthPerFive": 10,
     "HealthPerLevel": 83,
     "Lore": "It is often said that history is written by the victor. If that is true, then history is shaped by a single Goddess: Nike, the winged warrior.\\n\\nWhen the fastest runner bears a golden medal, when a cunning hunter slays the fiercest beast, when the soldiers seize the day, the Faithful of Olympus praise Nike. Without her favor, failure is ensured, and obscurity certain.\\n\\nEven mighty Zeus, a king among Gods, seeks the favor of Nike. On the smoke strewn fields of antiquity, when the God of Thunder marched against his Titan forebears, Nike fought by his side, her dauntless blade inspiring confidence in her allies as they faced an impossible foe. Without her, all the heavens are left to wonder if Zeus would have carried that day. Had Zeus fallen, the world as it is known would have fallen with him.\\n\\nSo, all hail the victor! She has finally taken the field. As Gods and Gorgons clash and battles most fierce and foul are fought, she alone shapes the day. For history is written by the victor, and Nike is victory incarnate.",
     "MP5PerLevel": 0.39,
@@ -29897,7 +30388,7 @@
         "rankitems": [
           {
             "description": "Damage:",
-            "value": "50/80/110/140/170 (+40% of your Physical Power)"
+            "value": "60/90/120/150/180 (+40% of your Physical Power)"
           },
           {
             "description": "Protections Shred:",
@@ -29936,7 +30427,7 @@
         "rankitems": [
           {
             "description": "Damage:",
-            "value": "65/120/175/230/285 (+50% of your Physical Power)"
+            "value": "85/140/195/250/305 (+50% of your Physical Power)"
           },
           {
             "description": "Repel Damage:",
@@ -29951,7 +30442,7 @@
     },
     "abilityDescription3": {
       "itemDescription": {
-        "cooldown": "18s",
+        "cooldown": "16s",
         "cost": "55/60/65/70/75",
         "description": "Nike leaps into the air, then crashes down at a location dealing damage and knocking up enemies.",
         "menuitems": [
@@ -30955,8 +31446,8 @@
     "Ability5": "Path to Valhalla",
     "AbilityId1": 7598,
     "AbilityId2": 10488,
-    "AbilityId3": 7284,
-    "AbilityId4": 10479,
+    "AbilityId3": 18301,
+    "AbilityId4": 18099,
     "AbilityId5": 10489,
     "Ability_1": {
       "Description": {
@@ -31041,13 +31532,13 @@
     "Ability_3": {
       "Description": {
         "itemDescription": {
-          "cooldown": "10s",
-          "cost": "70",
-          "description": "Odin does a sweeping spear attack that hits twice dealing damage and Slowing all enemies around him on both hits.",
+          "cooldown": "12s",
+          "cost": "70/75/80/85/90",
+          "description": "Odin begins empowering Gungnir with Runic Magic, becoming immune to knockbacks. Every .7s Gungnir changes runes and Odin pulses out damage around him, slowing enemies for 2s. When Odin releases Gungnir it travels forward, damaging enemies and stopping on the first god hit. The first rune causes allies around Odin to gain Attack Speed for 3s. The second allows Gungnir to home onto enemy gods. The last rune allows Gungnir to stun.",
           "menuitems": [
             {
               "description": "Ability:",
-              "value": "Area"
+              "value": "Line"
             },
             {
               "description": "Affects:",
@@ -31064,21 +31555,29 @@
           ],
           "rankitems": [
             {
-              "description": "Damage Per Hit:",
-              "value": "45/65/85/105/125 (+30% of your Physical Power)"
+              "description": "Pulse Damage:",
+              "value": "20/40/60/80/100 (+20% of your Physical Power)"
             },
             {
-              "description": "Slow:",
-              "value": "40%"
+              "description": "Pulse Slow:",
+              "value": "20%"
             },
             {
-              "description": "Slow Duration:",
-              "value": "2/2.2/2.4/2.6/2.8s"
+              "description": "Gungnir Damage:",
+              "value": "60/110/160/210/260 (+60% of your Physical Power)"
+            },
+            {
+              "description": "Attack Speed:",
+              "value": "30%"
+            },
+            {
+              "description": "Stun Duration:",
+              "value": "1.2s"
             }
           ]
         }
       },
-      "Id": 7284,
+      "Id": 18301,
       "Summary": "Gungnir's Might",
       "URL": "https://web2.hirez.com/smite/god-abilities/gungnirs-might.jpg"
     },
@@ -31087,7 +31586,7 @@
         "itemDescription": {
           "cooldown": "75",
           "cost": "100",
-          "description": "Odin summons a wall of spears that blocks his enemies movement, but Odin and his allies may move freely through. It does not block attacks. Enemies inside the ring are prevented from healing. Odin is immune to Slow and Root effects while in his Ring.\r\n\r\nEnemies that die inside Ring of Spears grant Odin a permanent bonus to Physical Power.",
+          "description": "Odin summons a wall of spears that blocks his enemies movement. Enemies inside the ring cannot heal. Odin is immune to Slow and Root effects while in his Ring. A portion of the wall can be destroyed when hit by 5 Basic Attacks. Enemies that leave the ring through or over a wall are chased by Gungnir, taking damage and becoming slowed for 2.5s. Enemies that die inside Ring of Spears grant Odin a permanent bonus to Physical Power.",
           "menuitems": [
             {
               "description": "Ability:",
@@ -31104,6 +31603,10 @@
           ],
           "rankitems": [
             {
+              "description": "Damage:",
+              "value": "120/190/260/330/400 (+75% of your Physical Power)"
+            },
+            {
               "description": "Duration:",
               "value": "4/4.5/5/5.5/6s"
             },
@@ -31114,11 +31617,15 @@
             {
               "description": "Healing Reduction:",
               "value": "All Healing"
+            },
+            {
+              "description": "Slow:",
+              "value": "25%"
             }
           ]
         }
       },
-      "Id": 10479,
+      "Id": 18099,
       "Summary": "Ring of Spears",
       "URL": "https://web2.hirez.com/smite/god-abilities/ring-of-spears.jpg"
     },
@@ -31258,13 +31765,13 @@
     },
     "abilityDescription3": {
       "itemDescription": {
-        "cooldown": "10s",
-        "cost": "70",
-        "description": "Odin does a sweeping spear attack that hits twice dealing damage and Slowing all enemies around him on both hits.",
+        "cooldown": "12s",
+        "cost": "70/75/80/85/90",
+        "description": "Odin begins empowering Gungnir with Runic Magic, becoming immune to knockbacks. Every .7s Gungnir changes runes and Odin pulses out damage around him, slowing enemies for 2s. When Odin releases Gungnir it travels forward, damaging enemies and stopping on the first god hit. The first rune causes allies around Odin to gain Attack Speed for 3s. The second allows Gungnir to home onto enemy gods. The last rune allows Gungnir to stun.",
         "menuitems": [
           {
             "description": "Ability:",
-            "value": "Area"
+            "value": "Line"
           },
           {
             "description": "Affects:",
@@ -31281,16 +31788,24 @@
         ],
         "rankitems": [
           {
-            "description": "Damage Per Hit:",
-            "value": "45/65/85/105/125 (+30% of your Physical Power)"
+            "description": "Pulse Damage:",
+            "value": "20/40/60/80/100 (+20% of your Physical Power)"
           },
           {
-            "description": "Slow:",
-            "value": "40%"
+            "description": "Pulse Slow:",
+            "value": "20%"
           },
           {
-            "description": "Slow Duration:",
-            "value": "2/2.2/2.4/2.6/2.8s"
+            "description": "Gungnir Damage:",
+            "value": "60/110/160/210/260 (+60% of your Physical Power)"
+          },
+          {
+            "description": "Attack Speed:",
+            "value": "30%"
+          },
+          {
+            "description": "Stun Duration:",
+            "value": "1.2s"
           }
         ]
       }
@@ -31299,7 +31814,7 @@
       "itemDescription": {
         "cooldown": "75",
         "cost": "100",
-        "description": "Odin summons a wall of spears that blocks his enemies movement, but Odin and his allies may move freely through. It does not block attacks. Enemies inside the ring are prevented from healing. Odin is immune to Slow and Root effects while in his Ring.\r\n\r\nEnemies that die inside Ring of Spears grant Odin a permanent bonus to Physical Power.",
+        "description": "Odin summons a wall of spears that blocks his enemies movement. Enemies inside the ring cannot heal. Odin is immune to Slow and Root effects while in his Ring. A portion of the wall can be destroyed when hit by 5 Basic Attacks. Enemies that leave the ring through or over a wall are chased by Gungnir, taking damage and becoming slowed for 2.5s. Enemies that die inside Ring of Spears grant Odin a permanent bonus to Physical Power.",
         "menuitems": [
           {
             "description": "Ability:",
@@ -31316,6 +31831,10 @@
         ],
         "rankitems": [
           {
+            "description": "Damage:",
+            "value": "120/190/260/330/400 (+75% of your Physical Power)"
+          },
+          {
             "description": "Duration:",
             "value": "4/4.5/5/5.5/6s"
           },
@@ -31326,6 +31845,10 @@
           {
             "description": "Healing Reduction:",
             "value": "All Healing"
+          },
+          {
+            "description": "Slow:",
+            "value": "25%"
           }
         ]
       }
@@ -34048,7 +34571,7 @@
           "rankitems": [
             {
               "description": "Damage per Shot:",
-              "value": "25/40/55/70/85 (+30% of your Magical Power)"
+              "value": "30/45/60/75/90 (+30% of your Magical Power)"
             }
           ]
         }
@@ -34270,7 +34793,7 @@
         "rankitems": [
           {
             "description": "Damage per Shot:",
-            "value": "25/40/55/70/85 (+30% of your Magical Power)"
+            "value": "30/45/60/75/90 (+30% of your Magical Power)"
           }
         ]
       }
@@ -34566,7 +35089,7 @@
       "Description": {
         "itemDescription": {
           "cooldown": "90s",
-          "cost": "100/110/120/130/140",
+          "cost": "80",
           "description": "Rama launches into the air and shoots 3 powerful arrows at the ground, each successive shot increasing in damage: 70%, 85%, 100% and decreasing in AOE size: 15, 10, 7.5.",
           "menuitems": [
             {
@@ -34642,7 +35165,7 @@
     "PhysicalProtectionPerLevel": 2.8,
     "Pros": " High Mobility, High Attack Speed",
     "Roles": " Hunter",
-    "Speed": 365,
+    "Speed": 370,
     "Title": "Seventh Avatar of Vishnu",
     "Type": " Ranged, Physical",
     "abilityDescription1": {
@@ -34741,7 +35264,7 @@
     "abilityDescription4": {
       "itemDescription": {
         "cooldown": "90s",
-        "cost": "100/110/120/130/140",
+        "cost": "80",
         "description": "Rama launches into the air and shoots 3 powerful arrows at the ground, each successive shot increasing in damage: 70%, 85%, 100% and decreasing in AOE size: 15, 10, 7.5.",
         "menuitems": [
           {
@@ -36113,7 +36636,7 @@
           "rankitems": [
             {
               "description": "Damage:",
-              "value": "60/80/100/120/140 (+45% of your Physical Power)"
+              "value": "50/70/90/110/130 (+45% of your Physical Power)"
             },
             {
               "description": "Protection Reduction:",
@@ -36207,7 +36730,7 @@
         "itemDescription": {
           "cooldown": "90s",
           "cost": "100",
-          "description": "Serqet leaps to an enemy, Stunning them, applying the Last Breath poison, then pushing them 30 units away.\r\n\r\nThe Last Breath poison deals damage to the target over the next 5s, and prevents them from healing. If an enemy dies while infected with Last Breath, they will explode, applying the poison to all enemies within 20 units.",
+          "description": "Serqet leaps to an enemy, Stunning them, applying the Last Breath poison, then pushing them 30 units away. The Last Breath poison deals true damage to the target over the next 5s, and prevents them from healing. If an enemy dies while infected with Last Breath, they will explode, applying the poison to all enemies within 20 units.",
           "menuitems": [
             {
               "description": "Ability:",
@@ -36229,7 +36752,7 @@
           "rankitems": [
             {
               "description": "Damage:",
-              "value": "180/300/420/540/660 True Damage over 5s"
+              "value": "140/230/320/410/500 (+55% of your Physical Power as True Damage)"
             },
             {
               "description": "Stun Duration:",
@@ -36328,7 +36851,7 @@
         "rankitems": [
           {
             "description": "Damage:",
-            "value": "60/80/100/120/140 (+45% of your Physical Power)"
+            "value": "50/70/90/110/130 (+45% of your Physical Power)"
           },
           {
             "description": "Protection Reduction:",
@@ -36407,7 +36930,7 @@
       "itemDescription": {
         "cooldown": "90s",
         "cost": "100",
-        "description": "Serqet leaps to an enemy, Stunning them, applying the Last Breath poison, then pushing them 30 units away.\r\n\r\nThe Last Breath poison deals damage to the target over the next 5s, and prevents them from healing. If an enemy dies while infected with Last Breath, they will explode, applying the poison to all enemies within 20 units.",
+        "description": "Serqet leaps to an enemy, Stunning them, applying the Last Breath poison, then pushing them 30 units away. The Last Breath poison deals true damage to the target over the next 5s, and prevents them from healing. If an enemy dies while infected with Last Breath, they will explode, applying the poison to all enemies within 20 units.",
         "menuitems": [
           {
             "description": "Ability:",
@@ -36429,7 +36952,7 @@
         "rankitems": [
           {
             "description": "Damage:",
-            "value": "180/300/420/540/660 True Damage over 5s"
+            "value": "140/230/320/410/500 (+55% of your Physical Power as True Damage)"
           },
           {
             "description": "Stun Duration:",
@@ -36532,7 +37055,7 @@
           "rankitems": [
             {
               "description": "Damage:",
-              "value": "70/110/150/190/230 (+80% of your Physical Power)"
+              "value": "70/115/160/205/250 (+80% of your Physical Power)"
             },
             {
               "description": "Spawn Damage:",
@@ -36728,7 +37251,7 @@
     "Name": "Set",
     "OnFreeRotation": "",
     "Pantheon": "Egyptian",
-    "PhysicalPower": 37,
+    "PhysicalPower": 39,
     "PhysicalPowerPerLevel": 2.3,
     "PhysicalProtection": 13,
     "PhysicalProtectionPerLevel": 2.9,
@@ -36763,7 +37286,7 @@
         "rankitems": [
           {
             "description": "Damage:",
-            "value": "70/110/150/190/230 (+80% of your Physical Power)"
+            "value": "70/115/160/205/250 (+80% of your Physical Power)"
           },
           {
             "description": "Spawn Damage:",
@@ -37628,7 +38151,7 @@
     "ManaPerFive": 4.5,
     "ManaPerLevel": 35,
     "Name": "Sobek",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Egyptian",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -38327,8 +38850,12 @@
               "value": "90/145/200/255/310 (+65% of your Physical Power)"
             },
             {
-              "description": "Slow:",
+              "description": "Movement Slow:",
               "value": "30% for 2s"
+            },
+            {
+              "description": "Attack Slow:",
+              "value": "25% for 2s"
             }
           ]
         }
@@ -38404,7 +38931,7 @@
           "rankitems": [
             {
               "description": "Damage:",
-              "value": "200/250/300/350/400 (+120% of your Physical Power)"
+              "value": "200/275/350/425/500 (+120% of your Physical Power)"
             },
             {
               "description": "Healing:",
@@ -38520,8 +39047,12 @@
             "value": "90/145/200/255/310 (+65% of your Physical Power)"
           },
           {
-            "description": "Slow:",
+            "description": "Movement Slow:",
             "value": "30% for 2s"
+          },
+          {
+            "description": "Attack Slow:",
+            "value": "25% for 2s"
           }
         ]
       }
@@ -38587,7 +39118,7 @@
         "rankitems": [
           {
             "description": "Damage:",
-            "value": "200/250/300/350/400 (+120% of your Physical Power)"
+            "value": "200/275/350/425/500 (+120% of your Physical Power)"
           },
           {
             "description": "Healing:",
@@ -38731,7 +39262,7 @@
         "itemDescription": {
           "cooldown": "16s",
           "cost": "45/50/55/60/65",
-          "description": "Susano throws forward a gust of air which creates a whirlwind, dealing damage every .75s for 3s.\r\nHe may activate this ability again to teleport to the whirlwind.\r\nIf the initial gust hits an Enemy, the whirlwind surrounds and travels with them, and teleporting to the Enemy reduces this cooldown to 8s.",
+          "description": "Susano throws forward a gust of air which creates a whirlwind, dealing damage every .75s for 3s.\nHe may activate this ability again to teleport to the whirlwind.\nIf the initial gust hits an Enemy, the whirlwind surrounds and travels with them, and teleporting to the Enemy reduces this cooldown to 10s.",
           "menuitems": [
             {
               "description": "Ability:",
@@ -38753,7 +39284,7 @@
           "rankitems": [
             {
               "description": "Damage per Tick:",
-              "value": "20/30/40/50/60 (30% of your Physical Power)"
+              "value": "20/30/40/50/60 (+25% of your Physical Power)"
             }
           ]
         }
@@ -38817,7 +39348,7 @@
           "rankitems": [
             {
               "description": "Bonus Damage:",
-              "value": "25 (/+60% of your Physical Power)"
+              "value": "25 (/+40% of your Physical Power)"
             }
           ]
         }
@@ -38920,7 +39451,7 @@
       "itemDescription": {
         "cooldown": "16s",
         "cost": "45/50/55/60/65",
-        "description": "Susano throws forward a gust of air which creates a whirlwind, dealing damage every .75s for 3s.\r\nHe may activate this ability again to teleport to the whirlwind.\r\nIf the initial gust hits an Enemy, the whirlwind surrounds and travels with them, and teleporting to the Enemy reduces this cooldown to 8s.",
+        "description": "Susano throws forward a gust of air which creates a whirlwind, dealing damage every .75s for 3s.\nHe may activate this ability again to teleport to the whirlwind.\nIf the initial gust hits an Enemy, the whirlwind surrounds and travels with them, and teleporting to the Enemy reduces this cooldown to 10s.",
         "menuitems": [
           {
             "description": "Ability:",
@@ -38942,7 +39473,7 @@
         "rankitems": [
           {
             "description": "Damage per Tick:",
-            "value": "20/30/40/50/60 (30% of your Physical Power)"
+            "value": "20/30/40/50/60 (+25% of your Physical Power)"
           }
         ]
       }
@@ -38996,7 +39527,7 @@
         "rankitems": [
           {
             "description": "Bonus Damage:",
-            "value": "25 (/+60% of your Physical Power)"
+            "value": "25 (/+40% of your Physical Power)"
           }
         ]
       }
@@ -39623,7 +40154,7 @@
         "itemDescription": {
           "cooldown": "",
           "cost": "",
-          "description": "Terra's abilities create Standing Stones. As long as any Standing Stones are on the battleground Terra becomes Knockup immune and her Basic Attacks will Slow enemies and deal bonus Basic Attack damage. This bonus damage will trigger Basic Attack Item Effects, but not Ability ones. If Terra Shatters any stones she will retain this buff for an additional 3s after all of the stones are gone.",
+          "description": "Terra's abilities create Standing Stones. As long as any Standing Stones are on the battleground Terra becomes Knockup immune and her Basic Attacks will Slow enemies and deal bonus Basic Damage. This Bonus Damage does not trigger item effects. If Terra Shatters any stones she will retain this buff for an additional 3s after all of the stones are gone.",
           "menuitems": [
             {
               "description": "Ability:",
@@ -39838,7 +40369,7 @@
       "itemDescription": {
         "cooldown": "",
         "cost": "",
-        "description": "Terra's abilities create Standing Stones. As long as any Standing Stones are on the battleground Terra becomes Knockup immune and her Basic Attacks will Slow enemies and deal bonus Basic Attack damage. This bonus damage will trigger Basic Attack Item Effects, but not Ability ones. If Terra Shatters any stones she will retain this buff for an additional 3s after all of the stones are gone.",
+        "description": "Terra's abilities create Standing Stones. As long as any Standing Stones are on the battleground Terra becomes Knockup immune and her Basic Attacks will Slow enemies and deal bonus Basic Damage. This Bonus Damage does not trigger item effects. If Terra Shatters any stones she will retain this buff for an additional 3s after all of the stones are gone.",
         "menuitems": [
           {
             "description": "Ability:",
@@ -40834,7 +41365,7 @@
     "Ability_3": {
       "Description": {
         "itemDescription": {
-          "cooldown": "8s",
+          "cooldown": "10s",
           "cost": "55/60/65/70/75 ",
           "description": "Thor spins his hammer around him dealing damage to Enemies in front of him up to 3 times and those behind him up to 2 times. The final swing deals extra damage. Thor is immune to Knockup for the duration.",
           "menuitems": [
@@ -40858,11 +41389,11 @@
           "rankitems": [
             {
               "description": "Damage per Tick:",
-              "value": "30/50/70/90/110 (+40% of your Physical Power)"
+              "value": "30/50/70/90/110 (+35% of your Physical Power)"
             },
             {
               "description": "Final swing Damage:",
-              "value": "45/65/85/105/125 (+60% of your Physical Power)"
+              "value": "45/65/85/105/125 (+50% of your Physical Power)"
             }
           ]
         }
@@ -40874,7 +41405,7 @@
     "Ability_4": {
       "Description": {
         "itemDescription": {
-          "cooldown": "90s",
+          "cooldown": "110/105/100/95/90s",
           "cost": "80/90/100/110/120 ",
           "description": "After a short buildup, Thor leaps into the air. While in the air, Thor can target a great distance away to come crashing down in the area, dealing damage and Stunning all enemies in the radius. For 6 seconds after landing, when Thor deals damage to a god with Mjolnir lightning will arc, damaging the enemy hit and up to two additional enemies within 30 ft. Subsequent lighting hits deal 50% damage.",
           "menuitems": [
@@ -41035,7 +41566,7 @@
     },
     "abilityDescription3": {
       "itemDescription": {
-        "cooldown": "8s",
+        "cooldown": "10s",
         "cost": "55/60/65/70/75 ",
         "description": "Thor spins his hammer around him dealing damage to Enemies in front of him up to 3 times and those behind him up to 2 times. The final swing deals extra damage. Thor is immune to Knockup for the duration.",
         "menuitems": [
@@ -41059,18 +41590,18 @@
         "rankitems": [
           {
             "description": "Damage per Tick:",
-            "value": "30/50/70/90/110 (+40% of your Physical Power)"
+            "value": "30/50/70/90/110 (+35% of your Physical Power)"
           },
           {
             "description": "Final swing Damage:",
-            "value": "45/65/85/105/125 (+60% of your Physical Power)"
+            "value": "45/65/85/105/125 (+50% of your Physical Power)"
           }
         ]
       }
     },
     "abilityDescription4": {
       "itemDescription": {
-        "cooldown": "90s",
+        "cooldown": "110/105/100/95/90s",
         "cost": "80/90/100/110/120 ",
         "description": "After a short buildup, Thor leaps into the air. While in the air, Thor can target a great distance away to come crashing down in the area, dealing damage and Stunning all enemies in the radius. For 6 seconds after landing, when Thor deals damage to a god with Mjolnir lightning will arc, damaging the enemy hit and up to two additional enemies within 30 ft. Subsequent lighting hits deal 50% damage.",
         "menuitems": [
@@ -42530,7 +43061,7 @@
         "itemDescription": {
           "cooldown": "90s",
           "cost": "100",
-          "description": "Vamana grows to an enormous giant. While Vamana is enraged, he is immune to Crowd Control, gains Protections, Physical Power, massive regeneration and his Basic Attacks now damage all nearby enemies. When Vamana is in Colossal form, taking damage from gods increases the duration and Vamana can pass through player made walls. \r\nYou may cancel his giant form early.",
+          "description": "Vamana grows to an enormous giant for 6s gaining immunity to Crowd Control, Protections, Physical Power, regeneration and his Basic Attacks now damage all nearby enemies.\nSuccessful attacks on enemies also provide stacking Movement Speed for 3s. When Vamana is in Colossal form, taking damage from gods increases the duration and Vamana can pass through player made walls.\nYou may cancel his giant form early.",
           "menuitems": [
             {
               "description": "Ability:",
@@ -42564,15 +43095,11 @@
             },
             {
               "description": "Shield:",
-              "value": "0.6% of Maximum Health per .2 second"
+              "value": "1% of Max. Health per .2 second"
             },
             {
-              "description": "Colossal Duration:",
-              "value": "6s "
-            },
-            {
-              "description": "Colossal Duration Increase:",
-              "value": " .5s per hit/ up to 10s."
+              "description": "Movement Speed:",
+              "value": "5% stacking 3 times"
             }
           ]
         }
@@ -42730,7 +43257,7 @@
       "itemDescription": {
         "cooldown": "90s",
         "cost": "100",
-        "description": "Vamana grows to an enormous giant. While Vamana is enraged, he is immune to Crowd Control, gains Protections, Physical Power, massive regeneration and his Basic Attacks now damage all nearby enemies. When Vamana is in Colossal form, taking damage from gods increases the duration and Vamana can pass through player made walls. \r\nYou may cancel his giant form early.",
+        "description": "Vamana grows to an enormous giant for 6s gaining immunity to Crowd Control, Protections, Physical Power, regeneration and his Basic Attacks now damage all nearby enemies.\nSuccessful attacks on enemies also provide stacking Movement Speed for 3s. When Vamana is in Colossal form, taking damage from gods increases the duration and Vamana can pass through player made walls.\nYou may cancel his giant form early.",
         "menuitems": [
           {
             "description": "Ability:",
@@ -42764,15 +43291,11 @@
           },
           {
             "description": "Shield:",
-            "value": "0.6% of Maximum Health per .2 second"
+            "value": "1% of Max. Health per .2 second"
           },
           {
-            "description": "Colossal Duration:",
-            "value": "6s "
-          },
-          {
-            "description": "Colossal Duration Increase:",
-            "value": " .5s per hit/ up to 10s."
+            "description": "Movement Speed:",
+            "value": "5% stacking 3 times"
           }
         ]
       }
@@ -43224,7 +43747,7 @@
         "itemDescription": {
           "cooldown": ".5s",
           "cost": "3/6/9/12/15 per shot",
-          "description": "When Xbalanque toggles on this ability, his Basic Attacks deal additional damage.  When the bola hits, it splits into 2 that hit enemies up to 30 units behind the target for 30% damage (on-hit effects do not apply). Pressing the ability again cancels toggle.",
+          "description": "When Xbalanque toggles on this ability, his Basic Attacks deal additional damage.  When the bola hits, it splits into 2 that hit enemies up to 30 units behind the target for 40% damage (on-hit effects do not apply). Pressing the ability again cancels toggle.",
           "menuitems": [
             {
               "description": "Ability:",
@@ -43338,7 +43861,7 @@
     "Ability_4": {
       "Description": {
         "itemDescription": {
-          "cooldown": "110s",
+          "cooldown": "90s",
           "cost": "100",
           "description": "Xbalanque shrouds enemies in darkness for 3s.  During this time, Xbalanque's Basic Attack range and his movement speed are increased.",
           "menuitems": [
@@ -43431,7 +43954,7 @@
       "itemDescription": {
         "cooldown": ".5s",
         "cost": "3/6/9/12/15 per shot",
-        "description": "When Xbalanque toggles on this ability, his Basic Attacks deal additional damage.  When the bola hits, it splits into 2 that hit enemies up to 30 units behind the target for 30% damage (on-hit effects do not apply). Pressing the ability again cancels toggle.",
+        "description": "When Xbalanque toggles on this ability, his Basic Attacks deal additional damage.  When the bola hits, it splits into 2 that hit enemies up to 30 units behind the target for 40% damage (on-hit effects do not apply). Pressing the ability again cancels toggle.",
         "menuitems": [
           {
             "description": "Ability:",
@@ -43530,7 +44053,7 @@
     },
     "abilityDescription4": {
       "itemDescription": {
-        "cooldown": "110s",
+        "cooldown": "90s",
         "cost": "100",
         "description": "Xbalanque shrouds enemies in darkness for 3s.  During this time, Xbalanque's Basic Attack range and his movement speed are increased.",
         "menuitems": [
@@ -44100,15 +44623,15 @@
             },
             {
               "description": "Inner Damage:",
-              "value": "50/90/130/170/210 (+55% of your Magical Power)"
+              "value": "50/90/130/170/210 (+45% of your Magical Power)"
             },
             {
               "description": "Outer Damage:",
-              "value": "20/40/60/80/100 (+20% of your Magical Power)"
+              "value": "20/40/60/80/100 (+15% of your Magical Power)"
             },
             {
               "description": "Stun Duration:",
-              "value": "1/1.1/1.2/1.3/1.4s"
+              "value": "1s"
             }
           ]
         }
@@ -44156,7 +44679,7 @@
             },
             {
               "description": "Shield:",
-              "value": "40/80/120/160/200 (+20% of your Magical Power)"
+              "value": "40/70/100/130/160 (+20% of your Magical Power)"
             }
           ]
         }
@@ -44351,15 +44874,15 @@
           },
           {
             "description": "Inner Damage:",
-            "value": "50/90/130/170/210 (+55% of your Magical Power)"
+            "value": "50/90/130/170/210 (+45% of your Magical Power)"
           },
           {
             "description": "Outer Damage:",
-            "value": "20/40/60/80/100 (+20% of your Magical Power)"
+            "value": "20/40/60/80/100 (+15% of your Magical Power)"
           },
           {
             "description": "Stun Duration:",
-            "value": "1/1.1/1.2/1.3/1.4s"
+            "value": "1s"
           }
         ]
       }
@@ -44402,7 +44925,7 @@
           },
           {
             "description": "Shield:",
-            "value": "40/80/120/160/200 (+20% of your Magical Power)"
+            "value": "40/70/100/130/160 (+20% of your Magical Power)"
           }
         ]
       }
@@ -44712,18 +45235,18 @@
               "value": "Buff"
             },
             {
-              "description": "Damage Reduction:",
-              "value": "!{rankprog:10}!%"
-            },
-            {
               "description": "Affects:",
               "value": "Self"
             }
           ],
           "rankitems": [
             {
-              "description": "Frostbite Damage Bonus:",
+              "description": "Increased Damage Dealt:",
               "value": "100%"
+            },
+            {
+              "description": "Decreased Damage Taken:",
+              "value": "10%"
             }
           ]
         }
@@ -44895,18 +45418,18 @@
             "value": "Buff"
           },
           {
-            "description": "Damage Reduction:",
-            "value": "!{rankprog:10}!%"
-          },
-          {
             "description": "Affects:",
             "value": "Self"
           }
         ],
         "rankitems": [
           {
-            "description": "Frostbite Damage Bonus:",
+            "description": "Increased Damage Dealt:",
             "value": "100%"
+          },
+          {
+            "description": "Decreased Damage Taken:",
+            "value": "10%"
           }
         ]
       }

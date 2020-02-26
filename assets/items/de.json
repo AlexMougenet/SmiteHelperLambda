@@ -76,7 +76,7 @@
           "Value": "+45"
         }
       ],
-      "SecondaryDescription": "AURA – Verbündete Götter innerhalb von 70 Einheiten erhalten 15 Physischen Schutz und 25 HP5."
+      "SecondaryDescription": "AURA – Verbündete Götter innerhalb von 70 Einheiten erhalten 15 Physischen Schutz und 35 HP5."
     },
     "ItemId": 7528,
     "ItemTier": 3,
@@ -99,7 +99,7 @@
       "Menuitems": [
         {
           "Description": "Gesundheit",
-          "Value": "+300"
+          "Value": "+200"
         },
         {
           "Description": "Physischer Schutz",
@@ -114,7 +114,7 @@
     },
     "ItemId": 7537,
     "ItemTier": 3,
-    "Price": 1300,
+    "Price": 1050,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 7526,
     "ShortDesc": "In der Nähe befindliche Gegner erleiden Schaden über Zeit.",
@@ -181,66 +181,6 @@
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/emperors-armor.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 0,
-    "DeviceName": "Trank der Magischen Kraft",
-    "IconId": 1977,
-    "ItemDescription": {
-      "Description": "Dieser Verbrauchsgegenstand erhöht deine Magische Kraft. ",
-      "Menuitems": [
-        {
-          "Description": " ",
-          "Value": ""
-        },
-        {
-          "Description": "Wird ab Stufe 10 freigeschaltet.",
-          "Value": ""
-        }
-      ],
-      "SecondaryDescription": "Dieser Verbrauchsgegenstand erhöht für 5 Minuten oder bis du getötet wirst deine Magische Kraft um 60 und deine Abklingzeitreduktion um 10%. Erleidet ein gegnerischer Gott durch eine deiner Fertigkeiten Schaden, erhältst du 3% deines max. Manas zurück. Dieser Effekt kann nur einmal pro Gott auftreten, der mit dieser Fertigkeit getroffen wird."
-    },
-    "ItemId": 7529,
-    "ItemTier": 1,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 7529,
-    "ShortDesc": "Erhöht Magische Kraft bei Gebrauch.",
-    "StartingItem": false,
-    "Type": "Consumable",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/potion-of-magical-might.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 0,
-    "DeviceName": "Trank der Physischen Kraft",
-    "IconId": 1980,
-    "ItemDescription": {
-      "Description": "Erhöht Physische Kraft bei Anwendung.",
-      "Menuitems": [
-        {
-          "Description": " ",
-          "Value": ""
-        },
-        {
-          "Description": "Wird ab Stufe 10 freigeschaltet.",
-          "Value": ""
-        }
-      ],
-      "SecondaryDescription": "Dieser Verbrauchsgegenstand erhöht für 5 Minuten oder bis du getötet wirst deine Physische Kraft um 30. Zusätzlich fügen deine Fertigkeiten gegnerischen Göttern einen Bonusschaden von 15% deiner Physischen Kraft zu. Dieser Effekt kann nur einmal pro Gott auftreten, der mit dieser Fertigkeit getroffen wird."
-    },
-    "ItemId": 7530,
-    "ItemTier": 1,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 7530,
-    "ShortDesc": "Erhöht Physische Kraft bei Anwendung.",
-    "StartingItem": false,
-    "Type": "Consumable",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/potion-of-physical-might.jpg",
     "ret_msg": null
   },
   {
@@ -554,7 +494,7 @@
           "Value": "+12%"
         },
         {
-          "Description": "Abklingzeitreduktion",
+          "Description": "Magische Durchdringung",
           "Value": "+10%"
         }
       ],
@@ -565,7 +505,7 @@
     "Price": 1200,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 7610,
-    "ShortDesc": "Kraft und Lebensraub-Aura.",
+    "ShortDesc": "Kraft- und Lebensraub-Aura",
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/pythagorems-piece.jpg",
@@ -615,7 +555,7 @@
       "Menuitems": [
         {
           "Description": "Magische Kraft",
-          "Value": "+80"
+          "Value": "+70"
         },
         {
           "Description": "Mana",
@@ -624,6 +564,10 @@
         {
           "Description": "Magischer Lebensraub",
           "Value": "+15%"
+        },
+        {
+          "Description": "Magische Durchdringung",
+          "Value": "+10%"
         }
       ],
       "SecondaryDescription": "PASSIV – Deine Heilung durch Magischen Lebensraub wird um 40% erhöht. Deine Magische Kraft wird um das Doppelte deines Magischen Lebensraubs erhöht."
@@ -649,7 +593,7 @@
       "Menuitems": [
         {
           "Description": "Magische Kraft",
-          "Value": "+65"
+          "Value": "+80"
         },
         {
           "Description": "Gesundheit",
@@ -828,7 +772,7 @@
     "Price": 800,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 7827,
-    "ShortDesc": "Physische Kraft und Durchdringung.",
+    "ShortDesc": "Physische Kraft und Durchdringung",
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/warriors-bane.jpg",
@@ -877,7 +821,7 @@
           "Value": "+30"
         }
       ],
-      "SecondaryDescription": "PASSIV – Dein Physischer Schaden ignoriert 15% des Physischen Schutzes gegnerischer Götter. Hat der Gott mehr als 65 Physischen Schutz, erhöht sich dieser Prozentwert. Maximal wird 40% Physische Durchdringung bei 200 oder mehr Physischem Schutz gewährt."
+      "SecondaryDescription": "PASSIV – Dein Physischer Schaden ignoriert 15% des Physischen Schutzes gegnerischer Götter. Hat das Ziel mehr als 65 Physischen Schutz, erhöht sich dieser Prozentwert. Maximal wird 40% Physische Durchdringung bei 200 oder mehr Physischem Schutz gewährt."
     },
     "ItemId": 7523,
     "ItemTier": 3,
@@ -1149,7 +1093,7 @@
           "Value": "+10"
         }
       ],
-      "SecondaryDescription": "PASSIV – Dein nächster Grundangriff innerhalb von 8s nach Einsatz einer Fertigkeit verursacht 50% Schaden zusätzlich. Fertigkeiten, die wie Grundangriffe funktionieren, profitieren nicht von diesem Effekt.\nPASSIV – Gewährt 2,5 MP5 pro 10% fehlendem Mana."
+      "SecondaryDescription": "PASSIV – Dein nächster Grundangriff innerhalb von 8s nach Einsatz einer Fertigkeit verursacht 40% Schaden zusätzlich. Fertigkeiten, die wie Grundangriffe funktionieren, profitieren nicht von diesem Effekt.\nPASSIV – Gewährt 2,5 MP5 pro 10% fehlendem Mana."
     },
     "ItemId": 8550,
     "ItemTier": 3,
@@ -1653,11 +1597,7 @@
       "Menuitems": [
         {
           "Description": "Magische Kraft",
-          "Value": "+55"
-        },
-        {
-          "Description": "Magische Durchdringung",
-          "Value": "+10"
+          "Value": "+75"
         },
         {
           "Description": "Lauftempo",
@@ -1668,7 +1608,7 @@
     },
     "ItemId": 9633,
     "ItemTier": 3,
-    "Price": 700,
+    "Price": 650,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9631,
     "ShortDesc": "Lauftempo und Magische Kraft",
@@ -1706,7 +1646,7 @@
     },
     "ItemId": 9634,
     "ItemTier": 3,
-    "Price": 650,
+    "Price": 700,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9631,
     "ShortDesc": "Lauftempo und Abklingzeitreduktion",
@@ -1915,11 +1855,11 @@
           "Value": "+30%"
         }
       ],
-      "SecondaryDescription": "PASSIV – Durch Kills eines gegnerischen Gottes oder Unterstützungen erhältst du 1 Stapel. Jeder Stapel gewährt 2% kritische Trefferchance. Stapel gelten dauerhaft und können maximal 5-mal gestapelt werden."
+      "SecondaryDescription": "PASSIV – Für Kills eines gegnerischen Gottes oder Unterstützungen erhältst du jeweils 1 Stapel. Jeder Stapel gewährt 1% kritische Trefferchance. Maximal 5 Stapel, Stapel sind permanent."
     },
     "ItemId": 8546,
     "ItemTier": 3,
-    "Price": 900,
+    "Price": 800,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9812,
     "ShortDesc": "Stapel kritischer Trefferchance für Kills und Unterstützungen",
@@ -1943,6 +1883,10 @@
         {
           "Description": "Kritische Trefferchance",
           "Value": "+25%"
+        },
+        {
+          "Description": "Abklingzeitreduktion",
+          "Value": "+10%"
         }
       ],
       "SecondaryDescription": "PASSIV – Bei erfolgreichen kritischen Treffern gegen Götter werden laufende Abklingzeiten (mit Ausnahme der Überkraft) um 3s reduziert. Dieser Effekt kann nur einmal alle 5s ausgelöst werden."
@@ -1972,7 +1916,7 @@
         },
         {
           "Description": "Kritische Trefferchance",
-          "Value": "+40%"
+          "Value": "+45%"
         }
       ],
       "SecondaryDescription": null
@@ -2107,7 +2051,7 @@
           "Value": "+10%"
         }
       ],
-      "SecondaryDescription": "PASSIV – Jedes Mal, wenn im Radius von 80 Einheiten eine Einheit stirbt, erhältst du einen Stapel. Götter, große Dschungelmonster und Dschungelbosse geben dir 5 Stapel. Bei 75 Stapeln entwickelt sich der Seelenfresser, erhält +20 mehr Physische Kraft und gewährt dir 15% Heilung auf durch deine physischen Fertigkeiten verursachten Schaden."
+      "SecondaryDescription": "PASSIV – Jedes Mal, wenn im Umkreis von 80 Einheiten jemand stirbt, erhältst du einen Stapel. Götter, große Dschungelmonster und Dschungelbosse geben dir 5 Stapel. Bei 75 Stapeln entwickelt sich der Seelenfresser, erhält +20 mehr Physische Kraft, +5% Physischen Lebensraub und gewährt dir 15% Heilung auf durch deine physischen Fertigkeiten verursachten Schaden."
     },
     "ItemId": 7539,
     "ItemTier": 3,
@@ -2228,7 +2172,7 @@
         },
         {
           "Description": "Physischer Lebensraub",
-          "Value": "+10%"
+          "Value": "+15%"
         },
         {
           "Description": "Abklingzeitreduktion",
@@ -2310,7 +2254,41 @@
   },
   {
     "ActiveFlag": "y",
-    "ChildItemId": 8239,
+    "ChildItemId": 9828,
+    "DeviceName": "Verfluchte Klinge",
+    "IconId": 2894,
+    "ItemDescription": {
+      "Description": null,
+      "Menuitems": [
+        {
+          "Description": "Gesundheit",
+          "Value": "+75"
+        },
+        {
+          "Description": "Angriffstempo",
+          "Value": "+10%"
+        },
+        {
+          "Description": "Lauftempo",
+          "Value": "+5%"
+        }
+      ],
+      "SecondaryDescription": null
+    },
+    "ItemId": 18190,
+    "ItemTier": 2,
+    "Price": 700,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 9828,
+    "ShortDesc": "Angriffs- und Lauftempo",
+    "StartingItem": false,
+    "Type": "Item",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/cursed-blade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18190,
     "DeviceName": "Hexenklinge",
     "IconId": 2892,
     "ItemDescription": {
@@ -2318,7 +2296,7 @@
       "Menuitems": [
         {
           "Description": "Gesundheit",
-          "Value": "+200"
+          "Value": "+250"
         },
         {
           "Description": "Abklingzeitreduktion",
@@ -2337,7 +2315,7 @@
     },
     "ItemId": 7910,
     "ItemTier": 3,
-    "Price": 900,
+    "Price": 800,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9828,
     "ShortDesc": "Angriffstempo-Debuff-Aura",
@@ -2416,7 +2394,7 @@
   },
   {
     "ActiveFlag": "y",
-    "ChildItemId": 8239,
+    "ChildItemId": 18190,
     "DeviceName": "Giftklinge",
     "IconId": 5454,
     "ItemDescription": {
@@ -2443,7 +2421,7 @@
     },
     "ItemId": 14846,
     "ItemTier": 3,
-    "Price": 1050,
+    "Price": 950,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9828,
     "ShortDesc": "Grundangriff Anti-Heilung",
@@ -2717,7 +2695,7 @@
           "Value": "+30"
         }
       ],
-      "SecondaryDescription": "AURA – Reduziert den Physischen Schutz von Gegnern innerhalb von 55 Einheiten um 8."
+      "SecondaryDescription": "AURA – Reduziert den Physischen Schutz von Gegnern innerhalb von 55 Einheiten um 5%."
     },
     "ItemId": 9834,
     "ItemTier": 2,
@@ -2751,7 +2729,7 @@
           "Value": "+10%"
         }
       ],
-      "SecondaryDescription": "PASSIV – Jedes Mal, wenn du einen gegnerischen Gott mit einer Fertigkeit triffst, werden 2,5% deiner maximalen Gesundheit und deines maximalen Manas regeneriert. Dies kann nur einmal pro getroffenem Gott und pro Fertigkeit ausgelöst werden."
+      "SecondaryDescription": "PASSIV – Jedes Mal, wenn du einen gegnerischen Gott mit einer Fertigkeit triffst, werden 2,5% deiner maximalen Gesundheit und deines maximalen Manas regeneriert. Die Heilung durch Treffer nach dem ersten einer mehrfach treffenden Fertigkeit ist um die Hälfte reduziert."
     },
     "ItemId": 14085,
     "ItemTier": 2,
@@ -2842,14 +2820,14 @@
         },
         {
           "Description": "Physischer Schutz",
-          "Value": "+50"
+          "Value": "+60"
         },
         {
           "Description": "Gesundheit",
           "Value": "+150"
         }
       ],
-      "SecondaryDescription": "AURA – Reduziert den Physischen Schutz von gegnerischen Göttern innerhalb von 55 Einheiten um 20."
+      "SecondaryDescription": "AURA – Reduziert den Physischen Schutz von gegnerischen Göttern innerhalb von 55 Einheiten um 15%."
     },
     "ItemId": 9836,
     "ItemTier": 3,
@@ -2932,7 +2910,7 @@
       "Menuitems": [
         {
           "Description": "Physischer Schutz",
-          "Value": "+70"
+          "Value": "+75"
         },
         {
           "Description": "Mana",
@@ -2943,7 +2921,7 @@
           "Value": "+20"
         }
       ],
-      "SecondaryDescription": "PASSIV – Reflektiert 25% jeglichen Schadens durch Grundangriffe als Physischen Schaden zurück auf den Angreifer."
+      "SecondaryDescription": "PASSIV – Reflektiert 15% jeglichen Schadens durch Grundangriffe als Physischen Schaden zurück auf den Angreifer."
     },
     "ItemId": 7578,
     "ItemTier": 3,
@@ -3004,7 +2982,11 @@
       "Menuitems": [
         {
           "Description": "Physischer Schutz",
-          "Value": "+70"
+          "Value": "+65"
+        },
+        {
+          "Description": "Gesundheit",
+          "Value": "+200"
         },
         {
           "Description": "Mana",
@@ -3013,13 +2995,9 @@
         {
           "Description": "MP5",
           "Value": "+10"
-        },
-        {
-          "Description": "CC-Reduktion",
-          "Value": "+20%"
         }
       ],
-      "SecondaryDescription": "PASSIV – Der durch kritische Treffer erlittene Bonusschaden wird um 50% reduziert."
+      "SecondaryDescription": ""
     },
     "ItemId": 12664,
     "ItemTier": 3,
@@ -3567,7 +3545,7 @@
           "Value": "+250"
         }
       ],
-      "SecondaryDescription": "AURA – Verbündete Götter innerhalb von 70 Einheiten erhalten 15 Magischen Schutz und 20 MP5."
+      "SecondaryDescription": "AURA – Verbündete Götter innerhalb von 70 Einheiten erhalten 15 Magischen Schutz und 30 MP5."
     },
     "ItemId": 11116,
     "ItemTier": 3,
@@ -3642,11 +3620,15 @@
     "DeviceName": "Verzauberter Ring",
     "IconId": 2832,
     "ItemDescription": {
-      "Description": "",
+      "Description": null,
       "Menuitems": [
         {
           "Description": "Magische Kraft",
-          "Value": "+45"
+          "Value": "+40"
+        },
+        {
+          "Description": "Angriffstempo",
+          "Value": "+10%"
         }
       ],
       "SecondaryDescription": null
@@ -3679,7 +3661,7 @@
           "Value": "+30%"
         }
       ],
-      "SecondaryDescription": "PASSIV – Deine Grundangriffe reduzieren den Magischen Schutz deines Ziels 3s lang um 12% (max. 3 Stapel)."
+      "SecondaryDescription": "PASSIV – Deine Grundangriffe reduzieren den Magischen Schutz deines Ziels 3s lang um 10% (max. 3 Stapel)."
     },
     "ItemId": 8564,
     "ItemTier": 3,
@@ -3702,7 +3684,7 @@
       "Menuitems": [
         {
           "Description": "Magische Kraft",
-          "Value": "+90"
+          "Value": "+100"
         },
         {
           "Description": "Angriffstempo",
@@ -3720,36 +3702,6 @@
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/telkhines-ring.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 9848,
-    "DeviceName": "Ring des Schamanen",
-    "IconId": 5041,
-    "ItemDescription": {
-      "Description": "Entwicklungsgegenstand",
-      "Menuitems": [
-        {
-          "Description": "Magische Kraft",
-          "Value": "+110"
-        },
-        {
-          "Description": "Abklingzeitreduktion",
-          "Value": "+10%"
-        }
-      ],
-      "SecondaryDescription": "PASSIV – Einem gegnerischen Gott 100 Schaden (nach Minderung) zuzufügen gewährt 1 Stapel. Bei 50 Stapeln entwickelt sich der Ring und erhält einen neuen, passiven Effekt. Dieser sorgt dafür, dass du von deinen Schadensfertigkeiten getroffenen gegnerischen Göttern 10s lang um 10% höheren Schaden zufügst."
-    },
-    "ItemId": 14765,
-    "ItemTier": 3,
-    "Price": 1400,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 9847,
-    "ShortDesc": "Abklingzeitreduktion und Bonusschaden",
-    "StartingItem": true,
-    "Type": "Item",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/shamans-ring.jpg",
     "ret_msg": null
   },
   {
@@ -3788,32 +3740,36 @@
   },
   {
     "ActiveFlag": "y",
-    "ChildItemId": 14765,
-    "DeviceName": "Ring des Schamanen (entw.)",
-    "IconId": 5460,
+    "ChildItemId": 9848,
+    "DeviceName": "Ring der Hekate",
+    "IconId": 8138,
     "ItemDescription": {
-      "Description": "Bonusschaden für das Treffen von Gegnern.",
+      "Description": null,
       "Menuitems": [
         {
           "Description": "Magische Kraft",
-          "Value": "+110"
+          "Value": "+80"
         },
         {
-          "Description": "Abklingzeitreduktion",
-          "Value": "+10%"
+          "Description": "Angriffstempo",
+          "Value": "+20%"
+        },
+        {
+          "Description": "Magischer Lebensraub",
+          "Value": "+12%"
         }
       ],
-      "SecondaryDescription": "PASSIV – Fügst du einem gegnerischen Gott mit einer Fertigkeit Schaden zu, erleidet er durch dich anschließend 10s lang 10% mehr Schaden."
+      "SecondaryDescription": "PASSIV – Triffst du einen gegnerischen Gott mit einem Grundangriff, erhältst du 1 Stapel mit 2% Lebensraub. Bis zu 5 Stapel, Stapel halten jeweils 5s lang."
     },
-    "ItemId": 14766,
-    "ItemTier": 4,
-    "Price": 0,
+    "ItemId": 18191,
+    "ItemTier": 3,
+    "Price": 1500,
     "RestrictedRoles": "no restrictions",
-    "RootItemId": 9848,
-    "ShortDesc": "Abklingzeitreduktion und Bonusschaden",
+    "RootItemId": 9847,
+    "ShortDesc": "Angriffstempo und Lebensraub",
     "StartingItem": false,
     "Type": "Item",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/evolved-shamans-ring.jpg",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/ring-of-hecate.jpg",
     "ret_msg": null
   },
   {
@@ -3848,21 +3804,25 @@
     "DeviceName": "Zauberfokus",
     "IconId": 2836,
     "ItemDescription": {
-      "Description": "Dieser Gegenstand gewährt dem Besitzer Magische Durchdringung.",
+      "Description": "Das Benutzen dieses Gegenstands gewährt dem Besitzer Magische Durchdringung.",
       "Menuitems": [
         {
           "Description": "Magische Kraft",
           "Value": "+45"
+        },
+        {
+          "Description": "Magische Durchdringung",
+          "Value": "+10%"
         }
       ],
-      "SecondaryDescription": "PASSIV – Dein Magischer Schaden ignoriert 15% des Magischen Schutzes gegnerischer Götter."
+      "SecondaryDescription": null
     },
     "ItemId": 9850,
     "ItemTier": 2,
     "Price": 850,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9849,
-    "ShortDesc": "Magische Kraft und Durchdringung.",
+    "ShortDesc": "Magische Kraft und Durchdringung",
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/spell-focus.jpg",
@@ -3900,32 +3860,6 @@
   },
   {
     "ActiveFlag": "y",
-    "ChildItemId": 9850,
-    "DeviceName": "Obsidian-Scherbe",
-    "IconId": 2834,
-    "ItemDescription": {
-      "Description": null,
-      "Menuitems": [
-        {
-          "Description": "Magische Kraft",
-          "Value": "+70"
-        }
-      ],
-      "SecondaryDescription": "PASSIV – Dein Magischer Schaden ignoriert 15% des Magischen Schutzes gegnerischer Götter. Hat das Ziel mehr als 40 Magischen Schutz, erhöht sich dieser Prozentwert. Maximal wird 45% Magische Durchdringung bei 200 oder mehr Magischem Schutz gewährt."
-    },
-    "ItemId": 7525,
-    "ItemTier": 3,
-    "Price": 800,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 9849,
-    "ShortDesc": "Starke Magische Durchdringung gegen Tanks.",
-    "StartingItem": false,
-    "Type": "Item",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/obsidian-shard.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
     "ChildItemId": 9851,
     "DeviceName": "Göttlicher Ruin",
     "IconId": 2823,
@@ -3957,36 +3891,6 @@
   {
     "ActiveFlag": "y",
     "ChildItemId": 9851,
-    "DeviceName": "Speer des Magus",
-    "IconId": 2835,
-    "ItemDescription": {
-      "Description": "Dieser Gegenstand lässt deine Schadensfertigkeiten den Magischen Schutz des Ziels reduzieren.",
-      "Menuitems": [
-        {
-          "Description": "Magische Kraft",
-          "Value": "+65"
-        },
-        {
-          "Description": "Magische Durchdringung",
-          "Value": "+10"
-        }
-      ],
-      "SecondaryDescription": "PASSIV – Deine Fertigkeiten reduzieren den Magischen Schutz des Ziels 5s lang um 10 (max. 5 Stapel)."
-    },
-    "ItemId": 8354,
-    "ItemTier": 3,
-    "Price": 1050,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 9849,
-    "ShortDesc": "Fertigkeiten reduzieren Magischen Schutz.",
-    "StartingItem": false,
-    "Type": "Item",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/spear-of-the-magus.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 9851,
     "DeviceName": "Speer der Verwüstung",
     "IconId": 4327,
     "ItemDescription": {
@@ -3994,7 +3898,7 @@
       "Menuitems": [
         {
           "Description": "Magische Kraft",
-          "Value": "+100"
+          "Value": "+110"
         },
         {
           "Description": "Magische Durchdringung",
@@ -4016,6 +3920,66 @@
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/spear-of-desolation.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 9850,
+    "DeviceName": "Obsidian-Scherbe",
+    "IconId": 2834,
+    "ItemDescription": {
+      "Description": null,
+      "Menuitems": [
+        {
+          "Description": "Magische Kraft",
+          "Value": "+70"
+        },
+        {
+          "Description": "Magische Durchdringung",
+          "Value": "+20%"
+        }
+      ],
+      "SecondaryDescription": "PASSIV – Deine erste gewirkte Fertigkeit erhält 10% Magische Durchdringung. Kann nur einmal alle 10s ausgelöst werden."
+    },
+    "ItemId": 18179,
+    "ItemTier": 3,
+    "Price": 1050,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 9849,
+    "ShortDesc": "Starke Magische Durchdringung gegen Tanks",
+    "StartingItem": false,
+    "Type": "Item",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/obsidian-shard.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 9851,
+    "DeviceName": "Speer des Magus",
+    "IconId": 2835,
+    "ItemDescription": {
+      "Description": "Mit diesem Gegenstand reduzieren deine Schadensfertigkeiten den Magischen Schutz des Ziels.",
+      "Menuitems": [
+        {
+          "Description": "Magische Kraft",
+          "Value": "+75"
+        },
+        {
+          "Description": "Magische Durchdringung",
+          "Value": "+10"
+        }
+      ],
+      "SecondaryDescription": "PASSIV – Mehrfach Schaden verursachende Fertigkeiten verursachen mit jedem weiteren Tick 6% mehr Schaden. Bis zu 6 Stapel."
+    },
+    "ItemId": 18180,
+    "ItemTier": 3,
+    "Price": 1050,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 9849,
+    "ShortDesc": "Fertigkeitsschaden bei Folgetreffern erhöht",
+    "StartingItem": false,
+    "Type": "Item",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/spear-of-the-magus.jpg",
     "ret_msg": null
   },
   {
@@ -4096,7 +4060,7 @@
         },
         {
           "Description": "Gesundheit",
-          "Value": "+175"
+          "Value": "+100"
         },
         {
           "Description": "Mana",
@@ -4232,14 +4196,18 @@
         },
         {
           "Description": "Gesundheit",
-          "Value": "+200"
+          "Value": "+150"
         },
         {
           "Description": "Mana",
           "Value": "+200"
+        },
+        {
+          "Description": "Magische Durchdringung",
+          "Value": "+10%"
         }
       ],
-      "SecondaryDescription": "PASSIV – Du erhältst permanent +3 Gesundheit und +0,5 Magische Kraft pro Stapel. Du erhältst 5 Stapel pro getötetem Gott und 1 Stapel pro getötetem Diener (max. 100 Stapel)."
+      "SecondaryDescription": "PASSIV – Du erhältst permanent +1 Gesundheit und +1 Magische Kraft pro Stapel. Du erhältst 5 Stapel pro getötetem Gott und 1 Stapel pro getötetem Diener (max. 75 Stapel)."
     },
     "ItemId": 7917,
     "ItemTier": 3,
@@ -4307,7 +4275,7 @@
           "Value": "+7%"
         }
       ],
-      "SecondaryDescription": "AURA – Die Heilung durch Fertigkeiten von verbündeten Göttern innerhalb von 70 Einheiten wird um 10% erhöht. Falls du innerhalb der letzten 5s Schaden erlitten oder verursacht hast, wird sie um zusätzliche 15% erhöht."
+      "SecondaryDescription": "AURA – Die Heilung durch Fertigkeiten von verbündeten Göttern innerhalb von 70 Einheiten wird um 10% erhöht. Falls du innerhalb der letzten 5s Schaden erlitten oder verursacht hast, wird sie um zusätzliche 15% erhöht. Kann nicht mit ähnlichen Auren gestapelt werden."
     },
     "ItemId": 9345,
     "ItemTier": 3,
@@ -4330,15 +4298,19 @@
       "Menuitems": [
         {
           "Description": "Magische Kraft",
-          "Value": "+115"
+          "Value": "+140"
         },
         {
           "Description": "Gesundheit",
-          "Value": "+500"
+          "Value": "+225"
         },
         {
           "Description": "Mana",
           "Value": "+200"
+        },
+        {
+          "Description": "Magische Durchdringung",
+          "Value": "+10%"
         }
       ],
       "SecondaryDescription": null
@@ -4458,7 +4430,7 @@
       "Menuitems": [
         {
           "Description": "Magische Kraft",
-          "Value": "+75"
+          "Value": "+85"
         },
         {
           "Description": "Mana",
@@ -4492,18 +4464,22 @@
       "Menuitems": [
         {
           "Description": "Magische Kraft",
-          "Value": "+130"
+          "Value": "+110"
         },
         {
           "Description": "Mana",
           "Value": "+300"
+        },
+        {
+          "Description": "Magische Durchdringung",
+          "Value": "+10%"
         }
       ],
       "SecondaryDescription": "PASSIV – Deine Fertigkeiten verursachen zusätzlichen Magischen Schaden in Höhe von 2% der maximalen Gesundheit des Ziels. Hat das Ziel über 2000 Gesundheit, erhöht sich der Bonusschaden bis zu einem Maximum von 7% bei 2750 Gesundheit. Folgetreffer des gleichen Ziels verursachen 3s lang nach dem ersten Treffer nur die Hälfte des Bonusschadens."
     },
     "ItemId": 9128,
     "ItemTier": 3,
-    "Price": 1400,
+    "Price": 1500,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9858,
     "ShortDesc": "Fertigkeiten verursachen Bonusschaden je nach max. HP des Ziels.",
@@ -4624,7 +4600,7 @@
         },
         {
           "Description": "MP5",
-          "Value": "+20"
+          "Value": "+15"
         },
         {
           "Description": "Lauftempo",
@@ -4654,7 +4630,7 @@
       "Menuitems": [
         {
           "Description": "Magische Kraft",
-          "Value": "+50"
+          "Value": "+60"
         },
         {
           "Description": "MP5",
@@ -4665,7 +4641,7 @@
     },
     "ItemId": 9861,
     "ItemTier": 2,
-    "Price": 1050,
+    "Price": 850,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9860,
     "ShortDesc": "Magische Kraft und MP5.",
@@ -4684,18 +4660,18 @@
       "Menuitems": [
         {
           "Description": "Magische Kraft",
-          "Value": "+150"
+          "Value": "+160"
         },
         {
           "Description": "MP5",
           "Value": "+30"
         }
       ],
-      "SecondaryDescription": "PASSIV – Grundangriffe und Fertigkeiten erhalten 25% zusätzliche Magische Kraft gegen Ziele unter 50% Gesundheit."
+      "SecondaryDescription": "PASSIV – Grundangriffe und Fertigkeiten erhalten 25% Magische Kraft zusätzlich gegen Ziele mit weniger als 50% Gesundheit."
     },
     "ItemId": 7600,
     "ItemTier": 3,
-    "Price": 1400,
+    "Price": 1600,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9860,
     "ShortDesc": "Erhöhter Schaden gegen Götter mit geringer Gesundheit.",
@@ -4708,13 +4684,13 @@
     "ActiveFlag": "y",
     "ChildItemId": 9861,
     "DeviceName": "Anhänger des Chronos",
-    "IconId": 2840,
+    "IconId": 8139,
     "ItemDescription": {
       "Description": null,
       "Menuitems": [
         {
           "Description": "Magische Kraft",
-          "Value": "+90"
+          "Value": "+100"
         },
         {
           "Description": "MP5",
@@ -4729,7 +4705,7 @@
     },
     "ItemId": 7784,
     "ItemTier": 3,
-    "Price": 1200,
+    "Price": 1300,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9860,
     "ShortDesc": "Magische Kraft und starke Abklingzeitreduktion",
@@ -4774,6 +4750,78 @@
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/doom-orb.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 9861,
+    "DeviceName": "Charons Münze",
+    "IconId": 8135,
+    "ItemDescription": {
+      "Description": null,
+      "Menuitems": [
+        {
+          "Description": "Magische Kraft",
+          "Value": "+80"
+        },
+        {
+          "Description": "Magische Durchdringung",
+          "Value": "+20%"
+        },
+        {
+          "Description": "MP5",
+          "Value": "+20"
+        }
+      ],
+      "SecondaryDescription": "PASSIV – Bei Kills oder Unterstützungen wird die Münze geworfen. Bei Kopf erhältst du einen Stapel mit 7 HP5. Bei Zahl erhältst du einen Stapel mit 2% Lauftempo. Bis zu 4 Stapel pro Effekt. Bei 8 Stapeln entwickelt sich der Gegenstand. Du erhältst außerdem jedes Mal 1 Gold, wenn die Münze geworfen wird."
+    },
+    "ItemId": 18183,
+    "ItemTier": 3,
+    "Price": 1200,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 9860,
+    "ShortDesc": "Permanente Stapel von HP5 und Lauftempo",
+    "StartingItem": false,
+    "Type": "Item",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/charons-coin.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18183,
+    "DeviceName": "Charons Münze (entwickelt)",
+    "IconId": 8221,
+    "ItemDescription": {
+      "Description": null,
+      "Menuitems": [
+        {
+          "Description": "Magische Kraft",
+          "Value": "+80"
+        },
+        {
+          "Description": "HP5 & MP5",
+          "Value": "+20"
+        },
+        {
+          "Description": "Magische Durchdringung",
+          "Value": "+20%"
+        },
+        {
+          "Description": "Lauftempo",
+          "Value": "+8%"
+        }
+      ],
+      "SecondaryDescription": "PASSIV – Bei Kills oder Unterstützungen wird die Münze geworfen. Bei Kopf erhältst du über 6s 150 HP. Bei Zahl erhältst du über 6s 5% Lauftempo. Du erhältst außerdem jedes Mal 1 Gold, wenn die Münze geworfen wird."
+    },
+    "ItemId": 18314,
+    "ItemTier": 4,
+    "Price": 1,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 9861,
+    "ShortDesc": "Kills und Unterstützungen gewähren Heilung und Lauftempo",
+    "StartingItem": false,
+    "Type": "Item",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/evolved-charons-coin.jpg",
     "ret_msg": null
   },
   {
@@ -4906,6 +4954,44 @@
   },
   {
     "ActiveFlag": "y",
+    "ChildItemId": 9835,
+    "DeviceName": "Caduceusschild",
+    "IconId": 8134,
+    "ItemDescription": {
+      "Description": "Dieser Gegenstand verleiht dem Besitzer eine Heilungs- und Regenerations-Aura.",
+      "Menuitems": [
+        {
+          "Description": "Physische Kraft",
+          "Value": "+30"
+        },
+        {
+          "Description": "Physischer Schutz",
+          "Value": "+35"
+        },
+        {
+          "Description": "Magischer Schutz",
+          "Value": "+35"
+        },
+        {
+          "Description": "Gesundheit",
+          "Value": "+100"
+        }
+      ],
+      "SecondaryDescription": "AURA – Die Heilung durch Fertigkeiten von verbündeten Göttern innerhalb von 70 Einheiten wird um 10% erhöht. Falls du innerhalb der letzten 5s Schaden erlitten oder verursacht hast, wird sie um zusätzliche 15% erhöht. Kann nicht mit ähnlichen Auren gestapelt werden."
+    },
+    "ItemId": 18195,
+    "ItemTier": 3,
+    "Price": 1100,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 10190,
+    "ShortDesc": "Physische Kraft und erhöhte Heilung",
+    "StartingItem": false,
+    "Type": "Item",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/caduceus-shield.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
     "ChildItemId": 0,
     "DeviceName": "Imperialer Helm",
     "IconId": 3260,
@@ -4970,29 +5056,29 @@
     "DeviceName": "Dynastie-Plattenhelm",
     "IconId": 3263,
     "ItemDescription": {
-      "Description": "",
+      "Description": null,
       "Menuitems": [
         {
           "Description": "Magische Kraft",
-          "Value": "+50"
+          "Value": "+40"
         },
         {
           "Description": "Physischer Schutz",
           "Value": "+30"
         },
         {
-          "Description": "Magische Durchdringung",
-          "Value": "+10"
+          "Description": "Gesundheit",
+          "Value": "+50"
         }
       ],
-      "SecondaryDescription": ""
+      "SecondaryDescription": null
     },
     "ItemId": 10605,
     "ItemTier": 2,
-    "Price": 1100,
+    "Price": 1000,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 10603,
-    "ShortDesc": "Verleiht Magische Kraft, Physischen Schutz und Magische Durchdringung",
+    "ShortDesc": "Gewährt Magische Kraft und Physischen Schutz",
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/dynasty-plate-helm.jpg",
@@ -5019,7 +5105,7 @@
           "Value": "+20"
         }
       ],
-      "SecondaryDescription": "PASSIV – Du erhältst alle 2s einen Stapel mit 7 Physischem Schutz (maximal 5 Stapel). Die Stapel werden entfernt, wenn du Physischen Schaden durch Götter erleidest. Stapel können nur hinzugewonnen werden, nachdem du 5s lang keinen Physischen Schaden durch Götter erlitten hast."
+      "SecondaryDescription": "PASSIV – Du erhältst alle 2s einen Stapel mit 7 Physischem Schutz (maximal 5 Stapel). Die Stapel werden entfernt, wenn du Physischen Schaden durch Götter erleidest. Stapel können nur hinzugewonnen werden, nachdem du 2s lang keinen Physischen Schaden durch Götter erlitten hast."
     },
     "ItemId": 10600,
     "ItemTier": 3,
@@ -5087,7 +5173,7 @@
           "Value": "+150"
         }
       ],
-      "SecondaryDescription": "AURA – Die Physische Kraft gegnerischer Götter innerhalb von 55 Einheiten wird um 30 reduziert."
+      "SecondaryDescription": "AURA – Die Physische Kraft gegnerischer Götter innerhalb von 55 Einheiten wird um 20 reduziert."
     },
     "ItemId": 14179,
     "ItemTier": 3,
@@ -5098,6 +5184,44 @@
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/jade-emperors-crown.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 10605,
+    "DeviceName": "Tyrannei-Plattenhelm",
+    "IconId": 7601,
+    "ItemDescription": {
+      "Description": null,
+      "Menuitems": [
+        {
+          "Description": "Magische Kraft",
+          "Value": "+70"
+        },
+        {
+          "Description": "Physischer Schutz",
+          "Value": "+40"
+        },
+        {
+          "Description": "Gesundheit",
+          "Value": "+100"
+        },
+        {
+          "Description": "CC-Reduktion",
+          "Value": "+20%"
+        }
+      ],
+      "SecondaryDescription": "PASSIV – Befinden sich verbündete Lane-Diener in deiner Nähe, erhalten sie +10% Gesundheit und +20% Angriffstempo. Stirbt ein verbündeter Lane-Diener in deiner Nähe, erhältst du 5 Kraft pro Stapel. Maximal 6 Stapel, Stapel halten jeweils 15s lang."
+    },
+    "ItemId": 18199,
+    "ItemTier": 3,
+    "Price": 1000,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 10603,
+    "ShortDesc": "Magische Kraft, Physischer Schutz und Verstärkung von Dienern",
+    "StartingItem": false,
+    "Type": "Item",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/tyrannical-plate-helm.jpg",
     "ret_msg": null
   },
   {
@@ -5259,7 +5383,7 @@
           "Value": "+10"
         }
       ],
-      "SecondaryDescription": "PASSIV – Für je 0,02 Angriffstempo über der Obergrenze erhältst du 1 Physische Kraft."
+      "SecondaryDescription": "PASSIV – Für je 0,02 Angriffstempo über der Obergrenze erhältst du 1,5 Physische Kraft."
     },
     "ItemId": 14084,
     "ItemTier": 3,
@@ -5300,7 +5424,7 @@
     "Price": 1000,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 10662,
-    "ShortDesc": "Erhöht Angriffstempo.",
+    "ShortDesc": "Erhöht Angriffs- und Lauftempo",
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/atalantas-bow.jpg",
@@ -5392,72 +5516,9 @@
     "ret_msg": null
   },
   {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Himmlische Schwingen",
-    "IconId": 4309,
-    "ItemDescription": {
-      "Description": "Erhöhtes Lauftempo für Verbündete",
-      "Menuitems": [],
-      "SecondaryDescription": "Erhöht bei Aktivierung 5s lang das Lauftempo verbündeter Götter innerhalb von 55 Einheiten um 20% und macht sie immun gegen Verlangsamungen. Abklingzeit: 140s"
-    },
-    "ItemId": 7353,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Erhöht Lauftempo von Verbündeten.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/heavenly-wings.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Verfluchtes Ankh",
-    "IconId": 5064,
-    "ItemDescription": {
-      "Description": "Reduziert die Heilung der Gegner.",
-      "Menuitems": [],
-      "SecondaryDescription": "Reduziert bei Aktivierung die Heilung aller gegnerischen Götter innerhalb von 55 Einheiten 10s lang um 50%. Abklingzeit: 120s"
-    },
-    "ItemId": 7671,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Reduziert die Heilung naher Gegner.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/cursed-ankh.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Ägis-Amulett",
-    "IconId": 4306,
-    "ItemDescription": {
-      "Description": "Dieser Gegenstand macht den Besitzer für kurze Zeit unverwundbar.",
-      "Menuitems": [],
-      "SecondaryDescription": "Macht dich bei Aktivierung 2s lang unempfänglich für Schaden und Heilung, hindert dich jedoch daran, aktiv zu werden. Bewegen bleibt möglich. Abklingzeit: 180s"
-    },
-    "ItemId": 7672,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Zeitlich begrenzte Unverwundbarkeit.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/aegis-amulet.jpg",
-    "ret_msg": null
-  },
-  {
     "ActiveFlag": "n",
     "ChildItemId": 12333,
-    "DeviceName": "Hand der Götter",
+    "DeviceName": "*Hand der Götter",
     "IconId": 4311,
     "ItemDescription": {
       "Description": "Fügt Dienern und Dschungelmonstern Schaden zu. Betäubt gegnerische Götter.",
@@ -5472,469 +5533,7 @@
     "ShortDesc": "Fügt Dienern und Dschungelmonstern Schaden zu.",
     "StartingItem": false,
     "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/hand-of-the-gods.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Blinzelrune",
-    "IconId": 5060,
-    "ItemDescription": {
-      "Description": "Kurzstrecken-Teleport.",
-      "Menuitems": [],
-      "SecondaryDescription": "Teleportiert dich bei Aktivierung über eine Distanz von bis zu 55 Einheiten. Kann erst aktiviert werden, nachdem 3s lang kein Schaden verursacht oder erlitten wurde. Abklingzeit: 120s"
-    },
-    "ItemId": 8844,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Kurzstrecken-Teleport",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/blink-rune.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Perlen der Reinigung",
-    "IconId": 4301,
-    "ItemDescription": {
-      "Description": "Entfernt Crowd-Control-Effekte.",
-      "Menuitems": [],
-      "SecondaryDescription": "Dieser Gegenstand hebt die Wirkung von CC-Effekten auf und immunisiert dich für 2s gegen weitere. Abklingzeit: 160s."
-    },
-    "ItemId": 8879,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Entfernt CC-Effekte.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/purification-beads.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Teleport-Hieroglyphe",
-    "IconId": 5076,
-    "ItemDescription": {
-      "Description": "Teleportiere zu einem verbündeten Turm oder Schutzstein. Keine Unterbrechung durch Schaden.",
-      "Menuitems": [],
-      "SecondaryDescription": "Ermöglicht es dir bei Aktivierung, dich zu jedem verbündeten Turm zu teleportieren. Du kannst dich währenddessen nicht bewegen. Kann nicht durch Schaden, sondern nur durch starke CC-Effekte unterbrochen werden. Abklingzeit: 200s"
-    },
-    "ItemId": 9040,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Teleportiere zu einem verbündeten Turm.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/teleport-glyph.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Meditationsumhang",
-    "IconId": 4305,
-    "ItemDescription": {
-      "Description": "Stellt Mana und Gesundheit wieder her.",
-      "Menuitems": [],
-      "SecondaryDescription": "Stellt bei Aktivierung 75 Gesundheit +12 Gesundheit pro Stufe sowie 30% Mana bei allen verbündeten Göttern innerhalb von 35 Einheiten wieder her. Abklingzeit: 120s"
-    },
-    "ItemId": 9041,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Stellt Mana und Gesundheit wieder her.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/meditation-cloak.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Magische Hülle",
-    "IconId": 4308,
-    "ItemDescription": {
-      "Description": "Buff auf Schutz und Schadensminderung.",
-      "Menuitems": [],
-      "SecondaryDescription": "Gewährt bei Aktivierung dem Besitzer und seinen Verbündeten innerhalb von 35 Einheiten 3s lang einen Schild mit 100 Gesundheit + 12 Gesundheit pro Gott-Stufe. Abklingzeit: 150s"
-    },
-    "ItemId": 9120,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Gesundheitsschild",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/magic-shell.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Dornenschild",
-    "IconId": 5072,
-    "ItemDescription": {
-      "Description": "Nach Benutzung wirfst du 5s lang 40% allen erlittenen Schadens auf seine Verursacher zurück.",
-      "Menuitems": [],
-      "SecondaryDescription": "Wirft nach Aktivierung 5s lang 40% allen erlittenen Schadens vor Schadensminderung als magischen Schaden auf seine Verursacher zurück. Erleidest du während der Dauer Schaden in Höhe des 150-fachen deiner Stufe, endet der Effekt vorzeitig. Abklingzeit: 120s"
-    },
-    "ItemId": 11106,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Reflektiert 40% allen Schadens",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/shield-of-thorns.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Entzweiender Speer",
-    "IconId": 5074,
-    "ItemDescription": {
-      "Description": "Schleudert Projektil mit Absolutem Schaden.",
-      "Menuitems": [],
-      "SecondaryDescription": "Schleudert bei Aktivierung einen Blitz, der 70 Einheiten weit fliegt, vom ersten getroffenen Gott gestoppt wird und 15% der Gesundheit des Ziels als Absoluten Schaden verursacht. Abklingzeit: 110s"
-    },
-    "ItemId": 12580,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Feuert ein den Schaden erhöhendes Projektil ab.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/sundering-spear.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Phantomschleier",
-    "IconId": 4671,
-    "ItemDescription": {
-      "Description": "Geisterschritt",
-      "Menuitems": [],
-      "SecondaryDescription": "Nach Aktivierung kannst du ebenso wie verbündete Götter innerhalb von 35 Einheiten 5s lang Spieler und deren Objekte durchdringen. Abklingzeit: 150s"
-    },
-    "ItemId": 13193,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Geisterschritt",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/phantom-veil.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Schreckliches Emblem",
-    "IconId": 5068,
-    "ItemDescription": {
-      "Description": "Verringert Angriffs- und Lauftempo gegnerischer Götter.",
-      "Menuitems": [],
-      "SecondaryDescription": "Reduziert bei Aktivierung das Lauftempo aller gegnerischen Götter innerhalb von 35 Einheiten 5s lang um 30% und das Angriffstempo um 15%. Abklingzeit: 130s"
-    },
-    "ItemId": 14056,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Reduziert gegnerisches Angriffs- und Lauftempo.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/horrific-emblem.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Armschiene des Ruins",
-    "IconId": 5062,
-    "ItemDescription": {
-      "Description": "Regeneriert Mana und Gesundheit.",
-      "Menuitems": [],
-      "SecondaryDescription": "Regeneriert bei Aktivierung 40% des Gesundheits- und Manaverlusts der letzten 5s. Abklingzeit: 120s"
-    },
-    "ItemId": 14112,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Regeneriert Mana und Gesundheit.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/bracer-of-undoing.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Wahnsinnsgürtel",
-    "IconId": 4304,
-    "ItemDescription": {
-      "Description": "Schadens-Buff für Verbündete.",
-      "Menuitems": [],
-      "SecondaryDescription": "Erhöht bei Aktivierung 5s lang den verursachten Schaden verbündeter Götter innerhalb von 70 Einheiten um 10% und das Angriffstempo um 15%. Abklingzeit: 120s"
-    },
-    "ItemId": 14536,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Schadens-Buff für Verbündete.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/belt-of-frenzy.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 8879,
-    "DeviceName": "Perlen der Reinigung (Aufw.)",
-    "IconId": 5109,
-    "ItemDescription": {
-      "Description": "Entfernt Crowd-Control-Effekte.",
-      "Menuitems": [],
-      "SecondaryDescription": "Hebt bei Aktivierung die Wirkung von CC-Effekten auf und immunisiert dich für 2s gegen weitere. Abklingzeit: 130s"
-    },
-    "ItemId": 14146,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Entfernt CC-Effekte.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/purification-beads-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 7353,
-    "DeviceName": "Himmlische Schwingen (Aufw.)",
-    "IconId": 5105,
-    "ItemDescription": {
-      "Description": "Erhöht das Lauftempo von Verbündeten.",
-      "Menuitems": [],
-      "SecondaryDescription": "Erhöht bei Aktivierung 5s lang das Lauftempo verbündeter Götter innerhalb von 55 Einheiten um 20%, macht sie währenddessen immun gegen Verlangsamungen und verleiht Eile, was sie immun gegen Bewegungseinschränkungen durch Grundangriffe macht. Abklingzeit: 140s"
-    },
-    "ItemId": 14147,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Erhöht Lauftempo von Verbündeten.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/heavenly-wings-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 8844,
-    "DeviceName": "Blinzelrune (Aufwertung)",
-    "IconId": 5061,
-    "ItemDescription": {
-      "Description": "Kurzstrecken-Teleport.",
-      "Menuitems": [],
-      "SecondaryDescription": "Teleportiert dich bei Aktivierung über eine Distanz von bis zu 55 Einheiten und gewährt 2s lang 10% Schadensminderung. Kann erst aktiviert werden, nachdem 3s lang kein Schaden verursacht oder erlitten wurde. Abklingzeit: 120s"
-    },
-    "ItemId": 14150,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Kurzstrecken-Teleport",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/blink-rune-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 7671,
-    "DeviceName": "Verfluchtes Ankh (Aufw.)",
-    "IconId": 5065,
-    "ItemDescription": {
-      "Description": "Reduziert die Heilung von Gegnern.",
-      "Menuitems": [],
-      "SecondaryDescription": "Reduziert bei Aktivierung die Heilung aller gegnerischen Götter innerhalb von 55 Einheiten 10s lang um 50%. Gegner, die geheilt werden, während dieser Fluch auf ihnen lastet, erleiden für die Dauer des Fluchs 20% mehr Schaden aus allen Quellen. Abklingzeit: 120s"
-    },
-    "ItemId": 14151,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Reduziert die Heilung naher Gegner.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/cursed-ankh-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 9041,
-    "DeviceName": "Meditationsumhang (Aufw.)",
-    "IconId": 5107,
-    "ItemDescription": {
-      "Description": "Mana- und Gesundheits-Wiederherstellung.",
-      "Menuitems": [],
-      "SecondaryDescription": "Stellt bei Aktivierung 75 Gesundheit + 12 Gesundheit pro Stufe sowie 30% Mana bei allen verbündeten Göttern innerhalb von 35 Einheiten wieder her. Von Meditationsumhang betroffene Verbündete haben um 30% geringere Manakosten für Fertigkeiten, und die Abklingzeiten ihrer Fertigkeiten werden nach Verwendung um 1s reduziert. Abklingzeit: 120s"
-    },
-    "ItemId": 14152,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Stellt Mana und Gesundheit wieder her.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/meditation-cloak-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 13193,
-    "DeviceName": "Phantomschleier (Aufw.)",
-    "IconId": 5108,
-    "ItemDescription": {
-      "Description": "Geisterschritt und erhöhte Schadensreduktion.",
-      "Menuitems": [],
-      "SecondaryDescription": "Nach Aktivierung kannst du ebenso wie verbündete Götter innerhalb von 35 Einheiten 10s lang Spieler und deren Objekte durchdringen. Zudem erhöht sich deine Schadensminderung 5s lang um 15%. Abklingzeit: 150s"
-    },
-    "ItemId": 14153,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Geisterschritt und Schadensminderung",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/phantom-veil-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 7672,
-    "DeviceName": "Ägis-Amulett (Aufwertung)",
-    "IconId": 5103,
-    "ItemDescription": {
-      "Description": "Dieser Gegenstand macht den Besitzer für kurze Zeit unverwundbar.",
-      "Menuitems": [],
-      "SecondaryDescription": "Macht dich bei Aktivierung 2s lang unempfänglich für Schaden und Heilung, hindert dich jedoch daran, aktiv zu werden. Bewegen bleibt möglich. Abklingzeit: 150s"
-    },
-    "ItemId": 14154,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Zeitlich begrenzte Unverwundbarkeit.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/aegis-amulet-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 9120,
-    "DeviceName": "Magische Hülle (Aufwertung)",
-    "IconId": 5106,
-    "ItemDescription": {
-      "Description": "Buff auf Schutz und Schadensminderung.",
-      "Menuitems": [],
-      "SecondaryDescription": "Gewährt bei Aktivierung dem Besitzer und seinen Verbündeten innerhalb von 35 Einheiten 3s lang einen Schild mit 100 Gesundheit + 12 Gesundheit pro Gott-Stufe. Alle Verbündeten erhalten 2 Blocken-Stapel, die die nächsten 2 Grundangriffe absorbieren. Abklingzeit: 150s"
-    },
-    "ItemId": 14155,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Gesundheitsschild und Blocken-Stapel.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/magic-shell-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12580,
-    "DeviceName": "Entzweiender Speer (Aufw.)",
-    "IconId": 5075,
-    "ItemDescription": {
-      "Description": "Schleudert Projektil mit Absolutem Schaden.",
-      "Menuitems": [],
-      "SecondaryDescription": "Schleudert bei Aktivierung einen Blitz, der 70 Einheiten weit fliegt, vom ersten getroffenen Gott gestoppt wird und 15% der Gesundheit des Ziels als Absoluten Schaden verursacht sowie den vom Getroffenen erlittenen Schaden 5s lang um 20% erhöht. Abklingzeit: 110s"
-    },
-    "ItemId": 14156,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Schleudert Projektil mit Absolutem Schaden.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/sundering-spear-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 9040,
-    "DeviceName": "Teleport-Hieroglyphe (Aufw.)",
-    "IconId": 5077,
-    "ItemDescription": {
-      "Description": "Teleportiere zu einem verbündeten Turm. Keine Unterbrechung durch Schaden.",
-      "Menuitems": [],
-      "SecondaryDescription": "Ermöglicht es dir bei Aktivierung, dich zu jedem verbündeten Turm oder Schutzstein zu teleportieren. Du kannst dich währenddessen nicht bewegen. Kann nicht durch Schaden, sondern nur durch starke CC-Effekte unterbrochen werden. Abklingzeit: 200s"
-    },
-    "ItemId": 14157,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Teleportiere zu einem verbündeten Turm oder Schutzstein.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/teleport-glyph-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 11106,
-    "DeviceName": "Dornenschild (Aufwertung)",
-    "IconId": 5073,
-    "ItemDescription": {
-      "Description": "Nach Benutzung wirfst du 5s lang 40% allen erlittenen Schadens auf seine Verursacher zurück.",
-      "Menuitems": [],
-      "SecondaryDescription": "Wirft nach Aktivierung 5s lang 40% allen erlittenen Schadens vor Schadensminderung als magischen Schaden auf seine Verursacher zurück. Erleidest du während der Dauer Schaden in Höhe des 150-fachen deiner Stufe, endet der Effekt vorzeitig. Während der Effekt aktiv ist, profitieren Gegner gegen dich nur von 50% ihres Lebensraubs. Abklingzeit: 120s"
-    },
-    "ItemId": 14158,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Reflektiert 40% allen Schadens",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/shield-of-thorns-upgrade.jpg",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/*hand-of-the-gods.jpg",
     "ret_msg": null
   },
   {
@@ -5956,69 +5555,6 @@
     "StartingItem": false,
     "Type": "Active",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/hand-of-the-gods-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 14056,
-    "DeviceName": "Schreckliches Emblem (Aufw.)",
-    "IconId": 5069,
-    "ItemDescription": {
-      "Description": "Reduziert Angriffs- und Lauftempo gegnerischer Götter.",
-      "Menuitems": [],
-      "SecondaryDescription": "Reduziert bei Aktivierung das Lauftempo aller gegnerischen Götter innerhalb von 35 Einheiten 5s lang um 30% und das Angriffstempo um 25%. Zusätzlich wird der von ihnen verursachte Schaden um 15% reduziert. Abklingzeit: 130s"
-    },
-    "ItemId": 14162,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Reduziert gegnerisches Angriffs- und Lauftempo.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/horrific-emblem-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 14112,
-    "DeviceName": "Armschiene des Ruins (Aufw.)",
-    "IconId": 5063,
-    "ItemDescription": {
-      "Description": "Reduziert Abklingzeiten von Fertigkeiten und regeneriert Mana und Gesundheit.",
-      "Menuitems": [],
-      "SecondaryDescription": "Reduziert bei Aktivierung alle laufenden Abklingzeiten um 3s und regeneriert 40% des Gesundheits- und Manaverlusts der letzten 5s. Abklingzeit: 120s"
-    },
-    "ItemId": 14164,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Reduziert Abklingzeit von Fertigkeiten und regeneriert Mana und Gesundheit.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/bracer-of-undoing-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 14536,
-    "DeviceName": "Wahnsinnsgürtel (Aufw.)",
-    "IconId": 5302,
-    "ItemDescription": {
-      "Description": "Schadens-Buff für Verbündete.",
-      "Menuitems": [],
-      "SecondaryDescription": "Erhöht bei Aktivierung 8s lang den verursachten Schaden verbündeter Götter innerhalb von 70 Einheiten um 10% und das Angriffstempo um 15%. Gewährt während der Dauer des Effekts zudem +10 Durchdringung. Abklingzeit: 120s"
-    },
-    "ItemId": 14538,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Schadens-Buff für Verbündete.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/belt-of-frenzy-upgrade.jpg",
     "ret_msg": null
   },
   {
@@ -6329,7 +5865,7 @@
         },
         {
           "Description": "Angriffstempo",
-          "Value": "+10%"
+          "Value": "+15%"
         },
         {
           "Description": "Kritische Trefferchance",
@@ -6359,7 +5895,7 @@
       "Menuitems": [
         {
           "Description": "Physische Kraft",
-          "Value": "+20"
+          "Value": "+30"
         },
         {
           "Description": "Angriffstempo",
@@ -6736,7 +6272,7 @@
           "Value": "+20%"
         }
       ],
-      "SecondaryDescription": "AURA – Verbündete Götter innerhalb von 70 Einheiten erhalten um 20% erhöhtes Angriffstempo."
+      "SecondaryDescription": "AURA – Verbündete Götter innerhalb von 70 Einheiten erhalten um 25% erhöhtes Angriffstempo."
     },
     "ItemId": 14178,
     "ItemTier": 3,
@@ -6970,7 +6506,7 @@
           "Value": "+30"
         }
       ],
-      "SecondaryDescription": "AURA – Reduziert den Magischen Schutz von gegnerischen Göttern innerhalb von 55 Einheiten um 8."
+      "SecondaryDescription": "AURA – Reduziert den Magischen Schutz von gegnerischen Göttern innerhalb von 55 Einheiten um 5%."
     },
     "ItemId": 9853,
     "ItemTier": 2,
@@ -7019,7 +6555,7 @@
     "DeviceName": "Stein der Bindung",
     "IconId": 5051,
     "ItemDescription": {
-      "Description": "Aura, die Physische Kraft von Gegnern reduziert.",
+      "Description": null,
       "Menuitems": [
         {
           "Description": "Magische Kraft",
@@ -7034,7 +6570,7 @@
           "Value": "+30"
         }
       ],
-      "SecondaryDescription": "PASSIV – Triffst du einen gegnerischen Gott mit einer CC-Fertigkeit, wird dieser mit einem Debuff belegt, der 5s lang Magischen und Physischen Schutz um jeweils 15 reduziert."
+      "SecondaryDescription": "PASSIV – Triffst du einen gegnerischen Gott mit einer CC-Fertigkeit, wird dieser mit einem Debuff belegt, der 5s lang Magischen und Physischen Schutz um jeweils 10 reduziert."
     },
     "ItemId": 14175,
     "ItemTier": 2,
@@ -7061,14 +6597,14 @@
         },
         {
           "Description": "Magische Kraft",
-          "Value": "+20"
+          "Value": "+40"
         },
         {
           "Description": "Magischer Schutz",
           "Value": "+60"
         }
       ],
-      "SecondaryDescription": "AURA – Reduziert den Magischen Schutz gegnerischer Götter innerhalb von 55 Einheiten um 15."
+      "SecondaryDescription": "AURA – Reduziert den Magischen Schutz gegnerischer Götter innerhalb von 55 Einheiten um 10%."
     },
     "ItemId": 7791,
     "ItemTier": 3,
@@ -7087,11 +6623,11 @@
     "DeviceName": "Stein von Fal",
     "IconId": 5052,
     "ItemDescription": {
-      "Description": "Jedes Mal, wenn du Schaden von mehr als 20% deiner maximalen Gesundheit durch eine einzelne magische Fertigkeit erleiden würdest, wird dieser Schaden stattdessen um 10% reduziert.",
+      "Description": null,
       "Menuitems": [
         {
           "Description": "Magische Kraft",
-          "Value": "+70"
+          "Value": "+80"
         },
         {
           "Description": "Magischer Schutz",
@@ -7102,14 +6638,14 @@
           "Value": "+10%"
         }
       ],
-      "SecondaryDescription": "PASSIV – Jedes Mal, wenn du Schaden von mehr als 20% deiner maximalen Gesundheit durch eine einzelne magische Fertigkeit erleiden würdest, wird dieser Schaden stattdessen um 10% reduziert."
+      "SecondaryDescription": "PASSIV – Du erhältst 20% des Magischen Schutzes des verbündeten Gottes mit dem höchsten Magischen Schutz innerhalb von 70 Einheiten."
     },
     "ItemId": 14079,
     "ItemTier": 3,
-    "Price": 900,
+    "Price": 1200,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 14071,
-    "ShortDesc": "Reduziert Schaden mag. Fertigkeiten, die 20% deiner max. HP zufügen würden.",
+    "ShortDesc": "Erhalte Magischen Schutz von einem nahen Verbündeten",
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/stone-of-fal.jpg",
@@ -7223,9 +6759,9 @@
     "DeviceName": "Wächtersegen",
     "IconId": 6555,
     "ItemDescription": {
-      "Description": null,
+      "Description": "",
       "Menuitems": [],
-      "SecondaryDescription": "+100 Gesundheit\n+5 Physischer und Magischer Schutz\n+7 HP und Mana regeneriert pro Diener-Unterstützung\n+5 MP5\n+3 Gold pro Diener-Unterstützung\n\nROLLENQUEST: UNTERSTÜTZER\nErziele Unterstützungen beim Töten von Dienern, um Stapel zu erhalten. Jede Unterstützung gewährt 1 Stapel. Bei 50 Stapeln entwickelt sich der Wächtersegen und gewährt alle 5s zusätzlich 4 Gold."
+      "SecondaryDescription": "+100 Gesundheit\n+5 Physischer und Magischer Schutz\n+7 HP5 & 7 MP5 falls verbündeter Gott im Umkreis von 60 Einheiten\n+3 Gold pro Diener-Unterstützung\n\nROLLENQUEST: UNTERSTÜTZER\nErziele Unterstützungen beim Töten von Dienern, um Stapel zu erhalten. Jede Unterstützung gewährt 1 Stapel. Bei 50 Stapeln entwickelt sich der Wächtersegen und gewährt alle 5s zusätzlich 4 Gold."
     },
     "ItemId": 15473,
     "ItemTier": 1,
@@ -7244,9 +6780,9 @@
     "DeviceName": "Wächtersegen (entwickelt)",
     "IconId": 6556,
     "ItemDescription": {
-      "Description": null,
+      "Description": "",
       "Menuitems": [],
-      "SecondaryDescription": "+100 Gesundheit\n+5 Physischer Schutz und Magischer Schutz\n+7 HP und Mana regeneriert pro Lane-Diener-Unterstützung\n+5 MP5\n+3 Gold pro Diener-Unterstützung\n+4 Gold alle 5s\n\nROLLENQUEST: UNTERSTÜTZER – ABGESCHLOSSEN!"
+      "SecondaryDescription": "+100 Gesundheit\n+5 Physischer Schutz und Magischer Schutz\n+7 HP5 & 7 MP5 falls verbündeter Gott im Umkreis von 60 Einheiten\n+3 Gold pro Diener-Unterstützung\n+4 GP5\n\nROLLENQUEST: UNTERSTÜTZER – ABGESCHLOSSEN!"
     },
     "ItemId": 15477,
     "ItemTier": 2,
@@ -7351,7 +6887,7 @@
     "ItemDescription": {
       "Description": "",
       "Menuitems": [],
-      "SecondaryDescription": "+50 Gesundheit\n+35% Bonusschaden gegen Dschungelmonster\n+7% Gesundheit und 25 Mana regeneriert nach Tötung eines Dschungelmonsters \nROLLENQUEST: DSCHUNGEL\nGewährt Stapel beim Töten oder Unterstützung beim Töten von Dschungelmonstern (1 Stapel) oder Göttern (5 Stapel). Entwickelt sich bei 50 Stapeln und gewährt zusätzlich +5 Durchdringung und +5% Lauftempo."
+      "SecondaryDescription": "+50 Gesundheit\n+40% Bonusschaden gegen Dschungelmonster\n+7% Gesundheit und 25 Mana regeneriert nach Tötung eines Dschungelmonsters\nROLLENQUEST: DSCHUNGEL\nGewährt Stapel beim Töten oder Unterstützung beim Töten von Dschungelmonstern (1 Stapel) oder Göttern (5 Stapel). Entwickelt sich bei 50 Stapeln und gewährt zusätzlich +5 Durchdringung und +5% Lauftempo."
     },
     "ItemId": 15486,
     "ItemTier": 1,
@@ -7372,7 +6908,7 @@
     "ItemDescription": {
       "Description": null,
       "Menuitems": [],
-      "SecondaryDescription": "+50 Gesundheit\n+35% Bonusschaden gegen Dschungelmonster\n+7% Gesundheit und 25 Mana regeneriert nach Tötung eines Dschungelmonsters\n+5 Durchdringung\n+5% Lauftempo\n\nROLLENQUEST: DSCHUNGEL – ABGESCHLOSSEN!"
+      "SecondaryDescription": "+50 Gesundheit\n+40% Bonusschaden gegen Dschungelmonster\n+7% Gesundheit und 25 Mana regeneriert nach Tötung eines Dschungelmonsters\n+5 Durchdringung\n+5% Lauftempo\n\nROLLENQUEST: DSCHUNGEL – ABGESCHLOSSEN!"
     },
     "ItemId": 15487,
     "ItemTier": 2,
@@ -7435,7 +6971,7 @@
     "ItemDescription": {
       "Description": null,
       "Menuitems": [],
-      "SecondaryDescription": "+20 MP5\n+10% Abklingzeitreduktion\n\nROLLENQUEST: UNTERSTÜTZUNG\nFüge Gegnern Schaden zu oder heile Verbündete, um Stapel zu erhalten. Fügst du einem Gegner Schaden zu oder heilst du einen verbündeten Gott mit deinen Fertigkeiten, erhältst du 1 Stapel. Pro Fertigkeit werden maximal 3 Stapel gewährt. Bei 75 Stapeln entwickelt sich der Spezialistensegen und gewährt 10% Lauftempo."
+      "SecondaryDescription": "+10 HP5\n+20 MP5\n+10% Abklingzeitreduktion\n\nROLLENQUEST: UNTERSTÜTZUNG\nFüge Gegnern Schaden zu oder heile Verbündete, um Stapel zu erhalten. Fügst du einem Gegner Schaden zu oder heilst du einen verbündeten Gott mit deinen Fertigkeiten, erhältst du 1 Stapel. Pro Fertigkeit werden maximal 3 Stapel gewährt. Bei 75 Stapeln entwickelt sich der Spezialistensegen und gewährt 10% Lauftempo."
     },
     "ItemId": 15571,
     "ItemTier": 1,
@@ -7456,7 +6992,7 @@
     "ItemDescription": {
       "Description": null,
       "Menuitems": [],
-      "SecondaryDescription": "+20 MP5\n+10% Abklingzeitreduktion\n+10% Lauftempo\n\nROLLENQUEST: UNTERSTÜTZUNG – ABGESCHLOSSEN!"
+      "SecondaryDescription": "+10 HP5\n+20 MP5\n+10% Abklingzeitreduktion\n+10% Lauftempo\n\nROLLENQUEST: UNTERSTÜTZUNG – ABGESCHLOSSEN!"
     },
     "ItemId": 15572,
     "ItemTier": 2,
@@ -7689,16 +7225,12 @@
       "Description": null,
       "Menuitems": [
         {
-          "Description": "Durchdringung",
-          "Value": "+10"
-        },
-        {
           "Description": "Physische Kraft",
-          "Value": "+20"
+          "Value": "+30"
         },
         {
           "Description": "Magische Kraft",
-          "Value": "+50"
+          "Value": "+60"
         }
       ],
       "SecondaryDescription": "PASSIV – Kann nur von Kriegern und Wächtern gekauft werden."
@@ -7708,7 +7240,7 @@
     "Price": 700,
     "RestrictedRoles": "assassin,hunter,mage",
     "RootItemId": 16393,
-    "ShortDesc": "Kraft und Durchdringung",
+    "ShortDesc": "Zusatzkraft",
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/fighters-mask.jpg",
@@ -7757,16 +7289,12 @@
       "Description": null,
       "Menuitems": [
         {
-          "Description": "Durchdringung",
-          "Value": "+15"
-        },
-        {
           "Description": "Physische Kraft",
-          "Value": "+35"
+          "Value": "+60"
         },
         {
           "Description": "Magische Kraft",
-          "Value": "+70"
+          "Value": "+100"
         }
       ],
       "SecondaryDescription": "PASSIV – GEWÄHRT SCHADEN IM TAUSCH GEGEN VERTEIDIGUNG\nKann nur von Kriegern und Wächtern gekauft werden.\n<font color='#42F46E'>+20% verursachter Schaden\n<font color='#F44242'>+25% erlittener Schaden"
@@ -7807,7 +7335,7 @@
           "Value": "+20%"
         }
       ],
-      "SecondaryDescription": "PASSIV – GEWÄHRT VERTEIDIGUNG IM TAUSCH GEGEN SCHADEN\nKann nur von Magiern, Jägern und Assassinen gekauft werden.\n<font color='#42F46E'>-25% erlittener Schaden\n<font color='#F44242'>-25% verursachter Schaden\n<font color='#F44242'>-25% geleistete Heilung"
+      "SecondaryDescription": "PASSIV – GEWÄHRT VERTEIDIGUNG IM TAUSCH GEGEN SCHADEN\nKann nur von Magiern, Jägern und Assassinen gekauft werden.\n<font color='#42F46E'>-20% erlittener Schaden\n<font color='#F44242'>-20% verursachter Schaden\n<font color='#F44242'>-20% geleistete Heilung"
     },
     "ItemId": 14541,
     "ItemTier": 3,
@@ -8001,7 +7529,11 @@
       "Menuitems": [
         {
           "Description": "Magische Kraft",
-          "Value": "+120"
+          "Value": "+110"
+        },
+        {
+          "Description": "Magische Durchdringung",
+          "Value": "+10%"
         },
         {
           "Description": "Abklingzeitreduktion",
@@ -8015,7 +7547,7 @@
     "Price": 1400,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 17349,
-    "ShortDesc": "Die nächste Fertigkeit nach Verwendung deiner Überkraft hat keine Abklingzeit.",
+    "ShortDesc": "Die nächste Fertigkeit nach Verwendung deiner Überkraft hat keine Abklingzeit",
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/staff-of-myrddin.jpg",
@@ -8117,6 +7649,666 @@
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/fail-not.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 0,
+    "DeviceName": "Trank der Kraft",
+    "IconId": 1980,
+    "ItemDescription": {
+      "Description": null,
+      "Menuitems": [
+        {
+          "Description": "",
+          "Value": ""
+        },
+        {
+          "Description": "Freischaltung auf Stufe 10",
+          "Value": ""
+        }
+      ],
+      "SecondaryDescription": "Dieser Verbrauchsgegenstand erhöht für 5 Minuten oder bis du getötet wirst deine Physische Kraft um 40, deine Magische Kraft um 70 und deine Abklingzeitreduktion um 10%."
+    },
+    "ItemId": 18194,
+    "ItemTier": 1,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18194,
+    "ShortDesc": "Erhöht Physische und Magische Kraft bei Anwendung",
+    "StartingItem": false,
+    "Type": "Consumable",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/potion-of-power.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 0,
+    "DeviceName": "Hand der Götter",
+    "IconId": 8137,
+    "ItemDescription": {
+      "Description": "",
+      "Menuitems": [],
+      "SecondaryDescription": "Dieser Verbrauchsgegenstand fügt Dschungelmonstern in deiner Umgebung 150 Absoluten Schaden zu. Kann nur auf Monster auf deiner Seite des Dschungels angewandt werden."
+    },
+    "ItemId": 18200,
+    "ItemTier": 1,
+    "Price": 100,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18200,
+    "ShortDesc": "Fügt Dienern und Dschungelmonstern Schaden zu.",
+    "StartingItem": false,
+    "Type": "Consumable",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/hand-of-the-gods.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 0,
+    "DeviceName": "Sichtscherbe",
+    "IconId": 8136,
+    "ItemDescription": {
+      "Description": null,
+      "Menuitems": [],
+      "SecondaryDescription": "Bei Aktivierung dieses Gegenstandes wird ein Schutzstein platziert, der 60s lang bestehen bleibt. Die Sichtscherbe kann nach Erreichen von Stufe 12 zu einem neuen Relikt aufgewertet werden. Abklingzeit: 120s"
+    },
+    "ItemId": 18307,
+    "ItemTier": 1,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Erlaubt es dir, einen kurzlebigen Schutzstein zu platzieren",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/vision-shard.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Himmlische Schwingen",
+    "IconId": 4309,
+    "ItemDescription": {
+      "Description": "Erhöhtes Lauftempo für Verbündete",
+      "Menuitems": [],
+      "SecondaryDescription": "Erhöht bei Aktivierung 5s lang das Lauftempo verbündeter Götter innerhalb von 55 Einheiten um 20% und macht sie immun gegen Verlangsamungen. Abklingzeit: 140s"
+    },
+    "ItemId": 7353,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Erhöht Lauftempo von Verbündeten.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/heavenly-wings.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Verfluchtes Ankh",
+    "IconId": 5064,
+    "ItemDescription": {
+      "Description": "Reduziert die Heilung der Gegner.",
+      "Menuitems": [],
+      "SecondaryDescription": "Reduziert bei Aktivierung die Heilung aller gegnerischen Götter innerhalb von 55 Einheiten 10s lang um 50%. Abklingzeit: 120s"
+    },
+    "ItemId": 7671,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Reduziert die Heilung naher Gegner.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/cursed-ankh.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Ägis-Amulett",
+    "IconId": 4306,
+    "ItemDescription": {
+      "Description": "Dieser Gegenstand macht den Besitzer für kurze Zeit unverwundbar.",
+      "Menuitems": [],
+      "SecondaryDescription": "Macht dich bei Aktivierung 2s lang unempfänglich für Schaden und Heilung, hindert dich jedoch daran, aktiv zu werden. Bewegen bleibt möglich. Abklingzeit: 180s"
+    },
+    "ItemId": 7672,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Zeitlich begrenzte Unverwundbarkeit.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/aegis-amulet.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Blinzelrune",
+    "IconId": 5060,
+    "ItemDescription": {
+      "Description": "Kurzstrecken-Teleport.",
+      "Menuitems": [],
+      "SecondaryDescription": "Teleportiert dich bei Aktivierung über eine Distanz von bis zu 55 Einheiten. Kann erst aktiviert werden, nachdem 3s lang kein Schaden verursacht oder erlitten wurde. Abklingzeit: 120s"
+    },
+    "ItemId": 8844,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Kurzstrecken-Teleport",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/blink-rune.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Perlen der Reinigung",
+    "IconId": 4301,
+    "ItemDescription": {
+      "Description": "Entfernt Crowd-Control-Effekte.",
+      "Menuitems": [],
+      "SecondaryDescription": "Dieser Gegenstand hebt die Wirkung von CC-Effekten auf und immunisiert dich für 2s gegen weitere. Abklingzeit: 160s."
+    },
+    "ItemId": 8879,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Entfernt CC-Effekte.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/purification-beads.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Teleport-Hieroglyphe",
+    "IconId": 5076,
+    "ItemDescription": {
+      "Description": "Teleportiere zu einem verbündeten Turm oder Schutzstein. Keine Unterbrechung durch Schaden.",
+      "Menuitems": [],
+      "SecondaryDescription": "Ermöglicht es dir bei Aktivierung, dich zu jedem verbündeten Turm zu teleportieren. Du kannst dich währenddessen nicht bewegen. Kann nicht durch Schaden, sondern nur durch starke CC-Effekte unterbrochen werden. Abklingzeit: 200s"
+    },
+    "ItemId": 9040,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Teleportiere zu einem verbündeten Turm.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/teleport-glyph.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Meditationsumhang",
+    "IconId": 4305,
+    "ItemDescription": {
+      "Description": "Stellt Mana und Gesundheit wieder her.",
+      "Menuitems": [],
+      "SecondaryDescription": "Stellt bei Aktivierung 75 Gesundheit +12 Gesundheit pro Stufe sowie 30% Mana bei allen verbündeten Göttern innerhalb von 35 Einheiten wieder her. Abklingzeit: 120s"
+    },
+    "ItemId": 9041,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Stellt Mana und Gesundheit wieder her.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/meditation-cloak.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Magische Hülle",
+    "IconId": 4308,
+    "ItemDescription": {
+      "Description": "Buff auf Schutz und Schadensminderung.",
+      "Menuitems": [],
+      "SecondaryDescription": "Gewährt bei Aktivierung dem Besitzer und seinen Verbündeten innerhalb von 35 Einheiten 3s lang einen Schild mit 100 Gesundheit + 12 Gesundheit pro Gott-Stufe. Abklingzeit: 150s"
+    },
+    "ItemId": 9120,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Gesundheitsschild",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/magic-shell.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Dornenschild",
+    "IconId": 5072,
+    "ItemDescription": {
+      "Description": "Nach Benutzung wirfst du 5s lang 40% allen erlittenen Schadens auf seine Verursacher zurück.",
+      "Menuitems": [],
+      "SecondaryDescription": "Wirft nach Aktivierung 5s lang 40% allen erlittenen Schadens vor Schadensminderung als magischen Schaden auf seine Verursacher zurück. Erleidest du während der Dauer Schaden in Höhe des 150-fachen deiner Stufe, endet der Effekt vorzeitig. Abklingzeit: 120s"
+    },
+    "ItemId": 11106,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Reflektiert 40% allen Schadens",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/shield-of-thorns.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Entzweiender Speer",
+    "IconId": 5074,
+    "ItemDescription": {
+      "Description": "Schleudert Projektil mit Absolutem Schaden.",
+      "Menuitems": [],
+      "SecondaryDescription": "Schleudert bei Aktivierung einen Blitz, der 70 Einheiten weit fliegt, vom ersten getroffenen Gott gestoppt wird und 15% der Gesundheit des Ziels als Absoluten Schaden verursacht. Abklingzeit: 110s"
+    },
+    "ItemId": 12580,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Feuert ein den Schaden erhöhendes Projektil ab.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/sundering-spear.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Phantomschleier",
+    "IconId": 4671,
+    "ItemDescription": {
+      "Description": "Geisterschritt",
+      "Menuitems": [],
+      "SecondaryDescription": "Nach Aktivierung kannst du ebenso wie verbündete Götter innerhalb von 35 Einheiten 5s lang Spieler und deren Objekte durchdringen. Abklingzeit: 150s"
+    },
+    "ItemId": 13193,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Geisterschritt",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/phantom-veil.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Schreckliches Emblem",
+    "IconId": 5068,
+    "ItemDescription": {
+      "Description": "Verringert Angriffs- und Lauftempo gegnerischer Götter.",
+      "Menuitems": [],
+      "SecondaryDescription": "Reduziert bei Aktivierung das Lauftempo aller gegnerischen Götter innerhalb von 35 Einheiten 5s lang um 30% und das Angriffstempo um 15%. Abklingzeit: 130s"
+    },
+    "ItemId": 14056,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Reduziert gegnerisches Angriffs- und Lauftempo.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/horrific-emblem.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Armschiene des Ruins",
+    "IconId": 5062,
+    "ItemDescription": {
+      "Description": "Regeneriert Mana und Gesundheit.",
+      "Menuitems": [],
+      "SecondaryDescription": "Regeneriert bei Aktivierung 40% des Gesundheits- und Manaverlusts der letzten 5s. Abklingzeit: 120s"
+    },
+    "ItemId": 14112,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Regeneriert Mana und Gesundheit.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/bracer-of-undoing.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Wahnsinnsgürtel",
+    "IconId": 4304,
+    "ItemDescription": {
+      "Description": "Schadens-Buff für Verbündete.",
+      "Menuitems": [],
+      "SecondaryDescription": "Erhöht bei Aktivierung 5s lang den verursachten Schaden verbündeter Götter innerhalb von 70 Einheiten um 10% und das Angriffstempo um 15%. Abklingzeit: 120s"
+    },
+    "ItemId": 14536,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Schadens-Buff für Verbündete.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/belt-of-frenzy.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 8879,
+    "DeviceName": "Perlen der Reinigung (Aufw.)",
+    "IconId": 5109,
+    "ItemDescription": {
+      "Description": "Entfernt Crowd-Control-Effekte.",
+      "Menuitems": [],
+      "SecondaryDescription": "Hebt bei Aktivierung die Wirkung von CC-Effekten auf und immunisiert dich für 2s gegen weitere. Abklingzeit: 130s"
+    },
+    "ItemId": 14146,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Entfernt CC-Effekte.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/purification-beads-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 7353,
+    "DeviceName": "Himmlische Schwingen (Aufw.)",
+    "IconId": 5105,
+    "ItemDescription": {
+      "Description": "Erhöht das Lauftempo von Verbündeten.",
+      "Menuitems": [],
+      "SecondaryDescription": "Erhöht bei Aktivierung 5s lang das Lauftempo verbündeter Götter innerhalb von 55 Einheiten um 20%, macht sie währenddessen immun gegen Verlangsamungen und verleiht Eile, was sie immun gegen Bewegungseinschränkungen durch Grundangriffe macht. Abklingzeit: 140s"
+    },
+    "ItemId": 14147,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Erhöht Lauftempo von Verbündeten.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/heavenly-wings-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 8844,
+    "DeviceName": "Blinzelrune (Aufwertung)",
+    "IconId": 5061,
+    "ItemDescription": {
+      "Description": "Kurzstrecken-Teleport.",
+      "Menuitems": [],
+      "SecondaryDescription": "Teleportiert dich bei Aktivierung über eine Distanz von bis zu 55 Einheiten und gewährt 2s lang 10% Schadensminderung. Kann erst aktiviert werden, nachdem 3s lang kein Schaden verursacht oder erlitten wurde. Abklingzeit: 120s"
+    },
+    "ItemId": 14150,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Kurzstrecken-Teleport",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/blink-rune-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 7671,
+    "DeviceName": "Verfluchtes Ankh (Aufw.)",
+    "IconId": 5065,
+    "ItemDescription": {
+      "Description": "Reduziert die Heilung von Gegnern.",
+      "Menuitems": [],
+      "SecondaryDescription": "Reduziert bei Aktivierung die Heilung aller gegnerischen Götter innerhalb von 55 Einheiten 10s lang um 50%. Gegner, die geheilt werden, während dieser Fluch auf ihnen lastet, erleiden für die Dauer des Fluchs 20% mehr Schaden aus allen Quellen. Abklingzeit: 120s"
+    },
+    "ItemId": 14151,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Reduziert die Heilung naher Gegner.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/cursed-ankh-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 9041,
+    "DeviceName": "Meditationsumhang (Aufw.)",
+    "IconId": 5107,
+    "ItemDescription": {
+      "Description": "Mana- und Gesundheits-Wiederherstellung.",
+      "Menuitems": [],
+      "SecondaryDescription": "Stellt bei Aktivierung 75 Gesundheit + 12 Gesundheit pro Stufe sowie 30% Mana bei allen verbündeten Göttern innerhalb von 35 Einheiten wieder her. Von Meditationsumhang betroffene Verbündete haben um 30% geringere Manakosten für Fertigkeiten, und die Abklingzeiten ihrer Fertigkeiten werden nach Verwendung um 1s reduziert. Abklingzeit: 120s"
+    },
+    "ItemId": 14152,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Stellt Mana und Gesundheit wieder her.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/meditation-cloak-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 13193,
+    "DeviceName": "Phantomschleier (Aufw.)",
+    "IconId": 5108,
+    "ItemDescription": {
+      "Description": "Geisterschritt und erhöhte Schadensreduktion.",
+      "Menuitems": [],
+      "SecondaryDescription": "Nach Aktivierung kannst du ebenso wie verbündete Götter innerhalb von 35 Einheiten 10s lang Spieler und deren Objekte durchdringen. Zudem erhöht sich deine Schadensminderung 5s lang um 15%. Abklingzeit: 150s"
+    },
+    "ItemId": 14153,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Geisterschritt und Schadensminderung",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/phantom-veil-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 7672,
+    "DeviceName": "Ägis-Amulett (Aufwertung)",
+    "IconId": 5103,
+    "ItemDescription": {
+      "Description": "Dieser Gegenstand macht den Besitzer für kurze Zeit unverwundbar.",
+      "Menuitems": [],
+      "SecondaryDescription": "Macht dich bei Aktivierung 2s lang unempfänglich für Schaden und Heilung, hindert dich jedoch daran, aktiv zu werden. Bewegen bleibt möglich. Abklingzeit: 150s"
+    },
+    "ItemId": 14154,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Zeitlich begrenzte Unverwundbarkeit.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/aegis-amulet-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 9120,
+    "DeviceName": "Magische Hülle (Aufwertung)",
+    "IconId": 5106,
+    "ItemDescription": {
+      "Description": "Buff auf Schutz und Schadensminderung.",
+      "Menuitems": [],
+      "SecondaryDescription": "Gewährt bei Aktivierung dem Besitzer und seinen Verbündeten innerhalb von 35 Einheiten 3s lang einen Schild mit 100 Gesundheit + 12 Gesundheit pro Gott-Stufe. Alle Verbündeten erhalten 2 Blocken-Stapel, die die nächsten 2 Grundangriffe absorbieren. Abklingzeit: 150s"
+    },
+    "ItemId": 14155,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Gesundheitsschild und Blocken-Stapel.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/magic-shell-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 12580,
+    "DeviceName": "Entzweiender Speer (Aufw.)",
+    "IconId": 5075,
+    "ItemDescription": {
+      "Description": "Schleudert Projektil mit Absolutem Schaden.",
+      "Menuitems": [],
+      "SecondaryDescription": "Schleudert bei Aktivierung einen Blitz, der 70 Einheiten weit fliegt, vom ersten getroffenen Gott gestoppt wird und 15% der Gesundheit des Ziels als Absoluten Schaden verursacht sowie den vom Getroffenen erlittenen Schaden 5s lang um 20% erhöht. Abklingzeit: 110s"
+    },
+    "ItemId": 14156,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Schleudert Projektil mit Absolutem Schaden.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/sundering-spear-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 9040,
+    "DeviceName": "Teleport-Hieroglyphe (Aufw.)",
+    "IconId": 5077,
+    "ItemDescription": {
+      "Description": "Teleportiere zu einem verbündeten Turm. Keine Unterbrechung durch Schaden.",
+      "Menuitems": [],
+      "SecondaryDescription": "Ermöglicht es dir bei Aktivierung, dich zu jedem verbündeten Turm oder Schutzstein zu teleportieren. Du kannst dich währenddessen nicht bewegen. Kann nicht durch Schaden, sondern nur durch starke CC-Effekte unterbrochen werden. Abklingzeit: 200s"
+    },
+    "ItemId": 14157,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Teleportiere zu einem verbündeten Turm oder Schutzstein.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/teleport-glyph-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 11106,
+    "DeviceName": "Dornenschild (Aufwertung)",
+    "IconId": 5073,
+    "ItemDescription": {
+      "Description": "Nach Benutzung wirfst du 5s lang 40% allen erlittenen Schadens auf seine Verursacher zurück.",
+      "Menuitems": [],
+      "SecondaryDescription": "Wirft nach Aktivierung 5s lang 40% allen erlittenen Schadens vor Schadensminderung als magischen Schaden auf seine Verursacher zurück. Erleidest du während der Dauer Schaden in Höhe des 150-fachen deiner Stufe, endet der Effekt vorzeitig. Während der Effekt aktiv ist, profitieren Gegner gegen dich nur von 50% ihres Lebensraubs. Abklingzeit: 120s"
+    },
+    "ItemId": 14158,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Reflektiert 40% allen Schadens",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/shield-of-thorns-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 14056,
+    "DeviceName": "Schreckliches Emblem (Aufw.)",
+    "IconId": 5069,
+    "ItemDescription": {
+      "Description": "Reduziert Angriffs- und Lauftempo gegnerischer Götter.",
+      "Menuitems": [],
+      "SecondaryDescription": "Reduziert bei Aktivierung das Lauftempo aller gegnerischen Götter innerhalb von 35 Einheiten 5s lang um 30% und das Angriffstempo um 25%. Zusätzlich wird der von ihnen verursachte Schaden um 15% reduziert. Abklingzeit: 130s"
+    },
+    "ItemId": 14162,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Reduziert gegnerisches Angriffs- und Lauftempo.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/horrific-emblem-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 14112,
+    "DeviceName": "Armschiene des Ruins (Aufw.)",
+    "IconId": 5063,
+    "ItemDescription": {
+      "Description": "Reduziert Abklingzeiten von Fertigkeiten und regeneriert Mana und Gesundheit.",
+      "Menuitems": [],
+      "SecondaryDescription": "Reduziert bei Aktivierung alle laufenden Abklingzeiten um 3s und regeneriert 40% des Gesundheits- und Manaverlusts der letzten 5s. Abklingzeit: 120s"
+    },
+    "ItemId": 14164,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Reduziert Abklingzeit von Fertigkeiten und regeneriert Mana und Gesundheit.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/bracer-of-undoing-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 14536,
+    "DeviceName": "Wahnsinnsgürtel (Aufw.)",
+    "IconId": 5302,
+    "ItemDescription": {
+      "Description": "Schadens-Buff für Verbündete.",
+      "Menuitems": [],
+      "SecondaryDescription": "Erhöht bei Aktivierung 8s lang den verursachten Schaden verbündeter Götter innerhalb von 70 Einheiten um 10% und das Angriffstempo um 15%. Gewährt während der Dauer des Effekts zudem +10 Durchdringung. Abklingzeit: 120s"
+    },
+    "ItemId": 14538,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Schadens-Buff für Verbündete.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/belt-of-frenzy-upgrade.jpg",
     "ret_msg": null
   }
 ]

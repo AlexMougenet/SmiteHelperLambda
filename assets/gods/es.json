@@ -1909,7 +1909,7 @@
     "ManaPerFive": 4.8,
     "ManaPerLevel": 35,
     "Name": "Amaterasu",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Japonés",
     "PhysicalPower": 39,
     "PhysicalPowerPerLevel": 2,
@@ -3935,7 +3935,7 @@
     "ManaPerFive": 4.8,
     "ManaPerLevel": 41,
     "Name": "Aracne",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Griego",
     "PhysicalPower": 38,
     "PhysicalPowerPerLevel": 2.2,
@@ -4748,7 +4748,7 @@
     "ManaPerFive": 4.4,
     "ManaPerLevel": 34,
     "Name": "Artemisa",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Griego",
     "PhysicalPower": 35,
     "PhysicalPowerPerLevel": 2.5,
@@ -6824,167 +6824,39 @@
     "ret_msg": null
   },
   {
-    "Ability1": "Abalanzarse",
-    "Ability2": "Látigo de cuchillas",
-    "Ability3": "Desungular",
-    "Ability4": "Llamada del gato",
+    "Ability1": "",
+    "Ability2": "",
+    "Ability3": "",
+    "Ability4": "",
     "Ability5": "Herida abierta",
-    "AbilityId1": 10138,
-    "AbilityId2": 10001,
-    "AbilityId3": 7494,
-    "AbilityId4": 7513,
+    "AbilityId1": 18286,
+    "AbilityId2": 18258,
+    "AbilityId3": 18299,
+    "AbilityId4": 18250,
     "AbilityId5": 9337,
     "Ability_1": {
-      "Description": {
-        "itemDescription": {
-          "cooldown": "12s",
-          "cost": "70/75/80/85/90",
-          "description": "Bastet salta a la zona objetivo y daña a los enemigos en el área.   Durante 4 segundos tras el salto, puedes volver a pulsar el botón de nuevo para volver a la ubicación inicial.   Durante este periodo, Bastet se desplaza un 25 % más rápido.",
-          "menuitems": [
-            {
-              "description": "Habilidad:",
-              "value": "Salto"
-            },
-            {
-              "description": "Afecta a:",
-              "value": "Enemigo"
-            },
-            {
-              "description": "Daño:",
-              "value": "Físico"
-            },
-            {
-              "description": "Radio:",
-              "value": "20"
-            }
-          ],
-          "rankitems": [
-            {
-              "description": "Daño:",
-              "value": "80/145/210/275/340 (+100 % de tu poder físico)"
-            }
-          ]
-        }
-      },
-      "Id": 10138,
-      "Summary": "Abalanzarse",
+      "Description": null,
+      "Id": 18286,
+      "Summary": "",
       "URL": "https://web2.hirez.com/smite/god-abilities/pounce.jpg"
     },
     "Ability_2": {
-      "Description": {
-        "itemDescription": {
-          "cooldown": "15s",
-          "cost": "60/65/70/75/80",
-          "description": "Bastet golpea con fuerza a sus enemigos, haciendo que sangren cada segundo mientras dure.",
-          "menuitems": [
-            {
-              "description": "Habilidad:",
-              "value": "Cono"
-            },
-            {
-              "description": "Afecta a:",
-              "value": "Enemigo"
-            },
-            {
-              "description": "Daño:",
-              "value": "Físico"
-            }
-          ],
-          "rankitems": [
-            {
-              "description": "Daño por pila:",
-              "value": "25/45/65/85/105 (+25 % de tu poder físico)"
-            },
-            {
-              "description": "Duración:",
-              "value": "4s"
-            }
-          ]
-        }
-      },
-      "Id": 10001,
-      "Summary": "Látigo de cuchillas",
+      "Description": null,
+      "Id": 18258,
+      "Summary": "",
       "URL": "https://web2.hirez.com/smite/god-abilities/razor-whip.jpg"
     },
     "Ability_3": {
-      "Description": {
-        "itemDescription": {
-          "cooldown": "10s",
-          "cost": "70/75/80/85/90",
-          "description": "Bastet lanza su daga, que estalla al alcanzar a su objetivo, dañando y ralentizando a los enemigos en el área.",
-          "menuitems": [
-            {
-              "description": "Habilidad:",
-              "value": "Proyectil"
-            },
-            {
-              "description": "Afecta a:",
-              "value": "Enemigo"
-            },
-            {
-              "description": "Daño:",
-              "value": "Físico"
-            }
-          ],
-          "rankitems": [
-            {
-              "description": "Daño:",
-              "value": "70/120/170/220/270 (+100% de tu poder físico)"
-            },
-            {
-              "description": "Ralentización:",
-              "value": "30 %"
-            },
-            {
-              "description": "Duración de la ralentización:",
-              "value": "2s"
-            }
-          ]
-        }
-      },
-      "Id": 7494,
-      "Summary": "Desungular",
-      "URL": "https://web2.hirez.com/smite/god-abilities/declaw.jpg"
+      "Description": null,
+      "Id": 18299,
+      "Summary": "",
+      "URL": "https://web2.hirez.com/smite/god-abilities/ensnaring-claw.jpg"
     },
     "Ability_4": {
-      "Description": {
-        "itemDescription": {
-          "cooldown": "90s",
-          "cost": "90/95/100/105/110",
-          "description": "Bastet invoca 3 gatos que atacan a los objetivos cercanos, ralentizándolos y causándoles daño.   Al sentir el olor de la sangre, los gatos atacan primero a los enemigos que estén sangrando.",
-          "menuitems": [
-            {
-              "description": "Habilidad:",
-              "value": "Invocación de mascota"
-            },
-            {
-              "description": "Afecta a:",
-              "value": "Enemigo"
-            },
-            {
-              "description": "Daño:",
-              "value": "Físico"
-            }
-          ],
-          "rankitems": [
-            {
-              "description": "Daño por golpe:",
-              "value": "25/35/45/55/65 (+20 % de tu poder físico)"
-            },
-            {
-              "description": "Ralentización:",
-              "value": "20 %"
-            },
-            {
-              "description": "Duración de los gatos:",
-              "value": "10s"
-            }
-          ]
-        }
-      },
-      "Id": 7513,
-      "Summary": "Llamada del gato",
-      "URL": "https://web2.hirez.com/smite/god-abilities/cat-call.jpg"
+      "Description": null,
+      "Id": 18250,
+      "Summary": "",
+      "URL": "https://web2.hirez.com/smite/god-abilities/guardians-of-bast.jpg"
     },
     "Ability_5": {
       "Description": {
@@ -7016,7 +6888,7 @@
       },
       "Id": 9337,
       "Summary": "Herida abierta",
-      "URL": "https://web2.hirez.com/smite/god-abilities/open-wound.jpg"
+      "URL": "https://web2.hirez.com/smite/god-abilities/tracking-scent.jpg"
     },
     "AttackSpeed": 1,
     "AttackSpeedPerLevel": 0.02,
@@ -7046,138 +6918,10 @@
     "Speed": 375,
     "Title": "Diosa de los gatos",
     "Type": " Cuerpo a cuerpo, Físico",
-    "abilityDescription1": {
-      "itemDescription": {
-        "cooldown": "12s",
-        "cost": "70/75/80/85/90",
-        "description": "Bastet salta a la zona objetivo y daña a los enemigos en el área.   Durante 4 segundos tras el salto, puedes volver a pulsar el botón de nuevo para volver a la ubicación inicial.   Durante este periodo, Bastet se desplaza un 25 % más rápido.",
-        "menuitems": [
-          {
-            "description": "Habilidad:",
-            "value": "Salto"
-          },
-          {
-            "description": "Afecta a:",
-            "value": "Enemigo"
-          },
-          {
-            "description": "Daño:",
-            "value": "Físico"
-          },
-          {
-            "description": "Radio:",
-            "value": "20"
-          }
-        ],
-        "rankitems": [
-          {
-            "description": "Daño:",
-            "value": "80/145/210/275/340 (+100 % de tu poder físico)"
-          }
-        ]
-      }
-    },
-    "abilityDescription2": {
-      "itemDescription": {
-        "cooldown": "15s",
-        "cost": "60/65/70/75/80",
-        "description": "Bastet golpea con fuerza a sus enemigos, haciendo que sangren cada segundo mientras dure.",
-        "menuitems": [
-          {
-            "description": "Habilidad:",
-            "value": "Cono"
-          },
-          {
-            "description": "Afecta a:",
-            "value": "Enemigo"
-          },
-          {
-            "description": "Daño:",
-            "value": "Físico"
-          }
-        ],
-        "rankitems": [
-          {
-            "description": "Daño por pila:",
-            "value": "25/45/65/85/105 (+25 % de tu poder físico)"
-          },
-          {
-            "description": "Duración:",
-            "value": "4s"
-          }
-        ]
-      }
-    },
-    "abilityDescription3": {
-      "itemDescription": {
-        "cooldown": "10s",
-        "cost": "70/75/80/85/90",
-        "description": "Bastet lanza su daga, que estalla al alcanzar a su objetivo, dañando y ralentizando a los enemigos en el área.",
-        "menuitems": [
-          {
-            "description": "Habilidad:",
-            "value": "Proyectil"
-          },
-          {
-            "description": "Afecta a:",
-            "value": "Enemigo"
-          },
-          {
-            "description": "Daño:",
-            "value": "Físico"
-          }
-        ],
-        "rankitems": [
-          {
-            "description": "Daño:",
-            "value": "70/120/170/220/270 (+100% de tu poder físico)"
-          },
-          {
-            "description": "Ralentización:",
-            "value": "30 %"
-          },
-          {
-            "description": "Duración de la ralentización:",
-            "value": "2s"
-          }
-        ]
-      }
-    },
-    "abilityDescription4": {
-      "itemDescription": {
-        "cooldown": "90s",
-        "cost": "90/95/100/105/110",
-        "description": "Bastet invoca 3 gatos que atacan a los objetivos cercanos, ralentizándolos y causándoles daño.   Al sentir el olor de la sangre, los gatos atacan primero a los enemigos que estén sangrando.",
-        "menuitems": [
-          {
-            "description": "Habilidad:",
-            "value": "Invocación de mascota"
-          },
-          {
-            "description": "Afecta a:",
-            "value": "Enemigo"
-          },
-          {
-            "description": "Daño:",
-            "value": "Físico"
-          }
-        ],
-        "rankitems": [
-          {
-            "description": "Daño por golpe:",
-            "value": "25/35/45/55/65 (+20 % de tu poder físico)"
-          },
-          {
-            "description": "Ralentización:",
-            "value": "20 %"
-          },
-          {
-            "description": "Duración de los gatos:",
-            "value": "10s"
-          }
-        ]
-      }
-    },
+    "abilityDescription1": null,
+    "abilityDescription2": null,
+    "abilityDescription3": null,
+    "abilityDescription4": null,
     "abilityDescription5": {
       "itemDescription": {
         "cooldown": "",
@@ -7225,9 +6969,9 @@
     },
     "godAbility1_URL": "https://web2.hirez.com/smite/god-abilities/pounce.jpg",
     "godAbility2_URL": "https://web2.hirez.com/smite/god-abilities/razor-whip.jpg",
-    "godAbility3_URL": "https://web2.hirez.com/smite/god-abilities/declaw.jpg",
-    "godAbility4_URL": "https://web2.hirez.com/smite/god-abilities/cat-call.jpg",
-    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/open-wound.jpg",
+    "godAbility3_URL": "https://web2.hirez.com/smite/god-abilities/ensnaring-claw.jpg",
+    "godAbility4_URL": "https://web2.hirez.com/smite/god-abilities/guardians-of-bast.jpg",
+    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/tracking-scent.jpg",
     "godCard_URL": "https://web2.hirez.com/smite/god-cards/bastet.jpg",
     "godIcon_URL": "https://web2.hirez.com/smite/god-icons/bastet.jpg",
     "id": 1678,
@@ -7912,7 +7656,7 @@
     "ManaPerFive": 4.6,
     "ManaPerLevel": 38,
     "Name": "Cabrakán",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Maya",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -8486,7 +8230,7 @@
     "Roles": " Cazador",
     "Speed": 365,
     "Title": "",
-    "Type": " De largo alcance",
+    "Type": " De largo alcance, Físico",
     "abilityDescription1": null,
     "abilityDescription2": null,
     "abilityDescription3": null,
@@ -9071,7 +8815,7 @@
     "ManaPerFive": 5.5,
     "ManaPerLevel": 48,
     "Name": "Chang'e",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Chino",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -10352,7 +10096,7 @@
     "ManaPerFive": 5,
     "ManaPerLevel": 51,
     "Name": "Discordia",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Romano",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -11830,7 +11574,7 @@
     "ManaPerFive": 4.2,
     "ManaPerLevel": 35,
     "Name": "Fenrir",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Nórdico",
     "PhysicalPower": 38,
     "PhysicalPowerPerLevel": 2.3,
@@ -13098,7 +12842,7 @@
       "URL": "https://web2.hirez.com/smite/god-abilities/painless.jpg"
     },
     "AttackSpeed": 1,
-    "AttackSpeedPerLevel": 0.009,
+    "AttackSpeedPerLevel": 0.012,
     "Cons": "",
     "HP5PerLevel": 0.7,
     "Health": 480,
@@ -13112,7 +12856,7 @@
     "MagicalPowerPerLevel": 0,
     "Mana": 220,
     "ManaPerFive": 4.8,
-    "ManaPerLevel": 35,
+    "ManaPerLevel": 39,
     "Name": "Guan Yu",
     "OnFreeRotation": "",
     "Pantheon": "Chino",
@@ -13642,9 +13386,9 @@
     "AttackSpeedPerLevel": 0.01,
     "Cons": "",
     "HP5PerLevel": 0.54,
-    "Health": 450,
+    "Health": 475,
     "HealthPerFive": 5,
-    "HealthPerLevel": 80,
+    "HealthPerLevel": 85,
     "Lore": "Inevitablemente, la muerte envía a todo el mundo hacia Hades, dios del inframundo. Al final, siempre se sale con la suya.\\n\\nHijo mayor de los titanes Crono y Rhea, de pequeño Hades fue devorado por su padre junto a otros cinco hermanos. Zeus, el más pequeño, logró escapar y liberó a sus hermanos cuando tuvo la edad suficiente para enfrentarse a Crono. Juntos, los seis hermanos derrotaron a los titanes y los expulsaron al oscuro reino Tártaro. Ahora, los dioses regentes, Zeus, Poseidón y Hades, controlan el inframundo.\\n\\nLos pocos que han regresado del inframundo echan pestes del lugar y no quieren volver. Aun así, rara es la vez que Hades abandona el reino subterráneo, y siempre ansía aumentar la cantidad de muertos.\\n\\nCuando quiso una esposa, secuestró a la radiante Perséfone, hija de la diosa Deméter. Confinada en el inframundo donde nadie podía llegar a ella, Deméter hizo caer la maldición del hambre sobre el reino. El resto de dioses le rogaron que pusiese fin a la maldición o acabaría con la humanidad, pero solo lo haría si regresaba su hija. Por fin, Hades dejó marchar a Perséfone, no sin antes darle una granada. Al comer la fruta, Perséfone quedó unida para siempre a Hades y tenía que volver a ver a su marido una vez al año para comer la fruta. Este es un tiempo de luto y el motivo del invierno.\\n\\nAunque muchos temen la muerte y la ven como algo malo, la realidad es que Hades solo desea mantener el equilibrio. Como dios de la muerte y del inframundo, considera que tiene autoridad absoluta en la materia, no permite a nadie abandonar su reino y se enfurece cuando alguien le desobedece, o cuando intenta burlar a la muerte o robarle.\\n\\nPara todo el mundo, rendir cuentas a Hades y morir son cosas inevitables. Incluso para los dioses.",
     "MP5PerLevel": 0.36,
     "MagicProtection": 30,
@@ -14321,7 +14065,7 @@
     "Roles": " Cazador",
     "Speed": 365,
     "Title": "",
-    "Type": " De largo alcance",
+    "Type": " De largo alcance, Físico",
     "abilityDescription1": null,
     "abilityDescription2": null,
     "abilityDescription3": null,
@@ -14336,7 +14080,7 @@
     "godCard_URL": "https://web2.hirez.com/smite/god-cards/heimdallr.jpg",
     "godIcon_URL": "https://web2.hirez.com/smite/god-icons/heimdallr.jpg",
     "id": 3812,
-    "latestGod": "y",
+    "latestGod": "n",
     "ret_msg": null
   },
   {
@@ -15271,7 +15015,7 @@
     "ManaPerFive": 4.7,
     "ManaPerLevel": 37,
     "Name": "Horus",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Egipcio",
     "PhysicalPower": 37,
     "PhysicalPowerPerLevel": 2.1,
@@ -17149,7 +16893,7 @@
     "ManaPerFive": 4.4,
     "ManaPerLevel": 35,
     "Name": "Izanami",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Japonés",
     "PhysicalPower": 36,
     "PhysicalPowerPerLevel": 2.4,
@@ -21374,6 +21118,92 @@
     "ret_msg": null
   },
   {
+    "Ability1": "",
+    "Ability2": "",
+    "Ability3": "",
+    "Ability4": "",
+    "Ability5": "",
+    "AbilityId1": 17913,
+    "AbilityId2": 17914,
+    "AbilityId3": 17915,
+    "AbilityId4": 17916,
+    "AbilityId5": 17912,
+    "Ability_1": {
+      "Description": null,
+      "Id": 17913,
+      "Summary": "",
+      "URL": "https://web2.hirez.com/smite/god-abilities/cross-strike.jpg"
+    },
+    "Ability_2": {
+      "Description": null,
+      "Id": 17914,
+      "Summary": "",
+      "URL": "https://web2.hirez.com/smite/god-abilities/spear-thrust.jpg"
+    },
+    "Ability_3": {
+      "Description": null,
+      "Id": 17915,
+      "Summary": "",
+      "URL": "https://web2.hirez.com/smite/god-abilities/grapple.jpg"
+    },
+    "Ability_4": {
+      "Description": null,
+      "Id": 17916,
+      "Summary": "",
+      "URL": "https://web2.hirez.com/smite/god-abilities/divine-mastery.jpg"
+    },
+    "Ability_5": {
+      "Description": null,
+      "Id": 17912,
+      "Summary": "",
+      "URL": "https://web2.hirez.com/smite/god-abilities/training-arc.jpg"
+    },
+    "AttackSpeed": 1,
+    "AttackSpeedPerLevel": 0.01,
+    "Cons": "",
+    "HP5PerLevel": 0.7,
+    "Health": 480,
+    "HealthPerFive": 9,
+    "HealthPerLevel": 82,
+    "Lore": "",
+    "MP5PerLevel": 0.4,
+    "MagicProtection": 30,
+    "MagicProtectionPerLevel": 0.9,
+    "MagicalPower": 0,
+    "MagicalPowerPerLevel": 0,
+    "Mana": 220,
+    "ManaPerFive": 4.7,
+    "ManaPerLevel": 38,
+    "Name": "Mulan",
+    "OnFreeRotation": "",
+    "Pantheon": "Chino",
+    "PhysicalPower": 39,
+    "PhysicalPowerPerLevel": 2.2,
+    "PhysicalProtection": 18,
+    "PhysicalProtectionPerLevel": 3,
+    "Pros": " Daño de área alto",
+    "Roles": " Guerrero",
+    "Speed": 375,
+    "Title": "",
+    "Type": " Cuerpo a cuerpo, Físico",
+    "abilityDescription1": null,
+    "abilityDescription2": null,
+    "abilityDescription3": null,
+    "abilityDescription4": null,
+    "abilityDescription5": null,
+    "basicAttack": null,
+    "godAbility1_URL": "https://web2.hirez.com/smite/god-abilities/cross-strike.jpg",
+    "godAbility2_URL": "https://web2.hirez.com/smite/god-abilities/spear-thrust.jpg",
+    "godAbility3_URL": "https://web2.hirez.com/smite/god-abilities/grapple.jpg",
+    "godAbility4_URL": "https://web2.hirez.com/smite/god-abilities/divine-mastery.jpg",
+    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/training-arc.jpg",
+    "godCard_URL": "https://web2.hirez.com/smite/god-cards/mulan.jpg",
+    "godIcon_URL": "https://web2.hirez.com/smite/god-icons/mulan.jpg",
+    "id": 3881,
+    "latestGod": "y",
+    "ret_msg": null
+  },
+  {
     "Ability1": "Lanzamiento del Anillo cósmico",
     "Ability2": "Lanza en llamas",
     "Ability3": "Fajín armilar",
@@ -22698,7 +22528,7 @@
     "Cons": "",
     "HP5PerLevel": 0.8,
     "Health": 480,
-    "HealthPerFive": 7,
+    "HealthPerFive": 10,
     "HealthPerLevel": 83,
     "Lore": "",
     "MP5PerLevel": 0.39,
@@ -23585,13 +23415,13 @@
   {
     "Ability1": "Embestida",
     "Ability2": "Grito de cuervo",
-    "Ability3": "Poder de Gungnir",
-    "Ability4": "Anillo de lanzas",
+    "Ability3": "",
+    "Ability4": "",
     "Ability5": "Camino al Valhalla",
     "AbilityId1": 7598,
     "AbilityId2": 10488,
-    "AbilityId3": 7284,
-    "AbilityId4": 10479,
+    "AbilityId3": 18301,
+    "AbilityId4": 18099,
     "AbilityId5": 10489,
     "Ability_1": {
       "Description": {
@@ -23674,91 +23504,15 @@
       "URL": "https://web2.hirez.com/smite/god-abilities/raven-shout.jpg"
     },
     "Ability_3": {
-      "Description": {
-        "itemDescription": {
-          "cooldown": "10 s",
-          "cost": "70",
-          "description": "Odín realiza un barrido con su lanza que golpea a los enemigos a su alcance dos veces, causándoles daño y ralentizándolos.",
-          "menuitems": [
-            {
-              "description": "Habilidad:",
-              "value": "Área"
-            },
-            {
-              "description": "Afecta a:",
-              "value": "Enemigo"
-            },
-            {
-              "description": "Daño:",
-              "value": "Físico"
-            },
-            {
-              "description": "Radio:",
-              "value": "20"
-            }
-          ],
-          "rankitems": [
-            {
-              "description": "Daño por golpe:",
-              "value": "35/50/65/80/95 (+30 % de tu poder físico)"
-            },
-            {
-              "description": "Ralentización:",
-              "value": "40 %"
-            },
-            {
-              "description": "Duración de ralentización:",
-              "value": "2/2/2/2/4/2/6/2/8 s"
-            }
-          ]
-        }
-      },
-      "Id": 7284,
-      "Summary": "Poder de Gungnir",
+      "Description": null,
+      "Id": 18301,
+      "Summary": "",
       "URL": "https://web2.hirez.com/smite/god-abilities/gungnirs-might.jpg"
     },
     "Ability_4": {
-      "Description": {
-        "itemDescription": {
-          "cooldown": "75",
-          "cost": "100",
-          "description": "Odín invoca un muro de lanzas que bloquea los movimientos de sus enemigos, pero él y sus aliados pueden atravesarla sin problema. No bloquea ataques. Los enemigos dentro del círculo sufren una ralentización de la velocidad de ataque y no se pueden curar. Mientras está en el círculo, Odín es inmune a los efectos de ralentización y paralización.\n\nLos enemigos que mueran dentro del Anillo de lanzas conceden a Odín una bonificación permanente de poder físico.",
-          "menuitems": [
-            {
-              "description": "Habilidad:",
-              "value": "Pared"
-            },
-            {
-              "description": "Afecta a:",
-              "value": "Enemigos"
-            },
-            {
-              "description": "Radio:",
-              "value": "30"
-            }
-          ],
-          "rankitems": [
-            {
-              "description": "Reducción de velocidad de ataque:",
-              "value": "20/30/40/50/60 %"
-            },
-            {
-              "description": "Reducción de curación:",
-              "value": "100 %"
-            },
-            {
-              "description": "Duración:",
-              "value": "6 s"
-            },
-            {
-              "description": "Poder físico:",
-              "value": "5 puntos por acumulación/ máx. 10 acumulaciones"
-            }
-          ]
-        }
-      },
-      "Id": 10479,
-      "Summary": "Anillo de lanzas",
+      "Description": null,
+      "Id": 18099,
+      "Summary": "",
       "URL": "https://web2.hirez.com/smite/god-abilities/ring-of-spears.jpg"
     },
     "Ability_5": {
@@ -23895,84 +23649,8 @@
         ]
       }
     },
-    "abilityDescription3": {
-      "itemDescription": {
-        "cooldown": "10 s",
-        "cost": "70",
-        "description": "Odín realiza un barrido con su lanza que golpea a los enemigos a su alcance dos veces, causándoles daño y ralentizándolos.",
-        "menuitems": [
-          {
-            "description": "Habilidad:",
-            "value": "Área"
-          },
-          {
-            "description": "Afecta a:",
-            "value": "Enemigo"
-          },
-          {
-            "description": "Daño:",
-            "value": "Físico"
-          },
-          {
-            "description": "Radio:",
-            "value": "20"
-          }
-        ],
-        "rankitems": [
-          {
-            "description": "Daño por golpe:",
-            "value": "35/50/65/80/95 (+30 % de tu poder físico)"
-          },
-          {
-            "description": "Ralentización:",
-            "value": "40 %"
-          },
-          {
-            "description": "Duración de ralentización:",
-            "value": "2/2/2/2/4/2/6/2/8 s"
-          }
-        ]
-      }
-    },
-    "abilityDescription4": {
-      "itemDescription": {
-        "cooldown": "75",
-        "cost": "100",
-        "description": "Odín invoca un muro de lanzas que bloquea los movimientos de sus enemigos, pero él y sus aliados pueden atravesarla sin problema. No bloquea ataques. Los enemigos dentro del círculo sufren una ralentización de la velocidad de ataque y no se pueden curar. Mientras está en el círculo, Odín es inmune a los efectos de ralentización y paralización.\n\nLos enemigos que mueran dentro del Anillo de lanzas conceden a Odín una bonificación permanente de poder físico.",
-        "menuitems": [
-          {
-            "description": "Habilidad:",
-            "value": "Pared"
-          },
-          {
-            "description": "Afecta a:",
-            "value": "Enemigos"
-          },
-          {
-            "description": "Radio:",
-            "value": "30"
-          }
-        ],
-        "rankitems": [
-          {
-            "description": "Reducción de velocidad de ataque:",
-            "value": "20/30/40/50/60 %"
-          },
-          {
-            "description": "Reducción de curación:",
-            "value": "100 %"
-          },
-          {
-            "description": "Duración:",
-            "value": "6 s"
-          },
-          {
-            "description": "Poder físico:",
-            "value": "5 puntos por acumulación/ máx. 10 acumulaciones"
-          }
-        ]
-      }
-    },
+    "abilityDescription3": null,
+    "abilityDescription4": null,
     "abilityDescription5": {
       "itemDescription": {
         "cooldown": "",
@@ -26309,7 +25987,7 @@
     "PhysicalProtectionPerLevel": 2.8,
     "Pros": " Movilidad alta, Velocidad de ataque alta",
     "Roles": " Cazador",
-    "Speed": 365,
+    "Speed": 370,
     "Title": "Séptimo avatar de Vishnu",
     "Type": " De largo alcance, Físico",
     "abilityDescription1": {
@@ -27820,7 +27498,7 @@
     "Name": "Set",
     "OnFreeRotation": "",
     "Pantheon": "Egipcio",
-    "PhysicalPower": 37,
+    "PhysicalPower": 39,
     "PhysicalPowerPerLevel": 2.3,
     "PhysicalProtection": 13,
     "PhysicalProtectionPerLevel": 2.9,
@@ -28922,7 +28600,7 @@
     "ManaPerFive": 4.5,
     "ManaPerLevel": 35,
     "Name": "Sobek",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Egipcio",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,

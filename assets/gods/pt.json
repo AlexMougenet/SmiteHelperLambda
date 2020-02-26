@@ -401,7 +401,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1/1/1x dano e tempo de giro; 3o ataque - área do dano: 10 un."
+            "value": "1/1/1x dano e cadência; 3o ataque - área do dano: 10 un."
           }
         ],
         "rankitems": []
@@ -1899,7 +1899,7 @@
     "ManaPerFive": 4.8,
     "ManaPerLevel": 35,
     "Name": "Amaterasu",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Japonês",
     "PhysicalPower": 39,
     "PhysicalPowerPerLevel": 2,
@@ -2105,7 +2105,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1/0,5/1 dano e tempo de acerto."
+            "value": "1/0,5/1 dano e cadência."
           }
         ],
         "rankitems": []
@@ -3417,7 +3417,7 @@
           "rankitems": [
             {
               "description": "Cura:",
-              "value": "24/28/32/36/40 (10% do seu poder físico)"
+              "value": "20/23/26/29/32 (10% do seu poder físico)"
             },
             {
               "description": "Cura máxima por Habilidade:",
@@ -3425,7 +3425,7 @@
             },
             {
               "description": "Poder Físico:",
-              "value": "10/11/12/13/14%"
+              "value": "6/7/8/9/10%"
             },
             {
               "description": "Proteções:",
@@ -3469,7 +3469,7 @@
           "rankitems": [
             {
               "description": "Dano:",
-              "value": "50/90/130/170/210 (+45% do seu poder físico)"
+              "value": "50/85/120/155/190 (+45% do seu poder físico)"
             }
           ]
         }
@@ -3639,7 +3639,7 @@
         "rankitems": [
           {
             "description": "Cura:",
-            "value": "24/28/32/36/40 (10% do seu poder físico)"
+            "value": "20/23/26/29/32 (10% do seu poder físico)"
           },
           {
             "description": "Cura máxima por Habilidade:",
@@ -3647,7 +3647,7 @@
           },
           {
             "description": "Poder Físico:",
-            "value": "10/11/12/13/14%"
+            "value": "6/7/8/9/10%"
           },
           {
             "description": "Proteções:",
@@ -3686,7 +3686,7 @@
         "rankitems": [
           {
             "description": "Dano:",
-            "value": "50/90/130/170/210 (+45% do seu poder físico)"
+            "value": "50/85/120/155/190 (+45% do seu poder físico)"
           }
         ]
       }
@@ -4005,7 +4005,7 @@
     "ManaPerFive": 4.8,
     "ManaPerLevel": 41,
     "Name": "Aracne",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Grego",
     "PhysicalPower": 38,
     "PhysicalPowerPerLevel": 2.2,
@@ -4190,7 +4190,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "0,5/1/1x dano e tempo de giro"
+            "value": "0,5/1/1x dano e cadência"
           }
         ],
         "rankitems": []
@@ -4623,7 +4623,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1/0,75/1/1,25x dano e tempo de ataque"
+            "value": "1/0,75/1/1,25x dano e cadência"
           }
         ],
         "rankitems": []
@@ -4754,7 +4754,7 @@
           "rankitems": [
             {
               "description": "Dano:",
-              "value": "80/130/180/230/280 (+40% do seu poder físico)"
+              "value": "80/130/180/230/280 (+60% do seu poder físico)"
             },
             {
               "description": "Lentidão:",
@@ -4851,7 +4851,7 @@
     "ManaPerFive": 4.4,
     "ManaPerLevel": 34,
     "Name": "Ártemis",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Grego",
     "PhysicalPower": 35,
     "PhysicalPowerPerLevel": 2.5,
@@ -4954,7 +4954,7 @@
         "rankitems": [
           {
             "description": "Dano:",
-            "value": "80/130/180/230/280 (+40% do seu poder físico)"
+            "value": "80/130/180/230/280 (+60% do seu poder físico)"
           },
           {
             "description": "Lentidão:",
@@ -5395,11 +5395,11 @@
         "menuitems": [
           {
             "description": "Dano:",
-            "value": "38 + 1.5/Nvl (+20% do Poder Mágico)"
+            "value": "38 + 1,5/Nvl (+20% do Poder Mágico)"
           },
           {
             "description": "Progressão:",
-            "value": "1x dano e giro"
+            "value": "1x dano e cadência"
           }
         ],
         "rankitems": []
@@ -5776,7 +5776,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1/1/2x dano e tempo de ataque"
+            "value": "1/1/2x dano e cadência"
           }
         ],
         "rankitems": []
@@ -7184,7 +7184,7 @@
           "rankitems": [
             {
               "description": "Dano:",
-              "value": "60/105/150/195/240 (+60% do seu poder mágico)"
+              "value": "80/120/160/200/240 (+60% do seu poder mágico)"
             },
             {
               "description": "Redução de poder:",
@@ -7430,7 +7430,7 @@
         "rankitems": [
           {
             "description": "Dano:",
-            "value": "60/105/150/195/240 (+60% do seu poder mágico)"
+            "value": "80/120/160/200/240 (+60% do seu poder mágico)"
           },
           {
             "description": "Redução de poder:",
@@ -7630,20 +7630,20 @@
   {
     "Ability1": "Bote",
     "Ability2": "Chicote Navalha",
-    "Ability3": "Desgarrada",
-    "Ability4": "Ferina",
-    "Ability5": "Ferida Exposta",
-    "AbilityId1": 10138,
-    "AbilityId2": 10001,
-    "AbilityId3": 7494,
-    "AbilityId4": 7513,
+    "Ability3": "Garra Constritora",
+    "Ability4": "Guardiões de Bast",
+    "Ability5": "Seguindo o rastro",
+    "AbilityId1": 18286,
+    "AbilityId2": 18258,
+    "AbilityId3": 18299,
+    "AbilityId4": 18250,
     "AbilityId5": 9337,
     "Ability_1": {
       "Description": {
         "itemDescription": {
           "cooldown": "12s",
-          "cost": "60/65/70/75/80",
-          "description": "Bastet dá o bote em uma área, ferindo inimigos dentro do raio. Por 4 segundos depois do bote, você pode pressionar o botão novamente para pular de volta para o local inicial. Bastet também se move 25% mais rápido quando no estado de bote de retorno.",
+          "cost": "60/65/70/75/80.",
+          "description": "Bastet dá o bote em uma área, ferindo inimigos dentro do raio. Por 4 segundos depois do bote, você pode pressionar o botão novamente para pular de volta para o local inicial. Bastet também se move 25% mais rápido quando no estado de bote de retorno. \n\nSe os Guardiões de Bast estiverem ativos, ela fará com que os gatos também deem o bote.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -7665,12 +7665,12 @@
           "rankitems": [
             {
               "description": "Dano:",
-              "value": "80/145/210/275/340 (+100% do seu poder físico)"
+              "value": "80/145/210/275/340 (+90% do seu poder físico)"
             }
           ]
         }
       },
-      "Id": 10138,
+      "Id": 18286,
       "Summary": "Bote",
       "URL": "https://web2.hirez.com/smite/god-abilities/pounce.jpg"
     },
@@ -7678,8 +7678,8 @@
       "Description": {
         "itemDescription": {
           "cooldown": "13s",
-          "cost": "60/65/70/75/80",
-          "description": "Bastet usa suas garras nos inimigos, fazendo com que sangrem com dano a cada segundo pela duração.",
+          "cost": "40/45/50/55/60",
+          "description": "Bastet usa suas garras nos inimigos, fazendo com que sangrem com dano a cada segundo pela duração.\n\nSe os Guardiões de Bast estiverem ativos, ela fará com que os gatos também ataquem os inimigos.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -7706,24 +7706,24 @@
           ]
         }
       },
-      "Id": 10001,
+      "Id": 18258,
       "Summary": "Chicote Navalha",
       "URL": "https://web2.hirez.com/smite/god-abilities/razor-whip.jpg"
     },
     "Ability_3": {
       "Description": {
         "itemDescription": {
-          "cooldown": "10s",
-          "cost": "60",
-          "description": "Bastet arremessa sua adaga, que detona no alvo, causando dano e retardando os inimigos na área.",
+          "cooldown": "12s",
+          "cost": "60/65/70/75/80",
+          "description": "Bastet envia um gato até seus inimigos. Se o gato encontrar um inimigo, ele o prende, causando dano e enraizando por 5s. O gato persiste por 4s ou até que seja derrotado, continuando a atacar inimigos próximos. Os ataques do gato aplicam 2s de lentidão nos inimigos.\n\nSe Guardiões de Bast estiver ativo, ela comandará seus guardiões para também atacar.",
           "menuitems": [
             {
               "description": "Habilidade:",
-              "value": "Projétil"
+              "value": "Linha"
             },
             {
               "description": "Afeta:",
-              "value": "Inimigo"
+              "value": "Inimigos"
             },
             {
               "description": "Dano:",
@@ -7732,38 +7732,46 @@
           ],
           "rankitems": [
             {
-              "description": "Dano:",
-              "value": "70/120/170/220/270 (+100% do seu poder físico)"
+              "description": "Dano do Enraizamento:",
+              "value": "60/95/130/165/200 (65% do seu poder físico)"
+            },
+            {
+              "description": "Dano do Gato:",
+              "value": "20/25/30/35/40 (0% do seu ataque)"
+            },
+            {
+              "description": "Pontos de ataque do gato:",
+              "value": "2"
+            },
+            {
+              "description": "Dano de lacaio de rota:",
+              "value": "1 de vida perdido a cada 5 acertos"
             },
             {
               "description": "Lentidão:",
-              "value": "30%"
-            },
-            {
-              "description": "Duração da Lentidão:",
-              "value": "2s"
+              "value": "25%"
             }
           ]
         }
       },
-      "Id": 7494,
-      "Summary": "Desgarrada",
-      "URL": "https://web2.hirez.com/smite/god-abilities/declaw.jpg"
+      "Id": 18299,
+      "Summary": "Garra Constritora",
+      "URL": "https://web2.hirez.com/smite/god-abilities/ensnaring-claw.jpg"
     },
     "Ability_4": {
       "Description": {
         "itemDescription": {
           "cooldown": "90s",
-          "cost": "90/95/100/105/110",
-          "description": "Bastet invoca 3 gatos que atacam alvos próximos por 10s, retardando e ferindo-os. Sentindo o cheiro de sangue, os gatos atacam inimigos afetados pelo Chicote Navalha primeiro. Quando qualquer gato é derrotado, Bastet ganha poder físico bônus por 9 segundos, estocando até 3 vezes.",
+          "cost": "80/85/90/95/100",
+          "description": "Bastet chama seus gatos, seus leais guardiões, para seu lado. Esses guardiões seguirão as ordens de Bastet, ajudando-a em qualquer habilidade que ela conjurar e causando uma parte do dano de Bastet.",
           "menuitems": [
             {
               "description": "Habilidade:",
-              "value": "Mascote"
+              "value": "Melhoria"
             },
             {
               "description": "Afeta:",
-              "value": "Inimigo"
+              "value": "Si própria"
             },
             {
               "description": "Dano:",
@@ -7772,38 +7780,26 @@
           ],
           "rankitems": [
             {
-              "description": "Dano por Acerto:",
-              "value": "25/35/45/55/65 (+20% do seu poder físico)"
+              "description": "Dano do Guardião:",
+              "value": "20/25/30/35/40%%"
             },
             {
-              "description": "Vida do Gato:",
-              "value": "500/550/600/650/700"
-            },
-            {
-              "description": "Proteções do Gato:",
-              "value": "20/30/40/50/60"
-            },
-            {
-              "description": "Lentidão:",
-              "value": "20%"
-            },
-            {
-              "description": "Poder físico bônus:",
-              "value": "7/9/11/13/15"
+              "description": "Duração:",
+              "value": "12s"
             }
           ]
         }
       },
-      "Id": 7513,
-      "Summary": "Ferina",
-      "URL": "https://web2.hirez.com/smite/god-abilities/cat-call.jpg"
+      "Id": 18250,
+      "Summary": "Guardiões de Bast",
+      "URL": "https://web2.hirez.com/smite/god-abilities/guardians-of-bast.jpg"
     },
     "Ability_5": {
       "Description": {
         "itemDescription": {
           "cooldown": "",
           "cost": "",
-          "description": "Quando Bastet atinge um inimigo com Bote, Chicote Navalha ou Desgarrada, ela fere o alvo por um breve período. Se o alvo já tiver uma ferida, essas habilidades causam dano adicional e removem a ferida.",
+          "description": "Quando Bastet acerta um inimigo, ela o marca por um curto período. Alvos marcados deixam um rastro que Bastet pode seguir, ganhando velocidade de movimento enquanto estiver seguindo esse rastro.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -7816,19 +7812,19 @@
           ],
           "rankitems": [
             {
-              "description": "Duração da Ferida:",
+              "description": "Duração do rastro:",
               "value": "3s"
             },
             {
-              "description": "Dano Adicional:",
+              "description": "Velocidade de movimento",
               "value": "20%"
             }
           ]
         }
       },
       "Id": 9337,
-      "Summary": "Ferida Exposta",
-      "URL": "https://web2.hirez.com/smite/god-abilities/open-wound.jpg"
+      "Summary": "Seguindo o rastro",
+      "URL": "https://web2.hirez.com/smite/god-abilities/tracking-scent.jpg"
     },
     "AttackSpeed": 1,
     "AttackSpeedPerLevel": 0.02,
@@ -7861,8 +7857,8 @@
     "abilityDescription1": {
       "itemDescription": {
         "cooldown": "12s",
-        "cost": "60/65/70/75/80",
-        "description": "Bastet dá o bote em uma área, ferindo inimigos dentro do raio. Por 4 segundos depois do bote, você pode pressionar o botão novamente para pular de volta para o local inicial. Bastet também se move 25% mais rápido quando no estado de bote de retorno.",
+        "cost": "60/65/70/75/80.",
+        "description": "Bastet dá o bote em uma área, ferindo inimigos dentro do raio. Por 4 segundos depois do bote, você pode pressionar o botão novamente para pular de volta para o local inicial. Bastet também se move 25% mais rápido quando no estado de bote de retorno. \n\nSe os Guardiões de Bast estiverem ativos, ela fará com que os gatos também deem o bote.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -7884,7 +7880,7 @@
         "rankitems": [
           {
             "description": "Dano:",
-            "value": "80/145/210/275/340 (+100% do seu poder físico)"
+            "value": "80/145/210/275/340 (+90% do seu poder físico)"
           }
         ]
       }
@@ -7892,8 +7888,8 @@
     "abilityDescription2": {
       "itemDescription": {
         "cooldown": "13s",
-        "cost": "60/65/70/75/80",
-        "description": "Bastet usa suas garras nos inimigos, fazendo com que sangrem com dano a cada segundo pela duração.",
+        "cost": "40/45/50/55/60",
+        "description": "Bastet usa suas garras nos inimigos, fazendo com que sangrem com dano a cada segundo pela duração.\n\nSe os Guardiões de Bast estiverem ativos, ela fará com que os gatos também ataquem os inimigos.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -7922,17 +7918,17 @@
     },
     "abilityDescription3": {
       "itemDescription": {
-        "cooldown": "10s",
-        "cost": "60",
-        "description": "Bastet arremessa sua adaga, que detona no alvo, causando dano e retardando os inimigos na área.",
+        "cooldown": "12s",
+        "cost": "60/65/70/75/80",
+        "description": "Bastet envia um gato até seus inimigos. Se o gato encontrar um inimigo, ele o prende, causando dano e enraizando por 5s. O gato persiste por 4s ou até que seja derrotado, continuando a atacar inimigos próximos. Os ataques do gato aplicam 2s de lentidão nos inimigos.\n\nSe Guardiões de Bast estiver ativo, ela comandará seus guardiões para também atacar.",
         "menuitems": [
           {
             "description": "Habilidade:",
-            "value": "Projétil"
+            "value": "Linha"
           },
           {
             "description": "Afeta:",
-            "value": "Inimigo"
+            "value": "Inimigos"
           },
           {
             "description": "Dano:",
@@ -7941,16 +7937,24 @@
         ],
         "rankitems": [
           {
-            "description": "Dano:",
-            "value": "70/120/170/220/270 (+100% do seu poder físico)"
+            "description": "Dano do Enraizamento:",
+            "value": "60/95/130/165/200 (65% do seu poder físico)"
+          },
+          {
+            "description": "Dano do Gato:",
+            "value": "20/25/30/35/40 (0% do seu ataque)"
+          },
+          {
+            "description": "Pontos de ataque do gato:",
+            "value": "2"
+          },
+          {
+            "description": "Dano de lacaio de rota:",
+            "value": "1 de vida perdido a cada 5 acertos"
           },
           {
             "description": "Lentidão:",
-            "value": "30%"
-          },
-          {
-            "description": "Duração da Lentidão:",
-            "value": "2s"
+            "value": "25%"
           }
         ]
       }
@@ -7958,16 +7962,16 @@
     "abilityDescription4": {
       "itemDescription": {
         "cooldown": "90s",
-        "cost": "90/95/100/105/110",
-        "description": "Bastet invoca 3 gatos que atacam alvos próximos por 10s, retardando e ferindo-os. Sentindo o cheiro de sangue, os gatos atacam inimigos afetados pelo Chicote Navalha primeiro. Quando qualquer gato é derrotado, Bastet ganha poder físico bônus por 9 segundos, estocando até 3 vezes.",
+        "cost": "80/85/90/95/100",
+        "description": "Bastet chama seus gatos, seus leais guardiões, para seu lado. Esses guardiões seguirão as ordens de Bastet, ajudando-a em qualquer habilidade que ela conjurar e causando uma parte do dano de Bastet.",
         "menuitems": [
           {
             "description": "Habilidade:",
-            "value": "Mascote"
+            "value": "Melhoria"
           },
           {
             "description": "Afeta:",
-            "value": "Inimigo"
+            "value": "Si própria"
           },
           {
             "description": "Dano:",
@@ -7976,24 +7980,12 @@
         ],
         "rankitems": [
           {
-            "description": "Dano por Acerto:",
-            "value": "25/35/45/55/65 (+20% do seu poder físico)"
+            "description": "Dano do Guardião:",
+            "value": "20/25/30/35/40%%"
           },
           {
-            "description": "Vida do Gato:",
-            "value": "500/550/600/650/700"
-          },
-          {
-            "description": "Proteções do Gato:",
-            "value": "20/30/40/50/60"
-          },
-          {
-            "description": "Lentidão:",
-            "value": "20%"
-          },
-          {
-            "description": "Poder físico bônus:",
-            "value": "7/9/11/13/15"
+            "description": "Duração:",
+            "value": "12s"
           }
         ]
       }
@@ -8002,7 +7994,7 @@
       "itemDescription": {
         "cooldown": "",
         "cost": "",
-        "description": "Quando Bastet atinge um inimigo com Bote, Chicote Navalha ou Desgarrada, ela fere o alvo por um breve período. Se o alvo já tiver uma ferida, essas habilidades causam dano adicional e removem a ferida.",
+        "description": "Quando Bastet acerta um inimigo, ela o marca por um curto período. Alvos marcados deixam um rastro que Bastet pode seguir, ganhando velocidade de movimento enquanto estiver seguindo esse rastro.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -8015,11 +8007,11 @@
         ],
         "rankitems": [
           {
-            "description": "Duração da Ferida:",
+            "description": "Duração do rastro:",
             "value": "3s"
           },
           {
-            "description": "Dano Adicional:",
+            "description": "Velocidade de movimento",
             "value": "20%"
           }
         ]
@@ -8045,9 +8037,9 @@
     },
     "godAbility1_URL": "https://web2.hirez.com/smite/god-abilities/pounce.jpg",
     "godAbility2_URL": "https://web2.hirez.com/smite/god-abilities/razor-whip.jpg",
-    "godAbility3_URL": "https://web2.hirez.com/smite/god-abilities/declaw.jpg",
-    "godAbility4_URL": "https://web2.hirez.com/smite/god-abilities/cat-call.jpg",
-    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/open-wound.jpg",
+    "godAbility3_URL": "https://web2.hirez.com/smite/god-abilities/ensnaring-claw.jpg",
+    "godAbility4_URL": "https://web2.hirez.com/smite/god-abilities/guardians-of-bast.jpg",
+    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/tracking-scent.jpg",
     "godCard_URL": "https://web2.hirez.com/smite/god-cards/bastet.jpg",
     "godIcon_URL": "https://web2.hirez.com/smite/god-icons/bastet.jpg",
     "id": 1678,
@@ -8732,7 +8724,7 @@
     "ManaPerFive": 4.6,
     "ManaPerLevel": 38,
     "Name": "Cabrakán",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Maia",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -8952,7 +8944,7 @@
     "Ability_1": {
       "Description": {
         "itemDescription": {
-          "cooldown": "12s",
+          "cooldown": "13s",
           "cost": "50/55/60/65/70",
           "description": "Camazotz emite um alto grito, emanando uma onda sonar em uma linha, atravessando lacaios e causando dano.\n\nSe esse grito acertar um deus a onda de som ecoará. Se Camazotz pegar esse eco, ele mantêm a visão desse deus nos próximos 15s e ganha poder bônus.",
           "menuitems": [
@@ -8994,7 +8986,7 @@
         "itemDescription": {
           "cooldown": "10s",
           "cost": "60/65/70/75/80",
-          "description": "Camazotz comanda uma revoada de morcegos que atacam um único alvo, causando dano e 30% de lentidão, e trazendo vida de volta.\n\nSe o alvo for um monstro grande de selva, ele ficará marcado e Camazotz receberá um bônus estocável de Vampirismo por 300s em adição à vida. Monstros já marcados por essa habilidade não darão a Camazotz outro estoque de Vampirismo ou mais cura.",
+          "description": "Camazotz comanda uma revoada de morcegos que atacam um único alvo, causando dano e 30% de lentidão, e trazendo vida de volta.\n\nSe o alvo for for uma criatura portadora de bônus, Oráculo ou Harpia Alfa, ele ficará marcado e Camazotz receberá um bônus estocável de Vampirismo por 300s em adição à vida. Monstros já marcados por essa habilidade não darão a Camazotz outro estoque de Vampirismo ou mais cura.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -9024,7 +9016,7 @@
             },
             {
               "description": "Bônus por Estoque:",
-              "value": "4% Aumento de cura e roubo de vida"
+              "value": "3% de aumento de cura e roubo de vida"
             },
             {
               "description": "Estoques Máximos:",
@@ -9148,7 +9140,7 @@
             },
             {
               "description": "Bônus de Sorver Essência:",
-              "value": "8% de roubo de vida físico e de cura aumentada"
+              "value": "6% de roubo de vida físico e de cura aumentada"
             }
           ]
         }
@@ -9187,7 +9179,7 @@
     "Type": " Corporal, Físico",
     "abilityDescription1": {
       "itemDescription": {
-        "cooldown": "12s",
+        "cooldown": "13s",
         "cost": "50/55/60/65/70",
         "description": "Camazotz emite um alto grito, emanando uma onda sonar em uma linha, atravessando lacaios e causando dano.\n\nSe esse grito acertar um deus a onda de som ecoará. Se Camazotz pegar esse eco, ele mantêm a visão desse deus nos próximos 15s e ganha poder bônus.",
         "menuitems": [
@@ -9224,7 +9216,7 @@
       "itemDescription": {
         "cooldown": "10s",
         "cost": "60/65/70/75/80",
-        "description": "Camazotz comanda uma revoada de morcegos que atacam um único alvo, causando dano e 30% de lentidão, e trazendo vida de volta.\n\nSe o alvo for um monstro grande de selva, ele ficará marcado e Camazotz receberá um bônus estocável de Vampirismo por 300s em adição à vida. Monstros já marcados por essa habilidade não darão a Camazotz outro estoque de Vampirismo ou mais cura.",
+        "description": "Camazotz comanda uma revoada de morcegos que atacam um único alvo, causando dano e 30% de lentidão, e trazendo vida de volta.\n\nSe o alvo for for uma criatura portadora de bônus, Oráculo ou Harpia Alfa, ele ficará marcado e Camazotz receberá um bônus estocável de Vampirismo por 300s em adição à vida. Monstros já marcados por essa habilidade não darão a Camazotz outro estoque de Vampirismo ou mais cura.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -9254,7 +9246,7 @@
           },
           {
             "description": "Bônus por Estoque:",
-            "value": "4% Aumento de cura e roubo de vida"
+            "value": "3% de aumento de cura e roubo de vida"
           },
           {
             "description": "Estoques Máximos:",
@@ -9363,7 +9355,7 @@
           },
           {
             "description": "Bônus de Sorver Essência:",
-            "value": "8% de roubo de vida físico e de cura aumentada"
+            "value": "6% de roubo de vida físico e de cura aumentada"
           }
         ]
       }
@@ -9380,7 +9372,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1/1/1x dano e tempo de giro; \r\no 3o. ataque acerta todos inimigos na área"
+            "value": "1/1/1x dano e cadência; o 3o. ataque acerta todos inimigos na área"
           }
         ],
         "rankitems": []
@@ -9831,7 +9823,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1/0,8/0,8x dano e giro"
+            "value": "1/0,8/0,8x dano e cadência"
           }
         ],
         "rankitems": []
@@ -10090,7 +10082,7 @@
     "Roles": " Caçador",
     "Speed": 365,
     "Title": "O Deus Galhado",
-    "Type": " Atirador",
+    "Type": " Atirador, Físico",
     "abilityDescription1": {
       "itemDescription": {
         "cooldown": "0s",
@@ -10904,7 +10896,7 @@
     "ManaPerFive": 5.5,
     "ManaPerLevel": 48,
     "Name": "Chang'e",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Chinês",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -12452,9 +12444,9 @@
     "Ability_4": {
       "Description": {
         "itemDescription": {
-          "cooldown": "85s",
-          "cost": "14 Fúria.",
-          "description": "Cúchulainn faz um circulo à sua volta com sua lança, Gae Bulg, causando dano e jogando ao ar todos os inimigos. Atingir um lacaio inimigo com esta habilidade restaura 10 de Fúria, 16 se atingir um deus (a um máx. de 36). \n\nEm sua forma de Frenesi, Cúchulainn dá um grito aterrorizante, causando dano a todos os inimigos e fazendo com que estremeçam. Esse grito não consome Fúria e tem um intervalo de 35s.",
+          "cooldown": "Duração do estremecimento",
+          "cost": "1s",
+          "description": "Cúchulainn faz um circulo à sua volta com sua lança, Gae Bulg, causando dano e jogando ao ar todos os inimigos. Atingir um inimigo com esta habilidade restaura 26 de mana (a um máx. de 36).\n\nEm sua forma de Frenesi, Cúchulainn dá um grito aterrorizante, causando dano a todos os inimigos e fazendo com que estremeçam.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -12476,11 +12468,11 @@
           "rankitems": [
             {
               "description": "Dano:",
-              "value": "175/250/325/400/475 (+65% de seu poder físico)"
+              "value": "175/ 250/ 325/ 400/ 575 (+65% de seu poder físico)"
             },
             {
-              "description": "Duração do estremecimento:",
-              "value": "1s"
+              "description": "Dano do grito:",
+              "value": "100/165/ 230/ 295/ 360 (50% de seu poder físico)"
             }
           ]
         }
@@ -12524,7 +12516,7 @@
             },
             {
               "description": "Bônus de poder:",
-              "value": "2 por nível"
+              "value": "3 por nível"
             }
           ]
         }
@@ -12676,9 +12668,9 @@
     },
     "abilityDescription4": {
       "itemDescription": {
-        "cooldown": "85s",
-        "cost": "14 Fúria.",
-        "description": "Cúchulainn faz um circulo à sua volta com sua lança, Gae Bulg, causando dano e jogando ao ar todos os inimigos. Atingir um lacaio inimigo com esta habilidade restaura 10 de Fúria, 16 se atingir um deus (a um máx. de 36). \n\nEm sua forma de Frenesi, Cúchulainn dá um grito aterrorizante, causando dano a todos os inimigos e fazendo com que estremeçam. Esse grito não consome Fúria e tem um intervalo de 35s.",
+        "cooldown": "Duração do estremecimento",
+        "cost": "1s",
+        "description": "Cúchulainn faz um circulo à sua volta com sua lança, Gae Bulg, causando dano e jogando ao ar todos os inimigos. Atingir um inimigo com esta habilidade restaura 26 de mana (a um máx. de 36).\n\nEm sua forma de Frenesi, Cúchulainn dá um grito aterrorizante, causando dano a todos os inimigos e fazendo com que estremeçam.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -12700,11 +12692,11 @@
         "rankitems": [
           {
             "description": "Dano:",
-            "value": "175/250/325/400/475 (+65% de seu poder físico)"
+            "value": "175/ 250/ 325/ 400/ 575 (+65% de seu poder físico)"
           },
           {
-            "description": "Duração do estremecimento:",
-            "value": "1s"
+            "description": "Dano do grito:",
+            "value": "100/165/ 230/ 295/ 360 (50% de seu poder físico)"
           }
         ]
       }
@@ -12743,7 +12735,7 @@
           },
           {
             "description": "Bônus de poder:",
-            "value": "2 por nível"
+            "value": "3 por nível"
           }
         ]
       }
@@ -13622,7 +13614,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1/1/1x de dano e tempo de giro"
+            "value": "1/1/1x de dano e cadência"
           }
         ],
         "rankitems": []
@@ -13867,7 +13859,7 @@
     "ManaPerFive": 5,
     "ManaPerLevel": 51,
     "Name": "Discórdia",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Romano",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -14484,7 +14476,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "0,75/0,75/0,75/1,1/0,9x dano e suingue. 4o ataque atinge inimigos em área"
+            "value": "0,75/0,75/0,75/1,1/0,9x dano e cadência. 4o ataque atinge inimigos em área"
           }
         ],
         "rankitems": []
@@ -14927,7 +14919,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1/1/1/1x dano e tempo de giro"
+            "value": "1/1/1/1x dano e cadência"
           }
         ],
         "rankitems": []
@@ -15143,7 +15135,7 @@
     "ManaPerFive": 4.2,
     "ManaPerLevel": 35,
     "Name": "Fenrir",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Nórdico",
     "PhysicalPower": 38,
     "PhysicalPowerPerLevel": 2.3,
@@ -15507,7 +15499,7 @@
           "rankitems": [
             {
               "description": "Roubo de Vida Mágico:",
-              "value": "15%"
+              "value": "10% + 0/25% por nível"
             }
           ]
         }
@@ -15690,7 +15682,7 @@
         "rankitems": [
           {
             "description": "Roubo de Vida Mágico:",
-            "value": "15%"
+            "value": "10% + 0/25% por nível"
           }
         ]
       }
@@ -16142,7 +16134,7 @@
           },
           {
             "description": "Progressão",
-            "value": "1.05/.8/.8/1.5/.95x dano e giro"
+            "value": "1.05/.8/.8/1.5/.95x dano e cadência"
           }
         ],
         "rankitems": []
@@ -16772,7 +16764,7 @@
       "URL": "https://web2.hirez.com/smite/god-abilities/painless.jpg"
     },
     "AttackSpeed": 1,
-    "AttackSpeedPerLevel": 0.009,
+    "AttackSpeedPerLevel": 0.012,
     "Cons": "",
     "HP5PerLevel": 0.7,
     "Health": 480,
@@ -16786,7 +16778,7 @@
     "MagicalPowerPerLevel": 0,
     "Mana": 220,
     "ManaPerFive": 4.8,
-    "ManaPerLevel": 35,
+    "ManaPerLevel": 39,
     "Name": "Guan Yu",
     "OnFreeRotation": "",
     "Pantheon": "Chinês",
@@ -17002,7 +16994,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1/1/1,3/1,75x dano e tempo de ataque"
+            "value": "1/1/1,3/1,75x dano e cadência"
           }
         ],
         "rankitems": []
@@ -17598,7 +17590,7 @@
         "itemDescription": {
           "cooldown": "90s",
           "cost": "100",
-          "description": "Hades convoca todas as almas inimigas próximas, fazendo elas se aproximarem dele com o tempo, causando dano a cada 0,5s por 4s. Se o inimigo estiver afetado por Praga, suas proteções são reduzidas. Hades também ganha proteções pela duração.",
+          "description": "Hades convoca todas as almas inimigas próximas, fazendo elas se aproximarem dele com o tempo, causando dano a cada 0,5s por 4s. Se o inimigo estiver afetado por Praga, suas proteções são reduzidas. Hades também ganha proteções e 10% de mitigação de dano pela duração.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -17677,9 +17669,9 @@
     "AttackSpeedPerLevel": 0.01,
     "Cons": "",
     "HP5PerLevel": 0.54,
-    "Health": 450,
+    "Health": 475,
     "HealthPerFive": 5,
-    "HealthPerLevel": 80,
+    "HealthPerLevel": 85,
     "Lore": "Inevitavelmente, a morte envia todos a Hades, o Deus do Submundo. No fim das contas, ele sempre consegue o que quer.\\n\\nFilho mais velho dos Titãs Crono e Reia, Hades foi engolido pelo seu pai quando criança, junto com cinco de seus irmãos. Zeus, o irmão caçula, escapou desse destino e libertou os demais quando se tornou forte o suficiente para enfrentar Cronos. Juntos, os seis irmãos derrotaram os Titãs e os baniram para o sombrio reino do Tártaro. Agora, os deuses reinantes, Zeus, Poseidon e Hades, sortearam seus domínios entre si. Hades ficou com o Submundo.\\n\\nOs poucos que entraram no Submundo e voltaram falam sombriamente desse lugar, nunca desejando voltar. Mas o próprio  Hades raramente abandona seu reino subterrâneo, constantemente buscando maneiras de aumentar o número de mortos.\\n\\nQuando ele decidiu ter uma esposa, Hades capturou a radiante Perséfone, filha da deusa Deméter. Escondida no submundo, ninguém podia alcançá-la, então Deméter amaldiçoou a terra com uma enorme onda de fome. Os outros deuses imploraram para dar fim a isso, antes que acabasse com a humanidade, mas ela não desistiria até sua filha ser devolvida. Hades finalmente deixou Perséfone sair, mas não antes de alimentá-la com sementes de romã. Tendo consumido a fruta, ela ficou para sempre ligada ao Hades e precisava retornar ao seu marido uma vez ao ano para comer as sementes novamente.  Isso, diz-se por aí, é um momento de luto e a causa do inverno.\\n\\nApesar de muitos temerem a morte e vê-la como algo ruim, na verdade, Hades apenas luta para manter o equilíbrio. Ele é severo, mas justo. Como Deus da Morte e do Submundo, ele vê sua autoridade nesse assunto como absoluta, proibindo qualquer um de deixar seu reino e ficando irritado quando é desobedecido ou quando alguém tentar trapacear a morte ou roubar dele.\\n\\nPara todos, a morte é uma certeza da qual não se pode escapar, e servir a Hades é algo inevitável. Até mesmo para os deuses.",
     "MP5PerLevel": 0.36,
     "MagicProtection": 30,
@@ -17810,7 +17802,7 @@
       "itemDescription": {
         "cooldown": "90s",
         "cost": "100",
-        "description": "Hades convoca todas as almas inimigas próximas, fazendo elas se aproximarem dele com o tempo, causando dano a cada 0,5s por 4s. Se o inimigo estiver afetado por Praga, suas proteções são reduzidas. Hades também ganha proteções pela duração.",
+        "description": "Hades convoca todas as almas inimigas próximas, fazendo elas se aproximarem dele com o tempo, causando dano a cada 0,5s por 4s. Se o inimigo estiver afetado por Praga, suas proteções são reduzidas. Hades também ganha proteções e 10% de mitigação de dano pela duração.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -18330,7 +18322,7 @@
           "rankitems": [
             {
               "description": "Dano:",
-              "value": "70/125/180/235/290 (+95% do seu poder físico)"
+              "value": "70/125/180/235/290 (+85% do seu poder físico)"
             }
           ]
         }
@@ -18344,7 +18336,7 @@
         "itemDescription": {
           "cooldown": "14s",
           "cost": "60/65/70/75/80",
-          "description": "Heimdall sopra o Gjallarhorn por 2s, fazendo com que os inimigos à frente fiquem lentos e tomem dano a cada 0,5s. Enquanto sopra, Heimdall fica imune a repulsão e ganha proteções bônus. Quando Heimdall terminar de soprar, ou porque cancelou ou porque chegou ao fim, ele ergue o Gjallarhorn para um último ataque. Esse ataque causa dano nos inimigos e os repele para longe de Heimdall",
+          "description": "Heimdall sopra o Gjallarhorn por 2s, fazendo com que os inimigos à frente percam velocidade de movimento e cadência, enquanto tomam dano a cada 0,5s. Enquanto sopra, Heimdall fica imune a repulsão. Quando Heimdall terminar de soprar, ou porque cancelou após 2s, ele ergue o Gjallarhorn para um último ataque. Esse ataque causa dano nos inimigos e os repele para longe de Heimdall",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -18360,29 +18352,25 @@
             },
             {
               "description": "Alcance:",
-              "value": "70"
+              "value": "60"
             }
           ],
           "rankitems": [
             {
               "description": "Dano por tique:",
-              "value": "11/22/33/44/55 (+45% do seu poder físico)"
+              "value": "8/16/24/32/40 (+30% do seu poder físico)"
             },
             {
               "description": "Dano da repulsão:",
-              "value": "50/90/130/170/210 (+85% do seu poder físico)"
-            },
-            {
-              "description": "Proteções:",
-              "value": "8/16/24/32/40"
+              "value": "50/90/130/170/210 (+60% do seu poder físico)"
             },
             {
               "description": "Lentidão:",
-              "value": "25%"
+              "value": "15/17.5/20/22.5/25%"
             },
             {
-              "description": "Lentidão de cadência:",
-              "value": "15%"
+              "description": "Duração da lentidão:",
+              "value": "1.5s"
             }
           ]
         }
@@ -18436,7 +18424,7 @@
         "itemDescription": {
           "cooldown": "Duração da viagem",
           "cost": "4s",
-          "description": "Heimdall corre em frente, com o machado em punho. Se Heimdall atingir um deus inimigo, ele os atordoa, e então faz um ataque devastador com seu machado, mandando o alvo para o céu. Um portal da Bifrost aparece e Heimdall envia o inimigo pelos reinos de Muspelheim e Niflheim, antes de trazê-lo de volta a um local aleatório próximo. Muspelheim queima o inimigo a cada 0.25s por 1.5s, e Niflheim causa lentidão ao inimigo.",
+          "description": "Heimdall corre em frente, com o machado em punho. Se Heimdall atingir um deus inimigo, ele os atordoa, e então faz um ataque devastador com seu machado, mandando o alvo para o céu. Um portal da Bifrost aparece e Heimdall envia o inimigo pelos reinos de Muspelheim e Niflheim, antes de trazê-lo de volta a um local aleatório próximo. Muspelheim queima o inimigo a cada 0,25s por 1,5s, e Niflheim causa lentidão ao inimigo.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -18454,7 +18442,7 @@
           "rankitems": [
             {
               "description": "Dano por acerto:",
-              "value": "150/240/330/420/510 (+110% do seu poder físico)"
+              "value": "150/240/330/420/510 (+90% do seu poder físico)"
             },
             {
               "description": "Dano de Muspelheim:",
@@ -18484,7 +18472,7 @@
         "itemDescription": {
           "cooldown": "",
           "cost": "",
-          "description": "Quando Heimdall vê um deus inimigo no seu campo de visão, ele ganha poder físico, até um máximo de 5 deuses. Quando um deus inimigo deixa seu campo de visão, Heimdall continua a vê-lo pelos próximos 4s. Os ataques críticos de Heimdall só causam 70% de dano bônus.",
+          "description": "Quando Heimdall vê um deus inimigo no seu campo de visão, ele ganha poder físico, até um máximo de 5 deuses. Quando um deus inimigo desaparece do seu campo de visão (incluindo furtividade), Heimdall continua a vê-lo pelos próximos 4s. Os ataques críticos de Heimdall só causam 70% de dano bônus.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -18514,7 +18502,7 @@
     "Health": 480,
     "HealthPerFive": 8,
     "HealthPerLevel": 80,
-    "Lore": "Todos os caminhos têm seus guardiões. E nenhum guardião é mais obstinado quanto às su8as obrigações do que o arguto Heimdall, sentinela da Bifrost, a Ponte Arco-Íris. O observador de Asgard é um sentinela sem igual nos Nove Reinos, e ele mantém uma vigilância eterna no ponto onde o Arco-Íris encontra o céu. Com olhar preciso e audição apurada, Heimdall guarda os salões dos deuses, alerta para a aproximação de qualquer inimigo, como tamb´m para qualquer sinal do Ragnarok.\\n\\nÉ sabido que Heimdall necessita de muito pouco sono, e consegue enxergar por centenas de quilômetros. Sua audição é tão aguçada que ele pode ouvir o crescer da grama e o murmúrio dos mortos. Sua trombeta, Gjallarhorn, pode ser ouvida através dos Nove Reinos quando ele a toca. Mas não são apenas seus sentidos que fazem de Heimdall um sentinela sooberbo.\\n\\nEle também tem o dom da premonição, oq ue permite que ele saiba os movimentos dos oponentes antes que sejam feitos, e que sinta a aproximação de forças ocultas. Como um dos Aesir, ele é um combatente habilidoso, e sua intuição garante vantagem contra até mesmo os maispreparados oponentes.\\n\\nTambém é comentado que Heimdall tem algum tipo de conexão com Yggdrasil, a Árvore do Mundo. Alguns dizem que ele foi moldado a partir de um dos galhos da grande árvore. Outros insistem que ele tem algum tipo de elo, assim como Ratatosk. Seja qual for a verdade, é certo que Heimdall não vê com bons olhos qualquer um que ameace Yggdrasil.\\n\\nPor isso, quando sua visão recaiu sobre os lacaios de Perséfone, que se aproximavam da Árvore, Heimdall imediatamente confrontou-os. Mesmo extremamente poderosa, a Rainha do Submundo não conseguiu esconder suas intenções do vigia de Asgard.",
+    "Lore": "Todos os caminhos têm seus guardiões. E nenhum guardião é mais obstinado quanto às suas obrigações do que o arguto Heimdall, sentinela da Bifrost, a Ponte Arco-Íris. O observador de Asgard é um sentinela sem igual nos Nove Reinos, e ele mantém uma vigilância eterna no ponto onde o Arco-Íris encontra o céu. Com olhar preciso e audição apurada, Heimdall guarda os salões dos deuses, alerta para a aproximação de qualquer inimigo, como também para qualquer sinal do Ragnarok.\\n\\nÉ sabido que Heimdall necessita de muito pouco sono, e consegue enxergar por centenas de quilômetros. Sua audição é tão aguçada que ele pode ouvir o crescer da grama e o murmúrio dos mortos. Sua trombeta, Gjallarhorn, pode ser ouvida através dos Nove Reinos quando ele a toca. Mas não são apenas seus sentidos que fazem de Heimdall um sentinela soberbo.\\n\\nEle também tem o dom da premonição, o que permite que ele saiba os movimentos dos oponentes antes que sejam feitos, e que sinta a aproximação de forças ocultas. Como um dos Aesir, ele é um combatente habilidoso, e sua intuição garante vantagem contra até mesmo os mais preparados oponentes.\\n\\nTambém é comentado que Heimdall tem algum tipo de conexão com Yggdrasil, a Árvore do Mundo. Alguns dizem que ele foi moldado a partir de um dos galhos da grande árvore. Outros insistem que ele tem algum tipo de elo, assim como Ratatosk. Seja qual for a verdade, é certo que Heimdall não vê com bons olhos qualquer um que ameace Yggdrasil.\\n\\nPor isso, quando sua visão recaiu sobre os lacaios de Perséfone, que se aproximavam da Árvore, Heimdall imediatamente confrontou-os. Mesmo extremamente poderosa, a Rainha do Submundo não conseguiu esconder suas intenções do vigia de Asgard.",
     "MP5PerLevel": 0.4,
     "MagicProtection": 30,
     "MagicProtectionPerLevel": 0.9,
@@ -18534,7 +18522,7 @@
     "Roles": " Caçador",
     "Speed": 365,
     "Title": "O Guardião da Ponte Arco-Íris",
-    "Type": " Atirador",
+    "Type": " Atirador, Físico",
     "abilityDescription1": {
       "itemDescription": {
         "cooldown": "14s",
@@ -18561,7 +18549,7 @@
         "rankitems": [
           {
             "description": "Dano:",
-            "value": "70/125/180/235/290 (+95% do seu poder físico)"
+            "value": "70/125/180/235/290 (+85% do seu poder físico)"
           }
         ]
       }
@@ -18570,7 +18558,7 @@
       "itemDescription": {
         "cooldown": "14s",
         "cost": "60/65/70/75/80",
-        "description": "Heimdall sopra o Gjallarhorn por 2s, fazendo com que os inimigos à frente fiquem lentos e tomem dano a cada 0,5s. Enquanto sopra, Heimdall fica imune a repulsão e ganha proteções bônus. Quando Heimdall terminar de soprar, ou porque cancelou ou porque chegou ao fim, ele ergue o Gjallarhorn para um último ataque. Esse ataque causa dano nos inimigos e os repele para longe de Heimdall",
+        "description": "Heimdall sopra o Gjallarhorn por 2s, fazendo com que os inimigos à frente percam velocidade de movimento e cadência, enquanto tomam dano a cada 0,5s. Enquanto sopra, Heimdall fica imune a repulsão. Quando Heimdall terminar de soprar, ou porque cancelou após 2s, ele ergue o Gjallarhorn para um último ataque. Esse ataque causa dano nos inimigos e os repele para longe de Heimdall",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -18586,29 +18574,25 @@
           },
           {
             "description": "Alcance:",
-            "value": "70"
+            "value": "60"
           }
         ],
         "rankitems": [
           {
             "description": "Dano por tique:",
-            "value": "11/22/33/44/55 (+45% do seu poder físico)"
+            "value": "8/16/24/32/40 (+30% do seu poder físico)"
           },
           {
             "description": "Dano da repulsão:",
-            "value": "50/90/130/170/210 (+85% do seu poder físico)"
-          },
-          {
-            "description": "Proteções:",
-            "value": "8/16/24/32/40"
+            "value": "50/90/130/170/210 (+60% do seu poder físico)"
           },
           {
             "description": "Lentidão:",
-            "value": "25%"
+            "value": "15/17.5/20/22.5/25%"
           },
           {
-            "description": "Lentidão de cadência:",
-            "value": "15%"
+            "description": "Duração da lentidão:",
+            "value": "1.5s"
           }
         ]
       }
@@ -18652,7 +18636,7 @@
       "itemDescription": {
         "cooldown": "Duração da viagem",
         "cost": "4s",
-        "description": "Heimdall corre em frente, com o machado em punho. Se Heimdall atingir um deus inimigo, ele os atordoa, e então faz um ataque devastador com seu machado, mandando o alvo para o céu. Um portal da Bifrost aparece e Heimdall envia o inimigo pelos reinos de Muspelheim e Niflheim, antes de trazê-lo de volta a um local aleatório próximo. Muspelheim queima o inimigo a cada 0.25s por 1.5s, e Niflheim causa lentidão ao inimigo.",
+        "description": "Heimdall corre em frente, com o machado em punho. Se Heimdall atingir um deus inimigo, ele os atordoa, e então faz um ataque devastador com seu machado, mandando o alvo para o céu. Um portal da Bifrost aparece e Heimdall envia o inimigo pelos reinos de Muspelheim e Niflheim, antes de trazê-lo de volta a um local aleatório próximo. Muspelheim queima o inimigo a cada 0,25s por 1,5s, e Niflheim causa lentidão ao inimigo.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -18670,7 +18654,7 @@
         "rankitems": [
           {
             "description": "Dano por acerto:",
-            "value": "150/240/330/420/510 (+110% do seu poder físico)"
+            "value": "150/240/330/420/510 (+90% do seu poder físico)"
           },
           {
             "description": "Dano de Muspelheim:",
@@ -18695,7 +18679,7 @@
       "itemDescription": {
         "cooldown": "",
         "cost": "",
-        "description": "Quando Heimdall vê um deus inimigo no seu campo de visão, ele ganha poder físico, até um máximo de 5 deuses. Quando um deus inimigo deixa seu campo de visão, Heimdall continua a vê-lo pelos próximos 4s. Os ataques críticos de Heimdall só causam 70% de dano bônus.",
+        "description": "Quando Heimdall vê um deus inimigo no seu campo de visão, ele ganha poder físico, até um máximo de 5 deuses. Quando um deus inimigo desaparece do seu campo de visão (incluindo furtividade), Heimdall continua a vê-lo pelos próximos 4s. Os ataques críticos de Heimdall só causam 70% de dano bônus.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -18726,7 +18710,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1,3/1,3/1,5x de dano e cadência, atingindo área de 7,5 nos primeiros dois acertos"
+            "value": "1,25/1,25/1,5x de dano e 1,3/1,3/1,5x de cadência, atingindo área de 7,5 nos primeiros dois acertos"
           }
         ],
         "rankitems": []
@@ -18740,7 +18724,7 @@
     "godCard_URL": "https://web2.hirez.com/smite/god-cards/heimdallr.jpg",
     "godIcon_URL": "https://web2.hirez.com/smite/god-icons/heimdallr.jpg",
     "id": 3812,
-    "latestGod": "y",
+    "latestGod": "n",
     "ret_msg": null
   },
   {
@@ -18847,7 +18831,7 @@
         "itemDescription": {
           "cooldown": "12s",
           "cost": "60/65/70/75/80",
-          "description": "REPULSÃO (Trevas) - Hela conjura uma explosão de energia negra à sua volta, causando dano a todos os inimigos.\n\nINSPIRAÇÃO (Luz) - Hela conjura uma explosão de energia da luz ao seu redor, curando a si mesma instantaneamente e aplicando uma cura por tempo aos aliados próximos que ativa a cada 1s. Hela recebe um bônus de movimento e aliados ganham um bônus reduzido (10%) pela duração.",
+          "description": "REPELIR (Trevas) - Hela conjura uma explosão de energia negra à sua volta, causando dano a todos os inimigos.\n\nINSPIRAR (Luz) - Hela conjura uma explosão de energia da luz ao seu redor, curando a si mesma instantaneamente e aplicando uma cura por tempo aos aliados próximos que ativa a cada 1s. Hela recebe um bônus de movimento e aliados ganham um bônus reduzido (10%) pela duração.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -18868,6 +18852,10 @@
           ],
           "rankitems": [
             {
+              "description": "Dano das trevas:",
+              "value": "80/130/180/230/280 (+70% do seu poder mágico)"
+            },
+            {
               "description": "Cura da luz em si mesma:",
               "value": "60/90/120/150/180 (+30% do seu poder mágico)"
             },
@@ -18882,10 +18870,6 @@
             {
               "description": "Duração da luz:",
               "value": "6s"
-            },
-            {
-              "description": "Dano das trevas:",
-              "value": "80/130/180/230/280 (+70% do seu poder mágico)"
             }
           ]
         }
@@ -19063,7 +19047,7 @@
       "itemDescription": {
         "cooldown": "12s",
         "cost": "60/65/70/75/80",
-        "description": "REPULSÃO (Trevas) - Hela conjura uma explosão de energia negra à sua volta, causando dano a todos os inimigos.\n\nINSPIRAÇÃO (Luz) - Hela conjura uma explosão de energia da luz ao seu redor, curando a si mesma instantaneamente e aplicando uma cura por tempo aos aliados próximos que ativa a cada 1s. Hela recebe um bônus de movimento e aliados ganham um bônus reduzido (10%) pela duração.",
+        "description": "REPELIR (Trevas) - Hela conjura uma explosão de energia negra à sua volta, causando dano a todos os inimigos.\n\nINSPIRAR (Luz) - Hela conjura uma explosão de energia da luz ao seu redor, curando a si mesma instantaneamente e aplicando uma cura por tempo aos aliados próximos que ativa a cada 1s. Hela recebe um bônus de movimento e aliados ganham um bônus reduzido (10%) pela duração.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -19084,6 +19068,10 @@
         ],
         "rankitems": [
           {
+            "description": "Dano das trevas:",
+            "value": "80/130/180/230/280 (+70% do seu poder mágico)"
+          },
+          {
             "description": "Cura da luz em si mesma:",
             "value": "60/90/120/150/180 (+30% do seu poder mágico)"
           },
@@ -19098,10 +19086,6 @@
           {
             "description": "Duração da luz:",
             "value": "6s"
-          },
-          {
-            "description": "Dano das trevas:",
-            "value": "80/130/180/230/280 (+70% do seu poder mágico)"
           }
         ]
       }
@@ -19977,7 +19961,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1/1/1.5x dano e tempo de ataque"
+            "value": "1/1/1.5x dano e cadência"
           }
         ],
         "rankitems": []
@@ -20218,7 +20202,7 @@
     "ManaPerFive": 4.7,
     "ManaPerLevel": 37,
     "Name": "Hórus",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Egípcio",
     "PhysicalPower": 37,
     "PhysicalPowerPerLevel": 2.1,
@@ -21277,15 +21261,15 @@
             },
             {
               "description": "Dano Interior:",
-              "value": "50/90/130/170/210 (+55% do seu poder mágico)"
+              "value": "50/90/130/170/210 (+45% do seu poder mágico)"
             },
             {
               "description": "Dano Exterior:",
-              "value": "20/40/60/80/100 (+20% do seu poder mágico)"
+              "value": "20/40/60/80/100 (+15% do seu poder mágico)"
             },
             {
               "description": "Duração do atordoamento:",
-              "value": "1/1.1/1.2/1.3/1.4s"
+              "value": "1s"
             }
           ]
         }
@@ -21333,7 +21317,7 @@
             },
             {
               "description": "Escudo:",
-              "value": "40/80/120/160/200 (+20% do seu poder mágico)"
+              "value": "40/70/100/130/160 (+20% do seu poder mágico)"
             }
           ]
         }
@@ -21528,15 +21512,15 @@
           },
           {
             "description": "Dano Interior:",
-            "value": "50/90/130/170/210 (+55% do seu poder mágico)"
+            "value": "50/90/130/170/210 (+45% do seu poder mágico)"
           },
           {
             "description": "Dano Exterior:",
-            "value": "20/40/60/80/100 (+20% do seu poder mágico)"
+            "value": "20/40/60/80/100 (+15% do seu poder mágico)"
           },
           {
             "description": "Duração do atordoamento:",
-            "value": "1/1.1/1.2/1.3/1.4s"
+            "value": "1s"
           }
         ]
       }
@@ -21579,7 +21563,7 @@
           },
           {
             "description": "Escudo:",
-            "value": "40/80/120/160/200 (+20% do seu poder mágico)"
+            "value": "40/70/100/130/160 (+20% do seu poder mágico)"
           }
         ]
       }
@@ -21756,7 +21740,7 @@
           "rankitems": [
             {
               "description": "Dano:",
-              "value": "35/55/75/95/115 (+40% do seu poder mágico)"
+              "value": "30/50/70/90/110 (+35% do seu poder mágico)"
             },
             {
               "description": "Rajadas Materializadas:",
@@ -22007,7 +21991,7 @@
         "rankitems": [
           {
             "description": "Dano:",
-            "value": "35/55/75/95/115 (+40% do seu poder mágico)"
+            "value": "30/50/70/90/110 (+35% do seu poder mágico)"
           },
           {
             "description": "Rajadas Materializadas:",
@@ -22229,7 +22213,7 @@
         "itemDescription": {
           "cooldown": "0/5s",
           "cost": "3/6/9/12/15 por disparo",
-          "description": "Quando Ixbalanqué usa essa habilidade, seus ataques básicos causam dano adicional. Quando a boleadeira atinge alguém, ela se separa em 2, atingem inimigos a até 30 unidades de distância atrás do alvo causando 30% de dano (efeitos de acerto não se aplicam). Acionar a habilidade novamente cancela a ativação.",
+          "description": "Quando Ixbalanqué usa essa habilidade, seus ataques básicos causam dano adicional. Quando a boleadeira atinge alguém, ela se separa em 2, atingem inimigos a até 30 unidades de distância atrás do alvo causando 40% de dano (efeitos de acerto não se aplicam). Acionar a habilidade novamente cancela a ativação.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -22343,7 +22327,7 @@
     "Ability_4": {
       "Description": {
         "itemDescription": {
-          "cooldown": "110s",
+          "cooldown": "90s",
           "cost": "100",
           "description": "Ixbalanqué envolve os inimigos em escuridão por 3s. Durante esse tempo, o alcance de ataque básico e movimento de Ixbalanqué aumenta.",
           "menuitems": [
@@ -22436,7 +22420,7 @@
       "itemDescription": {
         "cooldown": "0/5s",
         "cost": "3/6/9/12/15 por disparo",
-        "description": "Quando Ixbalanqué usa essa habilidade, seus ataques básicos causam dano adicional. Quando a boleadeira atinge alguém, ela se separa em 2, atingem inimigos a até 30 unidades de distância atrás do alvo causando 30% de dano (efeitos de acerto não se aplicam). Acionar a habilidade novamente cancela a ativação.",
+        "description": "Quando Ixbalanqué usa essa habilidade, seus ataques básicos causam dano adicional. Quando a boleadeira atinge alguém, ela se separa em 2, atingem inimigos a até 30 unidades de distância atrás do alvo causando 40% de dano (efeitos de acerto não se aplicam). Acionar a habilidade novamente cancela a ativação.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -22535,7 +22519,7 @@
     },
     "abilityDescription4": {
       "itemDescription": {
-        "cooldown": "110s",
+        "cooldown": "90s",
         "cost": "100",
         "description": "Ixbalanqué envolve os inimigos em escuridão por 3s. Durante esse tempo, o alcance de ataque básico e movimento de Ixbalanqué aumenta.",
         "menuitems": [
@@ -22662,9 +22646,9 @@
     "Ability_2": {
       "Description": {
         "itemDescription": {
-          "cooldown": "16/15/14/13/12s",
+          "cooldown": "14/13.5/13/12.5/12s",
           "cost": "70",
-          "description": "Izanami projeta sua face demoníaca, causando dano e desacelerando todos os inimigos no caminho.\n\nSe uma divindade inimiga for morta enquanto estiver desacelerada por essa habilidade, futuros usos da lentidão aumenta em 6% a cada eliminação, até um máximo de 30%.",
+          "description": "Izanami projeta em linha sua face demoníaca, causando dano e desacelerando todos os inimigos no caminho. \n\n Se uma divindade inimiga for morta enquanto estiver desacelerada por essa habilidade, futuros usos da lentidão aumenta em 6% a cada eliminação, até um máximo de 30%.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -22824,7 +22808,7 @@
     "ManaPerFive": 4.4,
     "ManaPerLevel": 35,
     "Name": "Izanami",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Japonês",
     "PhysicalPower": 36,
     "PhysicalPowerPerLevel": 2.4,
@@ -22864,9 +22848,9 @@
     },
     "abilityDescription2": {
       "itemDescription": {
-        "cooldown": "16/15/14/13/12s",
+        "cooldown": "14/13.5/13/12.5/12s",
         "cost": "70",
-        "description": "Izanami projeta sua face demoníaca, causando dano e desacelerando todos os inimigos no caminho.\n\nSe uma divindade inimiga for morta enquanto estiver desacelerada por essa habilidade, futuros usos da lentidão aumenta em 6% a cada eliminação, até um máximo de 30%.",
+        "description": "Izanami projeta em linha sua face demoníaca, causando dano e desacelerando todos os inimigos no caminho. \n\n Se uma divindade inimiga for morta enquanto estiver desacelerada por essa habilidade, futuros usos da lentidão aumenta em 6% a cada eliminação, até um máximo de 30%.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -22998,11 +22982,11 @@
         "menuitems": [
           {
             "description": "Dano:",
-            "value": "27 + 1.8/Lvl (+75% do seu poder físico) ida; 9 + .6/Lvl (+25% do seu poder físico) volta"
+            "value": "27 + 1,8/Lvl (+75% do seu poder físico) ida; 12,6 + 0,6/Lvl (+25% do seu poder físico) volta"
           },
           {
             "description": "Progressão:",
-            "value": "Nenhuma. Kamas voltam a Izanami após chegar na distância máx."
+            "value": "Nenhuma. Kamas volta a Izanami após chegar na distância máx."
           }
         ],
         "rankitems": []
@@ -23526,7 +23510,7 @@
         "itemDescription": {
           "cooldown": "18/18/17/17/16s",
           "cost": "75/70/65/60/55",
-          "description": "Jing Wei avança para frente. Ela pode usar essa habilidade enquanto estiver no ar para aumentar a distância do avanço. Ela também ganha um aumento de poder físico e movimento por 4 segundos ao utilizar Agilidade. O efeito deste bônus é aumentado se Agilidade for utilizada no ar.",
+          "description": "Jing Wei avança para frente. Ela pode usar essa habilidade enquanto estiver no ar para aumentar a distância do avanço. Ela também ganha um aumento de poder físico e de movimento por 4 segundos ao utilizar Agilidade. O efeito deste bônus é aumentado se Agilidade for utilizada no ar.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -23538,11 +23522,11 @@
             },
             {
               "description": "Alcance:",
-              "value": "!{rankprog:35}!"
+              "value": "35"
             },
             {
-              "description": "Alcance do avanço aéreo::",
-              "value": "!{rankprog:55}!"
+              "description": "Alcance do avanço aéreo:",
+              "value": "55"
             }
           ],
           "rankitems": [
@@ -23552,7 +23536,7 @@
             },
             {
               "description": "Velocidade de movimento:",
-              "value": "20%"
+              "value": "15%"
             },
             {
               "description": "Poder aéreo:",
@@ -23560,7 +23544,7 @@
             },
             {
               "description": "Velocidade de movimento aéreo:",
-              "value": "30%"
+              "value": "25%"
             }
           ]
         }
@@ -23730,7 +23714,7 @@
       "itemDescription": {
         "cooldown": "18/18/17/17/16s",
         "cost": "75/70/65/60/55",
-        "description": "Jing Wei avança para frente. Ela pode usar essa habilidade enquanto estiver no ar para aumentar a distância do avanço. Ela também ganha um aumento de poder físico e movimento por 4 segundos ao utilizar Agilidade. O efeito deste bônus é aumentado se Agilidade for utilizada no ar.",
+        "description": "Jing Wei avança para frente. Ela pode usar essa habilidade enquanto estiver no ar para aumentar a distância do avanço. Ela também ganha um aumento de poder físico e de movimento por 4 segundos ao utilizar Agilidade. O efeito deste bônus é aumentado se Agilidade for utilizada no ar.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -23742,11 +23726,11 @@
           },
           {
             "description": "Alcance:",
-            "value": "!{rankprog:35}!"
+            "value": "35"
           },
           {
-            "description": "Alcance do avanço aéreo::",
-            "value": "!{rankprog:55}!"
+            "description": "Alcance do avanço aéreo:",
+            "value": "55"
           }
         ],
         "rankitems": [
@@ -23756,7 +23740,7 @@
           },
           {
             "description": "Velocidade de movimento:",
-            "value": "20%"
+            "value": "15%"
           },
           {
             "description": "Poder aéreo:",
@@ -23764,7 +23748,7 @@
           },
           {
             "description": "Velocidade de movimento aéreo:",
-            "value": "30%"
+            "value": "25%"
           }
         ]
       }
@@ -24748,7 +24732,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1/0,5/0,5x dano e tempo de ataque"
+            "value": "1/0,5/0,5x dano e cadência"
           }
         ],
         "rankitems": []
@@ -25183,7 +25167,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1x/0,5x/1,5x dano e giro"
+            "value": "1x/0,5x/1,5x dano e cadência"
           }
         ],
         "rankitems": []
@@ -25238,7 +25222,7 @@
             },
             {
               "description": "Lentidão:",
-              "value": "30/35/40/45/50%"
+              "value": "20/25/30/35/40%"
             },
             {
               "description": "Duração da Lentidão:",
@@ -25310,7 +25294,7 @@
           "rankitems": [
             {
               "description": "Dano por tique:",
-              "value": "9/18/27/36/45 (+15% do seu poder mágico)"
+              "value": "8/16/24/32/40 (+15% do seu poder mágico)"
             },
             {
               "description": "Duração do Tornado:",
@@ -25432,7 +25416,7 @@
           },
           {
             "description": "Lentidão:",
-            "value": "30/35/40/45/50%"
+            "value": "20/25/30/35/40%"
           },
           {
             "description": "Duração da Lentidão:",
@@ -25494,7 +25478,7 @@
         "rankitems": [
           {
             "description": "Dano por tique:",
-            "value": "9/18/27/36/45 (+15% do seu poder mágico)"
+            "value": "8/16/24/32/40 (+15% do seu poder mágico)"
           },
           {
             "description": "Duração do Tornado:",
@@ -25743,7 +25727,7 @@
             },
             {
               "description": "Dano da Aterrissagem:",
-              "value": "250/350/450/550/650 (+40% do seu poder mágico)"
+              "value": "200/290/380/470/560 (+40% do seu poder mágico)"
             },
             {
               "description": "Tempo de Voo:",
@@ -25942,7 +25926,7 @@
           },
           {
             "description": "Dano da Aterrissagem:",
-            "value": "250/350/450/550/650 (+40% do seu poder mágico)"
+            "value": "200/290/380/470/560 (+40% do seu poder mágico)"
           },
           {
             "description": "Tempo de Voo:",
@@ -26436,7 +26420,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1/1/1 dano e giro"
+            "value": "1/1/1 dano e cadência"
           }
         ],
         "rankitems": []
@@ -26863,7 +26847,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "0,75/0,5/0,5/0,5/1,5x dano e 1/0,5/0,5/0,5/1,5x de tempo de ataque"
+            "value": "0,75/0,5/0,5/0,5/1,5x dano e 1/0,5/0,5/0,5/1,5x de cadência"
           }
         ],
         "rankitems": []
@@ -27673,7 +27657,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1/0,75/1,25x dano e tempo de giro"
+            "value": "1/0,75/1,25x dano e cadência"
           }
         ],
         "rankitems": []
@@ -28132,6 +28116,513 @@
     "ret_msg": null
   },
   {
+    "Ability1": "Ataque Cruzado",
+    "Ability2": "Golpe de Lança",
+    "Ability3": "Contenda",
+    "Ability4": "Maestria Divina",
+    "Ability5": "Arco de Treino",
+    "AbilityId1": 17913,
+    "AbilityId2": 17914,
+    "AbilityId3": 17915,
+    "AbilityId4": 17916,
+    "AbilityId5": 17912,
+    "Ability_1": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "16/15/14/13/12s",
+          "cost": "60/65/70/75/80",
+          "description": "Mulan brande sua espada com precisão, acertando dois golpes e causando dano a todos os inimigos atingidos.\n\nHabilidosa - Mulan ganha um aumento de cadência após usar essa habilidade.\nPerita - Mulan ataca uma terceira vez em um grande cone à sua frente.\nMestra - Mulan ganha 5% de cadência.",
+          "menuitems": [
+            {
+              "description": "Habilidade:",
+              "value": "Área"
+            },
+            {
+              "description": "Afeta:",
+              "value": "Inimigos"
+            },
+            {
+              "description": "Dano:",
+              "value": "Físico"
+            },
+            {
+              "description": "Raio:",
+              "value": "25"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Dano por acerto:",
+              "value": "75/95/115/135/155 (+30% do seu poder físico)"
+            },
+            {
+              "description": "Cadência:",
+              "value": "25%"
+            },
+            {
+              "description": "Duração:",
+              "value": "4s"
+            }
+          ]
+        }
+      },
+      "Id": 17913,
+      "Summary": "Ataque Cruzado",
+      "URL": "https://web2.hirez.com/smite/god-abilities/cross-strike.jpg"
+    },
+    "Ability_2": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "14s",
+          "cost": "50/55/60/65/70",
+          "description": "Mulan puxa sua lança, golpeando à sua frente, causando dano e lentidão em todos os inimigos atingidos.\n\nHabilidosa - Mulan se cura por até 3 inimigos atingidos.\nPerita - Mulan ataca uma segunda vez à sua frente, chegando mais longe, causando dano bônus se atingir o mesmo inimigo.\nMestra - Mulan ganha 5% de poder.",
+          "menuitems": [
+            {
+              "description": "Habilidade:",
+              "value": "Linha"
+            },
+            {
+              "description": "Afeta:",
+              "value": "Inimigos"
+            },
+            {
+              "description": "Dano:",
+              "value": "Físico"
+            },
+            {
+              "description": "Alcance:",
+              "value": "25"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Dano por acerto:",
+              "value": "120/155/190/225/260 (+35% do seu poder físico)"
+            },
+            {
+              "description": "Lentidão:",
+              "value": "20%"
+            },
+            {
+              "description": "Duração:",
+              "value": "2s"
+            },
+            {
+              "description": "Cura:",
+              "value": "15/30/45/60/75 (+10% do seu poder físico)"
+            },
+            {
+              "description": "Dano bônus:",
+              "value": "20/35/50/65/80 (+15% do seu poder físico)"
+            }
+          ]
+        }
+      },
+      "Id": 17914,
+      "Summary": "Golpe de Lança",
+      "URL": "https://web2.hirez.com/smite/god-abilities/spear-thrust.jpg"
+    },
+    "Ability_3": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "16s",
+          "cost": "60",
+          "description": "Mulan prepara e dispara uma flecha com uma corda amarrada. Se atingir um deus inimigo, ela o atordoa, causa dano e o puxa em sua direção, enquanto corre e atinge-o novamente, causando um dano extra.\n\nHabilidosa - Mulan ganha um bônus de proteção após atingir um deus inimigo.\nPerita - Mulan consegue usar sua corrida em paredes.\nMestra - Mulan ganha 5% de velocidade de movimento.",
+          "menuitems": [
+            {
+              "description": "Habilidade:",
+              "value": "Projétil, Corrida"
+            },
+            {
+              "description": "Afeta:",
+              "value": "Deuses inimigos"
+            },
+            {
+              "description": "Dano:",
+              "value": "Físico"
+            },
+            {
+              "description": "Alcance:",
+              "value": "60"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Dano da flecha:",
+              "value": "90/135/180/225/270 (+50% do seu poder físico)"
+            },
+            {
+              "description": "Duração do atordoamento:",
+              "value": "0.8s"
+            },
+            {
+              "description": "Dano bônus:",
+              "value": "40/50/60/70/80 (+20% do seu poder físico)"
+            },
+            {
+              "description": "Aumento na proteção:",
+              "value": "15/20/25/30/35%"
+            },
+            {
+              "description": "Duração:",
+              "value": "4s"
+            }
+          ]
+        }
+      },
+      "Id": 17915,
+      "Summary": "Contenda",
+      "URL": "https://web2.hirez.com/smite/god-abilities/grapple.jpg"
+    },
+    "Ability_4": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "100s",
+          "cost": "100",
+          "description": "Mulan prepara seu arsenal inteiro avançando à frente dando golpes de espada, causando dano e enraizando inimigos por 1s.\n\nSe ela atingir um deus inimigo durante esse avanço, Mulan usa sua nova energia divina para arremessar inimigos para cima com sua lança, e depois disparando um grande projétil com seu arco.\n\nCausar dano com qualquer um dos golpes dessa habilidade concede experiência para a arma usada.",
+          "menuitems": [
+            {
+              "description": "Habilidade:",
+              "value": "Corrida, linha, projétil"
+            },
+            {
+              "description": "Afeta:",
+              "value": "Inimigos"
+            },
+            {
+              "description": "Dano:",
+              "value": "Físico"
+            },
+            {
+              "description": "Alcance:",
+              "value": "65/65/85"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Dano da espada:",
+              "value": "80/140/200/260/320 (+60% do seu poder físico)"
+            },
+            {
+              "description": "Dano da lança:",
+              "value": "100/140/180/220/260 (+40% do seu poder físico)"
+            },
+            {
+              "description": "Dano da flecha:",
+              "value": "150/200/250/300/350 (+50% do seu poder físico)"
+            }
+          ]
+        }
+      },
+      "Id": 17916,
+      "Summary": "Maestria Divina",
+      "URL": "https://web2.hirez.com/smite/god-abilities/divine-mastery.jpg"
+    },
+    "Ability_5": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "",
+          "cost": "",
+          "description": "Mulan usa uma espada, uma lança e um arco e vai ficando mais habilidosa no manejo das armas conforme acerta deuses inimigos. Aumentar a habilidade no manejo de cada arma concede bônus diferentes. Mulan também ganha um bônus a cada 10 segundos, que reduz o intervalo da próxima habilidade (não suprema) usada nos próximos 2 segundos.",
+          "menuitems": [
+            {
+              "description": "Habilidade:",
+              "value": "Bônus"
+            },
+            {
+              "description": "Afeta:",
+              "value": "Si mesma"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Habilidade com a espada:",
+              "value": "600/2400/6000 dano causado"
+            },
+            {
+              "description": "Habilidade com a lança:",
+              "value": "600/2400/6000 dano causado"
+            },
+            {
+              "description": "Habilidade com o arco:",
+              "value": "300/700/1500 dano causado"
+            },
+            {
+              "description": "Habilidade ganha de lacaios:",
+              "value": "20%"
+            }
+          ]
+        }
+      },
+      "Id": 17912,
+      "Summary": "Arco de Treino",
+      "URL": "https://web2.hirez.com/smite/god-abilities/training-arc.jpg"
+    },
+    "AttackSpeed": 1,
+    "AttackSpeedPerLevel": 0.01,
+    "Cons": "",
+    "HP5PerLevel": 0.7,
+    "Health": 480,
+    "HealthPerFive": 9,
+    "HealthPerLevel": 82,
+    "Lore": "Há muitas histórias sobre a garota que se tornou uma heroína. A maioria delas é exagerada, glorificada de forma a ter uma aura lendária. Dizem que Hua Mulan era abençoada, que seu arco e sua espada eram presentes dos deuses. Que ela possuía uma sabedoria fora de escala, e era mais forte do que cem guerreiros, além de ter o coração puro. Que ela se tornou a irmã de sangue da filha do rei. Que ela voltou para casa e se casou com um príncipe, ou talvez com um fazendeiro. Que ela morreu.\\n\\nTodas essas histórias, não importando o quão fantasiosas sejam, têm ao menos um grão de verdade. E essa é a verdade sobre Hua Mulan. A China foi invadida e um homem de cada uma das famílias foi convocado para servir no exército. Mas o pai dela era velho, e seu irmão, uma criança, então por amor a eles, ela largou o seu tear e foi à guerra. Ela se disfarçou como um jovem soldado, e ninguém notou que ela era uma mulher, pois seu pai a tinha treinado no uso do arco e da espada, de modo que ela era tão boa quanto qualquer outro no exército.\\n\\nPor doze anos ela manteve a farsa, lutando bravamente contra os inimigos da China, ganhando patentes e a lealdade dos seus companheiros. Mais de uma vez ela liderou homens na batalha, colocando-se onde a luta era mais feroz, na esperança de inspirar seus comandados a lutar com o coração. Ao fim de doze anos, a ela foi oferecida a patente mais alta, mas ela recusou. Ela tinha se cansado da guerra, e pediu apenas para voltar à sua casa e sua família.  E assim aconteceu, sua obrigação estava concluída.\\n\\nMas algumas histórias não terminam quando o herói volta para casa. Em algumas histórias, esse é apenas o começo. Agora, um novo perigo espreita, e Hua Mulan uma vez mais deve acorrer às suas armas para defender sua terra natal...",
+    "MP5PerLevel": 0.4,
+    "MagicProtection": 30,
+    "MagicProtectionPerLevel": 0.9,
+    "MagicalPower": 0,
+    "MagicalPowerPerLevel": 0,
+    "Mana": 220,
+    "ManaPerFive": 4.7,
+    "ManaPerLevel": 38,
+    "Name": "Mulan",
+    "OnFreeRotation": "",
+    "Pantheon": "Chinês",
+    "PhysicalPower": 39,
+    "PhysicalPowerPerLevel": 2.2,
+    "PhysicalProtection": 18,
+    "PhysicalProtectionPerLevel": 3,
+    "Pros": " Alto Dano em Área",
+    "Roles": " Guerreiro",
+    "Speed": 375,
+    "Title": "A Guerreira Ascendente",
+    "Type": " Corporal, Físico",
+    "abilityDescription1": {
+      "itemDescription": {
+        "cooldown": "16/15/14/13/12s",
+        "cost": "60/65/70/75/80",
+        "description": "Mulan brande sua espada com precisão, acertando dois golpes e causando dano a todos os inimigos atingidos.\n\nHabilidosa - Mulan ganha um aumento de cadência após usar essa habilidade.\nPerita - Mulan ataca uma terceira vez em um grande cone à sua frente.\nMestra - Mulan ganha 5% de cadência.",
+        "menuitems": [
+          {
+            "description": "Habilidade:",
+            "value": "Área"
+          },
+          {
+            "description": "Afeta:",
+            "value": "Inimigos"
+          },
+          {
+            "description": "Dano:",
+            "value": "Físico"
+          },
+          {
+            "description": "Raio:",
+            "value": "25"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Dano por acerto:",
+            "value": "75/95/115/135/155 (+30% do seu poder físico)"
+          },
+          {
+            "description": "Cadência:",
+            "value": "25%"
+          },
+          {
+            "description": "Duração:",
+            "value": "4s"
+          }
+        ]
+      }
+    },
+    "abilityDescription2": {
+      "itemDescription": {
+        "cooldown": "14s",
+        "cost": "50/55/60/65/70",
+        "description": "Mulan puxa sua lança, golpeando à sua frente, causando dano e lentidão em todos os inimigos atingidos.\n\nHabilidosa - Mulan se cura por até 3 inimigos atingidos.\nPerita - Mulan ataca uma segunda vez à sua frente, chegando mais longe, causando dano bônus se atingir o mesmo inimigo.\nMestra - Mulan ganha 5% de poder.",
+        "menuitems": [
+          {
+            "description": "Habilidade:",
+            "value": "Linha"
+          },
+          {
+            "description": "Afeta:",
+            "value": "Inimigos"
+          },
+          {
+            "description": "Dano:",
+            "value": "Físico"
+          },
+          {
+            "description": "Alcance:",
+            "value": "25"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Dano por acerto:",
+            "value": "120/155/190/225/260 (+35% do seu poder físico)"
+          },
+          {
+            "description": "Lentidão:",
+            "value": "20%"
+          },
+          {
+            "description": "Duração:",
+            "value": "2s"
+          },
+          {
+            "description": "Cura:",
+            "value": "15/30/45/60/75 (+10% do seu poder físico)"
+          },
+          {
+            "description": "Dano bônus:",
+            "value": "20/35/50/65/80 (+15% do seu poder físico)"
+          }
+        ]
+      }
+    },
+    "abilityDescription3": {
+      "itemDescription": {
+        "cooldown": "16s",
+        "cost": "60",
+        "description": "Mulan prepara e dispara uma flecha com uma corda amarrada. Se atingir um deus inimigo, ela o atordoa, causa dano e o puxa em sua direção, enquanto corre e atinge-o novamente, causando um dano extra.\n\nHabilidosa - Mulan ganha um bônus de proteção após atingir um deus inimigo.\nPerita - Mulan consegue usar sua corrida em paredes.\nMestra - Mulan ganha 5% de velocidade de movimento.",
+        "menuitems": [
+          {
+            "description": "Habilidade:",
+            "value": "Projétil, Corrida"
+          },
+          {
+            "description": "Afeta:",
+            "value": "Deuses inimigos"
+          },
+          {
+            "description": "Dano:",
+            "value": "Físico"
+          },
+          {
+            "description": "Alcance:",
+            "value": "60"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Dano da flecha:",
+            "value": "90/135/180/225/270 (+50% do seu poder físico)"
+          },
+          {
+            "description": "Duração do atordoamento:",
+            "value": "0.8s"
+          },
+          {
+            "description": "Dano bônus:",
+            "value": "40/50/60/70/80 (+20% do seu poder físico)"
+          },
+          {
+            "description": "Aumento na proteção:",
+            "value": "15/20/25/30/35%"
+          },
+          {
+            "description": "Duração:",
+            "value": "4s"
+          }
+        ]
+      }
+    },
+    "abilityDescription4": {
+      "itemDescription": {
+        "cooldown": "100s",
+        "cost": "100",
+        "description": "Mulan prepara seu arsenal inteiro avançando à frente dando golpes de espada, causando dano e enraizando inimigos por 1s.\n\nSe ela atingir um deus inimigo durante esse avanço, Mulan usa sua nova energia divina para arremessar inimigos para cima com sua lança, e depois disparando um grande projétil com seu arco.\n\nCausar dano com qualquer um dos golpes dessa habilidade concede experiência para a arma usada.",
+        "menuitems": [
+          {
+            "description": "Habilidade:",
+            "value": "Corrida, linha, projétil"
+          },
+          {
+            "description": "Afeta:",
+            "value": "Inimigos"
+          },
+          {
+            "description": "Dano:",
+            "value": "Físico"
+          },
+          {
+            "description": "Alcance:",
+            "value": "65/65/85"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Dano da espada:",
+            "value": "80/140/200/260/320 (+60% do seu poder físico)"
+          },
+          {
+            "description": "Dano da lança:",
+            "value": "100/140/180/220/260 (+40% do seu poder físico)"
+          },
+          {
+            "description": "Dano da flecha:",
+            "value": "150/200/250/300/350 (+50% do seu poder físico)"
+          }
+        ]
+      }
+    },
+    "abilityDescription5": {
+      "itemDescription": {
+        "cooldown": "",
+        "cost": "",
+        "description": "Mulan usa uma espada, uma lança e um arco e vai ficando mais habilidosa no manejo das armas conforme acerta deuses inimigos. Aumentar a habilidade no manejo de cada arma concede bônus diferentes. Mulan também ganha um bônus a cada 10 segundos, que reduz o intervalo da próxima habilidade (não suprema) usada nos próximos 2 segundos.",
+        "menuitems": [
+          {
+            "description": "Habilidade:",
+            "value": "Bônus"
+          },
+          {
+            "description": "Afeta:",
+            "value": "Si mesma"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Habilidade com a espada:",
+            "value": "600/2400/6000 dano causado"
+          },
+          {
+            "description": "Habilidade com a lança:",
+            "value": "600/2400/6000 dano causado"
+          },
+          {
+            "description": "Habilidade com o arco:",
+            "value": "300/700/1500 dano causado"
+          },
+          {
+            "description": "Habilidade ganha de lacaios:",
+            "value": "20%"
+          }
+        ]
+      }
+    },
+    "basicAttack": {
+      "itemDescription": {
+        "cooldown": "",
+        "cost": "",
+        "description": "",
+        "menuitems": [
+          {
+            "description": "Dano:",
+            "value": "37 + 2/Nível (+100% de poder físico)"
+          },
+          {
+            "description": "Progressão:",
+            "value": "1/1/1,25x de dano e cadência, atingindo uma área no final"
+          }
+        ],
+        "rankitems": []
+      }
+    },
+    "godAbility1_URL": "https://web2.hirez.com/smite/god-abilities/cross-strike.jpg",
+    "godAbility2_URL": "https://web2.hirez.com/smite/god-abilities/spear-thrust.jpg",
+    "godAbility3_URL": "https://web2.hirez.com/smite/god-abilities/grapple.jpg",
+    "godAbility4_URL": "https://web2.hirez.com/smite/god-abilities/divine-mastery.jpg",
+    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/training-arc.jpg",
+    "godCard_URL": "https://web2.hirez.com/smite/god-cards/mulan.jpg",
+    "godIcon_URL": "https://web2.hirez.com/smite/god-icons/mulan.jpg",
+    "id": 3881,
+    "latestGod": "y",
+    "ret_msg": null
+  },
+  {
     "Ability1": "Colmeia",
     "Ability2": "Enxame",
     "Ability3": "Mel",
@@ -28173,7 +28664,7 @@
             },
             {
               "description": "Cadência:",
-              "value": "10/17.5/25/32.5/40%"
+              "value": "10/20/30/40/50%"
             }
           ]
         }
@@ -28223,7 +28714,7 @@
         "itemDescription": {
           "cooldown": "10s",
           "cost": "60",
-          "description": "Mulzencab espirra mel em uma área, retardando todos os inimigos na área. Abelhas de Colmeias em um alcance de 90 unidades e Enxame voarão por cima para proteger o mel, causando dano a cada 0,5 segundos e aplicando Abelhas! a todos os inimigos ao deixarem o mel.",
+          "description": "Mulzencab espirra mel, que persiste por 4s, retardando todos os inimigos na área. Abelhas de Colmeias em um alcance de 90 unidades e Enxame voarão por cima para proteger o mel, causando dano a cada 0,5 segundos e aplicando Abelhas! a todos os inimigos ao deixarem o mel.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -28384,7 +28875,7 @@
           },
           {
             "description": "Cadência:",
-            "value": "10/17.5/25/32.5/40%"
+            "value": "10/20/30/40/50%"
           }
         ]
       }
@@ -28424,7 +28915,7 @@
       "itemDescription": {
         "cooldown": "10s",
         "cost": "60",
-        "description": "Mulzencab espirra mel em uma área, retardando todos os inimigos na área. Abelhas de Colmeias em um alcance de 90 unidades e Enxame voarão por cima para proteger o mel, causando dano a cada 0,5 segundos e aplicando Abelhas! a todos os inimigos ao deixarem o mel.",
+        "description": "Mulzencab espirra mel, que persiste por 4s, retardando todos os inimigos na área. Abelhas de Colmeias em um alcance de 90 unidades e Enxame voarão por cima para proteger o mel, causando dano a cada 0,5 segundos e aplicando Abelhas! a todos os inimigos ao deixarem o mel.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -28993,7 +29484,7 @@
           "rankitems": [
             {
               "description": "Dano:",
-              "value": "50/80/110/140/170 (+25% do seu poder físico)"
+              "value": "50/80/110/140/170 (+35% do seu poder físico)"
             }
           ]
         }
@@ -29212,7 +29703,7 @@
         "rankitems": [
           {
             "description": "Dano:",
-            "value": "50/80/110/140/170 (+25% do seu poder físico)"
+            "value": "50/80/110/140/170 (+35% do seu poder físico)"
           }
         ]
       }
@@ -29369,7 +29860,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1/1/0,75/1,25x dano e tempo de ataque"
+            "value": "1/1/0,75/1,25x dano e cadência"
           }
         ],
         "rankitems": []
@@ -29428,7 +29919,7 @@
             },
             {
               "description": "Desvantagens de proteção:",
-              "value": "10/11/12/13/14 por acerto"
+              "value": "5/7/9/11/13 por acerto"
             },
             {
               "description": "Lentidão:",
@@ -29548,7 +30039,7 @@
           "rankitems": [
             {
               "description": "Dano por Acerto:",
-              "value": "30/50/70/90/110 (+30% do seu poder físico)"
+              "value": "20/35/50/65/80 (35% do seu poder físico)"
             },
             {
               "description": "Dano (Inicial/Aterrissagem):",
@@ -29651,7 +30142,7 @@
           },
           {
             "description": "Desvantagens de proteção:",
-            "value": "10/11/12/13/14 por acerto"
+            "value": "5/7/9/11/13 por acerto"
           },
           {
             "description": "Lentidão:",
@@ -29756,7 +30247,7 @@
         "rankitems": [
           {
             "description": "Dano por Acerto:",
-            "value": "30/50/70/90/110 (+30% do seu poder físico)"
+            "value": "20/35/50/65/80 (35% do seu poder físico)"
           },
           {
             "description": "Dano (Inicial/Aterrissagem):",
@@ -29855,7 +30346,7 @@
           "rankitems": [
             {
               "description": "Dano:",
-              "value": "50/80/110/140/170 (+40% do seu poder físico)"
+              "value": "60/90/120/150/180 (+40% do seu poder físico)"
             },
             {
               "description": "Proteções Reduzidas:",
@@ -29899,7 +30390,7 @@
           "rankitems": [
             {
               "description": "Dano:",
-              "value": "65/120/175/230/285 (+50% do seu poder físico)"
+              "value": "85/140/195/250/305 (+50% do seu poder físico)"
             },
             {
               "description": "Dano da repulsão:",
@@ -29919,7 +30410,7 @@
     "Ability_3": {
       "Description": {
         "itemDescription": {
-          "cooldown": "18s",
+          "cooldown": "16s",
           "cost": "55/60/65/70/75",
           "description": "Nike salta no ar em grande velocidade, causando dano onde cair e jogando os inimigos para cima.",
           "menuitems": [
@@ -30045,7 +30536,7 @@
     "Cons": "",
     "HP5PerLevel": 0.8,
     "Health": 480,
-    "HealthPerFive": 7,
+    "HealthPerFive": 10,
     "HealthPerLevel": 83,
     "Lore": "Dizem que a história é escrita pelos vitoriosos. Se isso for verdade, então a história é moldada por uma única deusa, Nike, a guerreira alada. \\n\\nQuando o velocista mais rápido recebe a medalha de ouro, quando o caçador derrota a fera mais poderosa, quando os soldados ganham a batalha, os fiéis louvam a Nike. Sem sua ajuda, a derrota é certa, e o esquecimento garantido. \\n\\nAté mesmo Zeus, um rei entre os deuses, busca pela ajuda de Nike. Nos campos passados da antiguidade, quando o deus do trovão lutou contra os titãs, Nike lutou ao seu lado, com sua lâmina destemida inspirando confiança em seus aliados enquanto enfrentavam inimigos impossíveis. Sem ela, todos ainda se perguntam se Zeus teria ganho aquela batalha. Se Zeus tivesse falhado, o mundo como conhecemos hoje também haveria perecido. \\n\\n Vida longa aos vitoriosos! Finalmente ela entra no campo de batalha. Enquanto deuses e górgonas se digladiam e as batalhas mais sórdidas são travadas, ela sozinha molda o resultado. Pois a história é escrita pelos vitoriosos, e Nike é a vitória encarnada.",
     "MP5PerLevel": 0.39,
@@ -30090,7 +30581,7 @@
         "rankitems": [
           {
             "description": "Dano:",
-            "value": "50/80/110/140/170 (+40% do seu poder físico)"
+            "value": "60/90/120/150/180 (+40% do seu poder físico)"
           },
           {
             "description": "Proteções Reduzidas:",
@@ -30129,7 +30620,7 @@
         "rankitems": [
           {
             "description": "Dano:",
-            "value": "65/120/175/230/285 (+50% do seu poder físico)"
+            "value": "85/140/195/250/305 (+50% do seu poder físico)"
           },
           {
             "description": "Dano da repulsão:",
@@ -30144,7 +30635,7 @@
     },
     "abilityDescription3": {
       "itemDescription": {
-        "cooldown": "18s",
+        "cooldown": "16s",
         "cost": "55/60/65/70/75",
         "description": "Nike salta no ar em grande velocidade, causando dano onde cair e jogando os inimigos para cima.",
         "menuitems": [
@@ -30263,7 +30754,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1/1/1.5x dano e tempo de giro"
+            "value": "1/1/1.5x dano e cadência"
           }
         ],
         "rankitems": []
@@ -31148,8 +31639,8 @@
     "Ability5": "Caminho para Valhalla",
     "AbilityId1": 7598,
     "AbilityId2": 10488,
-    "AbilityId3": 7284,
-    "AbilityId4": 10479,
+    "AbilityId3": 18301,
+    "AbilityId4": 18099,
     "AbilityId5": 10489,
     "Ability_1": {
       "Description": {
@@ -31234,13 +31725,13 @@
     "Ability_3": {
       "Description": {
         "itemDescription": {
-          "cooldown": "10s",
-          "cost": "70",
-          "description": "Odin desfere um ataque rodante com sua lança que atinge o inimigo duas vezes causando dano e deixando lentos os inimigos atingidos nos dois golpes.",
+          "cooldown": "12s",
+          "cost": "70/75/80/85/90",
+          "description": "Odin começa a infundir Gungnir com magia rúnica, ficando imune a repulsão. A cada 0,7s Gungnir muda as runas e Odin cria um pulso de dano ao seu redor, causando lentidão nos inimigos por 2s. Quando Odin libera Gungnir ele voa para frente, causando dano aos inimigos e parando no primeiro deus atingido. A primeira runa faz com que os aliados ao redor de Odin ganhem cadência por 3s. A segunda runa permite que Gungnir ataque os deuses inimigos. A última runa faz com Gungnir atordoe.",
           "menuitems": [
             {
               "description": "Habilidade:",
-              "value": "Raio"
+              "value": "Linha"
             },
             {
               "description": "Afeta:",
@@ -31251,27 +31742,35 @@
               "value": "Físico"
             },
             {
-              "description": "Raio:",
+              "description": "Alcance:",
               "value": "20"
             }
           ],
           "rankitems": [
             {
-              "description": "Dano por Acerto:",
-              "value": "45/65/85/105/125 (+30% do seu poder físico)"
+              "description": "Dano do pulso:",
+              "value": "20/40/60/80/100 (+20% do seu poder físico)"
             },
             {
-              "description": "Lentidão:",
-              "value": "40%"
+              "description": "Lentidão do pulso:",
+              "value": "20%"
             },
             {
-              "description": "Duração da Lentidão:",
-              "value": "2/2.2/2.4/2.6/2.8s"
+              "description": "Dano de Gungnir:",
+              "value": "60/110/160/210/260 (+60% do seu poder físico)"
+            },
+            {
+              "description": "Cadência:",
+              "value": "30%"
+            },
+            {
+              "description": "Duração do atordoamento:",
+              "value": "1.2s"
             }
           ]
         }
       },
-      "Id": 7284,
+      "Id": 18301,
       "Summary": "Força de Gungnir",
       "URL": "https://web2.hirez.com/smite/god-abilities/gungnirs-might.jpg"
     },
@@ -31279,8 +31778,8 @@
       "Description": {
         "itemDescription": {
           "cooldown": "75",
-          "cost": "100",
-          "description": "Odin conjura um círculo de lanças que bloqueia a movimentação apenas dos inimigos. Inimigos dentro do círculo podem atacar, porém não recebem curas. Odin fica imune a lentidão e enraizamento enquanto estiver no círculo.\n \nInimigos que forem derrotados dentro do Ringue de Lanças concederão um bônus permanente de poder físico para Odin.",
+          "cost": "100.",
+          "description": "Odin conjura um círculo de lanças que bloqueia a movimentação apenas dos inimigos. Inimigos dentro do círculo não são curados. Odin fica imune a lentidão e enraizamento enquanto estiver no círculo. Uma parte da parede pode ser destruída ao ser atingida por 5 ataques básicos. Inimigos que escaparem do Ringue destruindo a parede ou por cima dela são perseguidos por Gungnir, tomando dano e sofrendo lentidão por 2,5s. Inimigos que forem mortos dentro do Ringue de Lanças concederão um bônus permanente de poder físico para Odin.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -31297,6 +31796,10 @@
           ],
           "rankitems": [
             {
+              "description": "Dano:",
+              "value": "120/190/260/330/400 (+75% do seu poder físico)"
+            },
+            {
               "description": "Duração:",
               "value": "4/4.5/5/5.5/6s"
             },
@@ -31307,11 +31810,15 @@
             {
               "description": "Redução de Cura:",
               "value": "Total"
+            },
+            {
+              "description": "Lentidão:",
+              "value": "25%"
             }
           ]
         }
       },
-      "Id": 10479,
+      "Id": 18099,
       "Summary": "Ringue de Lanças",
       "URL": "https://web2.hirez.com/smite/god-abilities/ring-of-spears.jpg"
     },
@@ -31451,13 +31958,13 @@
     },
     "abilityDescription3": {
       "itemDescription": {
-        "cooldown": "10s",
-        "cost": "70",
-        "description": "Odin desfere um ataque rodante com sua lança que atinge o inimigo duas vezes causando dano e deixando lentos os inimigos atingidos nos dois golpes.",
+        "cooldown": "12s",
+        "cost": "70/75/80/85/90",
+        "description": "Odin começa a infundir Gungnir com magia rúnica, ficando imune a repulsão. A cada 0,7s Gungnir muda as runas e Odin cria um pulso de dano ao seu redor, causando lentidão nos inimigos por 2s. Quando Odin libera Gungnir ele voa para frente, causando dano aos inimigos e parando no primeiro deus atingido. A primeira runa faz com que os aliados ao redor de Odin ganhem cadência por 3s. A segunda runa permite que Gungnir ataque os deuses inimigos. A última runa faz com Gungnir atordoe.",
         "menuitems": [
           {
             "description": "Habilidade:",
-            "value": "Raio"
+            "value": "Linha"
           },
           {
             "description": "Afeta:",
@@ -31468,22 +31975,30 @@
             "value": "Físico"
           },
           {
-            "description": "Raio:",
+            "description": "Alcance:",
             "value": "20"
           }
         ],
         "rankitems": [
           {
-            "description": "Dano por Acerto:",
-            "value": "45/65/85/105/125 (+30% do seu poder físico)"
+            "description": "Dano do pulso:",
+            "value": "20/40/60/80/100 (+20% do seu poder físico)"
           },
           {
-            "description": "Lentidão:",
-            "value": "40%"
+            "description": "Lentidão do pulso:",
+            "value": "20%"
           },
           {
-            "description": "Duração da Lentidão:",
-            "value": "2/2.2/2.4/2.6/2.8s"
+            "description": "Dano de Gungnir:",
+            "value": "60/110/160/210/260 (+60% do seu poder físico)"
+          },
+          {
+            "description": "Cadência:",
+            "value": "30%"
+          },
+          {
+            "description": "Duração do atordoamento:",
+            "value": "1.2s"
           }
         ]
       }
@@ -31491,8 +32006,8 @@
     "abilityDescription4": {
       "itemDescription": {
         "cooldown": "75",
-        "cost": "100",
-        "description": "Odin conjura um círculo de lanças que bloqueia a movimentação apenas dos inimigos. Inimigos dentro do círculo podem atacar, porém não recebem curas. Odin fica imune a lentidão e enraizamento enquanto estiver no círculo.\n \nInimigos que forem derrotados dentro do Ringue de Lanças concederão um bônus permanente de poder físico para Odin.",
+        "cost": "100.",
+        "description": "Odin conjura um círculo de lanças que bloqueia a movimentação apenas dos inimigos. Inimigos dentro do círculo não são curados. Odin fica imune a lentidão e enraizamento enquanto estiver no círculo. Uma parte da parede pode ser destruída ao ser atingida por 5 ataques básicos. Inimigos que escaparem do Ringue destruindo a parede ou por cima dela são perseguidos por Gungnir, tomando dano e sofrendo lentidão por 2,5s. Inimigos que forem mortos dentro do Ringue de Lanças concederão um bônus permanente de poder físico para Odin.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -31509,6 +32024,10 @@
         ],
         "rankitems": [
           {
+            "description": "Dano:",
+            "value": "120/190/260/330/400 (+75% do seu poder físico)"
+          },
+          {
             "description": "Duração:",
             "value": "4/4.5/5/5.5/6s"
           },
@@ -31519,6 +32038,10 @@
           {
             "description": "Redução de Cura:",
             "value": "Total"
+          },
+          {
+            "description": "Lentidão:",
+            "value": "25%"
           }
         ]
       }
@@ -31566,7 +32089,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1/1/1/1,5x dano e tempo de ataque"
+            "value": "1/1/1/1,5x dano e cadência"
           }
         ],
         "rankitems": []
@@ -33286,7 +33809,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1/1/1x de dano e tempo de giro"
+            "value": "1/1/1x de dano e cadência"
           }
         ],
         "rankitems": []
@@ -35055,7 +35578,7 @@
           "rankitems": [
             {
               "description": "Dano por disparo:",
-              "value": "25/40/55/70/85 (30% do seu poder mágico)"
+              "value": "30/45/60/75/90 (30% do seu poder mágico)"
             }
           ]
         }
@@ -35277,7 +35800,7 @@
         "rankitems": [
           {
             "description": "Dano por disparo:",
-            "value": "25/40/55/70/85 (30% do seu poder mágico)"
+            "value": "30/45/60/75/90 (30% do seu poder mágico)"
           }
         ]
       }
@@ -35573,8 +36096,8 @@
       "Description": {
         "itemDescription": {
           "cooldown": "90s",
-          "cost": "100/110/120/130/140",
-          "description": "Rama salta aos céus e atira 3 poderosas flechas no chão, com cada flecha tendo o dano aumentado (70%, 85%, 100%) e a área diminuída (15, 10, 7,5)",
+          "cost": "80",
+          "description": "Rama salta aos céus e atira 3 poderosas flechas no chão, com cada flecha tendo o dano aumentado (70%/85%/100%) e a área diminuída (15/10/7,5)",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -35649,7 +36172,7 @@
     "PhysicalProtectionPerLevel": 2.8,
     "Pros": " Alta Mobilidade, Alta Cadência",
     "Roles": " Caçador",
-    "Speed": 365,
+    "Speed": 370,
     "Title": "Sétimo Avatar de Vishnu",
     "Type": " Atirador, Físico",
     "abilityDescription1": {
@@ -35748,8 +36271,8 @@
     "abilityDescription4": {
       "itemDescription": {
         "cooldown": "90s",
-        "cost": "100/110/120/130/140",
-        "description": "Rama salta aos céus e atira 3 poderosas flechas no chão, com cada flecha tendo o dano aumentado (70%, 85%, 100%) e a área diminuída (15, 10, 7,5)",
+        "cost": "80",
+        "description": "Rama salta aos céus e atira 3 poderosas flechas no chão, com cada flecha tendo o dano aumentado (70%/85%/100%) e a área diminuída (15/10/7,5)",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -36205,7 +36728,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1/0.5/0.5/1.25x dano e tempo de giro, atingindo em área no último golpe"
+            "value": "1/0.5/0.5/1.25x dano e cadência, atingindo em área no último golpe"
           }
         ],
         "rankitems": []
@@ -36705,7 +37228,7 @@
         "itemDescription": {
           "cooldown": "14s",
           "cost": "35/40/45/50/55",
-          "description": "Padrão: Rei Arthur faz um golpe devastador de cima para baixo de alcance corpo a corpo que cria um ataque cortante que avança em frente. Inimigos atingidos pelo golpe corpo a corpo tomam dano bônus do ataque cortante. Combo: Rei Arthur faz um movimento vertical com a espada, causando dano e debilitando inimigos atingidos.",
+          "description": "Padrão: Rei Arthur faz um golpe devastador de cima para baixo de alcance corpo a corpo que cria um ataque cortante que avança em frente. Inimigos atingidos pelo golpe corpo a corpo tomam dano bônus do ataque cortante.\n\nCombo: Rei Arthur faz um movimento vertical com a espada, causando dano e debilitando inimigos atingidos.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -36984,7 +37507,7 @@
       "itemDescription": {
         "cooldown": "14s",
         "cost": "35/40/45/50/55",
-        "description": "Padrão: Rei Arthur faz um golpe devastador de cima para baixo de alcance corpo a corpo que cria um ataque cortante que avança em frente. Inimigos atingidos pelo golpe corpo a corpo tomam dano bônus do ataque cortante. Combo: Rei Arthur faz um movimento vertical com a espada, causando dano e debilitando inimigos atingidos.",
+        "description": "Padrão: Rei Arthur faz um golpe devastador de cima para baixo de alcance corpo a corpo que cria um ataque cortante que avança em frente. Inimigos atingidos pelo golpe corpo a corpo tomam dano bônus do ataque cortante.\n\nCombo: Rei Arthur faz um movimento vertical com a espada, causando dano e debilitando inimigos atingidos.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -37252,7 +37775,7 @@
         "itemDescription": {
           "cooldown": "13s",
           "cost": "60",
-          "description": "Serqet avança três vezes de um lado para o outro, infligindo dano e aplicando o veneno Praga da Morte nos inimigos atingidos. Essa habilidade pode causar críticos e Serqet não pode ser repelida enquanto avança.\n\nO veneno Praga da Morte reduz a proteção física do alvo por um tempo, e depois ele fica dormente por 20s.",
+          "description": "Serqet avança três vezes de um lado para o outro, infligindo dano e aplicando o veneno Praga da Morte nos inimigos atingidos. Essa habilidade pode causar críticos e Serqet não pode ser repelida enquanto avança. \n\nO veneno Praga da Morte reduz a proteção física do alvo por um tempo, e depois ele fica dormente por 20s.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -37274,7 +37797,7 @@
           "rankitems": [
             {
               "description": "Dano:",
-              "value": "60/80/100/120/140 (+45% do seu poder físico)"
+              "value": "50/70/90/110/130 (+45% do seu poder físico)"
             },
             {
               "description": "Redução na Proteção:",
@@ -37368,7 +37891,7 @@
         "itemDescription": {
           "cooldown": "90s",
           "cost": "100",
-          "description": "Serqet pula no inimigo, atordoando-o e aplicando o veneno Último Suspiro, então empurrando-o 30 unidades para longe.\n \nO veneno Último Suspiro causa dano pelos próximo 5s, evitando qualquer cura. Se o inimigo morrer infectado com o Último Suspiro, ele explodirá, aplicando o veneno em todos os inimigos em 20 unidades.",
+          "description": "Serqet pula no inimigo, atordoando-o e aplicando o veneno Último Suspiro, então empurrando-o 30 unidades para longe. O veneno Último Suspiro causa dano pelos próximo 5s, evitando qualquer cura. Se o inimigo morrer infectado com o Último Suspiro, ele explodirá, aplicando o veneno em todos os inimigos em 20 unidades.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -37390,7 +37913,7 @@
           "rankitems": [
             {
               "description": "Dano:",
-              "value": "180/300/420/540/660 de dano real nos próximos 5s"
+              "value": "140/230/320/410/500 (+55% do seu poder físico como dano real)"
             },
             {
               "description": "Duração do atordoamento:",
@@ -37467,7 +37990,7 @@
       "itemDescription": {
         "cooldown": "13s",
         "cost": "60",
-        "description": "Serqet avança três vezes de um lado para o outro, infligindo dano e aplicando o veneno Praga da Morte nos inimigos atingidos. Essa habilidade pode causar críticos e Serqet não pode ser repelida enquanto avança.\n\nO veneno Praga da Morte reduz a proteção física do alvo por um tempo, e depois ele fica dormente por 20s.",
+        "description": "Serqet avança três vezes de um lado para o outro, infligindo dano e aplicando o veneno Praga da Morte nos inimigos atingidos. Essa habilidade pode causar críticos e Serqet não pode ser repelida enquanto avança. \n\nO veneno Praga da Morte reduz a proteção física do alvo por um tempo, e depois ele fica dormente por 20s.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -37489,7 +38012,7 @@
         "rankitems": [
           {
             "description": "Dano:",
-            "value": "60/80/100/120/140 (+45% do seu poder físico)"
+            "value": "50/70/90/110/130 (+45% do seu poder físico)"
           },
           {
             "description": "Redução na Proteção:",
@@ -37568,7 +38091,7 @@
       "itemDescription": {
         "cooldown": "90s",
         "cost": "100",
-        "description": "Serqet pula no inimigo, atordoando-o e aplicando o veneno Último Suspiro, então empurrando-o 30 unidades para longe.\n \nO veneno Último Suspiro causa dano pelos próximo 5s, evitando qualquer cura. Se o inimigo morrer infectado com o Último Suspiro, ele explodirá, aplicando o veneno em todos os inimigos em 20 unidades.",
+        "description": "Serqet pula no inimigo, atordoando-o e aplicando o veneno Último Suspiro, então empurrando-o 30 unidades para longe. O veneno Último Suspiro causa dano pelos próximo 5s, evitando qualquer cura. Se o inimigo morrer infectado com o Último Suspiro, ele explodirá, aplicando o veneno em todos os inimigos em 20 unidades.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -37590,7 +38113,7 @@
         "rankitems": [
           {
             "description": "Dano:",
-            "value": "180/300/420/540/660 de dano real nos próximos 5s"
+            "value": "140/230/320/410/500 (+55% do seu poder físico como dano real)"
           },
           {
             "description": "Duração do atordoamento:",
@@ -37671,7 +38194,7 @@
         "itemDescription": {
           "cooldown": "8s",
           "cost": "40/45/50/55/60",
-          "description": "Set congrega seu ódio, arremessando-o à frente. Inimigos atingidos tomam dano e sofrem lentidão por 3s. \n\nAs cópias de Set são ativadas quando Set dispara o ataque, arremetendo na direção que Set determinar. Inimigos atingidos pela arremetida das cópias tomam dano e sofrem lentidão por 3s. Qualquer arremetida após a primeira causa 40% do dano.",
+          "description": "Set congrega seu ódio, arremessando-o à frente. Inimigos atingidos tomam dano e sofrem lentidão por 3s.\n\nAs cópias de Set são ativadas quando Set dispara o ataque, arremetendo na direção que Set determinar. Inimigos atingidos pela arremetida das cópias tomam dano e sofrem lentidão por 3s. Qualquer arremetida após a primeira causa 40% do dano.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -37693,7 +38216,7 @@
           "rankitems": [
             {
               "description": "Dano:",
-              "value": "70/110/150/190/230 (+80% do seu poder físico)"
+              "value": "70/115/160/205/250 (+80% do seu poder físico)"
             },
             {
               "description": "Dano da cópia:",
@@ -37889,7 +38412,7 @@
     "Name": "Set",
     "OnFreeRotation": "",
     "Pantheon": "Egípcio",
-    "PhysicalPower": 37,
+    "PhysicalPower": 39,
     "PhysicalPowerPerLevel": 2.3,
     "PhysicalProtection": 13,
     "PhysicalProtectionPerLevel": 2.9,
@@ -37902,7 +38425,7 @@
       "itemDescription": {
         "cooldown": "8s",
         "cost": "40/45/50/55/60",
-        "description": "Set congrega seu ódio, arremessando-o à frente. Inimigos atingidos tomam dano e sofrem lentidão por 3s. \n\nAs cópias de Set são ativadas quando Set dispara o ataque, arremetendo na direção que Set determinar. Inimigos atingidos pela arremetida das cópias tomam dano e sofrem lentidão por 3s. Qualquer arremetida após a primeira causa 40% do dano.",
+        "description": "Set congrega seu ódio, arremessando-o à frente. Inimigos atingidos tomam dano e sofrem lentidão por 3s.\n\nAs cópias de Set são ativadas quando Set dispara o ataque, arremetendo na direção que Set determinar. Inimigos atingidos pela arremetida das cópias tomam dano e sofrem lentidão por 3s. Qualquer arremetida após a primeira causa 40% do dano.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -37924,7 +38447,7 @@
         "rankitems": [
           {
             "description": "Dano:",
-            "value": "70/110/150/190/230 (+80% do seu poder físico)"
+            "value": "70/115/160/205/250 (+80% do seu poder físico)"
           },
           {
             "description": "Dano da cópia:",
@@ -39190,7 +39713,7 @@
     "ManaPerFive": 4.5,
     "ManaPerLevel": 35,
     "Name": "Sobek",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Egípcio",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -39470,8 +39993,12 @@
               "value": "90/145/200/255/310 (+65% do seu poder físico)"
             },
             {
-              "description": "Lentidão:",
+              "description": "Lentidão de movimento:",
               "value": "30% por 2s"
+            },
+            {
+              "description": "Lentidão de ataque:",
+              "value": "25% por 2s"
             }
           ]
         }
@@ -39547,7 +40074,7 @@
           "rankitems": [
             {
               "description": "Dano:",
-              "value": "200/250/300/350/400 (+120% do seu poder físico)"
+              "value": "200/275/350/425/500 (+120% do seu poder físico)"
             },
             {
               "description": "Cura:",
@@ -39663,8 +40190,12 @@
             "value": "90/145/200/255/310 (+65% do seu poder físico)"
           },
           {
-            "description": "Lentidão:",
+            "description": "Lentidão de movimento:",
             "value": "30% por 2s"
+          },
+          {
+            "description": "Lentidão de ataque:",
+            "value": "25% por 2s"
           }
         ]
       }
@@ -39730,7 +40261,7 @@
         "rankitems": [
           {
             "description": "Dano:",
-            "value": "200/250/300/350/400 (+120% do seu poder físico)"
+            "value": "200/275/350/425/500 (+120% do seu poder físico)"
           },
           {
             "description": "Cura:",
@@ -40293,7 +40824,7 @@
         "itemDescription": {
           "cooldown": "16s",
           "cost": "45/50/55/60/65",
-          "description": "Susanoo atira um tufão de vento que cria um tornado, causando dano a cada 0,75s, por 3s. \nEle pode ativar essa habilidade novamente para teleportar para o tornado. \n Se o tornado inicial atingir um inimigo, esse inimigo ficará preso no tornado. Teleportar para o inimigo reduz o intervalo para 8s.",
+          "description": "Susanoo atira um tufão de vento que cria um tornado, causando dano a cada 0,75s, por 3s.\nEle pode ativar essa habilidade novamente para teleportar para o tornado.\nSe o tornado inicial atingir um inimigo, esse inimigo ficará preso no tornado. Teleportar para o inimigo reduz o intervalo para 10s.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -40315,7 +40846,7 @@
           "rankitems": [
             {
               "description": "Dano por Tique:",
-              "value": "20/30/40/50/60 (30% do seu poder físico)"
+              "value": "20/30/40/50/60 (+25% do seu poder físico)"
             }
           ]
         }
@@ -40379,7 +40910,7 @@
           "rankitems": [
             {
               "description": "Dano bônus:",
-              "value": "25 (+existsprop1007/0.60/+# /+60% do seu poder físico)"
+              "value": "25 (++40% do seu poder físico)"
             }
           ]
         }
@@ -40482,7 +41013,7 @@
       "itemDescription": {
         "cooldown": "16s",
         "cost": "45/50/55/60/65",
-        "description": "Susanoo atira um tufão de vento que cria um tornado, causando dano a cada 0,75s, por 3s. \nEle pode ativar essa habilidade novamente para teleportar para o tornado. \n Se o tornado inicial atingir um inimigo, esse inimigo ficará preso no tornado. Teleportar para o inimigo reduz o intervalo para 8s.",
+        "description": "Susanoo atira um tufão de vento que cria um tornado, causando dano a cada 0,75s, por 3s.\nEle pode ativar essa habilidade novamente para teleportar para o tornado.\nSe o tornado inicial atingir um inimigo, esse inimigo ficará preso no tornado. Teleportar para o inimigo reduz o intervalo para 10s.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -40504,7 +41035,7 @@
         "rankitems": [
           {
             "description": "Dano por Tique:",
-            "value": "20/30/40/50/60 (30% do seu poder físico)"
+            "value": "20/30/40/50/60 (+25% do seu poder físico)"
           }
         ]
       }
@@ -40558,7 +41089,7 @@
         "rankitems": [
           {
             "description": "Dano bônus:",
-            "value": "25 (+existsprop1007/0.60/+# /+60% do seu poder físico)"
+            "value": "25 (++40% do seu poder físico)"
           }
         ]
       }
@@ -40575,7 +41106,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1/1/1.25x dano e tempo de giro"
+            "value": "1/1/1.25x dano e cadência"
           }
         ],
         "rankitems": []
@@ -40746,7 +41277,7 @@
         "itemDescription": {
           "cooldown": "",
           "cost": "",
-          "description": "As habilidades de Terra criam Monumentos de Pedra. Conforme as Pedras vão ficando pelo Campo de Batalha, Terra torna-se imune a Arremessos e seus Ataques Básicos desacelerarão os inimigos e causarão Dano Bônus de Ataque Básico. Esse dano bônus ativará Efeitos de Item de Ataque Básico, mas não os de Habilidade. Se ela destruir uma Pedra com sucesso, sua Passiva permanecerá ativa por 3 s após todas as pedras serem destruídas.",
+          "description": "As habilidades de Terra criam Monumentos de Pedra. Conforme as Pedras vão ficando pelo campo de batalha, Terra torna-se imune a arremessos e seus ataques básicos desacelerarão os inimigos e causarão bônus de dano básico. Esse dano bônus não ativa efeitos de item. Se ela destruir uma pedra, ela retém esse bônus por mais 3s após todas as pedras serem destruídas.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -40760,7 +41291,7 @@
           "rankitems": [
             {
               "description": "Lentidão:",
-              "value": "30% por 1/25s"
+              "value": "30% por 1.25s"
             },
             {
               "description": "Dano Bônus:",
@@ -40923,7 +41454,7 @@
       "itemDescription": {
         "cooldown": "",
         "cost": "",
-        "description": "As habilidades de Terra criam Monumentos de Pedra. Conforme as Pedras vão ficando pelo Campo de Batalha, Terra torna-se imune a Arremessos e seus Ataques Básicos desacelerarão os inimigos e causarão Dano Bônus de Ataque Básico. Esse dano bônus ativará Efeitos de Item de Ataque Básico, mas não os de Habilidade. Se ela destruir uma Pedra com sucesso, sua Passiva permanecerá ativa por 3 s após todas as pedras serem destruídas.",
+        "description": "As habilidades de Terra criam Monumentos de Pedra. Conforme as Pedras vão ficando pelo campo de batalha, Terra torna-se imune a arremessos e seus ataques básicos desacelerarão os inimigos e causarão bônus de dano básico. Esse dano bônus não ativa efeitos de item. Se ela destruir uma pedra, ela retém esse bônus por mais 3s após todas as pedras serem destruídas.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -40937,7 +41468,7 @@
         "rankitems": [
           {
             "description": "Lentidão:",
-            "value": "30% por 1/25s"
+            "value": "30% por 1.25s"
           },
           {
             "description": "Dano Bônus:",
@@ -40958,7 +41489,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1/1/1/1x dano e tempo de acerto"
+            "value": "1/1/1/1x dano e cadência"
           }
         ],
         "rankitems": []
@@ -41500,7 +42031,7 @@
     "Ability_3": {
       "Description": {
         "itemDescription": {
-          "cooldown": "8s",
+          "cooldown": "10s",
           "cost": "55/60/65/70/75",
           "description": "Thor gira o martelo em torno de si causando dano até 3 vezes nos inimigos à frente e até 2 vezes nos inimigos atrás. O giro final causa dano extra. Thor é imune a arremesso pela duração.",
           "menuitems": [
@@ -41524,11 +42055,11 @@
           "rankitems": [
             {
               "description": "Dano por tique:",
-              "value": "30/50/70/90/110 (+40% do seu poder físico)"
+              "value": "30/50/70/90/110 (+35% do seu poder físico)"
             },
             {
               "description": "Dano do giro final:",
-              "value": "45/65/85/105/125 (+60% do seu poder físico)"
+              "value": "45/65/85/105/125 (+50% do seu poder físico)"
             }
           ]
         }
@@ -41540,7 +42071,7 @@
     "Ability_4": {
       "Description": {
         "itemDescription": {
-          "cooldown": "90s",
+          "cooldown": "110/105/100/95/90s",
           "cost": "80/90/100/110/120",
           "description": "Depois de uma breve preparação, Thor voa até o céu. Enquanto estiver no ar, Thor pode escolher um alvo a uma ampla distância e cair destruindo na área, causando dano e atordoando todos os inimigos no raio de efeito. Por 6 segundos após pousar, quando Thor causar dano a um deus com o Mijolnir, ele soltará um relâmpago, causando mais dano no inimigo atingido pelo golpe e em até mais dois inimigos adicionais dentro de 9m. Acertos de relâmpagos subsequentes causam 50% de dano",
           "menuitems": [
@@ -41701,7 +42232,7 @@
     },
     "abilityDescription3": {
       "itemDescription": {
-        "cooldown": "8s",
+        "cooldown": "10s",
         "cost": "55/60/65/70/75",
         "description": "Thor gira o martelo em torno de si causando dano até 3 vezes nos inimigos à frente e até 2 vezes nos inimigos atrás. O giro final causa dano extra. Thor é imune a arremesso pela duração.",
         "menuitems": [
@@ -41725,18 +42256,18 @@
         "rankitems": [
           {
             "description": "Dano por tique:",
-            "value": "30/50/70/90/110 (+40% do seu poder físico)"
+            "value": "30/50/70/90/110 (+35% do seu poder físico)"
           },
           {
             "description": "Dano do giro final:",
-            "value": "45/65/85/105/125 (+60% do seu poder físico)"
+            "value": "45/65/85/105/125 (+50% do seu poder físico)"
           }
         ]
       }
     },
     "abilityDescription4": {
       "itemDescription": {
-        "cooldown": "90s",
+        "cooldown": "110/105/100/95/90s",
         "cost": "80/90/100/110/120",
         "description": "Depois de uma breve preparação, Thor voa até o céu. Enquanto estiver no ar, Thor pode escolher um alvo a uma ampla distância e cair destruindo na área, causando dano e atordoando todos os inimigos no raio de efeito. Por 6 segundos após pousar, quando Thor causar dano a um deus com o Mijolnir, ele soltará um relâmpago, causando mais dano no inimigo atingido pelo golpe e em até mais dois inimigos adicionais dentro de 9m. Acertos de relâmpagos subsequentes causam 50% de dano",
         "menuitems": [
@@ -43196,7 +43727,7 @@
         "itemDescription": {
           "cooldown": "90s",
           "cost": "100",
-          "description": "Vamana se torna um gigante colossal. Enquanto ele está enfurecido, fica imune ao controle, ganha Proteções, Poder Físico, regeneração massiva, e seus Ataques Básicos agora causam dano a todos os inimigos próximos. Quando Vamana está na forma colossal, sofrer dano de divindades aumenta a duração, e Vamana consegue atravessar qualquer parede erguida por um jogador. \nVocê pode cancelar sua forma gigante antes.",
+          "description": "Vamana se torna um gigante colossal por 6 segundos, ganhando proteções, poder físico, regeneração e imunidade a controle, e seus ataques básicos agora causam dano a todos os inimigos próximos. \nAtaques bem-sucedidos a inimigos concedem estoques de velocidade de movimento por 3s. Quando Vamana está na forma colossal, sofrer dano de divindades aumenta a duração, e Vamana consegue atravessar qualquer parede erguida por um jogador.\nVocê pode cancelar sua forma gigante antes.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -43226,19 +43757,15 @@
             },
             {
               "description": "Regeneração de Vida:",
-              "value": "1% a cada 0/2s"
+              "value": "1% a cada 0.2s"
             },
             {
-              "description": "Escudo:",
-              "value": "0/6% da vida máxima a cada 0/2s"
+              "description": "Velocidade de movimento:",
+              "value": "5% estocando até 3 vezes"
             },
             {
-              "description": "Duração Colossal:",
-              "value": "6s"
-            },
-            {
-              "description": "Aumento de Duração Colossal:",
-              "value": "0/5s por acerto/ até 10s"
+              "description": "90s",
+              "value": "100"
             }
           ]
         }
@@ -43396,7 +43923,7 @@
       "itemDescription": {
         "cooldown": "90s",
         "cost": "100",
-        "description": "Vamana se torna um gigante colossal. Enquanto ele está enfurecido, fica imune ao controle, ganha Proteções, Poder Físico, regeneração massiva, e seus Ataques Básicos agora causam dano a todos os inimigos próximos. Quando Vamana está na forma colossal, sofrer dano de divindades aumenta a duração, e Vamana consegue atravessar qualquer parede erguida por um jogador. \nVocê pode cancelar sua forma gigante antes.",
+        "description": "Vamana se torna um gigante colossal por 6 segundos, ganhando proteções, poder físico, regeneração e imunidade a controle, e seus ataques básicos agora causam dano a todos os inimigos próximos. \nAtaques bem-sucedidos a inimigos concedem estoques de velocidade de movimento por 3s. Quando Vamana está na forma colossal, sofrer dano de divindades aumenta a duração, e Vamana consegue atravessar qualquer parede erguida por um jogador.\nVocê pode cancelar sua forma gigante antes.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -43426,19 +43953,15 @@
           },
           {
             "description": "Regeneração de Vida:",
-            "value": "1% a cada 0/2s"
+            "value": "1% a cada 0.2s"
           },
           {
-            "description": "Escudo:",
-            "value": "0/6% da vida máxima a cada 0/2s"
+            "description": "Velocidade de movimento:",
+            "value": "5% estocando até 3 vezes"
           },
           {
-            "description": "Duração Colossal:",
-            "value": "6s"
-          },
-          {
-            "description": "Aumento de Duração Colossal:",
-            "value": "0/5s por acerto/ até 10s"
+            "description": "90s",
+            "value": "100"
           }
         ]
       }
@@ -44300,7 +44823,7 @@
           },
           {
             "description": "Progressão:",
-            "value": "1/1/1/1x dano e tempo de acerto."
+            "value": "1/1/1/1x dano e cadência."
           }
         ],
         "rankitems": []
@@ -44484,18 +45007,18 @@
               "value": "Bônus"
             },
             {
-              "description": "Redução de Dano:",
-              "value": "10%"
-            },
-            {
               "description": "Afeta:",
-              "value": "Você"
+              "value": "Si mesmo"
             }
           ],
           "rankitems": [
             {
-              "description": "Dano da Queimadura de Gelo:",
+              "description": "Aumento no Dano Causado:",
               "value": "100%"
+            },
+            {
+              "description": "Diminuição no Dano Recebido:",
+              "value": "10%"
             }
           ]
         }
@@ -44667,18 +45190,18 @@
             "value": "Bônus"
           },
           {
-            "description": "Redução de Dano:",
-            "value": "10%"
-          },
-          {
             "description": "Afeta:",
-            "value": "Você"
+            "value": "Si mesmo"
           }
         ],
         "rankitems": [
           {
-            "description": "Dano da Queimadura de Gelo:",
+            "description": "Aumento no Dano Causado:",
             "value": "100%"
+          },
+          {
+            "description": "Diminuição no Dano Recebido:",
+            "value": "10%"
           }
         ]
       }

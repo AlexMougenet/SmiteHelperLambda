@@ -110,7 +110,7 @@
     },
     "ItemId": 7537,
     "ItemTier": 3,
-    "Price": 1300,
+    "Price": 1050,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 7526,
     "ShortDesc": "Los enemigos cercanos reciben daño en el tiempo.",
@@ -177,48 +177,6 @@
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/emperors-armor.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 0,
-    "DeviceName": "Poción de poderío mágico",
-    "IconId": 1977,
-    "ItemDescription": {
-      "Description": "Este consumible aumenta el poder mágico.",
-      "Menuitems": [],
-      "SecondaryDescription": "Este consumible suma 40 a tu poder mágico durante 4 minutos o hasta que tu personaje muera."
-    },
-    "ItemId": 7529,
-    "ItemTier": 1,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 7529,
-    "ShortDesc": "Este consumible aumenta el poder mágico.",
-    "StartingItem": false,
-    "Type": "Consumable",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/potion-of-magical-might.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 0,
-    "DeviceName": "Poción de poderío físico",
-    "IconId": 1980,
-    "ItemDescription": {
-      "Description": "Este consumible aumenta el poder físico.",
-      "Menuitems": [],
-      "SecondaryDescription": "Este consumible suma 20 a tu poder físico durante 4 minutos o hasta que tu personaje muera."
-    },
-    "ItemId": 7530,
-    "ItemTier": 1,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 7530,
-    "ShortDesc": "Aumenta el poder físico.",
-    "StartingItem": false,
-    "Type": "Consumable",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/potion-of-physical-might.jpg",
     "ret_msg": null
   },
   {
@@ -577,7 +535,7 @@
       "Menuitems": [
         {
           "Description": "Magical Power",
-          "Value": "+80"
+          "Value": "+70"
         },
         {
           "Description": "Mana",
@@ -586,6 +544,10 @@
         {
           "Description": "Magical Lifesteal",
           "Value": "+15%"
+        },
+        {
+          "Description": "Magical Penetration",
+          "Value": "+10%"
         }
       ],
       "SecondaryDescription": "PASSIVE - Your Healing obtained from Magical Lifesteal is increased by 40%. Your Magical power is increased by twice the amount of Magical Lifesteal you have."
@@ -611,7 +573,7 @@
       "Menuitems": [
         {
           "Description": "Magical Power",
-          "Value": "+65"
+          "Value": "+80"
         },
         {
           "Description": "Health",
@@ -1598,7 +1560,7 @@
     },
     "ItemId": 9633,
     "ItemTier": 3,
-    "Price": 700,
+    "Price": 650,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9631,
     "ShortDesc": "Velocidad de movimiento\\nPoder mágico.",
@@ -1636,7 +1598,7 @@
     },
     "ItemId": 9634,
     "ItemTier": 3,
-    "Price": 650,
+    "Price": 700,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9631,
     "ShortDesc": "Velocidad de movimiento\\nReducción de recarga.",
@@ -1845,7 +1807,7 @@
     },
     "ItemId": 8546,
     "ItemTier": 3,
-    "Price": 900,
+    "Price": 800,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9812,
     "ShortDesc": "La probabilidad de crítico mejora con cada golpe.",
@@ -1898,7 +1860,7 @@
         },
         {
           "Description": "Critical Strike Chance",
-          "Value": "+40%"
+          "Value": "+45%"
         }
       ],
       "SecondaryDescription": null
@@ -2138,7 +2100,7 @@
         },
         {
           "Description": "Physical Lifesteal",
-          "Value": "+10%"
+          "Value": "+15%"
         },
         {
           "Description": "Cooldown Reduction",
@@ -2220,7 +2182,41 @@
   },
   {
     "ActiveFlag": "y",
-    "ChildItemId": 8239,
+    "ChildItemId": 9828,
+    "DeviceName": "Cursed Blade",
+    "IconId": 2894,
+    "ItemDescription": {
+      "Description": null,
+      "Menuitems": [
+        {
+          "Description": "Health",
+          "Value": "+75"
+        },
+        {
+          "Description": "Attack Speed",
+          "Value": "+10%"
+        },
+        {
+          "Description": "Movement Speed",
+          "Value": "+5%"
+        }
+      ],
+      "SecondaryDescription": null
+    },
+    "ItemId": 18190,
+    "ItemTier": 2,
+    "Price": 700,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 9828,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Item",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/cursed-blade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18190,
     "DeviceName": "Filo de bruja",
     "IconId": 2892,
     "ItemDescription": {
@@ -2239,7 +2235,7 @@
     },
     "ItemId": 7910,
     "ItemTier": 3,
-    "Price": 900,
+    "Price": 800,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9828,
     "ShortDesc": "Aura de debilitación de velocidad de ataque y poder físico.",
@@ -2326,7 +2322,7 @@
   },
   {
     "ActiveFlag": "y",
-    "ChildItemId": 8239,
+    "ChildItemId": 18190,
     "DeviceName": "Toxic Blade",
     "IconId": 5454,
     "ItemDescription": {
@@ -2353,7 +2349,7 @@
     },
     "ItemId": 14846,
     "ItemTier": 3,
-    "Price": 1050,
+    "Price": 950,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9828,
     "ShortDesc": "",
@@ -2657,7 +2653,7 @@
           "Value": "+10%"
         }
       ],
-      "SecondaryDescription": "PASSIVE - Anytime you hit an Enemy god with an Ability you are healed for 2.5% of your maximum Health and Mana. This can only trigger once per God hit per Ability."
+      "SecondaryDescription": "PASSIVE - Anytime you hit an Enemy god with an Ability you are healed for 2.5% of your maximum Health and Mana. This can only trigger once per ability per god and subsequent heals after the first from a single ability only heal for half of the original amount."
     },
     "ItemId": 14085,
     "ItemTier": 2,
@@ -3623,36 +3619,6 @@
   {
     "ActiveFlag": "y",
     "ChildItemId": 9848,
-    "DeviceName": "Shaman's Ring",
-    "IconId": 5041,
-    "ItemDescription": {
-      "Description": "Evolving Item",
-      "Menuitems": [
-        {
-          "Description": "Magical Power",
-          "Value": "+110"
-        },
-        {
-          "Description": "Cooldown Reduction",
-          "Value": "+10%"
-        }
-      ],
-      "SecondaryDescription": "PASSIVE - Dealing 100 damage, after mitigations, to enemy gods gives you a stack. At 50 stacks Shaman's Ring evolves, gaining a new passive. This new passive makes your damaging abilities debuff enemies, causing them to take 10% additional damage from all your damage sources for 10s."
-    },
-    "ItemId": 14765,
-    "ItemTier": 3,
-    "Price": 1400,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 9847,
-    "ShortDesc": "",
-    "StartingItem": true,
-    "Type": "Item",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/shamans-ring.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 9848,
     "DeviceName": "Hastened Ring",
     "IconId": 5450,
     "ItemDescription": {
@@ -3686,32 +3652,36 @@
   },
   {
     "ActiveFlag": "y",
-    "ChildItemId": 14765,
-    "DeviceName": "Evolved Shaman's Ring",
-    "IconId": 5460,
+    "ChildItemId": 9848,
+    "DeviceName": "Ring of Hecate",
+    "IconId": 8138,
     "ItemDescription": {
-      "Description": "Extra damage for hitting enemies.",
+      "Description": null,
       "Menuitems": [
         {
           "Description": "Magical Power",
-          "Value": "+110"
+          "Value": "+80"
         },
         {
-          "Description": "Cooldown Reduction",
-          "Value": "+10%"
+          "Description": "Attack Speed",
+          "Value": "+20%"
+        },
+        {
+          "Description": "Magical Lifesteal",
+          "Value": "+12%"
         }
       ],
-      "SecondaryDescription": "PASSIVE - Successfully hitting a god with a damaging ability causes them to become debuffed, taking 10% additional damage from all your damage sources for 10s."
+      "SecondaryDescription": "PASSIVE - Hitting enemy gods with basic attacks gives you 1 stack of 2% Lifesteal. Stacks up to 5 times, stacks last 5s."
     },
-    "ItemId": 14766,
-    "ItemTier": 4,
-    "Price": 0,
+    "ItemId": 18191,
+    "ItemTier": 3,
+    "Price": 1500,
     "RestrictedRoles": "no restrictions",
-    "RootItemId": 9848,
+    "RootItemId": 9847,
     "ShortDesc": "",
     "StartingItem": false,
     "Type": "Item",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/evolved-shamans-ring.jpg",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/ring-of-hecate.jpg",
     "ret_msg": null
   },
   {
@@ -3798,32 +3768,6 @@
   },
   {
     "ActiveFlag": "y",
-    "ChildItemId": 9850,
-    "DeviceName": "Fragmento de obsidiana",
-    "IconId": 2834,
-    "ItemDescription": {
-      "Description": "Este objeto proporciona penetración mágica al usuario.",
-      "Menuitems": [
-        {
-          "Description": "Poder mágico",
-          "Value": "+70"
-        }
-      ],
-      "SecondaryDescription": "PASIVO. Aumenta tu penetración mágica en un 33%."
-    },
-    "ItemId": 7525,
-    "ItemTier": 3,
-    "Price": 800,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 9849,
-    "ShortDesc": "Gran penetración mágica",
-    "StartingItem": false,
-    "Type": "Item",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/obsidian-shard.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
     "ChildItemId": 9851,
     "DeviceName": "Ruina Divina",
     "IconId": 2823,
@@ -3859,36 +3803,6 @@
   {
     "ActiveFlag": "y",
     "ChildItemId": 9851,
-    "DeviceName": "Lanza del mago",
-    "IconId": 2835,
-    "ItemDescription": {
-      "Description": "Este objeto hace que tus habilidades de ataque reduzcan las protecciones mágicas del objetivo.",
-      "Menuitems": [
-        {
-          "Description": "Poder mágico",
-          "Value": "+40"
-        },
-        {
-          "Description": "Penetración mágica",
-          "Value": "+15"
-        }
-      ],
-      "SecondaryDescription": "PASIVA: Tus habilidades reducen la protección mágica del objetivo en 10 puntos durante 5 segundos (máx. 3 acumulaciones)."
-    },
-    "ItemId": 8354,
-    "ItemTier": 3,
-    "Price": 1050,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 9849,
-    "ShortDesc": "Los poderes reducen la protección mágica.",
-    "StartingItem": false,
-    "Type": "Item",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/spear-of-the-magus.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 9851,
     "DeviceName": "Lanza de desolación",
     "IconId": 4327,
     "ItemDescription": {
@@ -3914,6 +3828,66 @@
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/spear-of-desolation.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 9850,
+    "DeviceName": "Obsidian Shard",
+    "IconId": 2834,
+    "ItemDescription": {
+      "Description": null,
+      "Menuitems": [
+        {
+          "Description": "Magical Power",
+          "Value": "+70"
+        },
+        {
+          "Description": "Magical Penetration",
+          "Value": "+20%"
+        }
+      ],
+      "SecondaryDescription": "PASSIVE - Your first ability cast gains 10% Magical Penetration. This can only occur once every 10 seconds."
+    },
+    "ItemId": 18179,
+    "ItemTier": 3,
+    "Price": 1050,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 9849,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Item",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/obsidian-shard.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 9851,
+    "DeviceName": "Spear of the Magus",
+    "IconId": 2835,
+    "ItemDescription": {
+      "Description": "This item causes your damaging abilities to reduce Magical Protections of the target.",
+      "Menuitems": [
+        {
+          "Description": "Magical Power",
+          "Value": "+75"
+        },
+        {
+          "Description": "Magical Penetration",
+          "Value": "+10"
+        }
+      ],
+      "SecondaryDescription": "PASSIVE - Subsequent hits of the same ability deal 6% increased damage, stacking 6 times."
+    },
+    "ItemId": 18180,
+    "ItemTier": 3,
+    "Price": 1050,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 9849,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Item",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/spear-of-the-magus.jpg",
     "ret_msg": null
   },
   {
@@ -4228,15 +4202,19 @@
       "Menuitems": [
         {
           "Description": "Magical Power",
-          "Value": "+115"
+          "Value": "+140"
         },
         {
           "Description": "Health",
-          "Value": "+500"
+          "Value": "+225"
         },
         {
           "Description": "Mana",
           "Value": "+200"
+        },
+        {
+          "Description": "Magical Penetration",
+          "Value": "+10%"
         }
       ],
       "SecondaryDescription": null
@@ -4401,7 +4379,7 @@
     },
     "ItemId": 9128,
     "ItemTier": 3,
-    "Price": 1400,
+    "Price": 1500,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9858,
     "ShortDesc": "Bonificación de daño en base a la salud máxima del objetivo.",
@@ -4559,7 +4537,7 @@
     },
     "ItemId": 9861,
     "ItemTier": 2,
-    "Price": 1050,
+    "Price": 850,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9860,
     "ShortDesc": "",
@@ -4589,7 +4567,7 @@
     },
     "ItemId": 7600,
     "ItemTier": 3,
-    "Price": 1400,
+    "Price": 1600,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9860,
     "ShortDesc": "Gran aumento de poder mágico.",
@@ -4602,7 +4580,7 @@
     "ActiveFlag": "y",
     "ChildItemId": 9861,
     "DeviceName": "Colgante de Cronos",
-    "IconId": 2840,
+    "IconId": 8139,
     "ItemDescription": {
       "Description": "Este objeto reduce el tiempo de recarga de las habilidades del portador.",
       "Menuitems": [
@@ -4623,7 +4601,7 @@
     },
     "ItemId": 7784,
     "ItemTier": 3,
-    "Price": 1200,
+    "Price": 1300,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9860,
     "ShortDesc": "Reducción de las recargas de las habilidades.",
@@ -4668,6 +4646,78 @@
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/doom-orb.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 9861,
+    "DeviceName": "Charon's Coin",
+    "IconId": 8135,
+    "ItemDescription": {
+      "Description": null,
+      "Menuitems": [
+        {
+          "Description": "Magical Power",
+          "Value": "+80"
+        },
+        {
+          "Description": "Magical Penetration",
+          "Value": "+20%"
+        },
+        {
+          "Description": "MP5",
+          "Value": "+20"
+        }
+      ],
+      "SecondaryDescription": "PASSIVE - On god kill or assist a coin is flipped. If heads, you gain a stack of 7 HP5. If tails, you gain a stack of 2% Movement Speed. Each effect can stack up to 4 times and at 8 stacks this item evolves. You also gain 1 gold every time the coin is flipped."
+    },
+    "ItemId": 18183,
+    "ItemTier": 3,
+    "Price": 1200,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 9860,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Item",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/charons-coin.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18183,
+    "DeviceName": "Evolved Charon's Coin",
+    "IconId": 8221,
+    "ItemDescription": {
+      "Description": null,
+      "Menuitems": [
+        {
+          "Description": "Magical Power",
+          "Value": "+80"
+        },
+        {
+          "Description": "HP5 & MP5",
+          "Value": "+20"
+        },
+        {
+          "Description": "Magical Penetration",
+          "Value": "+20%"
+        },
+        {
+          "Description": "Movement Speed",
+          "Value": "+8%"
+        }
+      ],
+      "SecondaryDescription": "PASSIVE - On god kill or assist a coin is flipped. If heads, you gain 150 Health over 6 seconds. If tails, you gain 5% Movement Speed for 6 seconds. You also gain 1 gold every time the coin is flipped."
+    },
+    "ItemId": 18314,
+    "ItemTier": 4,
+    "Price": 1,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 9861,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Item",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/evolved-charons-coin.jpg",
     "ret_msg": null
   },
   {
@@ -4796,6 +4846,44 @@
   },
   {
     "ActiveFlag": "y",
+    "ChildItemId": 9835,
+    "DeviceName": "Caduceus Shield",
+    "IconId": 8134,
+    "ItemDescription": {
+      "Description": "This item gives the owner a healing and Health regeneration aura.",
+      "Menuitems": [
+        {
+          "Description": "Physical Power",
+          "Value": "+30"
+        },
+        {
+          "Description": "Physical Protection",
+          "Value": "+35"
+        },
+        {
+          "Description": "Magical Protection",
+          "Value": "+35"
+        },
+        {
+          "Description": "Health",
+          "Value": "+100"
+        }
+      ],
+      "SecondaryDescription": "AURA - Allied gods within 70 units have their Healing from abilities increased by 10%. If you have taken or dealt damage in the last 5s, their Healing from abilities is increased by an additional 15%. This does not stack with similar Auras."
+    },
+    "ItemId": 18195,
+    "ItemTier": 3,
+    "Price": 1100,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 10190,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Item",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/caduceus-shield.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
     "ChildItemId": 0,
     "DeviceName": "Casco imperial",
     "IconId": 3260,
@@ -4879,7 +4967,7 @@
     },
     "ItemId": 10605,
     "ItemTier": 2,
-    "Price": 1100,
+    "Price": 1000,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 10603,
     "ShortDesc": "Proporciona poder mágico, protección física y penetración mágica.",
@@ -4909,7 +4997,7 @@
           "Value": "+20"
         }
       ],
-      "SecondaryDescription": "PASSIVE - Every 2s you receive a stack of 7 Physical Protection, up to a max of 5 stacks. Stacks are removed upon taking Physical Damage from gods. Stacks can only be gained after not taking Physical Damage from gods for 5s."
+      "SecondaryDescription": "PASSIVE - Every 2s you receive a stack of 7 Physical Protection, up to a max of 5 stacks. Stacks are removed upon taking Physical Damage from gods. Stacks can only be gained after not taking Physical Damage from gods for 2s."
     },
     "ItemId": 10600,
     "ItemTier": 3,
@@ -4977,7 +5065,7 @@
           "Value": "+150"
         }
       ],
-      "SecondaryDescription": "AURA - Enemy gods within 55 units have their Physical Power reduced by 30."
+      "SecondaryDescription": "AURA - Enemy gods within 55 units have their Physical Power reduced by 20."
     },
     "ItemId": 14179,
     "ItemTier": 3,
@@ -4988,6 +5076,44 @@
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/jade-emperors-crown.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 10605,
+    "DeviceName": "Tyrannical Plate Helm",
+    "IconId": 7601,
+    "ItemDescription": {
+      "Description": null,
+      "Menuitems": [
+        {
+          "Description": "Magical Power",
+          "Value": "+70"
+        },
+        {
+          "Description": "Physical Protection",
+          "Value": "+40"
+        },
+        {
+          "Description": "Health",
+          "Value": "+100"
+        },
+        {
+          "Description": "Crowd Control Reduction",
+          "Value": "+20%"
+        }
+      ],
+      "SecondaryDescription": "If there are ally lane minions around you they gain 10% Health and 20% Attack Speed. Whenever an ally lane minion dies around you, you gain 5 power per stack, max 6 stacks for 15 seconds."
+    },
+    "ItemId": 18199,
+    "ItemTier": 3,
+    "Price": 1000,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 10603,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Item",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/tyrannical-plate-helm.jpg",
     "ret_msg": null
   },
   {
@@ -5149,7 +5275,7 @@
           "Value": "+10"
         }
       ],
-      "SecondaryDescription": "PASSIVE - For each 0.02 Attack Speed you go over cap you gain 1 Physical Power."
+      "SecondaryDescription": "PASSIVE - For each 0.02 Attack Speed you go over cap you gain 1.5 Physical Power."
     },
     "ItemId": 14084,
     "ItemTier": 3,
@@ -5278,69 +5404,6 @@
     "ret_msg": null
   },
   {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Esprint",
-    "IconId": 4309,
-    "ItemDescription": {
-      "Description": "Este objeto mejora un 40 % la velocidad de movimiento de los aliados en un radio de 55 unidades durante 5 s y los vuelve inmunes a la ralentización mientras dura.",
-      "Menuitems": [],
-      "SecondaryDescription": "Este objeto mejora un 40 % la velocidad de movimiento de los aliados en un radio de 55 unidades durante 5 s y los vuelve inmunes a la ralentización mientras dura. Recarga: 150 s."
-    },
-    "ItemId": 7353,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Aumenta la velocidad de movimiento del aliado",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/heavenly-wings.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Maldición",
-    "IconId": 5064,
-    "ItemDescription": {
-      "Description": "Este objeto debilita la velocidad de movimiento de los enemigos cercanos.",
-      "Menuitems": [],
-      "SecondaryDescription": "Reduce un 40 % la velocidad de movimiento de todos los dioses enemigos en un radio de 55 unidades a tu alrededor durante 5 s. Su curación se reduce también un 65 % mientras dure. Recarga: 150 s."
-    },
-    "ItemId": 7671,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Disminuye la velocidad de movimiento y curación del enemigo.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/cursed-ankh.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Santuario",
-    "IconId": 4306,
-    "ItemDescription": {
-      "Description": "Concede una breve invulnerabilidad.",
-      "Menuitems": [],
-      "SecondaryDescription": "Concede una breve invulnerabilidad al daño durante 2 s evitando cualquier acción. Puedes moverte. Recarga - 160 s."
-    },
-    "ItemId": 7672,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Invulnerabilidad por un periodo.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/aegis-amulet.jpg",
-    "ret_msg": null
-  },
-  {
     "ActiveFlag": "n",
     "ChildItemId": 12333,
     "DeviceName": "Ira",
@@ -5358,469 +5421,7 @@
     "ShortDesc": "Inflige daño a los jefes de la jungla",
     "StartingItem": false,
     "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/hand-of-the-gods.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Parpadeo",
-    "IconId": 5060,
-    "ItemDescription": {
-      "Description": "Este objeto te permite teletransportarte a distancias cortas.",
-      "Menuitems": [],
-      "SecondaryDescription": "Este objeto te permite teletransportarte a distancias cortas al instante. Debes estar fuera de combate durante 3 s para poder usarlo. Recarga: 120 s."
-    },
-    "ItemId": 8844,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Teletransportación de corto alcance.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/blink-rune.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Purificación",
-    "IconId": 4301,
-    "ItemDescription": {
-      "Description": "Elimina los efectos de control de masas del portador.",
-      "Menuitems": [],
-      "SecondaryDescription": "Elimina los efectos de control de masas y te hace inmune a los nuevos efectos durante 1 s. Recarga: 160 s."
-    },
-    "ItemId": 8879,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Elimina los efectos de control de masas.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/purification-beads.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Teletransporte",
-    "IconId": 5076,
-    "ItemDescription": {
-      "Description": "Con este objeto te teletransportas a cualquier torre o guarda aliados, sin interrupción por daño.",
-      "Menuitems": [],
-      "SecondaryDescription": "Con este objeto te teletransportas a cualquier torre o guarda aliados, sin interrupción por daño, mientras estás inmovilizado. Un fuerte control de masas puede interrumpirlo. Recarga: 180 s."
-    },
-    "ItemId": 9040,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Teleportarse a una torre o guardián aliado sin interrupción por daño.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/teleport-glyph.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Meditación",
-    "IconId": 4305,
-    "ItemDescription": {
-      "Description": "Restaura la salud y maná del portador y sus aliados cercanos.",
-      "Menuitems": [],
-      "SecondaryDescription": "Este objeto restaura un 15 % de la salud del portador al dueño y a sus compañeros de equipo en un radio de 35 unidades, además de un 35 % del maná máximo del dueño. Recarga: 120 s."
-    },
-    "ItemId": 9041,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Restauración de salud y maná",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/meditation-cloak.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Caparazón",
-    "IconId": 4308,
-    "ItemDescription": {
-      "Description": "Ofrece al usuario y a sus aliados un potenciador de protección y mitiga los daños.",
-      "Menuitems": [],
-      "SecondaryDescription": "El usuario y sus aliados reciben +45 protecciones mágicas y físicas durante 5 segundos. Además, todo el daño recibido se reduce un 15 %. Recarga: 140 s."
-    },
-    "ItemId": 9120,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Potenciador de mitigación al daño y protecciones.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/magic-shell.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Espinas",
-    "IconId": 5072,
-    "ItemDescription": {
-      "Description": "Al activarlo reflejas el 40 % de todo el daño que recibes durante 5 s.",
-      "Menuitems": [],
-      "SecondaryDescription": "Al usarlo reflejas el 40 % de todo el daño que recibes, antes de mitigarlo, durante 5 s como daño mágico. Recarga: 120 s."
-    },
-    "ItemId": 11106,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Refleja el 40 % de todo el daño.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/shield-of-thorns.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Desgarrar",
-    "IconId": 5074,
-    "ItemDescription": {
-      "Description": "Al activarlo, lanza un rayo que se detiene en el primer dios al que alcanza e inflige daño real.",
-      "Menuitems": [],
-      "SecondaryDescription": "Al activarlo, lanza un rayo que se detiene en el primer dios al que alcanza e inflige 40 de daño real +14 de daño por nivel de dios y reduce las protecciones del objetivo y la velocidad de ataque un 30 % durante 4 s. Recarga: 120 s."
-    },
-    "ItemId": 12580,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Lanza un proyectil que inflige daño real.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/sundering-spear.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Fantasma",
-    "IconId": 4671,
-    "ItemDescription": {
-      "Description": "Inmune al Paseo fantasma y a la penalización de ataques básicos.",
-      "Menuitems": [],
-      "SecondaryDescription": "Este objeto te permite atravesar a jugadores y objetos creados por estos durante 5 s. Además, te proporciona una reducción de la penalización de movimiento de ataques básicos del 100 % mientras dura. Recarga: 140 s."
-    },
-    "ItemId": 13193,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Inmune a penalizaciones por ataques básicos y Paseo fantasma.",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/phantom-veil.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Horrific Emblem",
-    "IconId": 5068,
-    "ItemDescription": {
-      "Description": "Reduces enemy gods Attack Speed and Movement Speed.",
-      "Menuitems": [],
-      "SecondaryDescription": "Using this item Slows the Movement Speed of all enemy gods within 35 units by 30% for 5s. Their Attack Speed is also reduced by 15% for the duration. Cooldown - 130s."
-    },
-    "ItemId": 14056,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/horrific-emblem.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Bracer of Undoing",
-    "IconId": 5062,
-    "ItemDescription": {
-      "Description": "Heals Mana and Health.",
-      "Menuitems": [],
-      "SecondaryDescription": "Using this restores 40% Health and Mana lost within the last 5s. Cooldown - 120s."
-    },
-    "ItemId": 14112,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/bracer-of-undoing.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Belt of Frenzy",
-    "IconId": 4304,
-    "ItemDescription": {
-      "Description": "Ally damage buff.",
-      "Menuitems": [],
-      "SecondaryDescription": "Using this item grants all allied gods within 70 units 10% Increased Damage dealt to all targets, including objectives, and 15% Attack Speed increase for 5 seconds. Cooldown - 120s."
-    },
-    "ItemId": 14536,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/belt-of-frenzy.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 8879,
-    "DeviceName": "Purification Beads Upgrade",
-    "IconId": 5109,
-    "ItemDescription": {
-      "Description": "Removes Crowd Control Effects.",
-      "Menuitems": [],
-      "SecondaryDescription": "Using this item removes Crowd Control Effects and makes you immune to new ones for 2s. Cooldown - 130s."
-    },
-    "ItemId": 14146,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/purification-beads-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 7353,
-    "DeviceName": "Heavenly Wings Upgrade",
-    "IconId": 5105,
-    "ItemDescription": {
-      "Description": "Increases ally Movement Speed",
-      "Menuitems": [],
-      "SecondaryDescription": "Using this item increases the Movement Speed of allied gods within 55 units by 20% for 5s, makes them immune to Slows, and grants Haste causing them to be immune to Basic Attack Movement Penalty.  Cooldown - 140s"
-    },
-    "ItemId": 14147,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/heavenly-wings-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 8844,
-    "DeviceName": "Blink Rune Upgrade",
-    "IconId": 5061,
-    "ItemDescription": {
-      "Description": "Short range teleport.",
-      "Menuitems": [],
-      "SecondaryDescription": "Using this item will allow you to teleport up to 55 units away instantly. After using this item you gain a 10% Damage Mitigation Buff for 2s. This item can not be used if you have taken or dealt damage in the last 3s. Cooldown - 120s."
-    },
-    "ItemId": 14150,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/blink-rune-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 7671,
-    "DeviceName": "Cursed Ankh Upgrade",
-    "IconId": 5065,
-    "ItemDescription": {
-      "Description": "Reduces enemy Healing.",
-      "Menuitems": [],
-      "SecondaryDescription": "Using this item reduces the Healing received by all enemy gods within 55 units by 50% for 10s. Enemies that are healed while affected by this curse take 20% more damage from all sources for the duration of the curse. Cooldown - 120s."
-    },
-    "ItemId": 14151,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/cursed-ankh-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 9041,
-    "DeviceName": "Meditation Cloak Upgrade",
-    "IconId": 5107,
-    "ItemDescription": {
-      "Description": "Mana and Health restoration.",
-      "Menuitems": [],
-      "SecondaryDescription": "Using this item restores 75 Health + 12 Health per level and 30% Mana to all Allied gods within 35 units. Allies affected by Meditation Cloak have their abilities' mana cost reduced by 30% and their Ability Cooldowns reduced by 1s upon use. Cooldown - 120s."
-    },
-    "ItemId": 14152,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/meditation-cloak-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 13193,
-    "DeviceName": "Phantom Veil Upgrade",
-    "IconId": 5108,
-    "ItemDescription": {
-      "Description": "Ghostwalk and Damage Reduction Buff.",
-      "Menuitems": [],
-      "SecondaryDescription": "Using this item allows you and allied gods within 35 units to pass through players and player made objects for 10s. It also provides a 15% Damage Mitigation Buff for 5s. Cooldown - 150s."
-    },
-    "ItemId": 14153,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/phantom-veil-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 7672,
-    "DeviceName": "Aegis Amulet Upgrade",
-    "IconId": 5103,
-    "ItemDescription": {
-      "Description": "Using this item grants the owner invulnerability for a short duration.",
-      "Menuitems": [],
-      "SecondaryDescription": "Using this item makes you invulnerable to damage and healing for 1.5s, and prevents you from taking any actions. You may still move. Cooldown - 150s."
-    },
-    "ItemId": 14154,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/aegis-amulet-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 9120,
-    "DeviceName": "Magic Shell Upgrade",
-    "IconId": 5106,
-    "ItemDescription": {
-      "Description": "Protections and Damage Mitigation Buff.",
-      "Menuitems": [],
-      "SecondaryDescription": "Using this item applies a shield to himself and allies within 35 units for 100 Health + 12 Health per God Level for 3 seconds. Additionally, all allies receive 2 stacks of Block, absorbing the next 2 Basic Attacks. Cooldown - 150s."
-    },
-    "ItemId": 14155,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/magic-shell-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12580,
-    "DeviceName": "Sundering Spear Upgrade",
-    "IconId": 5075,
-    "ItemDescription": {
-      "Description": "Fires True Damage Projectile.",
-      "Menuitems": [],
-      "SecondaryDescription": "Using this item fires a bolt that travels 70 units, stopping on the first god hit dealing 15% of the target's Current Health as True Damage and increasing their damage taken by 20% for 5s. Cooldown - 110s."
-    },
-    "ItemId": 14156,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/sundering-spear-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 9040,
-    "DeviceName": "Teleport Glyph Upgrade",
-    "IconId": 5077,
-    "ItemDescription": {
-      "Description": "Teleport to an allied tower. Not interrupted by damage. ",
-      "Menuitems": [],
-      "SecondaryDescription": "Using this item allows you to teleport to any allied tower or ward while Rooted in place. This effect is not interrupted by damage but is interrupted by hard Crowd Control. Cooldown - 200s."
-    },
-    "ItemId": 14157,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/teleport-glyph-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 11106,
-    "DeviceName": "Shield of Thorns Upgrade",
-    "IconId": 5073,
-    "ItemDescription": {
-      "Description": "Upon activation you reflect 40% of all damage you take for the next 5s back to its owner.",
-      "Menuitems": [],
-      "SecondaryDescription": "Using this item reflects 40% of all damage you take, before mitigations, for the next 5 seconds, back to its owner as Magical Damage. If you are dealt 150 * your level damage while this effect is active, the effect will end early. While this is active enemies can only lifesteal from you for 50% of their total lifesteal. Cooldown - 120s."
-    },
-    "ItemId": 14158,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/shield-of-thorns-upgrade.jpg",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/*hand-of-the-gods.jpg",
     "ret_msg": null
   },
   {
@@ -5842,69 +5443,6 @@
     "StartingItem": false,
     "Type": "Active",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/hand-of-the-gods-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 14056,
-    "DeviceName": "Horrific Emblem Upgrade",
-    "IconId": 5069,
-    "ItemDescription": {
-      "Description": "Reduces enemy gods Attack Speed and Movement Speed.",
-      "Menuitems": [],
-      "SecondaryDescription": "Using this item Slows the Movement Speed of all enemy gods within 35 units by 30% for 5s. Their Attack Speed is reduced by 25% for the duration. Additionally, their Damage Dealt is reduced by 15%. Cooldown - 130s."
-    },
-    "ItemId": 14162,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/horrific-emblem-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 14112,
-    "DeviceName": "Bracer of Undoing Upgrade",
-    "IconId": 5063,
-    "ItemDescription": {
-      "Description": "Reduces ability Cooldowns and heals Mana and Health.",
-      "Menuitems": [],
-      "SecondaryDescription": "Using this item subtracts 3s from all abilities currently on Cooldown and restores 40% Health and Mana lost within the last 5s. Cooldown - 120s."
-    },
-    "ItemId": 14164,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/bracer-of-undoing-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 14536,
-    "DeviceName": "Belt of Frenzy Upgrade",
-    "IconId": 5302,
-    "ItemDescription": {
-      "Description": "Ally damage buff.",
-      "Menuitems": [],
-      "SecondaryDescription": "Using this item grants all allied gods within 70 units 10% Increased Damage dealt to all targets, including objectives, and 15% Attack Speed increase for 8 seconds. While active they also gain +10 Penetration. Cooldown - 120s."
-    },
-    "ItemId": 14538,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/belt-of-frenzy-upgrade.jpg",
     "ret_msg": null
   },
   {
@@ -6590,7 +6128,7 @@
           "Value": "+20%"
         }
       ],
-      "SecondaryDescription": "AURA - Allied gods within 70 units have their Attack Speed increased by 20%."
+      "SecondaryDescription": "AURA - Allied gods within 70 units have their Attack Speed increased by 25%."
     },
     "ItemId": 14178,
     "ItemTier": 3,
@@ -6869,7 +6407,7 @@
     "DeviceName": "Stone of Binding",
     "IconId": 5051,
     "ItemDescription": {
-      "Description": "Aura reducing enemy Physical Power.",
+      "Description": null,
       "Menuitems": [
         {
           "Description": "Magical Power",
@@ -6884,7 +6422,7 @@
           "Value": "+30"
         }
       ],
-      "SecondaryDescription": "PASSIVE - Successfully hitting an enemy god with Crowd Control will place a debuff on the enemy, reducing their Magical and Physical Protections by 15 for 5s."
+      "SecondaryDescription": "PASSIVE - Successfully hitting an enemy god with Crowd Control will place a debuff on the enemy, reducing their Magical and Physical Protections by 10 for 5s."
     },
     "ItemId": 14175,
     "ItemTier": 2,
@@ -6933,11 +6471,11 @@
     "DeviceName": "Stone of Fal",
     "IconId": 5052,
     "ItemDescription": {
-      "Description": "Anytime you would be dealt more than 20% of your Max Health by a single Magical ability, that damage is instead reduced by 10%.",
+      "Description": null,
       "Menuitems": [
         {
           "Description": "Magical Power",
-          "Value": "+70"
+          "Value": "+80"
         },
         {
           "Description": "Magical Protection",
@@ -6948,11 +6486,11 @@
           "Value": "+10%"
         }
       ],
-      "SecondaryDescription": "PASSIVE - Anytime you would be dealt more than 20% of your Max Health by a single Magical ability, that damage is instead reduced by 10%."
+      "SecondaryDescription": "PASSIVE - You gain 20% of the Magical protections of the nearby allied god with the highest Magical protections within 70ft."
     },
     "ItemId": 14079,
     "ItemTier": 3,
-    "Price": 900,
+    "Price": 1200,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 14071,
     "ShortDesc": "",
@@ -7069,9 +6607,9 @@
     "DeviceName": "Guardian's Blessing",
     "IconId": 6555,
     "ItemDescription": {
-      "Description": null,
+      "Description": "",
       "Menuitems": [],
-      "SecondaryDescription": "+100 Health\n+5 Physical Protection and Magical Protection\n+7 HP and Mana Restore per Minion Assisted\n+5 MP5\n+3 Gold per Minion Assisted\n\nROLE QUEST: SUPPORT\nAssist with Minion kills to gain stacks. Each Assist is worth 1 stack. At 50 stacks Guardian's Blessing Evolves, gaining 4 Gold Per 5s."
+      "SecondaryDescription": "+100 Health\n+5 Physical Protection and Magical Protection\n+7 HP5 & 7 MP5 while within 60ft of an ally god\n+3 Gold per Minion Assisted\n\nROLE QUEST: SUPPORT\nAssist with Minion kills to gain stacks. Each Assist is worth 1 stack. At 50 stacks Guardian's Blessing Evolves, gaining 4 Gold Per 5s."
     },
     "ItemId": 15473,
     "ItemTier": 1,
@@ -7090,9 +6628,9 @@
     "DeviceName": "Evolved Guardian's Blessing",
     "IconId": 6556,
     "ItemDescription": {
-      "Description": null,
+      "Description": "",
       "Menuitems": [],
-      "SecondaryDescription": "+100 Health\n+5 Physical Protection and Magical Protection\n+7 HP and Mana Restore per Minion Assisted\n+5 MP5\n+3 Gold per Minion Assisted\n+4 Gold Per 5s\n\nROLE QUEST: SUPPORT: COMPLETED!"
+      "SecondaryDescription": "+100 Health\n+5 Physical Protection and Magical Protection\n+7 HP5 & 7 MP5 while within 60ft of an ally god\n+3 Gold per Minion Assisted\n+4 GP5\n\nROLE QUEST: SUPPORT : COMPLETED!"
     },
     "ItemId": 15477,
     "ItemTier": 2,
@@ -7197,7 +6735,7 @@
     "ItemDescription": {
       "Description": "",
       "Menuitems": [],
-      "SecondaryDescription": "+50 Health\n+35% Damage vs. Jungle Monsters\n+7% Health and 25 Mana Restored on Killing a Jungle Monster\r\nROLE QUEST: JUNGLE\nKill or Assist Jungle Monsters or Enemy Gods to gain stacks. Jungle Monsters are worth 1 stack and Enemy Gods are worth 5 stacks. At 50 Stacks Assassin's Blessing Evolves, gaining +5 Penetration and 5% Movement Speed."
+      "SecondaryDescription": "+50 Health\n+40% Damage vs. Jungle Monsters\n+7% Health and 25 Mana Restored on Killing a Jungle Monster\r\nROLE QUEST: JUNGLE\nKill or Assist Jungle Monsters or Enemy Gods to gain stacks. Jungle Monsters are worth 1 stack and Enemy Gods are worth 5 stacks. At 50 Stacks Assassin's Blessing Evolves, gaining +5 Penetration and 5% Movement Speed."
     },
     "ItemId": 15486,
     "ItemTier": 1,
@@ -7218,7 +6756,7 @@
     "ItemDescription": {
       "Description": null,
       "Menuitems": [],
-      "SecondaryDescription": "+50 Health\n+35% Bonus Damage vs. Jungle Monsters\n+7% Health and 25 Mana Restored on Killing a Jungle Monster\n+5 Penetration\n +5% Movement Speed\n\nROLE QUEST: JUNGLE: COMPLETED!"
+      "SecondaryDescription": "+50 Health\n+40% Bonus Damage vs. Jungle Monsters\n+7% Health and 25 Mana Restored on Killing a Jungle Monster\n+5 Penetration\n +5% Movement Speed\n\nROLE QUEST: JUNGLE: COMPLETED!"
     },
     "ItemId": 15487,
     "ItemTier": 2,
@@ -7281,7 +6819,7 @@
     "ItemDescription": {
       "Description": null,
       "Menuitems": [],
-      "SecondaryDescription": "+20 MP5\n+10% Cooldown Reduction\n\nROLE QUEST: UTILITY\nDamage enemies or Heal allies to gain stacks. Each time an enemy is damaged or an ally god is healed by your abilities, gain 1 stack. Each ability can only trigger 3 stacks. At 75 Stacks Specialist's Blessing Evolves, gaining 10% Movement Speed."
+      "SecondaryDescription": "+10 HP5\n+20 MP5\n+10% Cooldown Reduction\n\nROLE QUEST: UTILITY\nDamage enemies or Heal allies to gain stacks. Each time an enemy is damaged or an ally god is healed by your abilities, gain 1 stack. Each ability can only trigger 3 stacks. At 75 Stacks Specialist's Blessing Evolves, gaining 10% Movement Speed."
     },
     "ItemId": 15571,
     "ItemTier": 1,
@@ -7302,7 +6840,7 @@
     "ItemDescription": {
       "Description": null,
       "Menuitems": [],
-      "SecondaryDescription": "+20 MP5\n+10% Cooldown Reduction\n+10% Movement Speed\n\nROLE QUEST: UTILITY: COMPLETED!"
+      "SecondaryDescription": "+10HP5\n+20 MP5\n+10% Cooldown Reduction\n+10% Movement Speed\n\nROLE QUEST: UTILITY: COMPLETED!"
     },
     "ItemId": 15572,
     "ItemTier": 2,
@@ -7535,16 +7073,12 @@
       "Description": null,
       "Menuitems": [
         {
-          "Description": "Penetration",
-          "Value": "+10"
-        },
-        {
           "Description": "Physical Power",
-          "Value": "+20"
+          "Value": "+30"
         },
         {
           "Description": "Magical Power",
-          "Value": "+50"
+          "Value": "+60"
         }
       ],
       "SecondaryDescription": "PASSIVE - Only can be bought by Warriors, Guardians"
@@ -7603,16 +7137,12 @@
       "Description": null,
       "Menuitems": [
         {
-          "Description": "Penetration",
-          "Value": "+15"
-        },
-        {
           "Description": "Physical Power",
-          "Value": "+35"
+          "Value": "+60"
         },
         {
           "Description": "Magical Power",
-          "Value": "+70"
+          "Value": "+100"
         }
       ],
       "SecondaryDescription": "PASSIVE - GAIN DAMAGE, SACRIFICE DEFENSES\nOnly can be bought by Warriors, Guardians\n<font color='#42F46E'>+20% Damage Dealt\n<font color='#F44242'>+25% Damage Taken"
@@ -7653,7 +7183,7 @@
           "Value": "+20%"
         }
       ],
-      "SecondaryDescription": "PASSIVE - GAIN DEFENSE, SACRIFICE DAMAGE\nOnly can be bought by Mages, Hunters, Assassins\n<font color='#42F46E'>-25% Damage Taken\n<font color='#F44242'>-25% Damage Dealt\n<font color='#F44242'>-25% Healing Done"
+      "SecondaryDescription": "PASSIVE - GAIN DEFENSE, SACRIFICE DAMAGE\nOnly can be bought by Mages, Hunters, Assassins\n<font color='#42F46E'>-20% Damage Taken\n<font color='#F44242'>-20% Damage Dealt\n<font color='#F44242'>-20% Healing Done"
     },
     "ItemId": 14541,
     "ItemTier": 3,
@@ -7847,7 +7377,11 @@
       "Menuitems": [
         {
           "Description": "Magical Power",
-          "Value": "+120"
+          "Value": "+110"
+        },
+        {
+          "Description": "Magical Penetration",
+          "Value": "+10%"
         },
         {
           "Description": "Cooldown Reduction",
@@ -7963,6 +7497,666 @@
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/fail-not.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 0,
+    "DeviceName": "Potion of Power",
+    "IconId": 1980,
+    "ItemDescription": {
+      "Description": null,
+      "Menuitems": [
+        {
+          "Description": " ",
+          "Value": ""
+        },
+        {
+          "Description": "Unlocks at level 10",
+          "Value": ""
+        }
+      ],
+      "SecondaryDescription": "\r\nThis consumable increases your Physical Power by 40, Magical Power by 70 and Cooldown Reduction by 10% for 5 minutes or until you are killed. "
+    },
+    "ItemId": 18194,
+    "ItemTier": 1,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18194,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Consumable",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/potion-of-power.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 0,
+    "DeviceName": "Hand of the Gods",
+    "IconId": 8137,
+    "ItemDescription": {
+      "Description": "",
+      "Menuitems": [],
+      "SecondaryDescription": "This consumable deals 150 True damage to Jungle Monsters around you. This only affects Monsters on your side of the Jungle."
+    },
+    "ItemId": 18200,
+    "ItemTier": 1,
+    "Price": 100,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18200,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Consumable",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/hand-of-the-gods.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 0,
+    "DeviceName": "Vision Shard",
+    "IconId": 8136,
+    "ItemDescription": {
+      "Description": null,
+      "Menuitems": [],
+      "SecondaryDescription": "Using this item places a ward that lasts 60 seconds. Vision Shard can be upgraded to a new relic once you reach Level 12. Cooldown - 120s."
+    },
+    "ItemId": 18307,
+    "ItemTier": 1,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/vision-shard.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Esprint",
+    "IconId": 4309,
+    "ItemDescription": {
+      "Description": "Este objeto mejora un 40 % la velocidad de movimiento de los aliados en un radio de 55 unidades durante 5 s y los vuelve inmunes a la ralentización mientras dura.",
+      "Menuitems": [],
+      "SecondaryDescription": "Este objeto mejora un 40 % la velocidad de movimiento de los aliados en un radio de 55 unidades durante 5 s y los vuelve inmunes a la ralentización mientras dura. Recarga: 150 s."
+    },
+    "ItemId": 7353,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Aumenta la velocidad de movimiento del aliado",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/heavenly-wings.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Maldición",
+    "IconId": 5064,
+    "ItemDescription": {
+      "Description": "Este objeto debilita la velocidad de movimiento de los enemigos cercanos.",
+      "Menuitems": [],
+      "SecondaryDescription": "Reduce un 40 % la velocidad de movimiento de todos los dioses enemigos en un radio de 55 unidades a tu alrededor durante 5 s. Su curación se reduce también un 65 % mientras dure. Recarga: 150 s."
+    },
+    "ItemId": 7671,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Disminuye la velocidad de movimiento y curación del enemigo.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/cursed-ankh.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Santuario",
+    "IconId": 4306,
+    "ItemDescription": {
+      "Description": "Concede una breve invulnerabilidad.",
+      "Menuitems": [],
+      "SecondaryDescription": "Concede una breve invulnerabilidad al daño durante 2 s evitando cualquier acción. Puedes moverte. Recarga - 160 s."
+    },
+    "ItemId": 7672,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Invulnerabilidad por un periodo.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/aegis-amulet.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Parpadeo",
+    "IconId": 5060,
+    "ItemDescription": {
+      "Description": "Este objeto te permite teletransportarte a distancias cortas.",
+      "Menuitems": [],
+      "SecondaryDescription": "Este objeto te permite teletransportarte a distancias cortas al instante. Debes estar fuera de combate durante 3 s para poder usarlo. Recarga: 120 s."
+    },
+    "ItemId": 8844,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Teletransportación de corto alcance.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/blink-rune.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Purificación",
+    "IconId": 4301,
+    "ItemDescription": {
+      "Description": "Elimina los efectos de control de masas del portador.",
+      "Menuitems": [],
+      "SecondaryDescription": "Elimina los efectos de control de masas y te hace inmune a los nuevos efectos durante 1 s. Recarga: 160 s."
+    },
+    "ItemId": 8879,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Elimina los efectos de control de masas.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/purification-beads.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Teletransporte",
+    "IconId": 5076,
+    "ItemDescription": {
+      "Description": "Con este objeto te teletransportas a cualquier torre o guarda aliados, sin interrupción por daño.",
+      "Menuitems": [],
+      "SecondaryDescription": "Con este objeto te teletransportas a cualquier torre o guarda aliados, sin interrupción por daño, mientras estás inmovilizado. Un fuerte control de masas puede interrumpirlo. Recarga: 180 s."
+    },
+    "ItemId": 9040,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Teleportarse a una torre o guardián aliado sin interrupción por daño.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/teleport-glyph.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Meditación",
+    "IconId": 4305,
+    "ItemDescription": {
+      "Description": "Restaura la salud y maná del portador y sus aliados cercanos.",
+      "Menuitems": [],
+      "SecondaryDescription": "Este objeto restaura un 15 % de la salud del portador al dueño y a sus compañeros de equipo en un radio de 35 unidades, además de un 35 % del maná máximo del dueño. Recarga: 120 s."
+    },
+    "ItemId": 9041,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Restauración de salud y maná",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/meditation-cloak.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Caparazón",
+    "IconId": 4308,
+    "ItemDescription": {
+      "Description": "Ofrece al usuario y a sus aliados un potenciador de protección y mitiga los daños.",
+      "Menuitems": [],
+      "SecondaryDescription": "El usuario y sus aliados reciben +45 protecciones mágicas y físicas durante 5 segundos. Además, todo el daño recibido se reduce un 15 %. Recarga: 140 s."
+    },
+    "ItemId": 9120,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Potenciador de mitigación al daño y protecciones.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/magic-shell.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Espinas",
+    "IconId": 5072,
+    "ItemDescription": {
+      "Description": "Al activarlo reflejas el 40 % de todo el daño que recibes durante 5 s.",
+      "Menuitems": [],
+      "SecondaryDescription": "Al usarlo reflejas el 40 % de todo el daño que recibes, antes de mitigarlo, durante 5 s como daño mágico. Recarga: 120 s."
+    },
+    "ItemId": 11106,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Refleja el 40 % de todo el daño.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/shield-of-thorns.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Desgarrar",
+    "IconId": 5074,
+    "ItemDescription": {
+      "Description": "Al activarlo, lanza un rayo que se detiene en el primer dios al que alcanza e inflige daño real.",
+      "Menuitems": [],
+      "SecondaryDescription": "Al activarlo, lanza un rayo que se detiene en el primer dios al que alcanza e inflige 40 de daño real +14 de daño por nivel de dios y reduce las protecciones del objetivo y la velocidad de ataque un 30 % durante 4 s. Recarga: 120 s."
+    },
+    "ItemId": 12580,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Lanza un proyectil que inflige daño real.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/sundering-spear.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Fantasma",
+    "IconId": 4671,
+    "ItemDescription": {
+      "Description": "Inmune al Paseo fantasma y a la penalización de ataques básicos.",
+      "Menuitems": [],
+      "SecondaryDescription": "Este objeto te permite atravesar a jugadores y objetos creados por estos durante 5 s. Además, te proporciona una reducción de la penalización de movimiento de ataques básicos del 100 % mientras dura. Recarga: 140 s."
+    },
+    "ItemId": 13193,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Inmune a penalizaciones por ataques básicos y Paseo fantasma.",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/phantom-veil.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Horrific Emblem",
+    "IconId": 5068,
+    "ItemDescription": {
+      "Description": "Reduces enemy gods Attack Speed and Movement Speed.",
+      "Menuitems": [],
+      "SecondaryDescription": "Using this item Slows the Movement Speed of all enemy gods within 35 units by 30% for 5s. Their Attack Speed is also reduced by 15% for the duration. Cooldown - 130s."
+    },
+    "ItemId": 14056,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/horrific-emblem.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Bracer of Undoing",
+    "IconId": 5062,
+    "ItemDescription": {
+      "Description": "Heals Mana and Health.",
+      "Menuitems": [],
+      "SecondaryDescription": "Using this restores 40% Health and Mana lost within the last 5s. Cooldown - 120s."
+    },
+    "ItemId": 14112,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/bracer-of-undoing.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Belt of Frenzy",
+    "IconId": 4304,
+    "ItemDescription": {
+      "Description": "Ally damage buff.",
+      "Menuitems": [],
+      "SecondaryDescription": "Using this item grants all allied gods within 70 units 10% Increased Damage dealt to all targets, including objectives, and 15% Attack Speed increase for 5 seconds. Cooldown - 120s."
+    },
+    "ItemId": 14536,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/belt-of-frenzy.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 8879,
+    "DeviceName": "Purification Beads Upgrade",
+    "IconId": 5109,
+    "ItemDescription": {
+      "Description": "Removes Crowd Control Effects.",
+      "Menuitems": [],
+      "SecondaryDescription": "Using this item removes Crowd Control Effects and makes you immune to new ones for 2s. Cooldown - 130s."
+    },
+    "ItemId": 14146,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/purification-beads-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 7353,
+    "DeviceName": "Heavenly Wings Upgrade",
+    "IconId": 5105,
+    "ItemDescription": {
+      "Description": "Increases ally Movement Speed",
+      "Menuitems": [],
+      "SecondaryDescription": "Using this item increases the Movement Speed of allied gods within 55 units by 20% for 5s, makes them immune to Slows, and grants Haste causing them to be immune to Basic Attack Movement Penalty.  Cooldown - 140s"
+    },
+    "ItemId": 14147,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/heavenly-wings-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 8844,
+    "DeviceName": "Blink Rune Upgrade",
+    "IconId": 5061,
+    "ItemDescription": {
+      "Description": "Short range teleport.",
+      "Menuitems": [],
+      "SecondaryDescription": "Using this item will allow you to teleport up to 55 units away instantly. After using this item you gain a 10% Damage Mitigation Buff for 2s. This item can not be used if you have taken or dealt damage in the last 3s. Cooldown - 120s."
+    },
+    "ItemId": 14150,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/blink-rune-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 7671,
+    "DeviceName": "Cursed Ankh Upgrade",
+    "IconId": 5065,
+    "ItemDescription": {
+      "Description": "Reduces enemy Healing.",
+      "Menuitems": [],
+      "SecondaryDescription": "Using this item reduces the Healing received by all enemy gods within 55 units by 50% for 10s. Enemies that are healed while affected by this curse take 20% more damage from all sources for the duration of the curse. Cooldown - 120s."
+    },
+    "ItemId": 14151,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/cursed-ankh-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 9041,
+    "DeviceName": "Meditation Cloak Upgrade",
+    "IconId": 5107,
+    "ItemDescription": {
+      "Description": "Mana and Health restoration.",
+      "Menuitems": [],
+      "SecondaryDescription": "Using this item restores 75 Health + 12 Health per level and 30% Mana to all Allied gods within 35 units. Allies affected by Meditation Cloak have their abilities' mana cost reduced by 30% and their Ability Cooldowns reduced by 1s upon use. Cooldown - 120s."
+    },
+    "ItemId": 14152,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/meditation-cloak-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 13193,
+    "DeviceName": "Phantom Veil Upgrade",
+    "IconId": 5108,
+    "ItemDescription": {
+      "Description": "Ghostwalk and Damage Reduction Buff.",
+      "Menuitems": [],
+      "SecondaryDescription": "Using this item allows you and allied gods within 35 units to pass through players and player made objects for 10s. It also provides a 15% Damage Mitigation Buff for 5s. Cooldown - 150s."
+    },
+    "ItemId": 14153,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/phantom-veil-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 7672,
+    "DeviceName": "Aegis Amulet Upgrade",
+    "IconId": 5103,
+    "ItemDescription": {
+      "Description": "Using this item grants the owner invulnerability for a short duration.",
+      "Menuitems": [],
+      "SecondaryDescription": "Using this item makes you invulnerable to damage and healing for 1.5s, and prevents you from taking any actions. You may still move. Cooldown - 150s."
+    },
+    "ItemId": 14154,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/aegis-amulet-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 9120,
+    "DeviceName": "Magic Shell Upgrade",
+    "IconId": 5106,
+    "ItemDescription": {
+      "Description": "Protections and Damage Mitigation Buff.",
+      "Menuitems": [],
+      "SecondaryDescription": "Using this item applies a shield to himself and allies within 35 units for 100 Health + 12 Health per God Level for 3 seconds. Additionally, all allies receive 2 stacks of Block, absorbing the next 2 Basic Attacks. Cooldown - 150s."
+    },
+    "ItemId": 14155,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/magic-shell-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 12580,
+    "DeviceName": "Sundering Spear Upgrade",
+    "IconId": 5075,
+    "ItemDescription": {
+      "Description": "Fires True Damage Projectile.",
+      "Menuitems": [],
+      "SecondaryDescription": "Using this item fires a bolt that travels 70 units, stopping on the first god hit dealing 15% of the target's Current Health as True Damage and increasing their damage taken by 20% for 5s. Cooldown - 110s."
+    },
+    "ItemId": 14156,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/sundering-spear-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 9040,
+    "DeviceName": "Teleport Glyph Upgrade",
+    "IconId": 5077,
+    "ItemDescription": {
+      "Description": "Teleport to an allied tower. Not interrupted by damage. ",
+      "Menuitems": [],
+      "SecondaryDescription": "Using this item allows you to teleport to any allied tower or ward while Rooted in place. This effect is not interrupted by damage but is interrupted by hard Crowd Control. Cooldown - 200s."
+    },
+    "ItemId": 14157,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/teleport-glyph-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 11106,
+    "DeviceName": "Shield of Thorns Upgrade",
+    "IconId": 5073,
+    "ItemDescription": {
+      "Description": "Upon activation you reflect 40% of all damage you take for the next 5s back to its owner.",
+      "Menuitems": [],
+      "SecondaryDescription": "Using this item reflects 40% of all damage you take, before mitigations, for the next 5 seconds, back to its owner as Magical Damage. If you are dealt 150 * your level damage while this effect is active, the effect will end early. While this is active enemies can only lifesteal from you for 50% of their total lifesteal. Cooldown - 120s."
+    },
+    "ItemId": 14158,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/shield-of-thorns-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 14056,
+    "DeviceName": "Horrific Emblem Upgrade",
+    "IconId": 5069,
+    "ItemDescription": {
+      "Description": "Reduces enemy gods Attack Speed and Movement Speed.",
+      "Menuitems": [],
+      "SecondaryDescription": "Using this item Slows the Movement Speed of all enemy gods within 35 units by 30% for 5s. Their Attack Speed is reduced by 25% for the duration. Additionally, their Damage Dealt is reduced by 15%. Cooldown - 130s."
+    },
+    "ItemId": 14162,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/horrific-emblem-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 14112,
+    "DeviceName": "Bracer of Undoing Upgrade",
+    "IconId": 5063,
+    "ItemDescription": {
+      "Description": "Reduces ability Cooldowns and heals Mana and Health.",
+      "Menuitems": [],
+      "SecondaryDescription": "Using this item subtracts 3s from all abilities currently on Cooldown and restores 40% Health and Mana lost within the last 5s. Cooldown - 120s."
+    },
+    "ItemId": 14164,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/bracer-of-undoing-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 14536,
+    "DeviceName": "Belt of Frenzy Upgrade",
+    "IconId": 5302,
+    "ItemDescription": {
+      "Description": "Ally damage buff.",
+      "Menuitems": [],
+      "SecondaryDescription": "Using this item grants all allied gods within 70 units 10% Increased Damage dealt to all targets, including objectives, and 15% Attack Speed increase for 8 seconds. While active they also gain +10 Penetration. Cooldown - 120s."
+    },
+    "ItemId": 14538,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/belt-of-frenzy-upgrade.jpg",
     "ret_msg": null
   }
 ]

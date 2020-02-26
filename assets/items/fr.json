@@ -76,7 +76,7 @@
           "Value": "+45"
         }
       ],
-      "SecondaryDescription": "AURA - Tous les dieux alliés à moins de 70 unités gagnent +15 protection physique et +25 PV5."
+      "SecondaryDescription": "AURA - Tous les dieux alliés à moins de 70 unités gagnent +15 en protection physique et +35 PV5."
     },
     "ItemId": 7528,
     "ItemTier": 3,
@@ -99,7 +99,7 @@
       "Menuitems": [
         {
           "Description": "Santé",
-          "Value": "+300"
+          "Value": "+200"
         },
         {
           "Description": "Protection physique",
@@ -114,7 +114,7 @@
     },
     "ItemId": 7537,
     "ItemTier": 3,
-    "Price": 1300,
+    "Price": 1050,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 7526,
     "ShortDesc": "Dégâts périodiques aux ennemis proches",
@@ -181,66 +181,6 @@
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/emperors-armor.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 0,
-    "DeviceName": "Potion de puissance magique",
-    "IconId": 1977,
-    "ItemDescription": {
-      "Description": "Ce consommable augmente votre puissance magique à l'utilisation. ",
-      "Menuitems": [
-        {
-          "Description": " ",
-          "Value": ""
-        },
-        {
-          "Description": "Débloqué au niveau 10",
-          "Value": ""
-        }
-      ],
-      "SecondaryDescription": "Ce consommable augmente votre puissance magique de 60 et votre réduction du temps de recharge de 10% pendant 5 minutes, ou jusqu'à votre mort. Par ailleurs, toucher des dieux ennemis avec une compétence restaure 3% de votre mana max. Cet effet peut se produire une fois pour chaque dieu touché par une même compétence."
-    },
-    "ItemId": 7529,
-    "ItemTier": 1,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 7529,
-    "ShortDesc": "Puissance magique à l'utilisation",
-    "StartingItem": false,
-    "Type": "Consumable",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/potion-of-magical-might.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 0,
-    "DeviceName": "Potion de puissance physique",
-    "IconId": 1980,
-    "ItemDescription": {
-      "Description": "La puissance physique augmente à l'utilisation.",
-      "Menuitems": [
-        {
-          "Description": " ",
-          "Value": ""
-        },
-        {
-          "Description": "Débloqué au niveau 10",
-          "Value": ""
-        }
-      ],
-      "SecondaryDescription": "Ce consommable augmente votre puissance physique de 30 pendant 5 minutes ou jusqu'à votre mort. Par ailleurs, vos compétences infligent aux dieux des dégâts bonus équivalant à 15% de votre puissance physique. Cet effet peut se produire une fois pour chaque dieu touché par une même compétence."
-    },
-    "ItemId": 7530,
-    "ItemTier": 1,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 7530,
-    "ShortDesc": "Puissance physique à l'utilisation",
-    "StartingItem": false,
-    "Type": "Consumable",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/potion-of-physical-might.jpg",
     "ret_msg": null
   },
   {
@@ -361,7 +301,7 @@
     "Price": 1100,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 7573,
-    "ShortDesc": "Vos attaques de base réduisent la protection physique",
+    "ShortDesc": "Attaques : réduction de protection physique",
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/the-executioner.jpg",
@@ -554,7 +494,7 @@
           "Value": "+12%"
         },
         {
-          "Description": "Réduction du temps de recharge",
+          "Description": "Pénétration magique",
           "Value": "+10%"
         }
       ],
@@ -615,7 +555,7 @@
       "Menuitems": [
         {
           "Description": "Puissance magique",
-          "Value": "+80"
+          "Value": "+70"
         },
         {
           "Description": "Mana",
@@ -624,6 +564,10 @@
         {
           "Description": "Drain de vie magique",
           "Value": "+15%"
+        },
+        {
+          "Description": "Pénétration magique",
+          "Value": "+10%"
         }
       ],
       "SecondaryDescription": "PASSIF - Les soins de votre drain de vie magique augmentent de 40%. Vous obtenez un bonus de puissance équivalant au double de votre drain de vie."
@@ -649,7 +593,7 @@
       "Menuitems": [
         {
           "Description": "Puissance magique",
-          "Value": "+65"
+          "Value": "+80"
         },
         {
           "Description": "Santé",
@@ -1149,7 +1093,7 @@
           "Value": "+10"
         }
       ],
-      "SecondaryDescription": "PASSIF - Pendant 8s après l'usage d'une compétence, votre prochaine attaque de base inflige 50% de dégâts supplémentaires. Cet effet à l'impact ne fonctionne pas avec les compétences considérées comme des attaques de base.\nPASSIF - Vous regagnez 2,5 PM5 par tranche de 10% de votre mana manquant."
+      "SecondaryDescription": "PASSIF - Pendant 8s après l'usage d'une compétence, votre prochaine attaque de base inflige 40% de dégâts supplémentaires. Cet effet à l'impact ne fonctionne pas avec les compétences considérées comme des attaques de base.\nPASSIF - Vous regagnez 2,5 PM5 par tranche de 10% de votre mana manquant."
     },
     "ItemId": 8550,
     "ItemTier": 3,
@@ -1653,11 +1597,7 @@
       "Menuitems": [
         {
           "Description": "Puissance magique",
-          "Value": "+55"
-        },
-        {
-          "Description": "Pénétration magique",
-          "Value": "+10"
+          "Value": "+75"
         },
         {
           "Description": "Vitesse de déplacement",
@@ -1668,7 +1608,7 @@
     },
     "ItemId": 9633,
     "ItemTier": 3,
-    "Price": 700,
+    "Price": 650,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9631,
     "ShortDesc": "Vitesse de déplacement, puissance magique",
@@ -1706,7 +1646,7 @@
     },
     "ItemId": 9634,
     "ItemTier": 3,
-    "Price": 650,
+    "Price": 700,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9631,
     "ShortDesc": "Vitesse de déplacement, réduction du temps de recharge",
@@ -1915,11 +1855,11 @@
           "Value": "+30%"
         }
       ],
-      "SecondaryDescription": "PASSIF - Chaque élimination ou assistance vous confère une charge permanente de 2% de chances de coup critique (5 charges maximum)."
+      "SecondaryDescription": "PASSIF - Chaque élimination ou assistance vous confère une charge permanente de 3% de chances de coup critique (5 charges maximum)."
     },
     "ItemId": 8546,
     "ItemTier": 3,
-    "Price": 900,
+    "Price": 800,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9812,
     "ShortDesc": "Éliminations et assist. : charges de chances de crit.",
@@ -1943,6 +1883,10 @@
         {
           "Description": "Chances de coup critique",
           "Value": "+25%"
+        },
+        {
+          "Description": "Réduction du temps de recharge",
+          "Value": "+10%"
         }
       ],
       "SecondaryDescription": "PASSIF - Vos coups critiques accélèrent de 3s la récupération des compétences en cours de rechargement (à l'exception de votre ultime). Cet effet ne peut se produire que toutes les 5s."
@@ -1972,7 +1916,7 @@
         },
         {
           "Description": "Chances de coup critique",
-          "Value": "+40%"
+          "Value": "+45%"
         }
       ],
       "SecondaryDescription": null
@@ -2107,7 +2051,7 @@
           "Value": "+10%"
         }
       ],
-      "SecondaryDescription": "PASSIF - Chaque unité qui meurt dans un rayon de 80 unités génère une charge. Les dieux, les grands monstres de jungle et les boss de jungle en génèrent 5. Une fois à 75 charges, cet objet évolue et procure +20 puissance physique, tout en permettant à vos compétences de vous soigner pour 15% des dégâts infligés."
+      "SecondaryDescription": "PASSIF - Chaque unité qui meurt à 80 unités de vous génère une charge. Les dieux, les grands monstres de jungle et les boss de jungle en génèrent 5. Une fois à 75 charges, cet objet évolue et procure +20 puissance physique et +5% drain de vie physique, tout en permettant à vos compétences de vous soigner pour 15% des dégâts infligés."
     },
     "ItemId": 7539,
     "ItemTier": 3,
@@ -2228,7 +2172,7 @@
         },
         {
           "Description": "Drain de vie physique",
-          "Value": "+10%"
+          "Value": "+15%"
         },
         {
           "Description": "Réduction du temps de recharge",
@@ -2310,7 +2254,41 @@
   },
   {
     "ActiveFlag": "y",
-    "ChildItemId": 8239,
+    "ChildItemId": 9828,
+    "DeviceName": "Lame maudite",
+    "IconId": 2894,
+    "ItemDescription": {
+      "Description": null,
+      "Menuitems": [
+        {
+          "Description": "Santé",
+          "Value": "+75"
+        },
+        {
+          "Description": "Vitesse d'attaque",
+          "Value": "+10%"
+        },
+        {
+          "Description": "Vitesse de déplacement",
+          "Value": "+5%"
+        }
+      ],
+      "SecondaryDescription": null
+    },
+    "ItemId": 18190,
+    "ItemTier": 2,
+    "Price": 700,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 9828,
+    "ShortDesc": "Vitesse d'attaque, vitesse de déplacement",
+    "StartingItem": false,
+    "Type": "Item",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/cursed-blade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18190,
     "DeviceName": "Lame de la sorcière",
     "IconId": 2892,
     "ItemDescription": {
@@ -2318,7 +2296,7 @@
       "Menuitems": [
         {
           "Description": "Santé",
-          "Value": "+200"
+          "Value": "+250"
         },
         {
           "Description": "Réduction du temps de recharge",
@@ -2337,7 +2315,7 @@
     },
     "ItemId": 7910,
     "ItemTier": 3,
-    "Price": 900,
+    "Price": 800,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9828,
     "ShortDesc": "Aura - malus de vitesse d'attaque",
@@ -2416,7 +2394,7 @@
   },
   {
     "ActiveFlag": "y",
-    "ChildItemId": 8239,
+    "ChildItemId": 18190,
     "DeviceName": "Lame toxique",
     "IconId": 5454,
     "ItemDescription": {
@@ -2443,7 +2421,7 @@
     },
     "ItemId": 14846,
     "ItemTier": 3,
-    "Price": 1050,
+    "Price": 950,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9828,
     "ShortDesc": "Attaques de base : réduction des soins reçus",
@@ -2717,7 +2695,7 @@
           "Value": "+30"
         }
       ],
-      "SecondaryDescription": "AURA - Réduit de 8 la protection physique des ennemis dans un rayon de 55 unités."
+      "SecondaryDescription": "AURA - Réduit de 5% la protection physique des ennemis dans un rayon de 55 unités."
     },
     "ItemId": 9834,
     "ItemTier": 2,
@@ -2751,7 +2729,7 @@
           "Value": "+10%"
         }
       ],
-      "SecondaryDescription": "PASSIF - Vous récupérez 2,5% de votre santé et de votre mana max. lorsque vous touchez un dieu ennemi avec une compétence. Cet effet ne peut se produire qu'une fois par dieu touché par une même compétence."
+      "SecondaryDescription": "PASSIF - Toucher un dieu ennemi avec une compétence redonne 2,5% des PV et des PM max. Cet effet ne fonctionne qu'une fois si une même utilisation de compétence touche un même dieu. Le montant est réduit de moitié quand la même utilisation de compétence déclenche l'effet plusieurs fois."
     },
     "ItemId": 14085,
     "ItemTier": 2,
@@ -2842,14 +2820,14 @@
         },
         {
           "Description": "Protection physique",
-          "Value": "+50"
+          "Value": "+60"
         },
         {
           "Description": "Santé",
           "Value": "+150"
         }
       ],
-      "SecondaryDescription": "AURA - La protection physique des dieux ennemis à moins de 55 unités est réduite de 20."
+      "SecondaryDescription": "AURA - La protection physique des dieux ennemis à moins de 55 unités est réduite de 15%."
     },
     "ItemId": 9836,
     "ItemTier": 3,
@@ -2932,7 +2910,7 @@
       "Menuitems": [
         {
           "Description": "Protection physique",
-          "Value": "+70"
+          "Value": "+75"
         },
         {
           "Description": "Mana",
@@ -2943,7 +2921,7 @@
           "Value": "+20"
         }
       ],
-      "SecondaryDescription": "PASSIF - Renvoie 25% des dégâts des attaques de base vers l'attaquant sous forme de dégâts physiques."
+      "SecondaryDescription": "PASSIF - Renvoie 15% des dégâts des attaques de base vers l'attaquant sous forme de dégâts physiques."
     },
     "ItemId": 7578,
     "ItemTier": 3,
@@ -3000,11 +2978,15 @@
     "DeviceName": "Armure spectrale",
     "IconId": 4324,
     "ItemDescription": {
-      "Description": "Quand un dieu ennemi vous inflige des dégâts physiques, les ennemis proches sont effrayés.",
+      "Description": "Ennemis proches effrayés quand vous subissez des dégâts physiques.",
       "Menuitems": [
         {
           "Description": "Protection physique",
-          "Value": "+70"
+          "Value": "+65"
+        },
+        {
+          "Description": "Santé",
+          "Value": "+200"
         },
         {
           "Description": "Mana",
@@ -3013,13 +2995,9 @@
         {
           "Description": "PM5",
           "Value": "+10"
-        },
-        {
-          "Description": "Réduction du contrôle",
-          "Value": "+20%"
         }
       ],
-      "SecondaryDescription": "PASSIF - Les dégâts bonus des coups critiques subis sont réduits de 50%."
+      "SecondaryDescription": ""
     },
     "ItemId": 12664,
     "ItemTier": 3,
@@ -3567,7 +3545,7 @@
           "Value": "+250"
         }
       ],
-      "SecondaryDescription": "AURA - La protection magique des dieux alliés à moins de 70 unités augmente de 15, et leurs PM5 augmentent de 10."
+      "SecondaryDescription": "AURA - Les dieux alliés à moins de 70 unités obtiennent +15 protection magique et +30 PM5."
     },
     "ItemId": 11116,
     "ItemTier": 3,
@@ -3642,11 +3620,15 @@
     "DeviceName": "Anneau enchanté",
     "IconId": 2832,
     "ItemDescription": {
-      "Description": "",
+      "Description": null,
       "Menuitems": [
         {
           "Description": "Puissance magique",
-          "Value": "+45"
+          "Value": "+40"
+        },
+        {
+          "Description": "Vitesse d'attaque",
+          "Value": "+10%"
         }
       ],
       "SecondaryDescription": null
@@ -3679,7 +3661,7 @@
           "Value": "+30%"
         }
       ],
-      "SecondaryDescription": "PASSIF - Vos attaques de base réduisent la protection magique de votre cible de 12% pendant 3s (3 charges max.)."
+      "SecondaryDescription": "PASSIF - Vos attaques de base réduisent la protection magique de votre cible de 10% pendant 3s (3 charges max.)."
     },
     "ItemId": 8564,
     "ItemTier": 3,
@@ -3702,7 +3684,7 @@
       "Menuitems": [
         {
           "Description": "Puissance magique",
-          "Value": "+90"
+          "Value": "+100"
         },
         {
           "Description": "Vitesse d'attaque",
@@ -3720,36 +3702,6 @@
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/telkhines-ring.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 9848,
-    "DeviceName": "Anneau de chaman",
-    "IconId": 5041,
-    "ItemDescription": {
-      "Description": "Objet évolutif",
-      "Menuitems": [
-        {
-          "Description": "Puissance magique",
-          "Value": "+110"
-        },
-        {
-          "Description": "Réduction du temps de recharge",
-          "Value": "+10%"
-        }
-      ],
-      "SecondaryDescription": "PASSIF - Infliger 100 dégâts à des dieux ennemis (après réduction) vous confère une charge. Une fois à 50 charges, Anneau de chaman évolue et vous obtenez un nouveau passif : vos compétences de dégâts appliquent un malus aux ennemis qui augmente de 10% tous les dégâts qu'ils subissent pendant 10s."
-    },
-    "ItemId": 14765,
-    "ItemTier": 3,
-    "Price": 1400,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 9847,
-    "ShortDesc": "Réduction du temps de recharge, dégâts bonus",
-    "StartingItem": true,
-    "Type": "Item",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/shamans-ring.jpg",
     "ret_msg": null
   },
   {
@@ -3788,32 +3740,36 @@
   },
   {
     "ActiveFlag": "y",
-    "ChildItemId": 14765,
-    "DeviceName": "Anneau de chaman évolué",
-    "IconId": 5460,
+    "ChildItemId": 9848,
+    "DeviceName": "Anneau d'Hécate",
+    "IconId": 8138,
     "ItemDescription": {
-      "Description": "Dégâts supplémentaires en touchant les ennemis.",
+      "Description": null,
       "Menuitems": [
         {
           "Description": "Puissance magique",
-          "Value": "+110"
+          "Value": "+80"
         },
         {
-          "Description": "Réduction du temps de recharge",
-          "Value": "+10%"
+          "Description": "Vitesse d'attaque",
+          "Value": "+20%"
+        },
+        {
+          "Description": "Drain de vie magique",
+          "Value": "+12%"
         }
       ],
-      "SecondaryDescription": "PASSIF - Infliger des dégâts de compétence à un dieu augmente de 10% tous les dégâts qu'il subit pendant 10s."
+      "SecondaryDescription": "PASSIF - Atteindre un dieu ennemi avec une attaque de base vous fait gagner 1 charge qui augmente votre drain de vie de 2%. Cet effet dure 5s et se cumule 5 fois."
     },
-    "ItemId": 14766,
-    "ItemTier": 4,
-    "Price": 0,
+    "ItemId": 18191,
+    "ItemTier": 3,
+    "Price": 1500,
     "RestrictedRoles": "no restrictions",
-    "RootItemId": 9848,
-    "ShortDesc": "Réduction du temps de recharge, dégâts bonus",
+    "RootItemId": 9847,
+    "ShortDesc": "Vitesse d'attaque et drain de vie",
     "StartingItem": false,
     "Type": "Item",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/evolved-shamans-ring.jpg",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/ring-of-hecate.jpg",
     "ret_msg": null
   },
   {
@@ -3848,14 +3804,18 @@
     "DeviceName": "Prisme de sorts",
     "IconId": 2836,
     "ItemDescription": {
-      "Description": "Cet objet donne de la pénétration magique au détenteur.",
+      "Description": "Cet objet donne de la pénétration magique",
       "Menuitems": [
         {
           "Description": "Puissance magique",
           "Value": "+45"
+        },
+        {
+          "Description": "Pénétration magique",
+          "Value": "+10%"
         }
       ],
-      "SecondaryDescription": "PASSIF - Vos dégâts ignorent 15% de la protection magique adverse."
+      "SecondaryDescription": null
     },
     "ItemId": 9850,
     "ItemTier": 2,
@@ -3900,32 +3860,6 @@
   },
   {
     "ActiveFlag": "y",
-    "ChildItemId": 9850,
-    "DeviceName": "Éclat d'obsidienne",
-    "IconId": 2834,
-    "ItemDescription": {
-      "Description": null,
-      "Menuitems": [
-        {
-          "Description": "Puissance magique",
-          "Value": "+70"
-        }
-      ],
-      "SecondaryDescription": "PASSIF - Vos dégâts magiques ignorent 15% de la protection magique des dieux, ou davantage s'ils ont plus de 40 protection magique, jusqu'à atteindre 45% à 200 protection magique."
-    },
-    "ItemId": 7525,
-    "ItemTier": 3,
-    "Price": 800,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 9849,
-    "ShortDesc": "Pénétration magique efficace contre les dieux solides",
-    "StartingItem": false,
-    "Type": "Item",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/obsidian-shard.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
     "ChildItemId": 9851,
     "DeviceName": "Ruine divine",
     "IconId": 2823,
@@ -3957,36 +3891,6 @@
   {
     "ActiveFlag": "y",
     "ChildItemId": 9851,
-    "DeviceName": "Lance du mage",
-    "IconId": 2835,
-    "ItemDescription": {
-      "Description": "Vos compétences de dégâts réduisent les protections magiques de votre cible.",
-      "Menuitems": [
-        {
-          "Description": "Puissance magique",
-          "Value": "+65"
-        },
-        {
-          "Description": "Pénétration magique",
-          "Value": "+10"
-        }
-      ],
-      "SecondaryDescription": "PASSIF - Vos compétences de dégâts retirent 10 de protection magique à votre cible pour 5s (5 charges max.)."
-    },
-    "ItemId": 8354,
-    "ItemTier": 3,
-    "Price": 1050,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 9849,
-    "ShortDesc": "Compétences : réduction de protection magique",
-    "StartingItem": false,
-    "Type": "Item",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/spear-of-the-magus.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 9851,
     "DeviceName": "Lance de désolation",
     "IconId": 4327,
     "ItemDescription": {
@@ -3994,7 +3898,7 @@
       "Menuitems": [
         {
           "Description": "Puissance magique",
-          "Value": "+100"
+          "Value": "+110"
         },
         {
           "Description": "Pénétration magique",
@@ -4016,6 +3920,66 @@
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/spear-of-desolation.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 9850,
+    "DeviceName": "Éclat d'obsidienne",
+    "IconId": 2834,
+    "ItemDescription": {
+      "Description": null,
+      "Menuitems": [
+        {
+          "Description": "Puissance magique",
+          "Value": "+70"
+        },
+        {
+          "Description": "Pénétration magique",
+          "Value": "+20%"
+        }
+      ],
+      "SecondaryDescription": "PASSIF - La prochaine compétence utilisée obtient 10% de pénétration magique. Cet effet ne peut se produire que toutes les 10s."
+    },
+    "ItemId": 18179,
+    "ItemTier": 3,
+    "Price": 1050,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 9849,
+    "ShortDesc": "Pénétration magique efficace contre les dieux solides",
+    "StartingItem": false,
+    "Type": "Item",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/obsidian-shard.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 9851,
+    "DeviceName": "Lance du mage",
+    "IconId": 2835,
+    "ItemDescription": {
+      "Description": "Sous l'effet de cet objet, vos compétences de dégâts réduisent les protections magiques de votre cible.",
+      "Menuitems": [
+        {
+          "Description": "Puissance magique",
+          "Value": "+75"
+        },
+        {
+          "Description": "Pénétration magique",
+          "Value": "+10"
+        }
+      ],
+      "SecondaryDescription": "PASSIF - Chaque application de dégâts venant de la même activation de compétence contre une même cible inflige 6% de dégâts supplémentaires. Effet cumulable 6 fois."
+    },
+    "ItemId": 18180,
+    "ItemTier": 3,
+    "Price": 1050,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 9849,
+    "ShortDesc": "Une compétence sur la même cible : dégâts bonus",
+    "StartingItem": false,
+    "Type": "Item",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/spear-of-the-magus.jpg",
     "ret_msg": null
   },
   {
@@ -4096,7 +4060,7 @@
         },
         {
           "Description": "Santé",
-          "Value": "+175"
+          "Value": "+100"
         },
         {
           "Description": "Mana",
@@ -4232,14 +4196,18 @@
         },
         {
           "Description": "Santé",
-          "Value": "+200"
+          "Value": "+150"
         },
         {
           "Description": "Mana",
           "Value": "+200"
+        },
+        {
+          "Description": "Pénétration magique",
+          "Value": "+10%"
         }
       ],
-      "SecondaryDescription": "PASSIF - Vous gagnez de façon permanente +3 de santé et +0,5 de puissance magique par charge, et obtenez 5 charges par dieu tué et 1 charge par sbire tué (100 charges max.)."
+      "SecondaryDescription": "PASSIF - Vous gagnez de façon permanente 1 de santé et 1 de puissance magique par charge, et obtenez 5 charges par dieu tué et 1 charge par sbire tué (75 charges max.)."
     },
     "ItemId": 7917,
     "ItemTier": 3,
@@ -4307,7 +4275,7 @@
           "Value": "+7%"
         }
       ],
-      "SecondaryDescription": "AURA - Les soins que les alliés à moins de 70 unités reçoivent en provenance de compétences augmentent de 10%. Si vous avez subi ou infligé des dégâts durant les 5s qui précèdent, ce montant augmente de 15%."
+      "SecondaryDescription": "AURA - Les soins que les alliés à moins de 70 unités reçoivent en provenance de compétences augmentent de 10%. Si vous avez subi ou infligé des dégâts durant les 5s qui précèdent, ce montant augmente de 15%. Cette aura ne se cumule pas aux auras similaires."
     },
     "ItemId": 9345,
     "ItemTier": 3,
@@ -4330,15 +4298,19 @@
       "Menuitems": [
         {
           "Description": "Puissance magique",
-          "Value": "+115"
+          "Value": "+140"
         },
         {
           "Description": "Santé",
-          "Value": "+500"
+          "Value": "+225"
         },
         {
           "Description": "Mana",
           "Value": "+200"
+        },
+        {
+          "Description": "Pénétration magique",
+          "Value": "+10%"
         }
       ],
       "SecondaryDescription": null
@@ -4454,11 +4426,11 @@
     "DeviceName": "Polynomicon",
     "IconId": 2824,
     "ItemDescription": {
-      "Description": "Après une compétence, la prochaine attaque de base du détenteur inflige des dégâts supplémentaires.",
+      "Description": "L'attaque de base qui suit une compétence inflige plus de dégâts.",
       "Menuitems": [
         {
           "Description": "Puissance magique",
-          "Value": "+75"
+          "Value": "+85"
         },
         {
           "Description": "Mana",
@@ -4466,10 +4438,10 @@
         },
         {
           "Description": "Drain de vie magique",
-          "Value": "+10%"
+          "Value": "+12%"
         }
       ],
-      "SecondaryDescription": "PASSIF - Après l'utilisation d'une compétence, votre prochaine attaque de base dans les 8s suivantes inflige 75% de votre puissance magique en dégâts magiques supplémentaires. Cet effet ne peut se produire que toutes les 3s."
+      "SecondaryDescription": "PASSIF - Lorsque vous utilisez une compétence, votre prochaine attaque de base dans les 8s suivantes inflige +75% de la puissance magique en dégâts magiques supplémentaires. Cet effet ne peut se produire que toutes les 3s."
     },
     "ItemId": 7597,
     "ItemTier": 3,
@@ -4492,18 +4464,22 @@
       "Menuitems": [
         {
           "Description": "Puissance magique",
-          "Value": "+130"
+          "Value": "+110"
         },
         {
           "Description": "Mana",
           "Value": "+300"
+        },
+        {
+          "Description": "Pénétration magique",
+          "Value": "+10%"
         }
       ],
       "SecondaryDescription": "PASSIF - Vos compétences infligent des dégâts magiques supplémentaires équivalant à 2% de la santé maximale des ennemis, ou davantage s'ils ont plus de 2000 PV, pour un maximum de 7% à 2750 PV. Pendant 3s après l'effet, s'il affecte à nouveau la même cible, il n'inflige que la moitié des dégâts."
     },
     "ItemId": 9128,
     "ItemTier": 3,
-    "Price": 1400,
+    "Price": 1500,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9858,
     "ShortDesc": "Compétences : dégâts bonus selon la santé max. ennemie",
@@ -4624,7 +4600,7 @@
         },
         {
           "Description": "PM5",
-          "Value": "+20"
+          "Value": "+15"
         },
         {
           "Description": "Vitesse de déplacement",
@@ -4654,7 +4630,7 @@
       "Menuitems": [
         {
           "Description": "Puissance magique",
-          "Value": "+50"
+          "Value": "+60"
         },
         {
           "Description": "PM5",
@@ -4665,7 +4641,7 @@
     },
     "ItemId": 9861,
     "ItemTier": 2,
-    "Price": 1050,
+    "Price": 850,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9860,
     "ShortDesc": "Puissance magique, PM5",
@@ -4684,7 +4660,7 @@
       "Menuitems": [
         {
           "Description": "Puissance magique",
-          "Value": "+150"
+          "Value": "+160"
         },
         {
           "Description": "PM5",
@@ -4695,7 +4671,7 @@
     },
     "ItemId": 7600,
     "ItemTier": 3,
-    "Price": 1400,
+    "Price": 1600,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9860,
     "ShortDesc": "Bonus de dégâts contre dieux à santé faible",
@@ -4708,13 +4684,13 @@
     "ActiveFlag": "y",
     "ChildItemId": 9861,
     "DeviceName": "Pendentif de Chronos",
-    "IconId": 2840,
+    "IconId": 8139,
     "ItemDescription": {
       "Description": null,
       "Menuitems": [
         {
           "Description": "Puissance magique",
-          "Value": "+90"
+          "Value": "+100"
         },
         {
           "Description": "PM5",
@@ -4729,7 +4705,7 @@
     },
     "ItemId": 7784,
     "ItemTier": 3,
-    "Price": 1200,
+    "Price": 1300,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9860,
     "ShortDesc": "Puissance magique, forte réduction du temps de recharge",
@@ -4774,6 +4750,78 @@
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/doom-orb.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 9861,
+    "DeviceName": "Pièce de Charon",
+    "IconId": 8135,
+    "ItemDescription": {
+      "Description": null,
+      "Menuitems": [
+        {
+          "Description": "Puissance magique",
+          "Value": "+80"
+        },
+        {
+          "Description": "Pénétration magique",
+          "Value": "+20%"
+        },
+        {
+          "Description": "PM5",
+          "Value": "+20"
+        }
+      ],
+      "SecondaryDescription": "PASSIF - À chaque élimination ou assistance, une pièce est lancée et vous gagnez 1 or. Si elle retombe sur pile, vous obtenez une charge de 2% de vitesse. Sur face, vous obtenez une charge de 7 PV5. Chaque effet se cumule jusqu'à 4 fois. Quand vous obtenez votre 8e charge, l'objet évolue."
+    },
+    "ItemId": 18183,
+    "ItemTier": 3,
+    "Price": 1200,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 9860,
+    "ShortDesc": "Charges permanentes de PV5 et de vitesse",
+    "StartingItem": false,
+    "Type": "Item",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/charons-coin.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18183,
+    "DeviceName": "Pièce de Charon évoluée",
+    "IconId": 8221,
+    "ItemDescription": {
+      "Description": null,
+      "Menuitems": [
+        {
+          "Description": "Puissance magique",
+          "Value": "+80"
+        },
+        {
+          "Description": "PV5 & PM5",
+          "Value": "+20"
+        },
+        {
+          "Description": "Pénétration magique",
+          "Value": "+20%"
+        },
+        {
+          "Description": "Vitesse de déplacement",
+          "Value": "+8%"
+        }
+      ],
+      "SecondaryDescription": "PASSIF - À chaque élimination ou assistance, une pièce est lancée et vous gagnez 1 or. Si elle retombe sur pile, vous obtenez 5% de vitesse pendant 6s. Sur face, vous regagnez 150 PV en 6s."
+    },
+    "ItemId": 18314,
+    "ItemTier": 4,
+    "Price": 1,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 9861,
+    "ShortDesc": "Éliminations et assistances : bonus temporaire de régénération ou de vitesse",
+    "StartingItem": false,
+    "Type": "Item",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/evolved-charons-coin.jpg",
     "ret_msg": null
   },
   {
@@ -4906,6 +4954,44 @@
   },
   {
     "ActiveFlag": "y",
+    "ChildItemId": 9835,
+    "DeviceName": "Bouclier du caducée",
+    "IconId": 8134,
+    "ItemDescription": {
+      "Description": "Aura de guérison et de régénération.",
+      "Menuitems": [
+        {
+          "Description": "Puissance physique",
+          "Value": "+30"
+        },
+        {
+          "Description": "Protection physique",
+          "Value": "+35"
+        },
+        {
+          "Description": "Protection magique",
+          "Value": "+35"
+        },
+        {
+          "Description": "PV",
+          "Value": "+100"
+        }
+      ],
+      "SecondaryDescription": "AURA - Les soins que les alliés à moins de 70 unités reçoivent en provenance de compétences augmentent de 10%. Si vous avez subi ou infligé des dégâts durant les 5s qui précèdent, ce montant augmente de 15%. Cette aura ne se cumule pas aux auras similaires."
+    },
+    "ItemId": 18195,
+    "ItemTier": 3,
+    "Price": 1100,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 10190,
+    "ShortDesc": "Augmentation des soins, puissance physique",
+    "StartingItem": false,
+    "Type": "Item",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/caduceus-shield.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
     "ChildItemId": 0,
     "DeviceName": "Casque impérial",
     "IconId": 3260,
@@ -4970,29 +5056,29 @@
     "DeviceName": "Casque dynastique",
     "IconId": 3263,
     "ItemDescription": {
-      "Description": "",
+      "Description": null,
       "Menuitems": [
         {
           "Description": "Puissance magique",
-          "Value": "+50"
+          "Value": "+40"
         },
         {
           "Description": "Protection physique",
           "Value": "+30"
         },
         {
-          "Description": "Pénétration magique",
-          "Value": "+10"
+          "Description": "Santé",
+          "Value": "+50"
         }
       ],
-      "SecondaryDescription": ""
+      "SecondaryDescription": null
     },
     "ItemId": 10605,
     "ItemTier": 2,
-    "Price": 1100,
+    "Price": 1000,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 10603,
-    "ShortDesc": "Puissance magique, pénétration magique, protection physique",
+    "ShortDesc": "Puissance magique et protection physique",
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/dynasty-plate-helm.jpg",
@@ -5019,7 +5105,7 @@
           "Value": "+20"
         }
       ],
-      "SecondaryDescription": "PASSIF - Toutes les 2s, vous gagnez une charge de 7 protection physique (5 charges max.). Les charges sont perdues quand vous subissez des dégâts physiques infligés par des dieux. Les charges ne peuvent être gagnées que lorsque vous ne subissez aucun dégât physique de dieux ennemis pendant au moins 5s."
+      "SecondaryDescription": "PASSIF - Toutes les 2s, vous gagnez une charge de 7 protection physique (5 charges max.). Les charges sont perdues quand vous subissez des dégâts physiques infligés par des dieux. Les charges ne peuvent être gagnées que lorsque vous ne subissez aucun dégât physique de dieux ennemis pendant au moins 2s."
     },
     "ItemId": 10600,
     "ItemTier": 3,
@@ -5087,7 +5173,7 @@
           "Value": "+150"
         }
       ],
-      "SecondaryDescription": "AURA - La puissance physique des dieux ennemis à moins de 55 unités est réduite de 30."
+      "SecondaryDescription": "AURA - La puissance physique des dieux ennemis à moins de 55 unités est réduite de 20."
     },
     "ItemId": 14179,
     "ItemTier": 3,
@@ -5098,6 +5184,44 @@
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/jade-emperors-crown.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 10605,
+    "DeviceName": "Casque tyrannique",
+    "IconId": 7601,
+    "ItemDescription": {
+      "Description": null,
+      "Menuitems": [
+        {
+          "Description": "Puissance magique",
+          "Value": "+70"
+        },
+        {
+          "Description": "Protection physique",
+          "Value": "+40"
+        },
+        {
+          "Description": "Santé",
+          "Value": "+100"
+        },
+        {
+          "Description": "Réduction du contrôle",
+          "Value": "+20%"
+        }
+      ],
+      "SecondaryDescription": "Quand vous êtes proche d'un sbire de couloir allié, celui-ci gagne +10% PV et +20% vitesse d'attaque. Quand un sbire de couloir allié proche meurt, vous obtenez une charge de 5 puissance. Les charges durent 15s et sont cumulables jusqu'à 6 fois."
+    },
+    "ItemId": 18199,
+    "ItemTier": 3,
+    "Price": 1000,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 10603,
+    "ShortDesc": "Bonus de puissances, bonus aux sbires",
+    "StartingItem": false,
+    "Type": "Item",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/tyrannical-plate-helm.jpg",
     "ret_msg": null
   },
   {
@@ -5259,7 +5383,7 @@
           "Value": "+10"
         }
       ],
-      "SecondaryDescription": "PASSIF - Vous obtenez 1 puissance physique pour chaque tranche de 0,02 de vitesse d'attaque qui excède le seuil maximum."
+      "SecondaryDescription": "PASSIF - Vous obtenez 1,5 puissance physique pour chaque tranche de 0,02 de vitesse d'attaque qui excède le seuil maximum."
     },
     "ItemId": 14084,
     "ItemTier": 3,
@@ -5300,7 +5424,7 @@
     "Price": 1000,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 10662,
-    "ShortDesc": "Vitesse d'attaque",
+    "ShortDesc": "Vitesses d'attaque et de déplacement augmentées",
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/atalantas-bow.jpg",
@@ -5392,72 +5516,9 @@
     "ret_msg": null
   },
   {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Ailes célestes",
-    "IconId": 4309,
-    "ItemDescription": {
-      "Description": "Augmente la vitesse de déplacement des alliés.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet augmente de 20% la vitesse de déplacement des dieux alliés dans un rayon de 55 unités pendant 5s et les immunise contre les ralentissements. Temps de recharge : 140s."
-    },
-    "ItemId": 7353,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Augmente la vitesse de déplacement des alliés",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/heavenly-wings.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Ankh maudit",
-    "IconId": 5064,
-    "ItemDescription": {
-      "Description": "Réduction des soins ennemis.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet vous permet de réduire les soins des dieux ennemis proches de 50% pendant 10s. Temps de recharge : 120s."
-    },
-    "ItemId": 7671,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Réduction des soins",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/cursed-ankh.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Amulette égide",
-    "IconId": 4306,
-    "ItemDescription": {
-      "Description": "Cet objet vous rend brièvement invulnérable.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet vous rend insensible aux dégâts et aux soins pendant 1,5s. Vous ne pouvez pas effectuer d'action, mais vous pouvez vous déplacer. Temps de recharge : 180s."
-    },
-    "ItemId": 7672,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Invulnérabilité temporaire",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/aegis-amulet.jpg",
-    "ret_msg": null
-  },
-  {
     "ActiveFlag": "n",
     "ChildItemId": 12333,
-    "DeviceName": "Main des dieux",
+    "DeviceName": "*Main des dieux",
     "IconId": 4311,
     "ItemDescription": {
       "Description": "Inflige des dégâts à un sbire ou un monstre de jungle. Étourdit les dieux ennemis.",
@@ -5472,469 +5533,7 @@
     "ShortDesc": "Dégâts aux sbires et monstres de jungle.",
     "StartingItem": false,
     "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/hand-of-the-gods.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Rune de flash",
-    "IconId": 5060,
-    "ItemDescription": {
-      "Description": "Courte téléportation.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet vous permet de vous téléporter instantanément à 55 unités. Inutilisable si vous avez subi ou infligé des dégâts dans les 3s qui précèdent. Temps de recharge : 120s."
-    },
-    "ItemId": 8844,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Téléportation de courte portée",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/blink-rune.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Perles de purification",
-    "IconId": 4301,
-    "ItemDescription": {
-      "Description": "Suppression des contrôles.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet annule les effets de contrôle en cours et vous immunise contre les suivants pendant 2s. Temps de recharge - 160s."
-    },
-    "ItemId": 8879,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Suppression des contrôles",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/purification-beads.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Glyphe de téléportation",
-    "IconId": 5076,
-    "ItemDescription": {
-      "Description": "Téléportation vers une tour alliée. Pas d'interruption par les dégâts.",
-      "Menuitems": [],
-      "SecondaryDescription": "Utilisez cette relique pour vous téléporter sur une tour alliée, sans être interrompu par les dégâts. Vous êtes enraciné pendant l'effet. Les effets de contrôle majeur interrompent la téléportation. Temps de recharge - 200s."
-    },
-    "ItemId": 9040,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Téléportation sur tour alliée que les dégâts n'interrompent pas",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/teleport-glyph.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Cape de méditation",
-    "IconId": 4305,
-    "ItemDescription": {
-      "Description": "Restaure le mana et la santé.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet restaure à vous et aux dieux alliés à 35 unités 75 PV + 12 PV par niveau, et 30% du mana max. Temps de recharge - 120s."
-    },
-    "ItemId": 9041,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Restauration de mana et de santé",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/meditation-cloak.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Coquille magique",
-    "IconId": 4308,
-    "ItemDescription": {
-      "Description": "Bonus de protections et réduction des dégâts subis.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet confère un bouclier au porteur et aux alliés à moins de 35 unités de lui. Le bouclier dure 3s et équivaut à 100 PV + 12 PV par niveau de dieu. Temps de recharge : 150s."
-    },
-    "ItemId": 9120,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Bouclier de santé",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/magic-shell.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Bouclier d'épines",
-    "IconId": 5072,
-    "ItemDescription": {
-      "Description": "À l'activation, vous renvoyez 40% de tous les dégâts subis vers l'attaquant pendant 5s.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet renvoie 40% de tous les dégâts subis avant réduction vers l'attaquant pour 5s sous forme de dégâts magiques. Subir des dégâts équivalant à 150 fois votre niveau met fin à l'effet prématurément. Temps de recharge : 120s."
-    },
-    "ItemId": 11106,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Renvoie 40% des dégâts",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/shield-of-thorns.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Lance fragilisante",
-    "IconId": 5074,
-    "ItemDescription": {
-      "Description": "Projectile de dégâts bruts.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet vous permet de tirer, sur une distance de 70 unités, un projectile qui s'arrête au premier dieu touché. Il lui inflige 15% de sa santé actuelle sous forme de dégâts bruts. Temps de recharge : 110s."
-    },
-    "ItemId": 12580,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Projectile qui augmente les dégâts subis",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/sundering-spear.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Voile fantôme",
-    "IconId": 4671,
-    "ItemDescription": {
-      "Description": "Marche spectrale.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet vous permet, à vous et aux dieux alliés dans un rayon de 35 unités, de passer à travers les joueurs et les objets de joueurs pendant 5s. Temps de recharge : 150s."
-    },
-    "ItemId": 13193,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Marche spectrale",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/phantom-veil.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Emblème horrifique",
-    "IconId": 5068,
-    "ItemDescription": {
-      "Description": "Réduction des vitesses d'attaque et de déplacement des dieux ennemis.",
-      "Menuitems": [],
-      "SecondaryDescription": "Pendant 5s, cet objet ralentit de 30% la vitesse de déplacement et de 15% la vitesse d'attaque des dieux ennemis dans un rayon de 35 unités. Temps de recharge : 130s."
-    },
-    "ItemId": 14056,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Réduction vitesse d'attaque, réduction vitesse de déplacement",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/horrific-emblem.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Bracelet d'annulation",
-    "IconId": 5062,
-    "ItemDescription": {
-      "Description": "Restauration de vie et mana.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet régénère 40% du mana et de la santé perdus durant les 5s précédentes. Temps de recharge : 120s."
-    },
-    "ItemId": 14112,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Restauration des PV et du mana récemment perdus",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/bracer-of-undoing.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12333,
-    "DeviceName": "Ceinture de frénésie",
-    "IconId": 4304,
-    "ItemDescription": {
-      "Description": "Bonus de dégâts aux alliés.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet donne aux alliés à moins de 70 unités 10% de dégâts supplémentaires, y compris contre les objectifs, et 15% de vitesse d'attaque pour 5s. Temps de recharge - 120s."
-    },
-    "ItemId": 14536,
-    "ItemTier": 2,
-    "Price": 0,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Bonus de dégâts aux alliés",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/belt-of-frenzy.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 8879,
-    "DeviceName": "Perles de purification amélio.",
-    "IconId": 5109,
-    "ItemDescription": {
-      "Description": "Suppression des contrôles.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet annule les effets de contrôle en cours et vous immunise contre les suivants pendant 2s. Temps de recharge - 130s."
-    },
-    "ItemId": 14146,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Suppression des contrôles",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/purification-beads-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 7353,
-    "DeviceName": "Ailes célestes amélio.",
-    "IconId": 5105,
-    "ItemDescription": {
-      "Description": "Augmente la vitesse de déplacement des alliés.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet augmente de 20% la vitesse de déplacement des dieux alliés dans un rayon de 55 unités pendant 5s. De plus, ils sont immunisés aux ralentissements et obtiennent l'effet d'Accélération, qui les rend insensible à la pénalité de déplacement liée aux attaques de base. Temps de recharge : 140s."
-    },
-    "ItemId": 14147,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Augmente la vitesse de déplacement des alliés",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/heavenly-wings-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 8844,
-    "DeviceName": "Rune de flash amélio.",
-    "IconId": 5061,
-    "ItemDescription": {
-      "Description": "Courte téléportation.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet vous permet de vous téléporter instantanément à 55 unités. Vous obtenez ensuite un bonus de 10% de réduction de dégâts pendant 2s. Il est utilisable uniquement si vous n'avez pas subi ni infligé de dégâts pendant les 3s qui précèdent. Temps de recharge : 120s."
-    },
-    "ItemId": 14150,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Téléportation de courte portée",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/blink-rune-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 7671,
-    "DeviceName": "Ankh maudit amélio.",
-    "IconId": 5065,
-    "ItemDescription": {
-      "Description": "Réduction des soins ennemis.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet vous permet de réduire de 50% les soins des dieux ennemis à moins de 55 unités pendant 10s. Les ennemis affectés qui reçoivent des soins subissent 20% de dégâts supplémentaires pendant toute la durée de l'effet. Temps de recharge : 120s."
-    },
-    "ItemId": 14151,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Réduction des soins",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/cursed-ankh-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 9041,
-    "DeviceName": "Cape de méditation amélio.",
-    "IconId": 5107,
-    "ItemDescription": {
-      "Description": "Restaure le mana et la santé.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet restaure à vous et aux alliés à 35 unités 75 PV + 12 PV par niveau et 30% du mana max. <font color='#FFFF00'>Les cibles affectées voient également le coût en mana de leurs compétences réduire de 30% et leurs temps de recharge réduire de 1s.</font> Temps de recharge - 120s."
-    },
-    "ItemId": 14152,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Restauration de mana et de santé",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/meditation-cloak-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 13193,
-    "DeviceName": "Voile fantôme amélio.",
-    "IconId": 5108,
-    "ItemDescription": {
-      "Description": "Marche spectrale et pas de ralentissement dû à l'attaque de base.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet vous permet, à vous et aux dieux alliés dans un rayon de 35 unités, de passer à travers les joueurs et les objets de joueurs pendant 10s. De plus, ils obtiennent 15% de réduction de dégâts pendant 5s. Temps de recharge : 150s."
-    },
-    "ItemId": 14153,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Marche spectrale, bonus de réduction de dégâts",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/phantom-veil-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 7672,
-    "DeviceName": "Amulette égide amélio.",
-    "IconId": 5103,
-    "ItemDescription": {
-      "Description": "Cet objet vous rend brièvement invulnérable.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet vous rend insensible aux dégâts et aux soins pendant 1,5s. Vous ne pouvez pas effectuer d'action, mais vous pouvez vous déplacer. Temps de recharge : 150s."
-    },
-    "ItemId": 14154,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Invulnérabilité temporaire",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/aegis-amulet-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 9120,
-    "DeviceName": "Coquille magique amélio.",
-    "IconId": 5106,
-    "ItemDescription": {
-      "Description": "Bonus de protections et réduction des dégâts subis.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet confère un bouclier au porteur et aux alliés à moins de 35 unités de lui. Le bouclier dure 3s et équivaut à 100 PV + 12 PV par niveau de dieu. <font color='#FFFF00'>De plus, les alliés reçoivent 2 charges de blocage qui absorbent la prochaine attaque de base.</font> Temps de recharge : 150s."
-    },
-    "ItemId": 14155,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Bouclier de santé, charges de blocage",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/magic-shell-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 12580,
-    "DeviceName": "Lance fragilisante amélio.",
-    "IconId": 5075,
-    "ItemDescription": {
-      "Description": "Projectile de dégâts bruts.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet vous permet de tirer un projectile sur 70 unités qui s'arrête au premier dieu touché. Il lui inflige 15% de sa santé actuelle sous forme de dégâts bruts et amplifie de 20% les dégâts qu'il subit pendant 5s. Temps de recharge : 110s."
-    },
-    "ItemId": 14156,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Projectile de dégâts bruts",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/sundering-spear-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 9040,
-    "DeviceName": "Glyphe de téléportation a.",
-    "IconId": 5077,
-    "ItemDescription": {
-      "Description": "Téléportation vers une tour ou sentinelle alliée. Pas d'interruption par les dégâts.",
-      "Menuitems": [],
-      "SecondaryDescription": "Utilisez cette relique pour vous téléporter sur une tour <font color='#FFFF00'>ou une sentinelle</font> alliée, sans être interrompu par les dégâts. Vous êtes enraciné pendant l'effet. Les effets de contrôle majeur interrompent la téléportation. Temps de recharge - 200s."
-    },
-    "ItemId": 14157,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Téléportation sur tour ou sentinelle alliée, pas d'interruption par dégâts",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/teleport-glyph-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 11106,
-    "DeviceName": "Bouclier d'épines amélio.",
-    "IconId": 5073,
-    "ItemDescription": {
-      "Description": "À l'activation, vous renvoyez 40% de tous les dégâts subis vers l'attaquant pendant 5s.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet renvoie 40% de tous les dégâts subis avant réduction vers l'attaquant pour 5s sous forme de dégâts magiques. Subir des dégâts équivalant à 150 fois votre niveau met fin à l'effet prématurément. Pendant l'effet, le drain de vie des ennemis ne fonctionne sur vous que pour la moitié de sa valeur. Temps de recharge : 120s."
-    },
-    "ItemId": 14158,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Renvoie 40% des dégâts",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/shield-of-thorns-upgrade.jpg",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/*hand-of-the-gods.jpg",
     "ret_msg": null
   },
   {
@@ -5956,69 +5555,6 @@
     "StartingItem": false,
     "Type": "Active",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/hand-of-the-gods-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 14056,
-    "DeviceName": "Emblème horrifique amélio.",
-    "IconId": 5069,
-    "ItemDescription": {
-      "Description": "Réduction des vitesses d'attaque et de déplacement des dieux ennemis.",
-      "Menuitems": [],
-      "SecondaryDescription": "Pendant 5s, cet objet ralentit de 30% la vitesse de déplacement et de 25% la vitesse d'attaque des dieux ennemis dans un rayon de 35 unités. Par ailleurs, leurs dégâts sont réduits de 15%. Temps de recharge : 130s."
-    },
-    "ItemId": 14162,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Réduction vitesse d'attaque, réduction vitesse de déplacement",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/horrific-emblem-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 14112,
-    "DeviceName": "Bracelet d'annulation amélio.",
-    "IconId": 5063,
-    "ItemDescription": {
-      "Description": "Réduction temps de recharge et restauration de vie et mana.",
-      "Menuitems": [],
-      "SecondaryDescription": "<font color='#FFFF00'>Cet objet réduit de 3s le temps de recharge de toutes les compétences en cours de recharge</font> et régénère 40% du mana et de la santé perdus durant les 5s précédentes. Temps de recharge : 120s."
-    },
-    "ItemId": 14164,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Réduction temps de recharge, restauration de vie et mana",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/bracer-of-undoing-upgrade.jpg",
-    "ret_msg": null
-  },
-  {
-    "ActiveFlag": "y",
-    "ChildItemId": 14536,
-    "DeviceName": "Ceinture de frénésie amélio.",
-    "IconId": 5302,
-    "ItemDescription": {
-      "Description": "Bonus de dégâts aux alliés.",
-      "Menuitems": [],
-      "SecondaryDescription": "Cet objet donne aux alliés à moins de 70 unités 10% de dégâts supplémentaires, y compris contre les objectifs, et 15% de vitesse d'attaque  ainsi que 10 de pénétration pour 8s. Temps de recharge - 120s."
-    },
-    "ItemId": 14538,
-    "ItemTier": 3,
-    "Price": 500,
-    "RestrictedRoles": "no restrictions",
-    "RootItemId": 12333,
-    "ShortDesc": "Bonus de dégâts aux alliés",
-    "StartingItem": false,
-    "Type": "Active",
-    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/belt-of-frenzy-upgrade.jpg",
     "ret_msg": null
   },
   {
@@ -6329,7 +5865,7 @@
         },
         {
           "Description": "Vitesse d'attaque",
-          "Value": "+10%"
+          "Value": "+15%"
         },
         {
           "Description": "Chances de coup critique",
@@ -6359,7 +5895,7 @@
       "Menuitems": [
         {
           "Description": "Puissance physique",
-          "Value": "+20"
+          "Value": "+30"
         },
         {
           "Description": "Vitesse d'attaque",
@@ -6736,7 +6272,7 @@
           "Value": "+20%"
         }
       ],
-      "SecondaryDescription": "AURA - La vitesse d'attaque des dieux alliés à moins de 70 unités augmente de 20%."
+      "SecondaryDescription": "AURA - La vitesse d'attaque des dieux alliés à moins de 70 unités augmente de 25%."
     },
     "ItemId": 14178,
     "ItemTier": 3,
@@ -6970,7 +6506,7 @@
           "Value": "+30"
         }
       ],
-      "SecondaryDescription": "AURA - La protection magique des dieux ennemis à moins de 55 unités est réduite de 8."
+      "SecondaryDescription": "AURA - La protection magique des dieux ennemis à moins de 55 unités est réduite de 5%."
     },
     "ItemId": 9853,
     "ItemTier": 2,
@@ -7019,7 +6555,7 @@
     "DeviceName": "Pierre d'entrave",
     "IconId": 5051,
     "ItemDescription": {
-      "Description": "Aura de réduction de puissance physique.",
+      "Description": null,
       "Menuitems": [
         {
           "Description": "Puissance magique",
@@ -7034,7 +6570,7 @@
           "Value": "+30"
         }
       ],
-      "SecondaryDescription": "PASSIF - Toucher un dieu ennemi avec un effet de contrôle réduit ses protections magique et physique de 15 pendant 5s."
+      "SecondaryDescription": "PASSIF - Toucher un dieu ennemi avec un effet de contrôle réduit ses protections magique et physique de 10 pendant 5s."
     },
     "ItemId": 14175,
     "ItemTier": 2,
@@ -7061,14 +6597,14 @@
         },
         {
           "Description": "Puissance magique",
-          "Value": "+20"
+          "Value": "+40"
         },
         {
           "Description": "Protection magique",
           "Value": "+60"
         }
       ],
-      "SecondaryDescription": "AURA - La protection magique des dieux ennemis à moins de 55 unités est réduite de 15."
+      "SecondaryDescription": "AURA - La protection magique des dieux ennemis à moins de 55 unités est réduite de 10%."
     },
     "ItemId": 7791,
     "ItemTier": 3,
@@ -7087,11 +6623,11 @@
     "DeviceName": "Pierre de Fal",
     "IconId": 5052,
     "ItemDescription": {
-      "Description": "Si une compétence magique doit vous faire perdre plus de 20% de votre santé maximale, ses dégâts sont réduits de 10%.",
+      "Description": null,
       "Menuitems": [
         {
           "Description": "Puissance magique",
-          "Value": "+70"
+          "Value": "+80"
         },
         {
           "Description": "Protection magique",
@@ -7102,14 +6638,14 @@
           "Value": "+10%"
         }
       ],
-      "SecondaryDescription": "PASSIF - Si une compétence magique doit vous faire perdre plus de 20% de votre santé maximale, ses dégâts sont réduits de 10%."
+      "SecondaryDescription": "PASSIF - Vous obtenez un bonus de protection magique équivalant à 20% de celle du dieu allié à moins de 70 unités disposant de la plus haute protection magique."
     },
     "ItemId": 14079,
     "ItemTier": 3,
-    "Price": 900,
+    "Price": 1200,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 14071,
-    "ShortDesc": "Réduction des dégâts des comp. magiques retirant plus de 20% des PV",
+    "ShortDesc": "Gain de protection magique lorsqu'un allié est proche",
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/stone-of-fal.jpg",
@@ -7223,9 +6759,9 @@
     "DeviceName": "Bénédiction de gardien",
     "IconId": 6555,
     "ItemDescription": {
-      "Description": null,
+      "Description": "",
       "Menuitems": [],
-      "SecondaryDescription": "+100 PV\n+5 protections physique et magique\n+7 PV et mana regagnés par assistance sur sbire\n+5 PM5\n+3 Or par assistance sur sbire\n\nQUÊTE DE RÔLE : SOUTIEN\nChaque assistance sur un sbire donne une charge. Une fois à 50 charges, cet objet évolue et procure 4 Or de plus toutes les 5s."
+      "SecondaryDescription": "+100 PV\n+5 protections physique et magique\n+7 PV5 et PM5 à 60 unités d'un dieu allié\n+3 Or par assistance sur sbire\n\nQUÊTE DE RÔLE : SOUTIEN\nChaque assistance sur un sbire donne une charge. Une fois à 50 charges, cet objet évolue et procure 4 Or toutes les 5s."
     },
     "ItemId": 15473,
     "ItemTier": 1,
@@ -7244,9 +6780,9 @@
     "DeviceName": "Bénédiction de gardien évoluée",
     "IconId": 6556,
     "ItemDescription": {
-      "Description": null,
+      "Description": "",
       "Menuitems": [],
-      "SecondaryDescription": "+100 PV\n+5 protections physique et magique\n+7 PV et mana regagnés par assistance sur sbire de couloir\n+5 PM5\n+3 Or par assistance sur sbire de couloir\n+4 Or toutes les 5s\n\nQUÊTE DE RÔLE : SOUTIEN : TERMINÉE"
+      "SecondaryDescription": "+100 PV\n+5 protections physique et magique\n+7 PV5 et PM5 à 60 unités d'un dieu allié\n+3 Or par assistance sur sbire\n+4 Or/5s\n\nQUÊTE DE RÔLE : SOUTIEN- TERMINÉE"
     },
     "ItemId": 15477,
     "ItemTier": 2,
@@ -7351,7 +6887,7 @@
     "ItemDescription": {
       "Description": "",
       "Menuitems": [],
-      "SecondaryDescription": "+50 PV\n+35% de dégâts bonus contre monstres de jungle\n7% des PV et 25 mana récupérés par monstre de jungle tué \nQUÊTE DE RÔLE : JUNGLER\nLes éliminations/assistances sur monstres de jungle et dieux donnent des charges. 1 charge par monstre, 5 par dieu. Une fois à 50 charges, cet objet évolue et donne +5 de pénétration ainsi que +5% de vitesse de déplacement."
+      "SecondaryDescription": "+50 PV\n+40% dégâts bonus contre monstres de jungle\n7% de PV et 25 PM récupérés par monstre de jungle tué \nQUÊTE DE RÔLE : JUNGLER\nLes éliminations/assistances sur monstres de jungle et dieux donnent des charges : 1 par monstre, 5 par dieu. Une fois à 50 charges, cet objet évolue et donne +5 pénétration ainsi que +5% vitesse de déplacement."
     },
     "ItemId": 15486,
     "ItemTier": 1,
@@ -7372,7 +6908,7 @@
     "ItemDescription": {
       "Description": null,
       "Menuitems": [],
-      "SecondaryDescription": "+50 PV\n+35% de dégâts bonus contre monstres de jungle\n7% des PV et 25 mana récupérés par monstre de jungle tué\n+5 pénétration\n+5% vitesse de déplacement\n\nQUÊTE DE RÔLE : JUNGLER : TERMINÉE"
+      "SecondaryDescription": "+50 PV\n+40% dégâts bonus contre monstres de jungle\n7% de PV et 25 PM récupérés par monstre de jungle tué\n+5 pénétration\n+5% vitesse de déplacement\n\nQUÊTE DE RÔLE : JUNGLER : TERMINÉE"
     },
     "ItemId": 15487,
     "ItemTier": 2,
@@ -7435,7 +6971,7 @@
     "ItemDescription": {
       "Description": null,
       "Menuitems": [],
-      "SecondaryDescription": "+20 PM5\n+10% réduction du temps de recharge\n\nQUÊTE DE RÔLE : UTILITAIRE\nBlesser un ennemi ou soigner un allié génère 1 charge. Chaque compétence ne peut en générer que 3. Une fois à 75 charges, cet objet évolue et procure +10% vitesse de déplacement."
+      "SecondaryDescription": "+10 PV5\n+20 PM5\n+10% réduction du temps de recharge\n\nQUÊTE DE RÔLE : UTILITAIRE\nBlesser un ennemi ou soigner un allié génère 1 charge. Chaque compétence ne peut en générer que 3. Une fois à 75 charges, cet objet évolue et procure +10% vitesse de déplacement."
     },
     "ItemId": 15571,
     "ItemTier": 1,
@@ -7456,7 +6992,7 @@
     "ItemDescription": {
       "Description": null,
       "Menuitems": [],
-      "SecondaryDescription": "+20 PM5\n+10% réduction du temps de recharge\n+10% vitesse de déplacement\n\nQUÊTE DE RÔLE : UTILITAIRE : TERMINÉE"
+      "SecondaryDescription": "+10 PV5\n+20 PM5\n+10% réduction du temps de recharge\n+10% vitesse de déplacement\n\nQUÊTE DE RÔLE : UTILITAIRE - TERMINÉE"
     },
     "ItemId": 15572,
     "ItemTier": 2,
@@ -7689,16 +7225,12 @@
       "Description": null,
       "Menuitems": [
         {
-          "Description": "Pénétration",
-          "Value": "+10"
-        },
-        {
           "Description": "Puissance physique",
-          "Value": "+20"
+          "Value": "+30"
         },
         {
           "Description": "Puissance magique",
-          "Value": "+50"
+          "Value": "+60"
         }
       ],
       "SecondaryDescription": "PASSIF - Seulement disponible pour les Guerriers et les Gardiens."
@@ -7708,7 +7240,7 @@
     "Price": 700,
     "RestrictedRoles": "assassin,hunter,mage",
     "RootItemId": 16393,
-    "ShortDesc": "Puissance et pénétration",
+    "ShortDesc": "Puissance pure",
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/fighters-mask.jpg",
@@ -7757,19 +7289,15 @@
       "Description": null,
       "Menuitems": [
         {
-          "Description": "Pénétration",
-          "Value": "+15"
-        },
-        {
           "Description": "Puissance physique",
-          "Value": "+35"
+          "Value": "+60"
         },
         {
           "Description": "Puissance magique",
-          "Value": "+70"
+          "Value": "+100"
         }
       ],
-      "SecondaryDescription": "PASSIF - DÉGÂTS ACCRUS AU DÉTRIMENT DE LA DÉFENSE\nSeulement disponible pour les Guerriers et les Gardiens.\n<font color='#42F46E'>+20% de dégâts infligés\n<font color='#F44242'>+25% de dégâts subis"
+      "SecondaryDescription": "PASSIF - DÉGÂTS ACCRUS AU DÉTRIMENT DE LA DÉFENSE\nSeulement disponible pour les Guerriers et les Gardiens.\n<font color='#42F46E'>+20% dégâts infligés\n<font color='#F44242'>+25% dégâts subis"
     },
     "ItemId": 14098,
     "ItemTier": 3,
@@ -7807,7 +7335,7 @@
           "Value": "+20%"
         }
       ],
-      "SecondaryDescription": "PASSIF - DÉFENSE ACCRUE AU DÉTRIMENT DES DÉGÂTS \nSeulement disponible pour les Mages, les Chasseurs et les Assassins.\n<font color='#42F46E'>-25% de dégâts subis\n<font color='#F44242'>-25% de dégâts infligés\n<font color='#F44242'>-25% de soins procurés"
+      "SecondaryDescription": "PASSIF - DÉFENSE ACCRUE AU DÉTRIMENT DES DÉGÂTS \nSeulement disponible pour les Mages, les Chasseurs et les Assassins.\n<font color='#42F46E'>-20% de dégâts subis\n<font color='#F44242'>-20% de dégâts infligés\n<font color='#F44242'>-20% de soins procurés"
     },
     "ItemId": 14541,
     "ItemTier": 3,
@@ -8001,10 +7529,14 @@
       "Menuitems": [
         {
           "Description": "Puissance magique",
-          "Value": "+120"
+          "Value": "+110"
         },
         {
           "Description": "Réduction du temps de recharge",
+          "Value": "+10%"
+        },
+        {
+          "Description": "Pénétration magique",
           "Value": "+10%"
         }
       ],
@@ -8117,6 +7649,666 @@
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/fail-not.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 0,
+    "DeviceName": "Potion de puissance",
+    "IconId": 1980,
+    "ItemDescription": {
+      "Description": null,
+      "Menuitems": [
+        {
+          "Description": "",
+          "Value": ""
+        },
+        {
+          "Description": "Disponible au niveau 10",
+          "Value": ""
+        }
+      ],
+      "SecondaryDescription": "+40 puissance physique, +70 puissance magique, +10% de réduction de temps de recharge pendant 5min ou bien jusqu'à la mort."
+    },
+    "ItemId": 18194,
+    "ItemTier": 1,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18194,
+    "ShortDesc": "Bonus de puissances physique et magique",
+    "StartingItem": false,
+    "Type": "Consumable",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/potion-of-power.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 0,
+    "DeviceName": "Main des dieux",
+    "IconId": 8137,
+    "ItemDescription": {
+      "Description": "",
+      "Menuitems": [],
+      "SecondaryDescription": "À l'activation, ce consommable inflige 150 dégâts bruts aux monstres de jungle proches, uniquement de votre côté de la carte."
+    },
+    "ItemId": 18200,
+    "ItemTier": 1,
+    "Price": 100,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18200,
+    "ShortDesc": "Dégâts aux monstres de jungle",
+    "StartingItem": false,
+    "Type": "Consumable",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/hand-of-the-gods.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 0,
+    "DeviceName": "Éclat de vision",
+    "IconId": 8136,
+    "ItemDescription": {
+      "Description": null,
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet pose une sentinelle qui dure 60s. Améliorable une fois niveau 12. Temps de recharge : 120s"
+    },
+    "ItemId": 18307,
+    "ItemTier": 1,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Une sentinelle de courte durée",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/vision-shard.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Ailes célestes",
+    "IconId": 4309,
+    "ItemDescription": {
+      "Description": "Augmente la vitesse de déplacement des alliés.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet augmente de 20% la vitesse de déplacement des dieux alliés dans un rayon de 55 unités pendant 5s et les immunise contre les ralentissements. Temps de recharge : 140s."
+    },
+    "ItemId": 7353,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Augmente la vitesse de déplacement des alliés",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/heavenly-wings.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Ankh maudit",
+    "IconId": 5064,
+    "ItemDescription": {
+      "Description": "Réduction des soins ennemis.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet vous permet de réduire les soins des dieux ennemis proches de 50% pendant 10s. Temps de recharge : 120s."
+    },
+    "ItemId": 7671,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Réduction des soins",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/cursed-ankh.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Amulette égide",
+    "IconId": 4306,
+    "ItemDescription": {
+      "Description": "Cet objet vous rend brièvement invulnérable.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet vous rend insensible aux dégâts et aux soins pendant 1,5s. Vous ne pouvez pas effectuer d'action, mais vous pouvez vous déplacer. Temps de recharge : 180s."
+    },
+    "ItemId": 7672,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Invulnérabilité temporaire",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/aegis-amulet.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Rune de flash",
+    "IconId": 5060,
+    "ItemDescription": {
+      "Description": "Courte téléportation.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet vous permet de vous téléporter instantanément à 55 unités. Il est utilisable uniquement quand vous n'avez subi ni infligé aucun dégât depuis 3s. Temps de recharge : 120s."
+    },
+    "ItemId": 8844,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Téléportation de courte portée",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/blink-rune.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Perles de purification",
+    "IconId": 4301,
+    "ItemDescription": {
+      "Description": "Suppression des contrôles.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet annule les effets de contrôle en cours et vous immunise contre les suivants pendant 2s. Temps de recharge - 160s."
+    },
+    "ItemId": 8879,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Suppression des contrôles",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/purification-beads.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Glyphe de téléportation",
+    "IconId": 5076,
+    "ItemDescription": {
+      "Description": "Téléportation vers une tour alliée. Pas d'interruption par les dégâts.",
+      "Menuitems": [],
+      "SecondaryDescription": "Utilisez cette relique pour vous téléporter sur une tour alliée, sans être interrompu par les dégâts. Vous êtes enraciné pendant l'effet. Les effets de contrôle majeur interrompent la téléportation. Temps de recharge - 200s."
+    },
+    "ItemId": 9040,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Téléportation sur tour alliée que les dégâts n'interrompent pas",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/teleport-glyph.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Cape de méditation",
+    "IconId": 4305,
+    "ItemDescription": {
+      "Description": "Restaure le mana et la santé.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet restaure à vous et aux dieux alliés à 35 unités 75 PV + 12 PV par niveau, et 30% du mana max. Temps de recharge - 120s."
+    },
+    "ItemId": 9041,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Restauration de mana et de santé",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/meditation-cloak.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Coquille magique",
+    "IconId": 4308,
+    "ItemDescription": {
+      "Description": "Bonus de protections et réduction des dégâts subis.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet confère un bouclier au porteur et aux alliés à moins de 35 unités de lui. Le bouclier dure 3s et équivaut à 100 PV + 12 PV par niveau de dieu. Temps de recharge : 150s."
+    },
+    "ItemId": 9120,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Bouclier de santé",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/magic-shell.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Bouclier d'épines",
+    "IconId": 5072,
+    "ItemDescription": {
+      "Description": "À l'activation, vous renvoyez 40% de tous les dégâts subis vers l'attaquant pendant 5s.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet renvoie 40% de tous les dégâts subis avant réduction vers l'attaquant pour 5s sous forme de dégâts magiques. Subir des dégâts équivalant à 150 fois votre niveau met fin à l'effet prématurément. Temps de recharge : 120s."
+    },
+    "ItemId": 11106,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Renvoie 40% des dégâts",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/shield-of-thorns.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Lance fragilisante",
+    "IconId": 5074,
+    "ItemDescription": {
+      "Description": "Projectile de dégâts bruts.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet vous permet de tirer, sur une distance de 70 unités, un projectile qui s'arrête au premier dieu touché. Il lui inflige 15% de sa santé actuelle sous forme de dégâts bruts. Temps de recharge : 110s."
+    },
+    "ItemId": 12580,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Projectile qui augmente les dégâts subis",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/sundering-spear.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Voile fantôme",
+    "IconId": 4671,
+    "ItemDescription": {
+      "Description": "Marche spectrale.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet vous permet, à vous et aux dieux alliés dans un rayon de 35 unités, de passer à travers les joueurs et les objets de joueurs pendant 5s. Temps de recharge : 150s."
+    },
+    "ItemId": 13193,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Marche spectrale",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/phantom-veil.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Emblème horrifique",
+    "IconId": 5068,
+    "ItemDescription": {
+      "Description": "Réduction des vitesses d'attaque et de déplacement des dieux ennemis.",
+      "Menuitems": [],
+      "SecondaryDescription": "Pendant 5s, cet objet ralentit de 30% la vitesse de déplacement et de 15% la vitesse d'attaque des dieux ennemis dans un rayon de 35 unités. Temps de recharge : 130s."
+    },
+    "ItemId": 14056,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Réduction vitesse d'attaque, réduction vitesse de déplacement",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/horrific-emblem.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Bracelet d'annulation",
+    "IconId": 5062,
+    "ItemDescription": {
+      "Description": "Restauration de vie et mana.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet régénère 40% du mana et de la santé perdus durant les 5s précédentes. Temps de recharge : 120s."
+    },
+    "ItemId": 14112,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Restauration des PV et du mana récemment perdus",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/bracer-of-undoing.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 18307,
+    "DeviceName": "Ceinture de frénésie",
+    "IconId": 4304,
+    "ItemDescription": {
+      "Description": "Bonus de dégâts aux alliés.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet donne aux alliés à moins de 70 unités 10% de dégâts supplémentaires, y compris contre les objectifs, et 15% de vitesse d'attaque pour 5s. Temps de recharge - 120s."
+    },
+    "ItemId": 14536,
+    "ItemTier": 2,
+    "Price": 0,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Bonus de dégâts aux alliés",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/belt-of-frenzy.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 8879,
+    "DeviceName": "Perles de purification amélio.",
+    "IconId": 5109,
+    "ItemDescription": {
+      "Description": "Suppression des contrôles.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet annule les effets de contrôle en cours et vous immunise contre les suivants pendant 2s. Temps de recharge - 130s."
+    },
+    "ItemId": 14146,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Suppression des contrôles",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/purification-beads-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 7353,
+    "DeviceName": "Ailes célestes amélio.",
+    "IconId": 5105,
+    "ItemDescription": {
+      "Description": "Augmente la vitesse de déplacement des alliés.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet augmente de 20% la vitesse de déplacement des dieux alliés dans un rayon de 55 unités pendant 5s. De plus, ils sont immunisés aux ralentissements et obtiennent l'effet d'Accélération, qui les rend insensible à la pénalité de déplacement liée aux attaques de base. Temps de recharge : 140s."
+    },
+    "ItemId": 14147,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Augmente la vitesse de déplacement des alliés",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/heavenly-wings-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 8844,
+    "DeviceName": "Rune de flash amélio.",
+    "IconId": 5061,
+    "ItemDescription": {
+      "Description": "Courte téléportation.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet vous permet de vous téléporter instantanément à 55 unités. Vous obtenez ensuite un bonus de 10% de réduction de dégâts pendant 2s. Il est utilisable uniquement si vous n'avez pas subi ni infligé de dégâts pendant les 3s qui précèdent. Temps de recharge : 120s."
+    },
+    "ItemId": 14150,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Téléportation de courte portée",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/blink-rune-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 7671,
+    "DeviceName": "Ankh maudit amélio.",
+    "IconId": 5065,
+    "ItemDescription": {
+      "Description": "Réduction des soins ennemis.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet vous permet de réduire de 50% les soins des dieux ennemis à moins de 55 unités pendant 10s. Les ennemis affectés qui reçoivent des soins subissent 20% de dégâts supplémentaires pendant toute la durée de l'effet. Temps de recharge : 120s."
+    },
+    "ItemId": 14151,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Réduction des soins",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/cursed-ankh-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 9041,
+    "DeviceName": "Cape de méditation amélio.",
+    "IconId": 5107,
+    "ItemDescription": {
+      "Description": "Restaure le mana et la santé.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet restaure à vous et aux alliés à 35 unités 75 PV + 12 PV par niveau et 30% du mana max. <font color='#FFFF00'>Les cibles affectées voient également le coût en mana de leurs compétences réduire de 30% et leurs temps de recharge réduire de 1s.</font> Temps de recharge - 120s."
+    },
+    "ItemId": 14152,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Restauration de mana et de santé",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/meditation-cloak-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 13193,
+    "DeviceName": "Voile fantôme amélio.",
+    "IconId": 5108,
+    "ItemDescription": {
+      "Description": "Marche spectrale et pas de ralentissement dû à l'attaque de base.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet vous permet, à vous et aux dieux alliés dans un rayon de 35 unités, de passer à travers les joueurs et les objets de joueurs pendant 10s. De plus, ils obtiennent 15% de réduction de dégâts pendant 5s. Temps de recharge : 150s."
+    },
+    "ItemId": 14153,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Marche spectrale, bonus de réduction de dégâts",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/phantom-veil-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 7672,
+    "DeviceName": "Amulette égide amélio.",
+    "IconId": 5103,
+    "ItemDescription": {
+      "Description": "Cet objet vous rend brièvement invulnérable.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet vous rend insensible aux dégâts et aux soins pendant 1,5s. Vous ne pouvez pas effectuer d'action, mais vous pouvez vous déplacer. Temps de recharge : 150s."
+    },
+    "ItemId": 14154,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Invulnérabilité temporaire",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/aegis-amulet-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 9120,
+    "DeviceName": "Coquille magique amélio.",
+    "IconId": 5106,
+    "ItemDescription": {
+      "Description": "Bonus de protections et réduction des dégâts subis.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet confère un bouclier au porteur et aux alliés à moins de 35 unités de lui. Le bouclier dure 3s et équivaut à 100 PV + 12 PV par niveau de dieu. <font color='#FFFF00'>De plus, les alliés reçoivent 2 charges de blocage qui absorbent la prochaine attaque de base.</font> Temps de recharge : 150s."
+    },
+    "ItemId": 14155,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Bouclier de santé, charges de blocage",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/magic-shell-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 12580,
+    "DeviceName": "Lance fragilisante amélio.",
+    "IconId": 5075,
+    "ItemDescription": {
+      "Description": "Projectile de dégâts bruts.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet vous permet de tirer un projectile sur 70 unités qui s'arrête au premier dieu touché. Il lui inflige 15% de sa santé actuelle sous forme de dégâts bruts et amplifie de 20% les dégâts qu'il subit pendant 5s. Temps de recharge : 110s."
+    },
+    "ItemId": 14156,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Projectile de dégâts bruts",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/sundering-spear-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 9040,
+    "DeviceName": "Glyphe de téléportation a.",
+    "IconId": 5077,
+    "ItemDescription": {
+      "Description": "Téléportation vers une tour ou sentinelle alliée. Pas d'interruption par les dégâts.",
+      "Menuitems": [],
+      "SecondaryDescription": "Utilisez cette relique pour vous téléporter sur une tour <font color='#FFFF00'>ou une sentinelle</font> alliée, sans être interrompu par les dégâts. Vous êtes enraciné pendant l'effet. Les effets de contrôle majeur interrompent la téléportation. Temps de recharge - 200s."
+    },
+    "ItemId": 14157,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Téléportation sur tour ou sentinelle alliée, pas d'interruption par dégâts",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/teleport-glyph-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 11106,
+    "DeviceName": "Bouclier d'épines amélio.",
+    "IconId": 5073,
+    "ItemDescription": {
+      "Description": "À l'activation, vous renvoyez 40% de tous les dégâts subis vers l'attaquant pendant 5s.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet renvoie 40% de tous les dégâts subis avant réduction vers l'attaquant pour 5s sous forme de dégâts magiques. Subir des dégâts équivalant à 150 fois votre niveau met fin à l'effet prématurément. Pendant l'effet, le drain de vie des ennemis ne fonctionne sur vous que pour la moitié de sa valeur. Temps de recharge : 120s."
+    },
+    "ItemId": 14158,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Renvoie 40% des dégâts",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/shield-of-thorns-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 14056,
+    "DeviceName": "Emblème horrifique amélio.",
+    "IconId": 5069,
+    "ItemDescription": {
+      "Description": "Réduction des vitesses d'attaque et de déplacement des dieux ennemis.",
+      "Menuitems": [],
+      "SecondaryDescription": "Pendant 5s, cet objet ralentit de 30% la vitesse de déplacement et de 25% la vitesse d'attaque des dieux ennemis dans un rayon de 35 unités. Par ailleurs, leurs dégâts sont réduits de 15%. Temps de recharge : 130s."
+    },
+    "ItemId": 14162,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Réduction vitesse d'attaque, réduction vitesse de déplacement",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/horrific-emblem-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 14112,
+    "DeviceName": "Bracelet d'annulation amélio.",
+    "IconId": 5063,
+    "ItemDescription": {
+      "Description": "Réduction temps de recharge et restauration de vie et mana.",
+      "Menuitems": [],
+      "SecondaryDescription": "<font color='#FFFF00'>Cet objet réduit de 3s le temps de recharge de toutes les compétences en cours de recharge</font> et régénère 40% du mana et de la santé perdus durant les 5s précédentes. Temps de recharge : 120s."
+    },
+    "ItemId": 14164,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Réduction temps de recharge, restauration de vie et mana",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/bracer-of-undoing-upgrade.jpg",
+    "ret_msg": null
+  },
+  {
+    "ActiveFlag": "y",
+    "ChildItemId": 14536,
+    "DeviceName": "Ceinture de frénésie amélio.",
+    "IconId": 5302,
+    "ItemDescription": {
+      "Description": "Bonus de dégâts aux alliés.",
+      "Menuitems": [],
+      "SecondaryDescription": "Cet objet donne aux alliés à moins de 70 unités 10% de dégâts supplémentaires, y compris contre les objectifs, et 15% de vitesse d'attaque  ainsi que 10 de pénétration pour 8s. Temps de recharge - 120s."
+    },
+    "ItemId": 14538,
+    "ItemTier": 3,
+    "Price": 500,
+    "RestrictedRoles": "no restrictions",
+    "RootItemId": 18307,
+    "ShortDesc": "Bonus de dégâts aux alliés",
+    "StartingItem": false,
+    "Type": "Active",
+    "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/belt-of-frenzy-upgrade.jpg",
     "ret_msg": null
   }
 ]
