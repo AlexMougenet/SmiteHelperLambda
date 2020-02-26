@@ -1781,7 +1781,7 @@
     "Price": 700,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9631,
-    "ShortDesc": "Vitesse de déplacement hors combat",
+    "ShortDesc": "Vitesse de déplacement en quittant la fontaine",
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/travelers-shoes.jpg",
@@ -4277,7 +4277,7 @@
     },
     "ItemId": 8599,
     "ItemTier": 3,
-    "Price": 1150,
+    "Price": 1250,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9855,
     "ShortDesc": "Vol temporaire de PV et de PM",
@@ -6533,7 +6533,7 @@
     "ItemId": 14850,
     "ItemTier": 3,
     "Price": 1200,
-    "RestrictedRoles": "no restrictions",
+    "RestrictedRoles": "guardian,hunter,mage",
     "RootItemId": 12671,
     "ShortDesc": "Attaques de base réussies : pas de ralentissement",
     "StartingItem": false,
@@ -6567,7 +6567,7 @@
     "ItemId": 16592,
     "ItemTier": 3,
     "Price": 900,
-    "RestrictedRoles": "no restrictions",
+    "RestrictedRoles": "guardian,hunter,mage",
     "RootItemId": 12671,
     "ShortDesc": "Attaques de base : atteignent plusieurs ennemis",
     "StartingItem": false,
@@ -8001,7 +8001,7 @@
       "Menuitems": [
         {
           "Description": "Puissance magique",
-          "Value": "+100"
+          "Value": "+120"
         },
         {
           "Description": "Réduction du temps de recharge",
@@ -8065,7 +8065,7 @@
       "Menuitems": [
         {
           "Description": "Puissance physique",
-          "Value": "+65"
+          "Value": "+75"
         },
         {
           "Description": "Réduction du temps de recharge",

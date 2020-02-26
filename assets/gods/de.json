@@ -1057,7 +1057,7 @@
     "ManaPerFive": 4.4,
     "ManaPerLevel": 40,
     "Name": "Ah Muzen Cab",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Maya",
     "PhysicalPower": 38,
     "PhysicalPowerPerLevel": 2.2,
@@ -1759,7 +1759,7 @@
             },
             {
               "description": "Aura Wohlwollen:",
-              "value": "5/10/15/20/25% Lauftempo"
+              "value": "5/9/13/17/21% Lauftempo"
             },
             {
               "description": "Aura Tapferkeit:",
@@ -1883,7 +1883,7 @@
           "rankitems": [
             {
               "description": "Schaden pro Treffer:",
-              "value": "95/140/185/230/275 (+50% deiner Physischen Kraft)"
+              "value": "80/125/170/215/260 (+50% deiner Physischen Kraft)"
             },
             {
               "description": "Verlangsamungsdauer:",
@@ -1957,7 +1957,7 @@
     "ManaPerFive": 4.8,
     "ManaPerLevel": 35,
     "Name": "Amaterasu",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Japanisch",
     "PhysicalPower": 39,
     "PhysicalPowerPerLevel": 2,
@@ -1994,7 +1994,7 @@
           },
           {
             "description": "Aura Wohlwollen:",
-            "value": "5/10/15/20/25% Lauftempo"
+            "value": "5/9/13/17/21% Lauftempo"
           },
           {
             "description": "Aura Tapferkeit:",
@@ -2103,7 +2103,7 @@
         "rankitems": [
           {
             "description": "Schaden pro Treffer:",
-            "value": "95/140/185/230/275 (+50% deiner Physischen Kraft)"
+            "value": "80/125/170/215/260 (+50% deiner Physischen Kraft)"
           },
           {
             "description": "Verlangsamungsdauer:",
@@ -4819,7 +4819,7 @@
     "ManaPerFive": 4.8,
     "ManaPerLevel": 41,
     "Name": "Arachne",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Griechisch",
     "PhysicalPower": 38,
     "PhysicalPowerPerLevel": 2.2,
@@ -5665,7 +5665,7 @@
     "ManaPerFive": 4.4,
     "ManaPerLevel": 34,
     "Name": "Artemis",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Griechisch",
     "PhysicalPower": 35,
     "PhysicalPowerPerLevel": 2.5,
@@ -9858,7 +9858,7 @@
     "Ability_1": {
       "Description": {
         "itemDescription": {
-          "cooldown": "13s",
+          "cooldown": "12s",
           "cost": "50/55/60/65/70",
           "description": "Camazotz kreischt lauthals und sendet eine Schallwelle aus, die Diener durchdringt und Schaden verursacht.\n\nWenn der Schrei einen gegnerischen Gott trifft, entsteht ein Echo. Wenn Camazotz von einem Echo getroffen wird, erhält er 15s lang Sicht auf den getroffenen Gott und zusätzliche Physische Kraft.",
           "menuitems": [
@@ -9900,7 +9900,7 @@
         "itemDescription": {
           "cooldown": "10s",
           "cost": "60/65/70/75/80",
-          "description": "Camazotz befiehlt einem Schwarm Fledermäuse auszuschwärmen, ein einzelnes Ziel anzugreifen und es 3s lang um 30% zu verlangsamen. Bei der Rückkehr wird Camazotz geheilt.\n\nFalls das Ziel ein großes Dschungelmonster war, wird es markiert und Camazotz erhält zusätzlich zur Heilung 300s lang einen stapelbaren Vampirismus-Buff. Markierte Monster gewähren Camazotz keine weiteren Vampirismus-Stapel oder zusätzliche Heilung.",
+          "description": "Camazotz befiehlt einem Schwarm Fledermäuse auszuschwärmen, ein einzelnes Ziel anzugreifen und es 3s lang um 30% zu verlangsamen. Bei der Rückkehr wird Camazotz geheilt. Falls das Ziel ein großes Dschungelmonster war, wird es markiert und Camazotz erhält zusätzlich zur Heilung 300s lang einen stapelbaren Vampirismus-Buff. Markierte Monster gewähren Camazotz keine weiteren Vampirismus-Stapel oder zusätzliche Heilung.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -9930,7 +9930,7 @@
             },
             {
               "description": "Buff pro Stapel:",
-              "value": "3% Physischer Lebensraub und erhöhte Heilung"
+              "value": "4% Physischer Lebensraub und erhöhte Heilung"
             },
             {
               "description": "Maximale Stapel:",
@@ -9964,7 +9964,7 @@
             },
             {
               "description": "Reichweite:",
-              "value": "30"
+              "value": "45"
             }
           ],
           "rankitems": [
@@ -10054,7 +10054,7 @@
             },
             {
               "description": "Essenzverschlinger-Buff:",
-              "value": "6% Physischer Lebensraub und erhöhte Heilung"
+              "value": "8% Physischer Lebensraub und erhöhte Heilung"
             }
           ]
         }
@@ -10093,7 +10093,7 @@
     "Type": " Nahkampf, Physisch",
     "abilityDescription1": {
       "itemDescription": {
-        "cooldown": "13s",
+        "cooldown": "12s",
         "cost": "50/55/60/65/70",
         "description": "Camazotz kreischt lauthals und sendet eine Schallwelle aus, die Diener durchdringt und Schaden verursacht.\n\nWenn der Schrei einen gegnerischen Gott trifft, entsteht ein Echo. Wenn Camazotz von einem Echo getroffen wird, erhält er 15s lang Sicht auf den getroffenen Gott und zusätzliche Physische Kraft.",
         "menuitems": [
@@ -10130,7 +10130,7 @@
       "itemDescription": {
         "cooldown": "10s",
         "cost": "60/65/70/75/80",
-        "description": "Camazotz befiehlt einem Schwarm Fledermäuse auszuschwärmen, ein einzelnes Ziel anzugreifen und es 3s lang um 30% zu verlangsamen. Bei der Rückkehr wird Camazotz geheilt.\n\nFalls das Ziel ein großes Dschungelmonster war, wird es markiert und Camazotz erhält zusätzlich zur Heilung 300s lang einen stapelbaren Vampirismus-Buff. Markierte Monster gewähren Camazotz keine weiteren Vampirismus-Stapel oder zusätzliche Heilung.",
+        "description": "Camazotz befiehlt einem Schwarm Fledermäuse auszuschwärmen, ein einzelnes Ziel anzugreifen und es 3s lang um 30% zu verlangsamen. Bei der Rückkehr wird Camazotz geheilt. Falls das Ziel ein großes Dschungelmonster war, wird es markiert und Camazotz erhält zusätzlich zur Heilung 300s lang einen stapelbaren Vampirismus-Buff. Markierte Monster gewähren Camazotz keine weiteren Vampirismus-Stapel oder zusätzliche Heilung.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -10160,7 +10160,7 @@
           },
           {
             "description": "Buff pro Stapel:",
-            "value": "3% Physischer Lebensraub und erhöhte Heilung"
+            "value": "4% Physischer Lebensraub und erhöhte Heilung"
           },
           {
             "description": "Maximale Stapel:",
@@ -10189,7 +10189,7 @@
           },
           {
             "description": "Reichweite:",
-            "value": "30"
+            "value": "45"
           }
         ],
         "rankitems": [
@@ -10269,7 +10269,7 @@
           },
           {
             "description": "Essenzverschlinger-Buff:",
-            "value": "6% Physischer Lebensraub und erhöhte Heilung"
+            "value": "8% Physischer Lebensraub und erhöhte Heilung"
           }
         ]
       }
@@ -13023,7 +13023,7 @@
     "ManaPerFive": 4.6,
     "ManaPerLevel": 40,
     "Name": "Daji",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Chinesisch",
     "PhysicalPower": 39,
     "PhysicalPowerPerLevel": 2.25,
@@ -13250,7 +13250,7 @@
         "itemDescription": {
           "cooldown": "12s",
           "cost": "50/55/60/65/70",
-          "description": "Discordia schleudert eine Kugel unbändiger Magie an ein Ziel. Auf ihrem Weg fügt sie allen getroffenen Gegnern Schaden zu. An ihrem Ziel teilt sie sich in 6 kleinere Geschosse, die in alle Richtungen fliegen, bei getroffenen Gegnern Schaden verursachen und von Wänden abprallen.",
+          "description": "Discordia schleudert eine Kugel unbändiger Magie an ein Ziel. Auf ihrem Weg fügt die Kugel allen getroffenen Gegnern Schaden zu. An ihrem Ziel teilt sie sich in 6 kleinere Geschosse, die in alle Richtungen fliegen, getroffenen Gegnern Schaden zufügen und von Wänden abprallen.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -13272,7 +13272,7 @@
           "rankitems": [
             {
               "description": "Kugel-Schaden:",
-              "value": "70/115/160/205/250 (+75% deiner Magischen Kraft)"
+              "value": "75/125/175/225/275 (+75% deiner Magischen Kraft)"
             },
             {
               "description": "Schaden (kleine Geschosse):",
@@ -13328,7 +13328,7 @@
     "Ability_3": {
       "Description": {
         "itemDescription": {
-          "cooldown": "18s",
+          "cooldown": "16s",
           "cost": "50/55/60/65/70",
           "description": "Discordia macht einen kurzen Sprung und erzeugt bei ihrer Landung für 5s ein Gebiet mit Konfusion. Innerhalb dieses Gebiets ist sie getarnt und erhält einen Lauftempo-Bonus. Die Abklingzeiten ihrer 1. und 2. Fertigkeit werden für alle 0,5s, die sie sich in diesem Gebiet aufhält, zusätzlich reduziert. Angriffe aus diesem Gebiet heraus enthüllen sie kurz.",
           "menuitems": [
@@ -13355,7 +13355,7 @@
               "value": "20/25/30/35/40%"
             },
             {
-              "description": "Abklingzeitreduktion für Fertigkeit 1 und 2 pro Tick:",
+              "description": "Abklingzeitreduktion für 1 und 2 pro Tick:",
               "value": "0.5/0.75/1/1.25/1.5s"
             }
           ]
@@ -13462,7 +13462,7 @@
     "ManaPerFive": 5,
     "ManaPerLevel": 51,
     "Name": "Discordia",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Römisch",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -13477,7 +13477,7 @@
       "itemDescription": {
         "cooldown": "12s",
         "cost": "50/55/60/65/70",
-        "description": "Discordia schleudert eine Kugel unbändiger Magie an ein Ziel. Auf ihrem Weg fügt sie allen getroffenen Gegnern Schaden zu. An ihrem Ziel teilt sie sich in 6 kleinere Geschosse, die in alle Richtungen fliegen, bei getroffenen Gegnern Schaden verursachen und von Wänden abprallen.",
+        "description": "Discordia schleudert eine Kugel unbändiger Magie an ein Ziel. Auf ihrem Weg fügt die Kugel allen getroffenen Gegnern Schaden zu. An ihrem Ziel teilt sie sich in 6 kleinere Geschosse, die in alle Richtungen fliegen, getroffenen Gegnern Schaden zufügen und von Wänden abprallen.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -13499,7 +13499,7 @@
         "rankitems": [
           {
             "description": "Kugel-Schaden:",
-            "value": "70/115/160/205/250 (+75% deiner Magischen Kraft)"
+            "value": "75/125/175/225/275 (+75% deiner Magischen Kraft)"
           },
           {
             "description": "Schaden (kleine Geschosse):",
@@ -13545,7 +13545,7 @@
     },
     "abilityDescription3": {
       "itemDescription": {
-        "cooldown": "18s",
+        "cooldown": "16s",
         "cost": "50/55/60/65/70",
         "description": "Discordia macht einen kurzen Sprung und erzeugt bei ihrer Landung für 5s ein Gebiet mit Konfusion. Innerhalb dieses Gebiets ist sie getarnt und erhält einen Lauftempo-Bonus. Die Abklingzeiten ihrer 1. und 2. Fertigkeit werden für alle 0,5s, die sie sich in diesem Gebiet aufhält, zusätzlich reduziert. Angriffe aus diesem Gebiet heraus enthüllen sie kurz.",
         "menuitems": [
@@ -13572,7 +13572,7 @@
             "value": "20/25/30/35/40%"
           },
           {
-            "description": "Abklingzeitreduktion für Fertigkeit 1 und 2 pro Tick:",
+            "description": "Abklingzeitreduktion für 1 und 2 pro Tick:",
             "value": "0.5/0.75/1/1.25/1.5s"
           }
         ]
@@ -14925,58 +14925,22 @@
     "ret_msg": null
   },
   {
-    "Ability1": "Nordlichter",
-    "Ability2": "Auroraklinge",
+    "Ability1": "Strahlen",
+    "Ability2": "Pulsieren",
     "Ability3": "Verbannen",
     "Ability4": "Urteil der Walküren",
-    "Ability5": "Mystische Kriegerin",
-    "AbilityId1": 16396,
-    "AbilityId2": 16406,
+    "Ability5": "Brisingamens Segen",
+    "AbilityId1": 8344,
+    "AbilityId2": 8345,
     "AbilityId3": 8413,
     "AbilityId4": 8371,
-    "AbilityId5": 16391,
+    "AbilityId5": 8364,
     "Ability_1": {
       "Description": {
         "itemDescription": {
-          "cooldown": "9s",
+          "cooldown": "11s",
           "cost": "60/65/70/75/80",
-          "description": "Freya verstärkt ihre Waffe, sodass ihre nächsten 5 Grundangriffe in einem Bereich um getroffene Gegner zusätzlichen Magischen Schaden verursachen. Von der Explosion getroffene Gegner werden 1,25s lang verlangsamt. Diener erleiden 25% des Schadens durch die Explosion. Götter erleiden 25% Schaden durch jede Explosion nach der ersten.",
-          "menuitems": [
-            {
-              "description": "Fertigkeit:",
-              "value": "Stim"
-            },
-            {
-              "description": "Betrifft:",
-              "value": "Gegner"
-            },
-            {
-              "description": "Schaden:",
-              "value": "Magisch"
-            }
-          ],
-          "rankitems": [
-            {
-              "description": "Schaden:",
-              "value": "10/15/25/40/60 (10% deiner Magischen Kraft)"
-            },
-            {
-              "description": "Verlangsamung:",
-              "value": "15%"
-            }
-          ]
-        }
-      },
-      "Id": 16396,
-      "Summary": "Nordlichter",
-      "URL": "https://web2.hirez.com/smite/god-abilities/northern-lights.jpg"
-    },
-    "Ability_2": {
-      "Description": {
-        "itemDescription": {
-          "cooldown": "0/5s",
-          "cost": "14/18/22/26/30 pro Schuss",
-          "description": "Freya kann zwischen dem Verstärken ihrer Nahkampfangriffe und dem Abschießen von durchdringenden Fernkampf-Grundangriffen wechseln, die bei Göttern stoppen. Sowohl ihre Nahkampf- als auch ihre Fernkampf-Grundangriffe verursachen zusätzlichen Magischen Schaden. Fernkampf-Grundangriffe fügen Dienern keinen Bonusschaden zu. Während die Fertigkeit aktiviert ist, verbraucht jeder Fernkampf-Grundangriff Mana.",
+          "description": "Bei Aktivierung verursachen Freyas Grundangriffe für kurze Zeit zusätzlichen Magischen Schaden.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -14993,19 +14957,59 @@
           ],
           "rankitems": [
             {
-              "description": "Nahkampf-Bonusschaden:",
-              "value": "28/40/52/64/76 (+20% deiner Magischen Kraft)"
+              "description": "Bonusschaden:",
+              "value": "40/55/70/85/100 (+25% deiner Magischen Kraft)"
             },
             {
-              "description": "Fernkampf-Bonusschaden:",
-              "value": "1/10/20/30/40 (+15% deiner Magischen Kraft)"
+              "description": "Dauer:",
+              "value": "5s"
             }
           ]
         }
       },
-      "Id": 16406,
-      "Summary": "Auroraklinge",
-      "URL": "https://web2.hirez.com/smite/god-abilities/aurora-blade.jpg"
+      "Id": 8344,
+      "Summary": "Strahlen",
+      "URL": "https://web2.hirez.com/smite/god-abilities/irradiate.jpg"
+    },
+    "Ability_2": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "11s",
+          "cost": "60/65/70/75/80",
+          "description": "Freya aktiviert einen Buff, der ihre Grundangriffe zu Fernangriffen macht, die zusätzlichen Magischen Schaden verursachen und das Ziel sowie alle in der Nähe befindlichen Gegner verlangsamen. Der Flächeneffekt und die Verlangsamung gehen verloren, wenn Strahlen aktiv ist.",
+          "menuitems": [
+            {
+              "description": "Fertigkeit:",
+              "value": "Buff"
+            },
+            {
+              "description": "Betrifft:",
+              "value": "Selbst"
+            },
+            {
+              "description": "Schaden:",
+              "value": "Magisch"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Bonusschaden:",
+              "value": "20/30/40/50/60 (+15% deiner Magischen Kraft)"
+            },
+            {
+              "description": "Dauer:",
+              "value": "6s"
+            },
+            {
+              "description": "Verlangsamung:",
+              "value": "25%"
+            }
+          ]
+        }
+      },
+      "Id": 8345,
+      "Summary": "Pulsieren",
+      "URL": "https://web2.hirez.com/smite/god-abilities/pulse.jpg"
     },
     "Ability_3": {
       "Description": {
@@ -15066,7 +15070,7 @@
           "rankitems": [
             {
               "description": "Schaden pro Schockwelle:",
-              "value": "80/115/150/185/220 (+30% deiner Magischen Kraft)"
+              "value": "100/135/170/205/240 (+35% deiner Magischen Kraft)"
             },
             {
               "description": "Dauer:",
@@ -15084,23 +15088,28 @@
         "itemDescription": {
           "cooldown": "",
           "cost": "",
-          "description": "Freyas Nahkampf-Grundangriffe stellen pro erfolgreichem Treffer 6% ihres maximalen Manas wieder her. Freyas Fernkampf-Grundangriffe und Fertigkeiten heilen sie bis zu einmal pro Schuss pro erfolgreichem Treffer um 1,5% ihrer maximalen Gesundheit.",
+          "description": "Freyas Halskette verleiht ihr zusätzlichen Magischen Lebensraub.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
-              "value": "Passiv"
+              "value": "Buff"
             },
             {
               "description": "Betrifft:",
               "value": "Selbst"
             }
           ],
-          "rankitems": []
+          "rankitems": [
+            {
+              "description": "Magischer Lebensraub:",
+              "value": "15%"
+            }
+          ]
         }
       },
-      "Id": 16391,
-      "Summary": "Mystische Kriegerin",
-      "URL": "https://web2.hirez.com/smite/god-abilities/mystic-warrior.jpg"
+      "Id": 8364,
+      "Summary": "Brisingamens Segen",
+      "URL": "https://web2.hirez.com/smite/god-abilities/brisingamens-blessing.jpg"
     },
     "AttackSpeed": 0.95,
     "AttackSpeedPerLevel": 0.019,
@@ -15127,45 +15136,14 @@
     "PhysicalProtectionPerLevel": 2.8,
     "Pros": " Hoher Flächenschaden, Mittlere Crowd Control",
     "Roles": " Magier",
-    "Speed": 370,
+    "Speed": 375,
     "Title": "Königin der Walküren",
     "Type": " Nahkampf, Magisch",
     "abilityDescription1": {
       "itemDescription": {
-        "cooldown": "9s",
+        "cooldown": "11s",
         "cost": "60/65/70/75/80",
-        "description": "Freya verstärkt ihre Waffe, sodass ihre nächsten 5 Grundangriffe in einem Bereich um getroffene Gegner zusätzlichen Magischen Schaden verursachen. Von der Explosion getroffene Gegner werden 1,25s lang verlangsamt. Diener erleiden 25% des Schadens durch die Explosion. Götter erleiden 25% Schaden durch jede Explosion nach der ersten.",
-        "menuitems": [
-          {
-            "description": "Fertigkeit:",
-            "value": "Stim"
-          },
-          {
-            "description": "Betrifft:",
-            "value": "Gegner"
-          },
-          {
-            "description": "Schaden:",
-            "value": "Magisch"
-          }
-        ],
-        "rankitems": [
-          {
-            "description": "Schaden:",
-            "value": "10/15/25/40/60 (10% deiner Magischen Kraft)"
-          },
-          {
-            "description": "Verlangsamung:",
-            "value": "15%"
-          }
-        ]
-      }
-    },
-    "abilityDescription2": {
-      "itemDescription": {
-        "cooldown": "0/5s",
-        "cost": "14/18/22/26/30 pro Schuss",
-        "description": "Freya kann zwischen dem Verstärken ihrer Nahkampfangriffe und dem Abschießen von durchdringenden Fernkampf-Grundangriffen wechseln, die bei Göttern stoppen. Sowohl ihre Nahkampf- als auch ihre Fernkampf-Grundangriffe verursachen zusätzlichen Magischen Schaden. Fernkampf-Grundangriffe fügen Dienern keinen Bonusschaden zu. Während die Fertigkeit aktiviert ist, verbraucht jeder Fernkampf-Grundangriff Mana.",
+        "description": "Bei Aktivierung verursachen Freyas Grundangriffe für kurze Zeit zusätzlichen Magischen Schaden.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -15182,12 +15160,47 @@
         ],
         "rankitems": [
           {
-            "description": "Nahkampf-Bonusschaden:",
-            "value": "28/40/52/64/76 (+20% deiner Magischen Kraft)"
+            "description": "Bonusschaden:",
+            "value": "40/55/70/85/100 (+25% deiner Magischen Kraft)"
           },
           {
-            "description": "Fernkampf-Bonusschaden:",
-            "value": "1/10/20/30/40 (+15% deiner Magischen Kraft)"
+            "description": "Dauer:",
+            "value": "5s"
+          }
+        ]
+      }
+    },
+    "abilityDescription2": {
+      "itemDescription": {
+        "cooldown": "11s",
+        "cost": "60/65/70/75/80",
+        "description": "Freya aktiviert einen Buff, der ihre Grundangriffe zu Fernangriffen macht, die zusätzlichen Magischen Schaden verursachen und das Ziel sowie alle in der Nähe befindlichen Gegner verlangsamen. Der Flächeneffekt und die Verlangsamung gehen verloren, wenn Strahlen aktiv ist.",
+        "menuitems": [
+          {
+            "description": "Fertigkeit:",
+            "value": "Buff"
+          },
+          {
+            "description": "Betrifft:",
+            "value": "Selbst"
+          },
+          {
+            "description": "Schaden:",
+            "value": "Magisch"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Bonusschaden:",
+            "value": "20/30/40/50/60 (+15% deiner Magischen Kraft)"
+          },
+          {
+            "description": "Dauer:",
+            "value": "6s"
+          },
+          {
+            "description": "Verlangsamung:",
+            "value": "25%"
           }
         ]
       }
@@ -15245,7 +15258,7 @@
         "rankitems": [
           {
             "description": "Schaden pro Schockwelle:",
-            "value": "80/115/150/185/220 (+30% deiner Magischen Kraft)"
+            "value": "100/135/170/205/240 (+35% deiner Magischen Kraft)"
           },
           {
             "description": "Dauer:",
@@ -15258,18 +15271,23 @@
       "itemDescription": {
         "cooldown": "",
         "cost": "",
-        "description": "Freyas Nahkampf-Grundangriffe stellen pro erfolgreichem Treffer 6% ihres maximalen Manas wieder her. Freyas Fernkampf-Grundangriffe und Fertigkeiten heilen sie bis zu einmal pro Schuss pro erfolgreichem Treffer um 1,5% ihrer maximalen Gesundheit.",
+        "description": "Freyas Halskette verleiht ihr zusätzlichen Magischen Lebensraub.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
-            "value": "Passiv"
+            "value": "Buff"
           },
           {
             "description": "Betrifft:",
             "value": "Selbst"
           }
         ],
-        "rankitems": []
+        "rankitems": [
+          {
+            "description": "Magischer Lebensraub:",
+            "value": "15%"
+          }
+        ]
       }
     },
     "basicAttack": {
@@ -15290,11 +15308,11 @@
         "rankitems": []
       }
     },
-    "godAbility1_URL": "https://web2.hirez.com/smite/god-abilities/northern-lights.jpg",
-    "godAbility2_URL": "https://web2.hirez.com/smite/god-abilities/aurora-blade.jpg",
+    "godAbility1_URL": "https://web2.hirez.com/smite/god-abilities/irradiate.jpg",
+    "godAbility2_URL": "https://web2.hirez.com/smite/god-abilities/pulse.jpg",
     "godAbility3_URL": "https://web2.hirez.com/smite/god-abilities/banish.jpg",
     "godAbility4_URL": "https://web2.hirez.com/smite/god-abilities/valkyries-discretion.jpg",
-    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/mystic-warrior.jpg",
+    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/brisingamens-blessing.jpg",
     "godCard_URL": "https://web2.hirez.com/smite/god-cards/freya.jpg",
     "godIcon_URL": "https://web2.hirez.com/smite/god-icons/freya.jpg",
     "id": 1784,
@@ -17870,6 +17888,457 @@
     "ret_msg": null
   },
   {
+    "Ability1": "Durchbohrender Blick",
+    "Ability2": "Gjallarhorn",
+    "Ability3": "Der Bifröst",
+    "Ability4": "Durch die Welten",
+    "Ability5": "Der Wachsame",
+    "AbilityId1": 17698,
+    "AbilityId2": 17699,
+    "AbilityId3": 17700,
+    "AbilityId4": 17701,
+    "AbilityId5": 17697,
+    "Ability_1": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "14s",
+          "cost": "50/55/60/65/70",
+          "description": "Heimdallr wirft sein Schwert Hofuð in die Luft, wo es zu leuchten beginnt und Gegner im Umkreis von 120 Einheiten offenbart. Heimdallr kann die Fertigkeit erneut aktivieren, um das Schwert an einen Zielort fliegen zu lassen und Gegnern Schaden zuzufügen.",
+          "menuitems": [
+            {
+              "description": "Fertigkeit:",
+              "value": "Kreis"
+            },
+            {
+              "description": "Betrifft:",
+              "value": "Gegner"
+            },
+            {
+              "description": "Schaden:",
+              "value": "Physisch"
+            },
+            {
+              "description": "Radius:",
+              "value": "15"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Schaden:",
+              "value": "70/130/190/250/310 (+95% deiner Physischen Kraft)"
+            }
+          ]
+        }
+      },
+      "Id": 17698,
+      "Summary": "Durchbohrender Blick",
+      "URL": "https://web2.hirez.com/smite/god-abilities/piercing-sight.jpg"
+    },
+    "Ability_2": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "14s",
+          "cost": "60/65/70/75/80",
+          "description": "Heimdallr bläst 2s lang ins Gjallarhorn, was das Lauf- und Angriffstempo von Gegnern vor ihm reduziert und ihnen alle 0,5s Schaden zufügt. Währeddessen kann Heimdallr nicht in die Luft geschleudert werden und erhält Bonusschutz. Nach Ende der Dauer oder bei vorzeitigem Abbruch durch Heimdallr selbst wird eine Schockwelle ausgelöst, die Gegnern Schaden zufügt und sie von Heimdallr fortstößt.",
+          "menuitems": [
+            {
+              "description": "Fertigkeit:",
+              "value": "Kegel"
+            },
+            {
+              "description": "Betrifft:",
+              "value": "Gegner"
+            },
+            {
+              "description": "Schaden:",
+              "value": "Physisch"
+            },
+            {
+              "description": "Reichweite:",
+              "value": "60"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Schaden pro Tick:",
+              "value": "8/16/24/32/40 (+35% deiner Physischen Kraft)"
+            },
+            {
+              "description": "Schockwellenschaden:",
+              "value": "50/90/130/170/210 (+60% deiner Physischen Kraft)"
+            },
+            {
+              "description": "Schutz:",
+              "value": "16/22/28/34/40"
+            },
+            {
+              "description": "Verlangsamung:",
+              "value": "15/17.5/20/22.5/25%"
+            },
+            {
+              "description": "Verlangsamungsdauer:",
+              "value": "1.5s"
+            }
+          ]
+        }
+      },
+      "Id": 17699,
+      "Summary": "Gjallarhorn",
+      "URL": "https://web2.hirez.com/smite/god-abilities/gjallarhorn.jpg"
+    },
+    "Ability_3": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "Variabel",
+          "cost": "40",
+          "description": "Heimdallr beschwört am Zielort ein Fragment des Bifröst. Sobald zwei Fragmente platziert wurden, entsteht zwischen ihnen eine Verbindung, über die Heimdallr zwischen ihnen hin- und herreisen kann. Je weiter sie voneinander entfernt sind, desto länger dauert es, bis die Reise beginnt und bis zur nächsten möglichen Verwendung. Platziert Heimdallr ein drittes Fragment, wird das älteste zerstört. Gegner, die die Verbindung kreuzen, werden Heimdallr offenbart.",
+          "menuitems": [
+            {
+              "description": "Fertigkeit:",
+              "value": "Kreis"
+            },
+            {
+              "description": "Betrifft:",
+              "value": "Selbst"
+            },
+            {
+              "description": "Reichweite:",
+              "value": "Unbegrenzt"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Distanz:",
+              "value": "85 bis max/ 700 Einheiten"
+            },
+            {
+              "description": "Äufwarmphase:",
+              "value": "0.5s bis max/ 3.5s"
+            },
+            {
+              "description": "Zeit zwischen möglichen Reisen:",
+              "value": "14s bis max/ 210/180/150/120/90s"
+            }
+          ]
+        }
+      },
+      "Id": 17700,
+      "Summary": "Der Bifröst",
+      "URL": "https://web2.hirez.com/smite/god-abilities/the-bifrost.jpg"
+    },
+    "Ability_4": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "90s",
+          "cost": "70/75/80/85/90",
+          "description": "Heimdallr stürmt vorwärts und betäubt den ersten gegnerischen Gott, den er trifft, verpasst ihm einen vernichtenden Axthieb, der sein Opfer gen Himmel durch ein Bifröst-Portal schleudert und kurzzeitig nach Muspelheim und Niflheim verbannt. Anschließend öffnet er ein weiteres Portal an einem zufälligen Ort vor ihm, durch das der Gott wieder auf dem Schlachtfeld landet. In Muspelheim erleiden Gegner 1,5s lang alle 0,5s Schaden, in Niflheim werden sie für 2,5s verlangsamt.",
+          "menuitems": [
+            {
+              "description": "Fertigkeit:",
+              "value": "Sprint"
+            },
+            {
+              "description": "Betrifft:",
+              "value": "Gegner"
+            },
+            {
+              "description": "Reichweite:",
+              "value": "55"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Trefferschaden:",
+              "value": "150/240/330/420/510 (+110% deiner Physischen Kraft)"
+            },
+            {
+              "description": "Muspelheim-Schaden:",
+              "value": "25/35/45/55/65 (+15% deiner Physischen Kraft)"
+            },
+            {
+              "description": "Schaden bei Mauertreffer:",
+              "value": "35/75/115/155/195 (+30% deiner Physischen Kraft)"
+            },
+            {
+              "description": "Niflheim-Verlangsamung:",
+              "value": "25%"
+            },
+            {
+              "description": "Gesamtdauer:",
+              "value": "4s"
+            }
+          ]
+        }
+      },
+      "Id": 17701,
+      "Summary": "Durch die Welten",
+      "URL": "https://web2.hirez.com/smite/god-abilities/through-the-realms.jpg"
+    },
+    "Ability_5": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "",
+          "cost": "",
+          "description": "Erhält Heimdallr Sicht auf einen gegnerischen Gott, erhöht sich seine Physische Kraft (max. 5 Stapel). Verlässt ein gegnerischer Gott den Sichtbereich oder tarnt sich, kann Heimdallr ihn trotzdem noch 4s lang sehen. Heimdallrs kritische Treffer verursachen nur 70% Bonusschaden.",
+          "menuitems": [
+            {
+              "description": "Fertigkeit:",
+              "value": "Buff"
+            },
+            {
+              "description": "Betrifft:",
+              "value": "Selbst"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Physische Kraft pro Stapel:",
+              "value": "3%"
+            }
+          ]
+        }
+      },
+      "Id": 17697,
+      "Summary": "Der Wachsame",
+      "URL": "https://web2.hirez.com/smite/god-abilities/the-vigilant.jpg"
+    },
+    "AttackSpeed": 0.96,
+    "AttackSpeedPerLevel": 0.014,
+    "Cons": "",
+    "HP5PerLevel": 0.8,
+    "Health": 480,
+    "HealthPerFive": 8,
+    "HealthPerLevel": 80,
+    "Lore": "Alle Pfade haben ihre Wächter. Und kein Wächter ist so unerschütterlich und pflichtbewusst wie Heimdallr, der Wächter des Bifröst. In den Neun Welten gibt es niemanden, der es diesbezüglich mit dem Beschützer Asgards aufnehmen kann, welcher dort seine ewige Wache hält, wo die Regenbogenbrücke den Himmel berührt. Mit scharfem Auge und hellem Ohr bewacht er die Heimstatt der Götter, stets auf der Hut vor herannahenden Feinden oder ersten Anzeichen Ragnaröks.\\n\\nMan sagt, Heimdallr brauche weniger Schlaf als ein Vogel und sein Blick reiche hunderte Meilen weit. Sein Gehör sei so gut, dass er sogar das leise Flüstern des wachsenden Grases und das Gemurmel der Toten wahrnehmen könne. Sein Gjallarhorn ist in allen Neun Welten zu hören, wenn er hineinbläst. Doch nicht nur seine scharfen Sinne machen Heimdallr zu einem herausragenden Wächter.\\n\\nDank seines Weitblicks erkennt er die meisten Schachzüge seiner Gegner bereits im Voraus. Wie es sich für einen Asen geziemt, ist er zudem ein meisterhafter Krieger, für den sich im Kampf nur die geschicktesten – oder unberechenbarsten – Gegner als ebenbürtig erweisen.\\n\\nHinter vorgehaltener Hand erzählt man, Heimdallr stehe in Verbindung mit Yggdrasil, dem Weltenbaum. Einige behaupten sogar, Heimdallr selbst sei einst aus einem Splitter der Weltesche entstanden, während andere eine Bindung vermuten, die der zwischen Yggdrasil und Ratatoskr ähnelt. Gewiss ist, dass Heimdallr denjenigen, die Yggdrasil bedrohen, mit Grimm begegnet.\\n\\nFolglich blieb er nicht untätig, als sein wachsamer Blick auf die schleichenden Ranken von Persephones Vasallen fiel, die sich dem Weltenbaum näherten, ganz im Gegenteil. Heimdallr war sofort auf den Beinen, um sich ihrer zu entledigen. Und all ihrer Macht zum Trotz, vor dem Hüter Asgards konnte selbst die Königin der Unterwelt ihre wahren Absichten nicht verbergen ...",
+    "MP5PerLevel": 0.4,
+    "MagicProtection": 30,
+    "MagicProtectionPerLevel": 0.9,
+    "MagicalPower": 0,
+    "MagicalPowerPerLevel": 0,
+    "Mana": 230,
+    "ManaPerFive": 4.5,
+    "ManaPerLevel": 34,
+    "Name": "Heimdallr",
+    "OnFreeRotation": "",
+    "Pantheon": "Nordisch",
+    "PhysicalPower": 32,
+    "PhysicalPowerPerLevel": 3,
+    "PhysicalProtection": 16,
+    "PhysicalProtectionPerLevel": 3,
+    "Pros": " Hoher Einzelzielschaden",
+    "Roles": " Jäger",
+    "Speed": 365,
+    "Title": "Der Wachsame",
+    "Type": " Fernkampf",
+    "abilityDescription1": {
+      "itemDescription": {
+        "cooldown": "14s",
+        "cost": "50/55/60/65/70",
+        "description": "Heimdallr wirft sein Schwert Hofuð in die Luft, wo es zu leuchten beginnt und Gegner im Umkreis von 120 Einheiten offenbart. Heimdallr kann die Fertigkeit erneut aktivieren, um das Schwert an einen Zielort fliegen zu lassen und Gegnern Schaden zuzufügen.",
+        "menuitems": [
+          {
+            "description": "Fertigkeit:",
+            "value": "Kreis"
+          },
+          {
+            "description": "Betrifft:",
+            "value": "Gegner"
+          },
+          {
+            "description": "Schaden:",
+            "value": "Physisch"
+          },
+          {
+            "description": "Radius:",
+            "value": "15"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Schaden:",
+            "value": "70/130/190/250/310 (+95% deiner Physischen Kraft)"
+          }
+        ]
+      }
+    },
+    "abilityDescription2": {
+      "itemDescription": {
+        "cooldown": "14s",
+        "cost": "60/65/70/75/80",
+        "description": "Heimdallr bläst 2s lang ins Gjallarhorn, was das Lauf- und Angriffstempo von Gegnern vor ihm reduziert und ihnen alle 0,5s Schaden zufügt. Währeddessen kann Heimdallr nicht in die Luft geschleudert werden und erhält Bonusschutz. Nach Ende der Dauer oder bei vorzeitigem Abbruch durch Heimdallr selbst wird eine Schockwelle ausgelöst, die Gegnern Schaden zufügt und sie von Heimdallr fortstößt.",
+        "menuitems": [
+          {
+            "description": "Fertigkeit:",
+            "value": "Kegel"
+          },
+          {
+            "description": "Betrifft:",
+            "value": "Gegner"
+          },
+          {
+            "description": "Schaden:",
+            "value": "Physisch"
+          },
+          {
+            "description": "Reichweite:",
+            "value": "60"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Schaden pro Tick:",
+            "value": "8/16/24/32/40 (+35% deiner Physischen Kraft)"
+          },
+          {
+            "description": "Schockwellenschaden:",
+            "value": "50/90/130/170/210 (+60% deiner Physischen Kraft)"
+          },
+          {
+            "description": "Schutz:",
+            "value": "16/22/28/34/40"
+          },
+          {
+            "description": "Verlangsamung:",
+            "value": "15/17.5/20/22.5/25%"
+          },
+          {
+            "description": "Verlangsamungsdauer:",
+            "value": "1.5s"
+          }
+        ]
+      }
+    },
+    "abilityDescription3": {
+      "itemDescription": {
+        "cooldown": "Variabel",
+        "cost": "40",
+        "description": "Heimdallr beschwört am Zielort ein Fragment des Bifröst. Sobald zwei Fragmente platziert wurden, entsteht zwischen ihnen eine Verbindung, über die Heimdallr zwischen ihnen hin- und herreisen kann. Je weiter sie voneinander entfernt sind, desto länger dauert es, bis die Reise beginnt und bis zur nächsten möglichen Verwendung. Platziert Heimdallr ein drittes Fragment, wird das älteste zerstört. Gegner, die die Verbindung kreuzen, werden Heimdallr offenbart.",
+        "menuitems": [
+          {
+            "description": "Fertigkeit:",
+            "value": "Kreis"
+          },
+          {
+            "description": "Betrifft:",
+            "value": "Selbst"
+          },
+          {
+            "description": "Reichweite:",
+            "value": "Unbegrenzt"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Distanz:",
+            "value": "85 bis max/ 700 Einheiten"
+          },
+          {
+            "description": "Äufwarmphase:",
+            "value": "0.5s bis max/ 3.5s"
+          },
+          {
+            "description": "Zeit zwischen möglichen Reisen:",
+            "value": "14s bis max/ 210/180/150/120/90s"
+          }
+        ]
+      }
+    },
+    "abilityDescription4": {
+      "itemDescription": {
+        "cooldown": "90s",
+        "cost": "70/75/80/85/90",
+        "description": "Heimdallr stürmt vorwärts und betäubt den ersten gegnerischen Gott, den er trifft, verpasst ihm einen vernichtenden Axthieb, der sein Opfer gen Himmel durch ein Bifröst-Portal schleudert und kurzzeitig nach Muspelheim und Niflheim verbannt. Anschließend öffnet er ein weiteres Portal an einem zufälligen Ort vor ihm, durch das der Gott wieder auf dem Schlachtfeld landet. In Muspelheim erleiden Gegner 1,5s lang alle 0,5s Schaden, in Niflheim werden sie für 2,5s verlangsamt.",
+        "menuitems": [
+          {
+            "description": "Fertigkeit:",
+            "value": "Sprint"
+          },
+          {
+            "description": "Betrifft:",
+            "value": "Gegner"
+          },
+          {
+            "description": "Reichweite:",
+            "value": "55"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Trefferschaden:",
+            "value": "150/240/330/420/510 (+110% deiner Physischen Kraft)"
+          },
+          {
+            "description": "Muspelheim-Schaden:",
+            "value": "25/35/45/55/65 (+15% deiner Physischen Kraft)"
+          },
+          {
+            "description": "Schaden bei Mauertreffer:",
+            "value": "35/75/115/155/195 (+30% deiner Physischen Kraft)"
+          },
+          {
+            "description": "Niflheim-Verlangsamung:",
+            "value": "25%"
+          },
+          {
+            "description": "Gesamtdauer:",
+            "value": "4s"
+          }
+        ]
+      }
+    },
+    "abilityDescription5": {
+      "itemDescription": {
+        "cooldown": "",
+        "cost": "",
+        "description": "Erhält Heimdallr Sicht auf einen gegnerischen Gott, erhöht sich seine Physische Kraft (max. 5 Stapel). Verlässt ein gegnerischer Gott den Sichtbereich oder tarnt sich, kann Heimdallr ihn trotzdem noch 4s lang sehen. Heimdallrs kritische Treffer verursachen nur 70% Bonusschaden.",
+        "menuitems": [
+          {
+            "description": "Fertigkeit:",
+            "value": "Buff"
+          },
+          {
+            "description": "Betrifft:",
+            "value": "Selbst"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Physische Kraft pro Stapel:",
+            "value": "3%"
+          }
+        ]
+      }
+    },
+    "basicAttack": {
+      "itemDescription": {
+        "cooldown": "",
+        "cost": "",
+        "description": "",
+        "menuitems": [
+          {
+            "description": "Schaden:",
+            "value": "36 + 2,8/St. (+100% der Physischen Kraft)"
+          },
+          {
+            "description": "Entwicklung:",
+            "value": "1,3/1,3/1,5x Schaden und Schwungzeit, erste zwei Treffer haben Wirkungsbereich mit 7,5-Einheiten-Radius"
+          }
+        ],
+        "rankitems": []
+      }
+    },
+    "godAbility1_URL": "https://web2.hirez.com/smite/god-abilities/piercing-sight.jpg",
+    "godAbility2_URL": "https://web2.hirez.com/smite/god-abilities/gjallarhorn.jpg",
+    "godAbility3_URL": "https://web2.hirez.com/smite/god-abilities/the-bifrost.jpg",
+    "godAbility4_URL": "https://web2.hirez.com/smite/god-abilities/through-the-realms.jpg",
+    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/the-vigilant.jpg",
+    "godCard_URL": "https://web2.hirez.com/smite/god-cards/heimdallr.jpg",
+    "godIcon_URL": "https://web2.hirez.com/smite/god-icons/heimdallr.jpg",
+    "id": 3812,
+    "latestGod": "y",
+    "ret_msg": null
+  },
+  {
     "Ability1": "Verfall (Erneuerung)",
     "Ability2": "Hindern (Reinigen)",
     "Ability3": "Abstoßen (Anspornen)",
@@ -19404,7 +19873,7 @@
     "ManaPerFive": 4.7,
     "ManaPerLevel": 37,
     "Name": "Horus",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Ägyptisch",
     "PhysicalPower": 37,
     "PhysicalPowerPerLevel": 2.1,
@@ -20475,9 +20944,9 @@
     "Ability_2": {
       "Description": {
         "itemDescription": {
-          "cooldown": "10s",
+          "cooldown": "12s",
           "cost": "70/75/80/85/90",
-          "description": "Isis entsendet einen Ball geistiger Energie. Während der Ball fliegt, gewinnt er an Kraft, bis zum 1,5-fachen bei maximaler Reichweite. Isis kann die Fertigkeit jederzeit erneut aktivieren, um den Ball detonieren zu lassen, Magischen Schaden zu verursachen und Gegner innerhalb von 10 Einheiten zu betäuben. Die Dauer skaliert mit der Distanz (1,5s bei maximaler Reichweite).",
+          "description": "Isis entsendet einen Ball geistiger Energie. Während der Ball fliegt, gewinnt er an Kraft, bis zum 1,5-fachen bei maximaler Reichweite. Isis kann die Fertigkeit jederzeit erneut aktivieren, um den Ball detonieren zu lassen, damit Magischen Schaden zu verursachen und Gegner innerhalb von 10 Einheiten zu betäuben. Die Dauer skaliert mit der Distanz (1,5s bei maximaler Reichweite).",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -20551,7 +21020,7 @@
             },
             {
               "description": "Schild:",
-              "value": "70/110/150/190/230"
+              "value": "50/95/140/185/230"
             }
           ]
         }
@@ -20591,7 +21060,7 @@
             },
             {
               "description": "Heilung:",
-              "value": "110/130/150/170/190 (+25% deiner Magischen Kraft)"
+              "value": "90/115/140/165/190 (+25% deiner Magischen Kraft)"
             },
             {
               "description": "Schadensminderung:",
@@ -20721,9 +21190,9 @@
     },
     "abilityDescription2": {
       "itemDescription": {
-        "cooldown": "10s",
+        "cooldown": "12s",
         "cost": "70/75/80/85/90",
-        "description": "Isis entsendet einen Ball geistiger Energie. Während der Ball fliegt, gewinnt er an Kraft, bis zum 1,5-fachen bei maximaler Reichweite. Isis kann die Fertigkeit jederzeit erneut aktivieren, um den Ball detonieren zu lassen, Magischen Schaden zu verursachen und Gegner innerhalb von 10 Einheiten zu betäuben. Die Dauer skaliert mit der Distanz (1,5s bei maximaler Reichweite).",
+        "description": "Isis entsendet einen Ball geistiger Energie. Während der Ball fliegt, gewinnt er an Kraft, bis zum 1,5-fachen bei maximaler Reichweite. Isis kann die Fertigkeit jederzeit erneut aktivieren, um den Ball detonieren zu lassen, damit Magischen Schaden zu verursachen und Gegner innerhalb von 10 Einheiten zu betäuben. Die Dauer skaliert mit der Distanz (1,5s bei maximaler Reichweite).",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -20792,7 +21261,7 @@
           },
           {
             "description": "Schild:",
-            "value": "70/110/150/190/230"
+            "value": "50/95/140/185/230"
           }
         ]
       }
@@ -20827,7 +21296,7 @@
           },
           {
             "description": "Heilung:",
-            "value": "110/130/150/170/190 (+25% deiner Magischen Kraft)"
+            "value": "90/115/140/165/190 (+25% deiner Magischen Kraft)"
           },
           {
             "description": "Schadensminderung:",
@@ -22317,7 +22786,7 @@
           "rankitems": [
             {
               "description": "Schaden beim Abtauchen:",
-              "value": "150/200/250/300/350 (+40% deiner Magischen Kraft)"
+              "value": "150/200/250/300/350 (+35% deiner Magischen Kraft)"
             },
             {
               "description": "Schaden beim Auftauchen:",
@@ -22349,7 +22818,7 @@
             },
             {
               "description": "Erhöhung erlittenen Schadens:",
-              "value": "10%"
+              "value": "15%"
             },
             {
               "description": "Dauer:",
@@ -22545,7 +23014,7 @@
         "rankitems": [
           {
             "description": "Schaden beim Abtauchen:",
-            "value": "150/200/250/300/350 (+40% deiner Magischen Kraft)"
+            "value": "150/200/250/300/350 (+35% deiner Magischen Kraft)"
           },
           {
             "description": "Schaden beim Auftauchen:",
@@ -22572,7 +23041,7 @@
           },
           {
             "description": "Erhöhung erlittenen Schadens:",
-            "value": "10%"
+            "value": "15%"
           },
           {
             "description": "Dauer:",
@@ -23281,7 +23750,7 @@
     "ManaPerFive": 4.6,
     "ManaPerLevel": 34,
     "Name": "Khepri",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Ägyptisch",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -24149,7 +24618,7 @@
           "rankitems": [
             {
               "description": "Schaden pro Tick:",
-              "value": "10/20/30/40/50 (+15% deiner Magischen Kraft)"
+              "value": "9/18/27/36/45 (+15% deiner Magischen Kraft)"
             },
             {
               "description": "Tornado-Dauer:",
@@ -24333,7 +24802,7 @@
         "rankitems": [
           {
             "description": "Schaden pro Tick:",
-            "value": "10/20/30/40/50 (+15% deiner Magischen Kraft)"
+            "value": "9/18/27/36/45 (+15% deiner Magischen Kraft)"
           },
           {
             "description": "Tornado-Dauer:",
@@ -30648,7 +31117,7 @@
     "MP5PerLevel": 0.4,
     "MagicProtection": 30,
     "MagicProtectionPerLevel": 0.9,
-    "MagicalPower": 160,
+    "MagicalPower": 152,
     "MagicalPowerPerLevel": 9.5,
     "Mana": 240,
     "ManaPerFive": 5,
@@ -31943,7 +32412,7 @@
         "itemDescription": {
           "cooldown": "",
           "cost": "",
-          "description": "Persephone sammelt Samen, wenn ihre Pflanzen verwelken. Hat sie 25+ Samen, kann sie dem Tod 8s lang widerstehen und mit vollem Mana, aber um 50% reduziertem Schaden weiter kämpfen. Kann vor der Wiederbelebung abgebrochen werden. Max. 100 Samen, überzählige Samen werden im Brunnen für je 3 Gold verkauft.",
+          "description": "Persephone sammelt Samen, wenn ihre Pflanzen verwelken. Hat sie 25+ Samen, kann sie dem Tod 8s lang widerstehen und mit vollem Mana, aber 50% weniger Schaden weiter kämpfen. Kann vor der Wiederbelebung abgebrochen werden. Max. 100 Samen, überzählige Samen werden im Brunnen für je 3 Gold verkauft.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -32141,7 +32610,7 @@
       "itemDescription": {
         "cooldown": "",
         "cost": "",
-        "description": "Persephone sammelt Samen, wenn ihre Pflanzen verwelken. Hat sie 25+ Samen, kann sie dem Tod 8s lang widerstehen und mit vollem Mana, aber um 50% reduziertem Schaden weiter kämpfen. Kann vor der Wiederbelebung abgebrochen werden. Max. 100 Samen, überzählige Samen werden im Brunnen für je 3 Gold verkauft.",
+        "description": "Persephone sammelt Samen, wenn ihre Pflanzen verwelken. Hat sie 25+ Samen, kann sie dem Tod 8s lang widerstehen und mit vollem Mana, aber 50% weniger Schaden weiter kämpfen. Kann vor der Wiederbelebung abgebrochen werden. Max. 100 Samen, überzählige Samen werden im Brunnen für je 3 Gold verkauft.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -33124,11 +33593,11 @@
           "rankitems": [
             {
               "description": "Schaden pro Tick:",
-              "value": "15/25/35/45/55 (++13% deiner Magischen Kraft)"
+              "value": "15/25/35/45/55 (+13% deiner Magischen Kraft)"
             },
             {
               "description": "Abprallschaden pro Tick:",
-              "value": "14/23/32/41/50 (+10% deiner Magischen Kraft)"
+              "value": "14/23/32/41/50 (10% deiner Magischen Kraft)"
             },
             {
               "description": "Markierungsdauer:",
@@ -33341,11 +33810,11 @@
         "rankitems": [
           {
             "description": "Schaden pro Tick:",
-            "value": "15/25/35/45/55 (++13% deiner Magischen Kraft)"
+            "value": "15/25/35/45/55 (+13% deiner Magischen Kraft)"
           },
           {
             "description": "Abprallschaden pro Tick:",
-            "value": "14/23/32/41/50 (+10% deiner Magischen Kraft)"
+            "value": "14/23/32/41/50 (10% deiner Magischen Kraft)"
           },
           {
             "description": "Markierungsdauer:",
@@ -35155,7 +35624,7 @@
     "Ability_1": {
       "Description": {
         "itemDescription": {
-          "cooldown": "7s",
+          "cooldown": "8s",
           "cost": "40/45/50/55/60",
           "description": "Seth bündelt seinen Hass, schleudert ihn nach vorn und fügt Gegnern im Pfad des Geschosses Schaden zu und verlangsamt sie 3s lang.\n\nSobald Seth das Geschoss abfeuert, stürmen aktive Abbilder zum von Seth anvisierten Ort. Von ihnen getroffene Gegner erleiden Schaden und werden 3s lang verlangsamt. Jeder Abbild-Treffer nach dem ersten verursacht nur 40% des Schadens.",
           "menuitems": [
@@ -35386,7 +35855,7 @@
     "Type": " Nahkampf, Physisch",
     "abilityDescription1": {
       "itemDescription": {
-        "cooldown": "7s",
+        "cooldown": "8s",
         "cost": "40/45/50/55/60",
         "description": "Seth bündelt seinen Hass, schleudert ihn nach vorn und fügt Gegnern im Pfad des Geschosses Schaden zu und verlangsamt sie 3s lang.\n\nSobald Seth das Geschoss abfeuert, stürmen aktive Abbilder zum von Seth anvisierten Ort. Von ihnen getroffene Gegner erleiden Schaden und werden 3s lang verlangsamt. Jeder Abbild-Treffer nach dem ersten verursacht nur 40% des Schadens.",
         "menuitems": [
@@ -37069,7 +37538,7 @@
     "ManaPerFive": 4.5,
     "ManaPerLevel": 35,
     "Name": "Sobek",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Ägyptisch",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -38100,7 +38569,7 @@
         "itemDescription": {
           "cooldown": "16/15/14/13/12s",
           "cost": "60/65/70/75/80",
-          "description": "Susano bewegt sich dreimal in schneller Folge. Nach jedem Angriff hat er bis zu 3s, um den nächsten zu starten.\r\n\nErster Angriff: 100% Schaden bei allen Gegnern in einem Kegel.\r\n\nZweiter Angriff: 100% Schaden bei allen Gegnern in einem Kreis.\r\n\nDritter Angriff: 50% Schaden beim Voranstürmen.",
+          "description": "Susano bewegt sich dreimal in schneller Folge. Nach jedem Angriff hat er bis zu 3s, um den nächsten zu starten. \nErster Angriff: 100% Schaden bei allen Gegnern in einem Kegel. \nZweiter Angriff: 100% Schaden bei allen Gegnern in einem Kreis. \nDritter Angriff: 50% Schaden beim Voranstürmen.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -38122,7 +38591,7 @@
           "rankitems": [
             {
               "description": "Schaden pro Treffer:",
-              "value": "40/65/90/115/140 (+55% deiner Physischen Kraft)"
+              "value": "40/65/90/115/140 (50% deiner Physischen Kraft)"
             }
           ]
         }
@@ -38230,7 +38699,7 @@
           "rankitems": [
             {
               "description": "Max. Schaden:",
-              "value": "215/280/345/410/475 (140% deiner Physischen Kraft)"
+              "value": "215/280/345/410/475 (+125% deiner Physischen Kraft)"
             }
           ]
         }
@@ -38299,7 +38768,7 @@
       "itemDescription": {
         "cooldown": "16/15/14/13/12s",
         "cost": "60/65/70/75/80",
-        "description": "Susano bewegt sich dreimal in schneller Folge. Nach jedem Angriff hat er bis zu 3s, um den nächsten zu starten.\r\n\nErster Angriff: 100% Schaden bei allen Gegnern in einem Kegel.\r\n\nZweiter Angriff: 100% Schaden bei allen Gegnern in einem Kreis.\r\n\nDritter Angriff: 50% Schaden beim Voranstürmen.",
+        "description": "Susano bewegt sich dreimal in schneller Folge. Nach jedem Angriff hat er bis zu 3s, um den nächsten zu starten. \nErster Angriff: 100% Schaden bei allen Gegnern in einem Kegel. \nZweiter Angriff: 100% Schaden bei allen Gegnern in einem Kreis. \nDritter Angriff: 50% Schaden beim Voranstürmen.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -38321,7 +38790,7 @@
         "rankitems": [
           {
             "description": "Schaden pro Treffer:",
-            "value": "40/65/90/115/140 (+55% deiner Physischen Kraft)"
+            "value": "40/65/90/115/140 (50% deiner Physischen Kraft)"
           }
         ]
       }
@@ -38414,7 +38883,7 @@
         "rankitems": [
           {
             "description": "Max. Schaden:",
-            "value": "215/280/345/410/475 (140% deiner Physischen Kraft)"
+            "value": "215/280/345/410/475 (+125% deiner Physischen Kraft)"
           }
         ]
       }
@@ -39519,7 +39988,7 @@
           "rankitems": [
             {
               "description": "Schaden:",
-              "value": "150/200/250/300/350 (100% deiner Physischen Kraft)"
+              "value": "100/150/200/250/300 (100% deiner Physischen Kraft)"
             },
             {
               "description": "Betäubung:",
@@ -39527,7 +39996,7 @@
             },
             {
               "description": "Blitzschaden:",
-              "value": "20/30/40/50/60 (+15% deiner Physischen Kraft)"
+              "value": "15/25/35/45/55 (+15% deiner Physischen Kraft)"
             }
           ]
         }
@@ -39715,7 +40184,7 @@
         "rankitems": [
           {
             "description": "Schaden:",
-            "value": "150/200/250/300/350 (100% deiner Physischen Kraft)"
+            "value": "100/150/200/250/300 (100% deiner Physischen Kraft)"
           },
           {
             "description": "Betäubung:",
@@ -39723,7 +40192,7 @@
           },
           {
             "description": "Blitzschaden:",
-            "value": "20/30/40/50/60 (+15% deiner Physischen Kraft)"
+            "value": "15/25/35/45/55 (+15% deiner Physischen Kraft)"
           }
         ]
       }
@@ -40784,7 +41253,7 @@
             },
             {
               "description": "Heilung:",
-              "value": "30/55/80/105/130 (+20% deiner Physischen Kraft)"
+              "value": "20/45/70/95/120 (+20% deiner Physischen Kraft)"
             }
           ]
         }
@@ -40985,7 +41454,7 @@
           },
           {
             "description": "Heilung:",
-            "value": "30/55/80/105/130 (+20% deiner Physischen Kraft)"
+            "value": "20/45/70/95/120 (+20% deiner Physischen Kraft)"
           }
         ]
       }
@@ -43232,7 +43701,7 @@
             },
             {
               "description": "Heilung:",
-              "value": "20/40/60/80/100 (+20% deiner Magischen Kraft)"
+              "value": "30/55/80/105/130 (+20% deiner Magischen Kraft)"
             },
             {
               "description": "Schild:",
@@ -43316,7 +43785,7 @@
             },
             {
               "description": "Verlangsamung:",
-              "value": "90% zu Beginn/ -30% pro Sekunde"
+              "value": "90% zu Beginn. -30% pro Sekunde"
             },
             {
               "description": "Verlangsamungsdauer:",
@@ -43356,7 +43825,7 @@
           "rankitems": [
             {
               "description": "Zusätzliches Omí bei:",
-              "value": "300/ 450 und 600 Mana/MP5 durch Gegenstände"
+              "value": "300 Mana/MP5 durch Gegenstände & bei Erreichen von Stufe 4 und 12"
             },
             {
               "description": "Grundangriffsheilung:",
@@ -43478,7 +43947,7 @@
           },
           {
             "description": "Heilung:",
-            "value": "20/40/60/80/100 (+20% deiner Magischen Kraft)"
+            "value": "30/55/80/105/130 (+20% deiner Magischen Kraft)"
           },
           {
             "description": "Schild:",
@@ -43552,7 +44021,7 @@
           },
           {
             "description": "Verlangsamung:",
-            "value": "90% zu Beginn/ -30% pro Sekunde"
+            "value": "90% zu Beginn. -30% pro Sekunde"
           },
           {
             "description": "Verlangsamungsdauer:",
@@ -43587,7 +44056,7 @@
         "rankitems": [
           {
             "description": "Zusätzliches Omí bei:",
-            "value": "300/ 450 und 600 Mana/MP5 durch Gegenstände"
+            "value": "300 Mana/MP5 durch Gegenstände & bei Erreichen von Stufe 4 und 12"
           },
           {
             "description": "Grundangriffsheilung:",
@@ -43622,7 +44091,7 @@
     "godCard_URL": "https://web2.hirez.com/smite/god-cards/yemoja.jpg",
     "godIcon_URL": "https://web2.hirez.com/smite/god-icons/yemoja.jpg",
     "id": 3811,
-    "latestGod": "y",
+    "latestGod": "n",
     "ret_msg": null
   },
   {
@@ -44106,7 +44575,7 @@
             },
             {
               "description": "Schutzreduktion:",
-              "value": "6/8/10/12/14"
+              "value": "6/9/12/15/18"
             },
             {
               "description": "Verlangsamungsdauer:",
@@ -44212,7 +44681,7 @@
         "itemDescription": {
           "cooldown": "",
           "cost": "",
-          "description": "Immer wenn ein gegnerischer Gott innerhalb von 40 Einheiten um Zerberus geheilt wird, reduziert sich diese Heilung um 20% und Zerberus erhält 40% ihrer Wirkung.",
+          "description": "Immer wenn ein gegnerischer Gott innerhalb von 40 Einheiten von Zerberus geheilt wird, wird diese Heilung um 20% reduziert und Zerberus erhält 50% der Heilung.",
           "menuitems": [
             {
               "description": "Fertigkeit:",
@@ -44226,7 +44695,7 @@
           "rankitems": [
             {
               "description": "Heilungsraub:",
-              "value": "40%"
+              "value": "50%"
             }
           ]
         }
@@ -44332,7 +44801,7 @@
           },
           {
             "description": "Schutzreduktion:",
-            "value": "6/8/10/12/14"
+            "value": "6/9/12/15/18"
           },
           {
             "description": "Verlangsamungsdauer:",
@@ -44423,7 +44892,7 @@
       "itemDescription": {
         "cooldown": "",
         "cost": "",
-        "description": "Immer wenn ein gegnerischer Gott innerhalb von 40 Einheiten um Zerberus geheilt wird, reduziert sich diese Heilung um 20% und Zerberus erhält 40% ihrer Wirkung.",
+        "description": "Immer wenn ein gegnerischer Gott innerhalb von 40 Einheiten von Zerberus geheilt wird, wird diese Heilung um 20% reduziert und Zerberus erhält 50% der Heilung.",
         "menuitems": [
           {
             "description": "Fertigkeit:",
@@ -44437,7 +44906,7 @@
         "rankitems": [
           {
             "description": "Heilungsraub:",
-            "value": "40%"
+            "value": "50%"
           }
         ]
       }
@@ -44683,7 +45152,7 @@
     "ManaPerFive": 4.6,
     "ManaPerLevel": 44,
     "Name": "Zeus",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Griechisch",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,

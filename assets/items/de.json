@@ -1781,7 +1781,7 @@
     "Price": 700,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9631,
-    "ShortDesc": "Lauftempo außerhalb des Kampfes.",
+    "ShortDesc": "Bonus-Lauftempo beim Verlassen des Brunnens",
     "StartingItem": false,
     "Type": "Item",
     "itemIcon_URL": "https://web2.hirez.com/smite/item-icons/travelers-shoes.jpg",
@@ -4277,7 +4277,7 @@
     },
     "ItemId": 8599,
     "ItemTier": 3,
-    "Price": 1150,
+    "Price": 1250,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9855,
     "ShortDesc": "Raubt vorübergehend gegnerische Gesundheit und Mana.",
@@ -6533,7 +6533,7 @@
     "ItemId": 14850,
     "ItemTier": 3,
     "Price": 1200,
-    "RestrictedRoles": "no restrictions",
+    "RestrictedRoles": "guardian,hunter,mage",
     "RootItemId": 12671,
     "ShortDesc": "Grundangriffe verlangsamen nicht mehr.",
     "StartingItem": false,
@@ -6567,7 +6567,7 @@
     "ItemId": 16592,
     "ItemTier": 3,
     "Price": 900,
-    "RestrictedRoles": "no restrictions",
+    "RestrictedRoles": "guardian,hunter,mage",
     "RootItemId": 12671,
     "ShortDesc": "Grundangriffe treffen zusätzliche Gegner.",
     "StartingItem": false,
@@ -8001,7 +8001,7 @@
       "Menuitems": [
         {
           "Description": "Magische Kraft",
-          "Value": "+100"
+          "Value": "+120"
         },
         {
           "Description": "Abklingzeitreduktion",
@@ -8065,7 +8065,7 @@
       "Menuitems": [
         {
           "Description": "Physische Kraft",
-          "Value": "+65"
+          "Value": "+75"
         },
         {
           "Description": "Abklingzeitreduktion",

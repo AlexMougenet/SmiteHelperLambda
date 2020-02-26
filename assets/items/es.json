@@ -4175,7 +4175,7 @@
     },
     "ItemId": 8599,
     "ItemTier": 3,
-    "Price": 1150,
+    "Price": 1250,
     "RestrictedRoles": "no restrictions",
     "RootItemId": 9855,
     "ShortDesc": "Convierte la salud en poder mágico.",
@@ -6395,7 +6395,7 @@
     "ItemId": 14850,
     "ItemTier": 3,
     "Price": 1200,
-    "RestrictedRoles": "no restrictions",
+    "RestrictedRoles": "guardian,hunter,mage",
     "RootItemId": 12671,
     "ShortDesc": "",
     "StartingItem": false,
@@ -6429,7 +6429,7 @@
     "ItemId": 16592,
     "ItemTier": 3,
     "Price": 900,
-    "RestrictedRoles": "no restrictions",
+    "RestrictedRoles": "guardian,hunter,mage",
     "RootItemId": 12671,
     "ShortDesc": "",
     "StartingItem": false,
@@ -7218,7 +7218,7 @@
     "ItemDescription": {
       "Description": null,
       "Menuitems": [],
-      "SecondaryDescription": "+35% Bonus Damage vs. Jungle Monsters\n+7% Health and 25 Mana Restored on Killing a Jungle Monster\n+5 Penetration\n +5% Movement Speed\n\nROLE QUEST: JUNGLE: COMPLETED!"
+      "SecondaryDescription": "+50 Health\n+35% Bonus Damage vs. Jungle Monsters\n+7% Health and 25 Mana Restored on Killing a Jungle Monster\n+5 Penetration\n +5% Movement Speed\n\nROLE QUEST: JUNGLE: COMPLETED!"
     },
     "ItemId": 15487,
     "ItemTier": 2,
@@ -7847,7 +7847,7 @@
       "Menuitems": [
         {
           "Description": "Magical Power",
-          "Value": "+100"
+          "Value": "+120"
         },
         {
           "Description": "Cooldown Reduction",
@@ -7911,7 +7911,7 @@
       "Menuitems": [
         {
           "Description": "Physical Power",
-          "Value": "+65"
+          "Value": "+75"
         },
         {
           "Description": "Cooldown Reduction",

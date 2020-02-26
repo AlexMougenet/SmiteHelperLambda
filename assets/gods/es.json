@@ -1081,7 +1081,7 @@
     "ManaPerFive": 4.4,
     "ManaPerLevel": 40,
     "Name": "Ah Muzen Cab",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Maya",
     "PhysicalPower": 38,
     "PhysicalPowerPerLevel": 2.2,
@@ -1909,7 +1909,7 @@
     "ManaPerFive": 4.8,
     "ManaPerLevel": 35,
     "Name": "Amaterasu",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Japonés",
     "PhysicalPower": 39,
     "PhysicalPowerPerLevel": 2,
@@ -3935,7 +3935,7 @@
     "ManaPerFive": 4.8,
     "ManaPerLevel": 41,
     "Name": "Aracne",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Griego",
     "PhysicalPower": 38,
     "PhysicalPowerPerLevel": 2.2,
@@ -4748,7 +4748,7 @@
     "ManaPerFive": 4.4,
     "ManaPerLevel": 34,
     "Name": "Artemisa",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Griego",
     "PhysicalPower": 35,
     "PhysicalPowerPerLevel": 2.5,
@@ -10266,7 +10266,7 @@
     "ManaPerFive": 4.6,
     "ManaPerLevel": 40,
     "Name": "Da_Ji",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Chino",
     "PhysicalPower": 39,
     "PhysicalPowerPerLevel": 2.25,
@@ -10352,7 +10352,7 @@
     "ManaPerFive": 5,
     "ManaPerLevel": 51,
     "Name": "Discordia",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Romano",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -12013,27 +12013,91 @@
     "ret_msg": null
   },
   {
-    "Ability1": "",
-    "Ability2": "",
+    "Ability1": "Irradiar",
+    "Ability2": "Pulso",
     "Ability3": "Desvanecer",
     "Ability4": "Discreción de valquiria",
-    "Ability5": "",
-    "AbilityId1": 16396,
-    "AbilityId2": 16406,
+    "Ability5": "Bendición de Brisingamen",
+    "AbilityId1": 8344,
+    "AbilityId2": 8345,
     "AbilityId3": 8413,
     "AbilityId4": 8371,
-    "AbilityId5": 16391,
+    "AbilityId5": 8364,
     "Ability_1": {
-      "Description": null,
-      "Id": 16396,
-      "Summary": "",
-      "URL": "https://web2.hirez.com/smite/god-abilities/northern-lights.jpg"
+      "Description": {
+        "itemDescription": {
+          "cooldown": "11s",
+          "cost": "60/65/70/75/80",
+          "description": "Freya activa un potenciador que hace que sus ataques básicos causen daños mágicos adicionales.",
+          "menuitems": [
+            {
+              "description": "Habilidad:",
+              "value": "Potenciador"
+            },
+            {
+              "description": "Afecta a:",
+              "value": "Usuario"
+            },
+            {
+              "description": "Daño:",
+              "value": "Mágico"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Daño por ataque:",
+              "value": "40/55/70/85/100 (+25 % de tu poder mágico)"
+            },
+            {
+              "description": "Duración:",
+              "value": "5s"
+            }
+          ]
+        }
+      },
+      "Id": 8344,
+      "Summary": "Irradiar",
+      "URL": "https://web2.hirez.com/smite/god-abilities/irradiate.jpg"
     },
     "Ability_2": {
-      "Description": null,
-      "Id": 16406,
-      "Summary": "",
-      "URL": "https://web2.hirez.com/smite/god-abilities/aurora-blade.jpg"
+      "Description": {
+        "itemDescription": {
+          "cooldown": "11 s",
+          "cost": "60/65/70/75/80",
+          "description": "Freya activa un potenciador que convierte sus ataques básicos en ataques a distancia, causando daño mágico adicional y ralentizando al objetivo y a los enemigos cercanos.  Los efectos de área y de ralentización desaparecen al activar el poder Irradiar.",
+          "menuitems": [
+            {
+              "description": "Habilidad:",
+              "value": "Potenciador"
+            },
+            {
+              "description": "Afecta a:",
+              "value": "Usuario"
+            },
+            {
+              "description": "Daño:",
+              "value": "Mágico"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Daño por ataque:",
+              "value": "20/30/40/50/60 (+15 % de tu poder mágico)"
+            },
+            {
+              "description": "Duración:",
+              "value": "6 s"
+            },
+            {
+              "description": "Ralentización:",
+              "value": "25 %"
+            }
+          ]
+        }
+      },
+      "Id": 8345,
+      "Summary": "Pulso",
+      "URL": "https://web2.hirez.com/smite/god-abilities/pulse.jpg"
     },
     "Ability_3": {
       "Description": {
@@ -12104,10 +12168,32 @@
       "URL": "https://web2.hirez.com/smite/god-abilities/valkyries-discretion.jpg"
     },
     "Ability_5": {
-      "Description": null,
-      "Id": 16391,
-      "Summary": "",
-      "URL": "https://web2.hirez.com/smite/god-abilities/mystic-warrior.jpg"
+      "Description": {
+        "itemDescription": {
+          "cooldown": "",
+          "cost": "",
+          "description": "El collar de Freya le otorga una habilidad adicional de robo de vida mágico.",
+          "menuitems": [
+            {
+              "description": "Habilidad:",
+              "value": "Potenciador"
+            },
+            {
+              "description": "Afecta a:",
+              "value": "Usuario"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Robo de vida mágico:",
+              "value": "15 %"
+            }
+          ]
+        }
+      },
+      "Id": 8364,
+      "Summary": "Bendición de Brisingamen",
+      "URL": "https://web2.hirez.com/smite/god-abilities/brisingamens-blessing.jpg"
     },
     "AttackSpeed": 0.95,
     "AttackSpeedPerLevel": 0.019,
@@ -12134,11 +12220,75 @@
     "PhysicalProtectionPerLevel": 2.8,
     "Pros": " Daño de área alto, Control de masas medio",
     "Roles": " Mago",
-    "Speed": 370,
+    "Speed": 375,
     "Title": "Reina de las Valquirias",
     "Type": " Cuerpo a cuerpo, Mágico",
-    "abilityDescription1": null,
-    "abilityDescription2": null,
+    "abilityDescription1": {
+      "itemDescription": {
+        "cooldown": "11s",
+        "cost": "60/65/70/75/80",
+        "description": "Freya activa un potenciador que hace que sus ataques básicos causen daños mágicos adicionales.",
+        "menuitems": [
+          {
+            "description": "Habilidad:",
+            "value": "Potenciador"
+          },
+          {
+            "description": "Afecta a:",
+            "value": "Usuario"
+          },
+          {
+            "description": "Daño:",
+            "value": "Mágico"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Daño por ataque:",
+            "value": "40/55/70/85/100 (+25 % de tu poder mágico)"
+          },
+          {
+            "description": "Duración:",
+            "value": "5s"
+          }
+        ]
+      }
+    },
+    "abilityDescription2": {
+      "itemDescription": {
+        "cooldown": "11 s",
+        "cost": "60/65/70/75/80",
+        "description": "Freya activa un potenciador que convierte sus ataques básicos en ataques a distancia, causando daño mágico adicional y ralentizando al objetivo y a los enemigos cercanos.  Los efectos de área y de ralentización desaparecen al activar el poder Irradiar.",
+        "menuitems": [
+          {
+            "description": "Habilidad:",
+            "value": "Potenciador"
+          },
+          {
+            "description": "Afecta a:",
+            "value": "Usuario"
+          },
+          {
+            "description": "Daño:",
+            "value": "Mágico"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Daño por ataque:",
+            "value": "20/30/40/50/60 (+15 % de tu poder mágico)"
+          },
+          {
+            "description": "Duración:",
+            "value": "6 s"
+          },
+          {
+            "description": "Ralentización:",
+            "value": "25 %"
+          }
+        ]
+      }
+    },
     "abilityDescription3": {
       "itemDescription": {
         "cooldown": "19/18/17/16/15s",
@@ -12197,7 +12347,29 @@
         ]
       }
     },
-    "abilityDescription5": null,
+    "abilityDescription5": {
+      "itemDescription": {
+        "cooldown": "",
+        "cost": "",
+        "description": "El collar de Freya le otorga una habilidad adicional de robo de vida mágico.",
+        "menuitems": [
+          {
+            "description": "Habilidad:",
+            "value": "Potenciador"
+          },
+          {
+            "description": "Afecta a:",
+            "value": "Usuario"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Robo de vida mágico:",
+            "value": "15 %"
+          }
+        ]
+      }
+    },
     "basicAttack": {
       "itemDescription": {
         "cooldown": "",
@@ -12216,11 +12388,11 @@
         "rankitems": []
       }
     },
-    "godAbility1_URL": "https://web2.hirez.com/smite/god-abilities/northern-lights.jpg",
-    "godAbility2_URL": "https://web2.hirez.com/smite/god-abilities/aurora-blade.jpg",
+    "godAbility1_URL": "https://web2.hirez.com/smite/god-abilities/irradiate.jpg",
+    "godAbility2_URL": "https://web2.hirez.com/smite/god-abilities/pulse.jpg",
     "godAbility3_URL": "https://web2.hirez.com/smite/god-abilities/banish.jpg",
     "godAbility4_URL": "https://web2.hirez.com/smite/god-abilities/valkyries-discretion.jpg",
-    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/mystic-warrior.jpg",
+    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/brisingamens-blessing.jpg",
     "godCard_URL": "https://web2.hirez.com/smite/god-cards/freya.jpg",
     "godIcon_URL": "https://web2.hirez.com/smite/god-icons/freya.jpg",
     "id": 1784,
@@ -14082,6 +14254,92 @@
     "ret_msg": null
   },
   {
+    "Ability1": "",
+    "Ability2": "",
+    "Ability3": "",
+    "Ability4": "",
+    "Ability5": "",
+    "AbilityId1": 17698,
+    "AbilityId2": 17699,
+    "AbilityId3": 17700,
+    "AbilityId4": 17701,
+    "AbilityId5": 17697,
+    "Ability_1": {
+      "Description": null,
+      "Id": 17698,
+      "Summary": "",
+      "URL": "https://web2.hirez.com/smite/god-abilities/piercing-sight.jpg"
+    },
+    "Ability_2": {
+      "Description": null,
+      "Id": 17699,
+      "Summary": "",
+      "URL": "https://web2.hirez.com/smite/god-abilities/gjallarhorn.jpg"
+    },
+    "Ability_3": {
+      "Description": null,
+      "Id": 17700,
+      "Summary": "",
+      "URL": "https://web2.hirez.com/smite/god-abilities/the-bifrost.jpg"
+    },
+    "Ability_4": {
+      "Description": null,
+      "Id": 17701,
+      "Summary": "",
+      "URL": "https://web2.hirez.com/smite/god-abilities/through-the-realms.jpg"
+    },
+    "Ability_5": {
+      "Description": null,
+      "Id": 17697,
+      "Summary": "",
+      "URL": "https://web2.hirez.com/smite/god-abilities/the-vigilant.jpg"
+    },
+    "AttackSpeed": 0.96,
+    "AttackSpeedPerLevel": 0.014,
+    "Cons": "",
+    "HP5PerLevel": 0.8,
+    "Health": 480,
+    "HealthPerFive": 8,
+    "HealthPerLevel": 80,
+    "Lore": "",
+    "MP5PerLevel": 0.4,
+    "MagicProtection": 30,
+    "MagicProtectionPerLevel": 0.9,
+    "MagicalPower": 0,
+    "MagicalPowerPerLevel": 0,
+    "Mana": 230,
+    "ManaPerFive": 4.5,
+    "ManaPerLevel": 34,
+    "Name": "Heimdallr",
+    "OnFreeRotation": "",
+    "Pantheon": "Nórdico",
+    "PhysicalPower": 32,
+    "PhysicalPowerPerLevel": 3,
+    "PhysicalProtection": 16,
+    "PhysicalProtectionPerLevel": 3,
+    "Pros": " Daño a un solo objetivo alto",
+    "Roles": " Cazador",
+    "Speed": 365,
+    "Title": "",
+    "Type": " De largo alcance",
+    "abilityDescription1": null,
+    "abilityDescription2": null,
+    "abilityDescription3": null,
+    "abilityDescription4": null,
+    "abilityDescription5": null,
+    "basicAttack": null,
+    "godAbility1_URL": "https://web2.hirez.com/smite/god-abilities/piercing-sight.jpg",
+    "godAbility2_URL": "https://web2.hirez.com/smite/god-abilities/gjallarhorn.jpg",
+    "godAbility3_URL": "https://web2.hirez.com/smite/god-abilities/the-bifrost.jpg",
+    "godAbility4_URL": "https://web2.hirez.com/smite/god-abilities/through-the-realms.jpg",
+    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/the-vigilant.jpg",
+    "godCard_URL": "https://web2.hirez.com/smite/god-cards/heimdallr.jpg",
+    "godIcon_URL": "https://web2.hirez.com/smite/god-icons/heimdallr.jpg",
+    "id": 3812,
+    "latestGod": "y",
+    "ret_msg": null
+  },
+  {
     "Ability1": "Decadencia (Restauración)",
     "Ability2": "Dificultar (Limpiar)",
     "Ability3": "Repulsión (Inspirar)",
@@ -15013,7 +15271,7 @@
     "ManaPerFive": 4.7,
     "ManaPerLevel": 37,
     "Name": "Horus",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Egipcio",
     "PhysicalPower": 37,
     "PhysicalPowerPerLevel": 2.1,
@@ -17721,7 +17979,7 @@
     "ManaPerFive": 4.6,
     "ManaPerLevel": 34,
     "Name": "Jepri",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Egipcio",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -23827,7 +24085,7 @@
     "MP5PerLevel": 0.4,
     "MagicProtection": 30,
     "MagicProtectionPerLevel": 0.9,
-    "MagicalPower": 160,
+    "MagicalPower": 152,
     "MagicalPowerPerLevel": 9.5,
     "Mana": 240,
     "ManaPerFive": 5,
@@ -28664,7 +28922,7 @@
     "ManaPerFive": 4.5,
     "ManaPerLevel": 35,
     "Name": "Sobek",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Egipcio",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -33419,7 +33677,7 @@
     "godCard_URL": "https://web2.hirez.com/smite/god-cards/yemoja.jpg",
     "godIcon_URL": "https://web2.hirez.com/smite/god-icons/yemoja.jpg",
     "id": 3811,
-    "latestGod": "y",
+    "latestGod": "n",
     "ret_msg": null
   },
   {
@@ -34029,7 +34287,7 @@
     "ManaPerFive": 4.6,
     "ManaPerLevel": 44,
     "Name": "Zeus",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Griego",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,

@@ -1057,7 +1057,7 @@
     "ManaPerFive": 4.4,
     "ManaPerLevel": 40,
     "Name": "Ah Muzen Cab",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Maya",
     "PhysicalPower": 38,
     "PhysicalPowerPerLevel": 2.2,
@@ -1759,7 +1759,7 @@
             },
             {
               "description": "Aura de bienveillance :",
-              "value": "5/10/15/20/25% de vitesse de déplacement"
+              "value": "5/9/13/17/21% de vitesse de déplacement"
             },
             {
               "description": "Aura de bravoure :",
@@ -1883,7 +1883,7 @@
           "rankitems": [
             {
               "description": "Dégâts par coup :",
-              "value": "95/140/185/230/275 (+50% de la puissance physique)"
+              "value": "80/125/170/215/260 (+50% de la puissance physique)"
             },
             {
               "description": "Durée du ralentissement :",
@@ -1957,7 +1957,7 @@
     "ManaPerFive": 4.8,
     "ManaPerLevel": 35,
     "Name": "Amaterasu",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Japonais",
     "PhysicalPower": 39,
     "PhysicalPowerPerLevel": 2,
@@ -1994,7 +1994,7 @@
           },
           {
             "description": "Aura de bienveillance :",
-            "value": "5/10/15/20/25% de vitesse de déplacement"
+            "value": "5/9/13/17/21% de vitesse de déplacement"
           },
           {
             "description": "Aura de bravoure :",
@@ -2103,7 +2103,7 @@
         "rankitems": [
           {
             "description": "Dégâts par coup :",
-            "value": "95/140/185/230/275 (+50% de la puissance physique)"
+            "value": "80/125/170/215/260 (+50% de la puissance physique)"
           },
           {
             "description": "Durée du ralentissement :",
@@ -4392,7 +4392,7 @@
     "ManaPerFive": 4.8,
     "ManaPerLevel": 41,
     "Name": "Arachné",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Grec",
     "PhysicalPower": 38,
     "PhysicalPowerPerLevel": 2.2,
@@ -5238,7 +5238,7 @@
     "ManaPerFive": 4.4,
     "ManaPerLevel": 34,
     "Name": "Artémis",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Grec",
     "PhysicalPower": 35,
     "PhysicalPowerPerLevel": 2.5,
@@ -9431,7 +9431,7 @@
     "Ability_1": {
       "Description": {
         "itemDescription": {
-          "cooldown": "13s",
+          "cooldown": "12s",
           "cost": "50/55/60/65/70",
           "description": "Camazotz émet un cri strident et génère une impulsion sonore qui transperce les sbires et inflige des dégâts.\n\nSi le cri touche un dieu ennemi, l'impulsion émet des échos. Si Camazotz en absorbe un, le dieu ennemi touché par l'impulsion lui est révélé et sa puissance physique augmente pendant 13s.",
           "menuitems": [
@@ -9503,7 +9503,7 @@
             },
             {
               "description": "Bonus par charge :",
-              "value": "3% de drain de vie physique et guérison améliorée"
+              "value": "4% de drain de vie physique et guérison améliorée"
             },
             {
               "description": "Charges max :",
@@ -9537,7 +9537,7 @@
             },
             {
               "description": "Portée :",
-              "value": "30"
+              "value": "45"
             }
           ],
           "rankitems": [
@@ -9627,7 +9627,7 @@
             },
             {
               "description": "Bonus de Buveur d'essence :",
-              "value": "+6% de drain de vie physique et de guérison"
+              "value": "+8% de drain de vie physique et de guérison"
             }
           ]
         }
@@ -9666,7 +9666,7 @@
     "Type": " Mêlée, Physique",
     "abilityDescription1": {
       "itemDescription": {
-        "cooldown": "13s",
+        "cooldown": "12s",
         "cost": "50/55/60/65/70",
         "description": "Camazotz émet un cri strident et génère une impulsion sonore qui transperce les sbires et inflige des dégâts.\n\nSi le cri touche un dieu ennemi, l'impulsion émet des échos. Si Camazotz en absorbe un, le dieu ennemi touché par l'impulsion lui est révélé et sa puissance physique augmente pendant 13s.",
         "menuitems": [
@@ -9733,7 +9733,7 @@
           },
           {
             "description": "Bonus par charge :",
-            "value": "3% de drain de vie physique et guérison améliorée"
+            "value": "4% de drain de vie physique et guérison améliorée"
           },
           {
             "description": "Charges max :",
@@ -9762,7 +9762,7 @@
           },
           {
             "description": "Portée :",
-            "value": "30"
+            "value": "45"
           }
         ],
         "rankitems": [
@@ -9842,7 +9842,7 @@
           },
           {
             "description": "Bonus de Buveur d'essence :",
-            "value": "+6% de drain de vie physique et de guérison"
+            "value": "+8% de drain de vie physique et de guérison"
           }
         ]
       }
@@ -9962,7 +9962,7 @@
             },
             {
               "description": "Réduction de la protection :",
-              "value": "6/8/10/12/14"
+              "value": "6/9/12/15/18"
             },
             {
               "description": "Durée du ralentissement :",
@@ -10068,7 +10068,7 @@
         "itemDescription": {
           "cooldown": "",
           "cost": "",
-          "description": "Les soins reçus par les dieux ennemis à moins de 40 unités de Cerbère sont réduits de 20%. En parallèle, ils sont aussi appliqués à Cerbère, à hauteur de 40%.",
+          "description": "Les soins reçus par les dieux ennemis à moins de 40 unités de Cerbère sont réduits de 20%. En parallèle, ils sont aussi appliqués à Cerbère, à hauteur de 50%.",
           "menuitems": [
             {
               "description": "Compétence :",
@@ -10082,7 +10082,7 @@
           "rankitems": [
             {
               "description": "Soins détournés :",
-              "value": "40%"
+              "value": "50%"
             }
           ]
         }
@@ -10188,7 +10188,7 @@
           },
           {
             "description": "Réduction de la protection :",
-            "value": "6/8/10/12/14"
+            "value": "6/9/12/15/18"
           },
           {
             "description": "Durée du ralentissement :",
@@ -10279,7 +10279,7 @@
       "itemDescription": {
         "cooldown": "",
         "cost": "",
-        "description": "Les soins reçus par les dieux ennemis à moins de 40 unités de Cerbère sont réduits de 20%. En parallèle, ils sont aussi appliqués à Cerbère, à hauteur de 40%.",
+        "description": "Les soins reçus par les dieux ennemis à moins de 40 unités de Cerbère sont réduits de 20%. En parallèle, ils sont aussi appliqués à Cerbère, à hauteur de 50%.",
         "menuitems": [
           {
             "description": "Compétence :",
@@ -10293,7 +10293,7 @@
         "rankitems": [
           {
             "description": "Soins détournés :",
-            "value": "40%"
+            "value": "50%"
           }
         ]
       }
@@ -13464,7 +13464,7 @@
     "ManaPerFive": 4.6,
     "ManaPerLevel": 40,
     "Name": "Da Ji",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Chinois",
     "PhysicalPower": 39,
     "PhysicalPowerPerLevel": 2.25,
@@ -13713,7 +13713,7 @@
           "rankitems": [
             {
               "description": "Dégâts initiaux :",
-              "value": "70/115/160/205/250 (+75% de la puissance magique)"
+              "value": "75/125/175/225/275 (+75% de la puissance magique)"
             },
             {
               "description": "Dégâts secondaires :",
@@ -13769,7 +13769,7 @@
     "Ability_3": {
       "Description": {
         "itemDescription": {
-          "cooldown": "18s",
+          "cooldown": "16s",
           "cost": "50/55/60/65/70",
           "description": "Discordia bondit sur un emplacement proche et y génère une zone où la confusion règne pendant 5s. À l'intérieur, elle est invisible, se déplace plus vite, et le temps de recharge de ses 2 premières compétences diminue toutes les 0,5s. Si elle attaque, elle est brièvement révélée.",
           "menuitems": [
@@ -13903,7 +13903,7 @@
     "ManaPerFive": 5,
     "ManaPerLevel": 51,
     "Name": "Discordia",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Romain",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -13940,7 +13940,7 @@
         "rankitems": [
           {
             "description": "Dégâts initiaux :",
-            "value": "70/115/160/205/250 (+75% de la puissance magique)"
+            "value": "75/125/175/225/275 (+75% de la puissance magique)"
           },
           {
             "description": "Dégâts secondaires :",
@@ -13986,7 +13986,7 @@
     },
     "abilityDescription3": {
       "itemDescription": {
-        "cooldown": "18s",
+        "cooldown": "16s",
         "cost": "50/55/60/65/70",
         "description": "Discordia bondit sur un emplacement proche et y génère une zone où la confusion règne pendant 5s. À l'intérieur, elle est invisible, se déplace plus vite, et le temps de recharge de ses 2 premières compétences diminue toutes les 0,5s. Si elle attaque, elle est brièvement révélée.",
         "menuitems": [
@@ -15366,58 +15366,22 @@
     "ret_msg": null
   },
   {
-    "Ability1": "Aurores boréales",
-    "Ability2": "Lame de l'aurore",
+    "Ability1": "Irradier",
+    "Ability2": "Impulsion",
     "Ability3": "Bannir",
     "Ability4": "Résolution de Valkyrie",
-    "Ability5": "Guerrière mystique",
-    "AbilityId1": 16396,
-    "AbilityId2": 16406,
+    "Ability5": "Bénédiction de Brisingar",
+    "AbilityId1": 8344,
+    "AbilityId2": 8345,
     "AbilityId3": 8413,
     "AbilityId4": 8371,
-    "AbilityId5": 16391,
+    "AbilityId5": 8364,
     "Ability_1": {
       "Description": {
         "itemDescription": {
-          "cooldown": "9s",
+          "cooldown": "11s",
           "cost": "60/65/70/75/80",
-          "description": "Les 5 prochaines attaques de base de Freyja infligent des dégâts magiques bonus autour de l'ennemi touché. Les cibles atteintes sont ralenties pendant 1,25s. Ces dégâts bonus ne sont que de 25% contre les sbires, et contre les dieux touchés par plusieurs explosions.",
-          "menuitems": [
-            {
-              "description": "Compétence :",
-              "value": "Stim"
-            },
-            {
-              "description": "Affecte :",
-              "value": "Ennemis"
-            },
-            {
-              "description": "Dégâts :",
-              "value": "Magiques"
-            }
-          ],
-          "rankitems": [
-            {
-              "description": "Dégâts :",
-              "value": "10/15/25/40/60 (10% de la puissance magique)"
-            },
-            {
-              "description": "Ralentissement :",
-              "value": "15%"
-            }
-          ]
-        }
-      },
-      "Id": 16396,
-      "Summary": "Aurores boréales",
-      "URL": "https://web2.hirez.com/smite/god-abilities/northern-lights.jpg"
-    },
-    "Ability_2": {
-      "Description": {
-        "itemDescription": {
-          "cooldown": "0.5s",
-          "cost": "14/18/22/26/30 par tir",
-          "description": "Freyja bascule entre deux postures : la première renforce ses attaques au corps à corps, et l'autre lui permet de transformer son attaque de base en projectiles à distance qui traversent les ennemis et s'arrêtent au premier dieu touché. Les deux types d'attaques profitent de dégâts bonus. L'attaque à distance consomme du mana et n'inflige pas ses dégâts bonus aux sbires.",
+          "description": "Freyja ajoute des dégâts magiques à ses attaques de base.",
           "menuitems": [
             {
               "description": "Compétence :",
@@ -15434,19 +15398,59 @@
           ],
           "rankitems": [
             {
-              "description": "Dégâts bonus au corps à corps :",
-              "value": "28/40/52/64/76 (+20% de la puissance magique)"
+              "description": "Dégâts bonus :",
+              "value": "40/55/70/85/100 (+25% de la puissance magique)"
             },
             {
-              "description": "Dégâts bonus à distance",
-              "value": "1/10/20/30/40 (+15% de la puissance magique)"
+              "description": "Durée :",
+              "value": "5s"
             }
           ]
         }
       },
-      "Id": 16406,
-      "Summary": "Lame de l'aurore",
-      "URL": "https://web2.hirez.com/smite/god-abilities/aurora-blade.jpg"
+      "Id": 8344,
+      "Summary": "Irradier",
+      "URL": "https://web2.hirez.com/smite/god-abilities/irradiate.jpg"
+    },
+    "Ability_2": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "11s",
+          "cost": "60/65/70/75/80",
+          "description": "Freyja transforme ses attaques de base en attaques à distance qui infligent des dégâts magiques supplémentaires et ralentissent la cible ainsi que les autres ennemis proches. Le ralentissement et l'effet de zone ne s'appliquent pas si Irradier est activé.",
+          "menuitems": [
+            {
+              "description": "Compétence :",
+              "value": "Bonus"
+            },
+            {
+              "description": "Affecte :",
+              "value": "Joueur"
+            },
+            {
+              "description": "Dégâts :",
+              "value": "Magiques"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Dégâts bonus :",
+              "value": "20/30/40/50/60 (+15% de la puissance magique)"
+            },
+            {
+              "description": "Durée :",
+              "value": "6s"
+            },
+            {
+              "description": "Ralentissement :",
+              "value": "25%"
+            }
+          ]
+        }
+      },
+      "Id": 8345,
+      "Summary": "Impulsion",
+      "URL": "https://web2.hirez.com/smite/god-abilities/pulse.jpg"
     },
     "Ability_3": {
       "Description": {
@@ -15507,7 +15511,7 @@
           "rankitems": [
             {
               "description": "Dégâts par explosion :",
-              "value": "80/115/150/185/220 (+30% de la puissance magique)"
+              "value": "100/135/170/205/240 (+35% de la puissance magique)"
             },
             {
               "description": "Durée :",
@@ -15525,23 +15529,28 @@
         "itemDescription": {
           "cooldown": "",
           "cost": "",
-          "description": "Les attaques de base au corps à corps réussies redonnent 6% des PM manquants de Freyja. Ses attaques de base à distance ainsi que ses compétences réussies lui redonnent 1,5% de ses PV manquants (une seule fois par attaque ou compétence).",
+          "description": "Le collier de Freyja lui donne du Drain de vie magique.",
           "menuitems": [
             {
               "description": "Compétence :",
-              "value": "Passive"
+              "value": "Bonus"
             },
             {
               "description": "Affecte :",
               "value": "Joueur"
             }
           ],
-          "rankitems": []
+          "rankitems": [
+            {
+              "description": "Drain de vie magique :",
+              "value": "15%"
+            }
+          ]
         }
       },
-      "Id": 16391,
-      "Summary": "Guerrière mystique",
-      "URL": "https://web2.hirez.com/smite/god-abilities/mystic-warrior.jpg"
+      "Id": 8364,
+      "Summary": "Bénédiction de Brisingar",
+      "URL": "https://web2.hirez.com/smite/god-abilities/brisingamens-blessing.jpg"
     },
     "AttackSpeed": 0.95,
     "AttackSpeedPerLevel": 0.019,
@@ -15568,45 +15577,14 @@
     "PhysicalProtectionPerLevel": 2.8,
     "Pros": " Dégâts de zone, Contrôle moyen",
     "Roles": " Mage",
-    "Speed": 370,
+    "Speed": 375,
     "Title": "La reine des Valkyries",
     "Type": " Mêlée, Magique",
     "abilityDescription1": {
       "itemDescription": {
-        "cooldown": "9s",
+        "cooldown": "11s",
         "cost": "60/65/70/75/80",
-        "description": "Les 5 prochaines attaques de base de Freyja infligent des dégâts magiques bonus autour de l'ennemi touché. Les cibles atteintes sont ralenties pendant 1,25s. Ces dégâts bonus ne sont que de 25% contre les sbires, et contre les dieux touchés par plusieurs explosions.",
-        "menuitems": [
-          {
-            "description": "Compétence :",
-            "value": "Stim"
-          },
-          {
-            "description": "Affecte :",
-            "value": "Ennemis"
-          },
-          {
-            "description": "Dégâts :",
-            "value": "Magiques"
-          }
-        ],
-        "rankitems": [
-          {
-            "description": "Dégâts :",
-            "value": "10/15/25/40/60 (10% de la puissance magique)"
-          },
-          {
-            "description": "Ralentissement :",
-            "value": "15%"
-          }
-        ]
-      }
-    },
-    "abilityDescription2": {
-      "itemDescription": {
-        "cooldown": "0.5s",
-        "cost": "14/18/22/26/30 par tir",
-        "description": "Freyja bascule entre deux postures : la première renforce ses attaques au corps à corps, et l'autre lui permet de transformer son attaque de base en projectiles à distance qui traversent les ennemis et s'arrêtent au premier dieu touché. Les deux types d'attaques profitent de dégâts bonus. L'attaque à distance consomme du mana et n'inflige pas ses dégâts bonus aux sbires.",
+        "description": "Freyja ajoute des dégâts magiques à ses attaques de base.",
         "menuitems": [
           {
             "description": "Compétence :",
@@ -15623,12 +15601,47 @@
         ],
         "rankitems": [
           {
-            "description": "Dégâts bonus au corps à corps :",
-            "value": "28/40/52/64/76 (+20% de la puissance magique)"
+            "description": "Dégâts bonus :",
+            "value": "40/55/70/85/100 (+25% de la puissance magique)"
           },
           {
-            "description": "Dégâts bonus à distance",
-            "value": "1/10/20/30/40 (+15% de la puissance magique)"
+            "description": "Durée :",
+            "value": "5s"
+          }
+        ]
+      }
+    },
+    "abilityDescription2": {
+      "itemDescription": {
+        "cooldown": "11s",
+        "cost": "60/65/70/75/80",
+        "description": "Freyja transforme ses attaques de base en attaques à distance qui infligent des dégâts magiques supplémentaires et ralentissent la cible ainsi que les autres ennemis proches. Le ralentissement et l'effet de zone ne s'appliquent pas si Irradier est activé.",
+        "menuitems": [
+          {
+            "description": "Compétence :",
+            "value": "Bonus"
+          },
+          {
+            "description": "Affecte :",
+            "value": "Joueur"
+          },
+          {
+            "description": "Dégâts :",
+            "value": "Magiques"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Dégâts bonus :",
+            "value": "20/30/40/50/60 (+15% de la puissance magique)"
+          },
+          {
+            "description": "Durée :",
+            "value": "6s"
+          },
+          {
+            "description": "Ralentissement :",
+            "value": "25%"
           }
         ]
       }
@@ -15686,7 +15699,7 @@
         "rankitems": [
           {
             "description": "Dégâts par explosion :",
-            "value": "80/115/150/185/220 (+30% de la puissance magique)"
+            "value": "100/135/170/205/240 (+35% de la puissance magique)"
           },
           {
             "description": "Durée :",
@@ -15699,18 +15712,23 @@
       "itemDescription": {
         "cooldown": "",
         "cost": "",
-        "description": "Les attaques de base au corps à corps réussies redonnent 6% des PM manquants de Freyja. Ses attaques de base à distance ainsi que ses compétences réussies lui redonnent 1,5% de ses PV manquants (une seule fois par attaque ou compétence).",
+        "description": "Le collier de Freyja lui donne du Drain de vie magique.",
         "menuitems": [
           {
             "description": "Compétence :",
-            "value": "Passive"
+            "value": "Bonus"
           },
           {
             "description": "Affecte :",
             "value": "Joueur"
           }
         ],
-        "rankitems": []
+        "rankitems": [
+          {
+            "description": "Drain de vie magique :",
+            "value": "15%"
+          }
+        ]
       }
     },
     "basicAttack": {
@@ -15731,11 +15749,11 @@
         "rankitems": []
       }
     },
-    "godAbility1_URL": "https://web2.hirez.com/smite/god-abilities/northern-lights.jpg",
-    "godAbility2_URL": "https://web2.hirez.com/smite/god-abilities/aurora-blade.jpg",
+    "godAbility1_URL": "https://web2.hirez.com/smite/god-abilities/irradiate.jpg",
+    "godAbility2_URL": "https://web2.hirez.com/smite/god-abilities/pulse.jpg",
     "godAbility3_URL": "https://web2.hirez.com/smite/god-abilities/banish.jpg",
     "godAbility4_URL": "https://web2.hirez.com/smite/god-abilities/valkyries-discretion.jpg",
-    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/mystic-warrior.jpg",
+    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/brisingamens-blessing.jpg",
     "godCard_URL": "https://web2.hirez.com/smite/god-cards/freya.jpg",
     "godIcon_URL": "https://web2.hirez.com/smite/god-icons/freya.jpg",
     "id": 1784,
@@ -18311,6 +18329,457 @@
     "ret_msg": null
   },
   {
+    "Ability1": "Regard perçant",
+    "Ability2": "Gjallarhorn",
+    "Ability3": "Le Bifrost",
+    "Ability4": "Exil dimensionnel",
+    "Ability5": "Le gardien du pont",
+    "AbilityId1": 17698,
+    "AbilityId2": 17699,
+    "AbilityId3": 17700,
+    "AbilityId4": 17701,
+    "AbilityId5": 17697,
+    "Ability_1": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "14s",
+          "cost": "50/55/60/65/70",
+          "description": "Heimdallr lance son épée Hofuð dans les airs. Elle lévite alors et il en émane une lumière qui révèle les ennemis dans un rayon de 120 unités. Réactiver la compétence propulse l'épée à l'emplacement ciblé, où elle inflige des dégâts.",
+          "menuitems": [
+            {
+              "description": "Compétence :",
+              "value": "Cercle"
+            },
+            {
+              "description": "Affecte :",
+              "value": "Ennemis"
+            },
+            {
+              "description": "Dégâts :",
+              "value": "Physiques"
+            },
+            {
+              "description": "Rayon :",
+              "value": "15"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Dégâts :",
+              "value": "70/130/190/250/310 (+95% de la puissance physique)"
+            }
+          ]
+        }
+      },
+      "Id": 17698,
+      "Summary": "Regard perçant",
+      "URL": "https://web2.hirez.com/smite/god-abilities/piercing-sight.jpg"
+    },
+    "Ability_2": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "14s",
+          "cost": "60/65/70/75/80",
+          "description": "Heimdallr souffle dans Gjallarhorn pendant 2s, ce qui ralentit la vitesse de déplacement et la vitesse d'attaque des ennemis devant lui et leur inflige des dégâts toutes les 0,5s. Pendant l'effet, Heimdallr obtient un bonus de protections et il est immunisé aux projections. Après 2s ou bien si Heimdallr réactive la compétence, l'effet prend fin et le cor émet une détonation qui repousse les ennemis et leur inflige des dégâts.",
+          "menuitems": [
+            {
+              "description": "Compétence :",
+              "value": "Cone"
+            },
+            {
+              "description": "Affecte :",
+              "value": "Ennemis"
+            },
+            {
+              "description": "Dégâts :",
+              "value": "Physiques"
+            },
+            {
+              "description": "Portée :",
+              "value": "60"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Dégâts périodiques :",
+              "value": "8/16/24/32/40 (+35% de la puissance physique)"
+            },
+            {
+              "description": "Dégâts de la détonation :",
+              "value": "50/90/130/170/210 (+60% de la puissance physique)"
+            },
+            {
+              "description": "Protections :",
+              "value": "16/22/28/34/40"
+            },
+            {
+              "description": "Ralentissement :",
+              "value": "15/17.5/20/22.5/25%"
+            },
+            {
+              "description": "Durée du ralentissement :",
+              "value": "1.5s"
+            }
+          ]
+        }
+      },
+      "Id": 17699,
+      "Summary": "Gjallarhorn",
+      "URL": "https://web2.hirez.com/smite/god-abilities/gjallarhorn.jpg"
+    },
+    "Ability_3": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "Variable",
+          "cost": "40",
+          "description": "Heimdallr matérialise un fragment du Bifrost à l'emplacement ciblé. Une fois que deux fragments sont créés, ils sont liés et permettent à Heimdallr d'aller de l'un vers l'autre. Plus ils sont éloignés, plus la téléportation prend de temps. Le délai entre deux utilisations augmente lui aussi selon la distance. Lorsque Heimdallr dépose un troisième fragment, le premier disparaît. Quand un ennemi franchit la ligne formée par les fragments, il est révélé pour Heimdallr.",
+          "menuitems": [
+            {
+              "description": "Compétence :",
+              "value": "Cercle"
+            },
+            {
+              "description": "Affecte :",
+              "value": "Joueur"
+            },
+            {
+              "description": "Portée :",
+              "value": "Illimitée"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Amplitude de distance :",
+              "value": "Entre 85 et 700 unités"
+            },
+            {
+              "description": "Délai de la téléportation :",
+              "value": "Entre 0.5s et 3.5s"
+            },
+            {
+              "description": "Rechargement :",
+              "value": "Entre 14s et 210/180/150/120/90s"
+            }
+          ]
+        }
+      },
+      "Id": 17700,
+      "Summary": "Le Bifrost",
+      "URL": "https://web2.hirez.com/smite/god-abilities/the-bifrost.jpg"
+    },
+    "Ability_4": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "90s",
+          "cost": "70/75/80/85/90",
+          "description": "Hache brandie, Heimdallr charge en avant. S'il heurte un dieu ennemi, il lui assène un coup prodigieux qui le propulse dans les airs. La victime traverse alors un portail du Bifrost et traverse les royaumes de Muspelheim et Niflheim, puis ressort par un portail proche de l'emplacement initial. Mulspelheim inflige des dégâts toutes les 0,5s pendant 1,5s et Niflheim applique un ralentissement de 2,5s.",
+          "menuitems": [
+            {
+              "description": "Compétence :",
+              "value": "Ruée"
+            },
+            {
+              "description": "Affecte :",
+              "value": "Ennemis"
+            },
+            {
+              "description": "Portée :",
+              "value": "55"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Dégâts du coup initial :",
+              "value": "150/240/330/420/510 (+110% de la puissance physique)"
+            },
+            {
+              "description": "Dégâts de Muspelheim :",
+              "value": "25/35/45/55/65 (+15% de la puissance physique)"
+            },
+            {
+              "description": "Dégâts du mur :",
+              "value": "35/75/115/155/195 (+30% de la puissance physique)"
+            },
+            {
+              "description": "Ralentissement de Niflheim :",
+              "value": "25%"
+            },
+            {
+              "description": "Durée de l'exil :",
+              "value": "4s"
+            }
+          ]
+        }
+      },
+      "Id": 17701,
+      "Summary": "Exil dimensionnel",
+      "URL": "https://web2.hirez.com/smite/god-abilities/through-the-realms.jpg"
+    },
+    "Ability_5": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "",
+          "cost": "",
+          "description": "La puissance physique d'Heimdallr augmente pour chaque dieu ennemi dans son champ de vision, jusqu'à un maximum de 5. Quand l'un d'eux en sort, Heimdallr continue de le voir pendant 4s - cet effet fonctionne contre l'invisibilité. Par ailleurs, les coups critiques d'Heimdallr n'infligent que 70% de dégâts bonus.",
+          "menuitems": [
+            {
+              "description": "Compétence :",
+              "value": "Bonus"
+            },
+            {
+              "description": "Affecte :",
+              "value": "Joueur"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Puissance physique par charge",
+              "value": "3%"
+            }
+          ]
+        }
+      },
+      "Id": 17697,
+      "Summary": "Le gardien du pont",
+      "URL": "https://web2.hirez.com/smite/god-abilities/the-vigilant.jpg"
+    },
+    "AttackSpeed": 0.96,
+    "AttackSpeedPerLevel": 0.014,
+    "Cons": "",
+    "HP5PerLevel": 0.8,
+    "Health": 480,
+    "HealthPerFive": 8,
+    "HealthPerLevel": 80,
+    "Lore": "Tout chemin possède un gardien, et il n'est pas de gardien plus zélé qu'Heimdallr le vigilant, la sentinelle du Bifrost. Ce protecteur d'Ásgard veille, éternel, au pied de l'arc-en-ciel. Son regard est plus perçant que le froid hivernal, son ouïe plus fine qu'aucune lame. Il garde le palais des dieux, à l'affut d'ennemis et de signes annonciateurs du Ragnarök.\\n\\nOn raconte qu'il ne dort jamais et que son regard porte à des centaines de lieues. Son ouïe est si fine qu'il entend l'herbe pousser, et les morts murmurer. Quand il souffle dans son cor, Gjallarhorn, celui-ci résonne aux quatre coins des Neufs Royaumes.\\n\\nSes sens sont si développés qu'il en possède un sixième : il est doué de prescience. Il peut donc percevoir les ennemis en approche, et même prédire leurs actions une fois le combat engagé. Il fait partie des Ases et à ce titre, c'est un combattant hors pair. Seuls les plus talentueux et les plus imprévisibles adversaires parviendraient à le surprendre.\\n\\nSelon la légende, Heimdallr est relié à Yggradsil, l'Arbre-monde, tout comme Ratatoskr. D'aucuns assurent même que son enveloppe charnelle provient de l'écorce du grand frêne. Une chose est sure, Heimdallr s'oppose à tout ce qui menace Yggdrasil.\\n\\nAlors quand son regard si pénétrant se posa sur les plantes moribondes de Perséphone s'approchant de l'Arbre-monde, Heimdallr s'interposa immédiatement. Nul, pas même la Reine des Enfers, ne saurait dissimuler ses intentions au gardien d'Ásgard...",
+    "MP5PerLevel": 0.4,
+    "MagicProtection": 30,
+    "MagicProtectionPerLevel": 0.9,
+    "MagicalPower": 0,
+    "MagicalPowerPerLevel": 0,
+    "Mana": 230,
+    "ManaPerFive": 4.5,
+    "ManaPerLevel": 34,
+    "Name": "Heimdallr",
+    "OnFreeRotation": "",
+    "Pantheon": "Nordique",
+    "PhysicalPower": 32,
+    "PhysicalPowerPerLevel": 3,
+    "PhysicalProtection": 16,
+    "PhysicalProtectionPerLevel": 3,
+    "Pros": " Dégâts ciblés",
+    "Roles": " Chasseur",
+    "Speed": 365,
+    "Title": "Le gardien du pont",
+    "Type": " À distance",
+    "abilityDescription1": {
+      "itemDescription": {
+        "cooldown": "14s",
+        "cost": "50/55/60/65/70",
+        "description": "Heimdallr lance son épée Hofuð dans les airs. Elle lévite alors et il en émane une lumière qui révèle les ennemis dans un rayon de 120 unités. Réactiver la compétence propulse l'épée à l'emplacement ciblé, où elle inflige des dégâts.",
+        "menuitems": [
+          {
+            "description": "Compétence :",
+            "value": "Cercle"
+          },
+          {
+            "description": "Affecte :",
+            "value": "Ennemis"
+          },
+          {
+            "description": "Dégâts :",
+            "value": "Physiques"
+          },
+          {
+            "description": "Rayon :",
+            "value": "15"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Dégâts :",
+            "value": "70/130/190/250/310 (+95% de la puissance physique)"
+          }
+        ]
+      }
+    },
+    "abilityDescription2": {
+      "itemDescription": {
+        "cooldown": "14s",
+        "cost": "60/65/70/75/80",
+        "description": "Heimdallr souffle dans Gjallarhorn pendant 2s, ce qui ralentit la vitesse de déplacement et la vitesse d'attaque des ennemis devant lui et leur inflige des dégâts toutes les 0,5s. Pendant l'effet, Heimdallr obtient un bonus de protections et il est immunisé aux projections. Après 2s ou bien si Heimdallr réactive la compétence, l'effet prend fin et le cor émet une détonation qui repousse les ennemis et leur inflige des dégâts.",
+        "menuitems": [
+          {
+            "description": "Compétence :",
+            "value": "Cone"
+          },
+          {
+            "description": "Affecte :",
+            "value": "Ennemis"
+          },
+          {
+            "description": "Dégâts :",
+            "value": "Physiques"
+          },
+          {
+            "description": "Portée :",
+            "value": "60"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Dégâts périodiques :",
+            "value": "8/16/24/32/40 (+35% de la puissance physique)"
+          },
+          {
+            "description": "Dégâts de la détonation :",
+            "value": "50/90/130/170/210 (+60% de la puissance physique)"
+          },
+          {
+            "description": "Protections :",
+            "value": "16/22/28/34/40"
+          },
+          {
+            "description": "Ralentissement :",
+            "value": "15/17.5/20/22.5/25%"
+          },
+          {
+            "description": "Durée du ralentissement :",
+            "value": "1.5s"
+          }
+        ]
+      }
+    },
+    "abilityDescription3": {
+      "itemDescription": {
+        "cooldown": "Variable",
+        "cost": "40",
+        "description": "Heimdallr matérialise un fragment du Bifrost à l'emplacement ciblé. Une fois que deux fragments sont créés, ils sont liés et permettent à Heimdallr d'aller de l'un vers l'autre. Plus ils sont éloignés, plus la téléportation prend de temps. Le délai entre deux utilisations augmente lui aussi selon la distance. Lorsque Heimdallr dépose un troisième fragment, le premier disparaît. Quand un ennemi franchit la ligne formée par les fragments, il est révélé pour Heimdallr.",
+        "menuitems": [
+          {
+            "description": "Compétence :",
+            "value": "Cercle"
+          },
+          {
+            "description": "Affecte :",
+            "value": "Joueur"
+          },
+          {
+            "description": "Portée :",
+            "value": "Illimitée"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Amplitude de distance :",
+            "value": "Entre 85 et 700 unités"
+          },
+          {
+            "description": "Délai de la téléportation :",
+            "value": "Entre 0.5s et 3.5s"
+          },
+          {
+            "description": "Rechargement :",
+            "value": "Entre 14s et 210/180/150/120/90s"
+          }
+        ]
+      }
+    },
+    "abilityDescription4": {
+      "itemDescription": {
+        "cooldown": "90s",
+        "cost": "70/75/80/85/90",
+        "description": "Hache brandie, Heimdallr charge en avant. S'il heurte un dieu ennemi, il lui assène un coup prodigieux qui le propulse dans les airs. La victime traverse alors un portail du Bifrost et traverse les royaumes de Muspelheim et Niflheim, puis ressort par un portail proche de l'emplacement initial. Mulspelheim inflige des dégâts toutes les 0,5s pendant 1,5s et Niflheim applique un ralentissement de 2,5s.",
+        "menuitems": [
+          {
+            "description": "Compétence :",
+            "value": "Ruée"
+          },
+          {
+            "description": "Affecte :",
+            "value": "Ennemis"
+          },
+          {
+            "description": "Portée :",
+            "value": "55"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Dégâts du coup initial :",
+            "value": "150/240/330/420/510 (+110% de la puissance physique)"
+          },
+          {
+            "description": "Dégâts de Muspelheim :",
+            "value": "25/35/45/55/65 (+15% de la puissance physique)"
+          },
+          {
+            "description": "Dégâts du mur :",
+            "value": "35/75/115/155/195 (+30% de la puissance physique)"
+          },
+          {
+            "description": "Ralentissement de Niflheim :",
+            "value": "25%"
+          },
+          {
+            "description": "Durée de l'exil :",
+            "value": "4s"
+          }
+        ]
+      }
+    },
+    "abilityDescription5": {
+      "itemDescription": {
+        "cooldown": "",
+        "cost": "",
+        "description": "La puissance physique d'Heimdallr augmente pour chaque dieu ennemi dans son champ de vision, jusqu'à un maximum de 5. Quand l'un d'eux en sort, Heimdallr continue de le voir pendant 4s - cet effet fonctionne contre l'invisibilité. Par ailleurs, les coups critiques d'Heimdallr n'infligent que 70% de dégâts bonus.",
+        "menuitems": [
+          {
+            "description": "Compétence :",
+            "value": "Bonus"
+          },
+          {
+            "description": "Affecte :",
+            "value": "Joueur"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Puissance physique par charge",
+            "value": "3%"
+          }
+        ]
+      }
+    },
+    "basicAttack": {
+      "itemDescription": {
+        "cooldown": "",
+        "cost": "",
+        "description": "",
+        "menuitems": [
+          {
+            "description": "Dégâts :",
+            "value": "36 + 2,8/niv (+100% de la puissance physique)"
+          },
+          {
+            "description": "Enchaînement :",
+            "value": "1.3/1.3/1.5x dégâts et durée d'attaque ; les 2 premiers coups touchent une zone de 7,5 unités"
+          }
+        ],
+        "rankitems": []
+      }
+    },
+    "godAbility1_URL": "https://web2.hirez.com/smite/god-abilities/piercing-sight.jpg",
+    "godAbility2_URL": "https://web2.hirez.com/smite/god-abilities/gjallarhorn.jpg",
+    "godAbility3_URL": "https://web2.hirez.com/smite/god-abilities/the-bifrost.jpg",
+    "godAbility4_URL": "https://web2.hirez.com/smite/god-abilities/through-the-realms.jpg",
+    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/the-vigilant.jpg",
+    "godCard_URL": "https://web2.hirez.com/smite/god-cards/heimdallr.jpg",
+    "godIcon_URL": "https://web2.hirez.com/smite/god-icons/heimdallr.jpg",
+    "id": 3812,
+    "latestGod": "y",
+    "ret_msg": null
+  },
+  {
     "Ability1": "Dégradation (Restauration)",
     "Ability2": "Entrave (Purification)",
     "Ability3": "Rejet (Inspiration)",
@@ -19845,7 +20314,7 @@
     "ManaPerFive": 4.7,
     "ManaPerLevel": 37,
     "Name": "Horus",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Égyptien",
     "PhysicalPower": 37,
     "PhysicalPowerPerLevel": 2.1,
@@ -20916,9 +21385,9 @@
     "Ability_2": {
       "Description": {
         "itemDescription": {
-          "cooldown": "10s",
+          "cooldown": "12s",
           "cost": "70/75/80/85/90",
-          "description": "Isis lance une boule d'énergie spirituelle qui gagne progressivement en puissance. Elle peut la faire exploser à tout moment pour étourdir et infliger des dégâts aux ennemis à moins de 10 unités.\n\nLes dégâts et la durée de l'étourdissement peuvent atteindre jusqu'à 1,5x la valeur de base, à distance maximale.",
+          "description": "Isis lance une boule d'énergie spirituelle qui gagne progressivement en puissance. Elle peut la faire exploser à tout moment pour étourdir et infliger des dégâts aux ennemis à moins de 10 unités. Les dégâts et la durée de l'étourdissement peuvent atteindre jusqu'à 1,5x la valeur de base, à distance maximale.",
           "menuitems": [
             {
               "description": "Compétence :",
@@ -20992,7 +21461,7 @@
             },
             {
               "description": "Bouclier :",
-              "value": "70/110/150/190/230"
+              "value": "50/95/140/155/230"
             }
           ]
         }
@@ -21032,7 +21501,7 @@
             },
             {
               "description": "Guérison :",
-              "value": "110/130/150/170/190 (+25% de la puissance magique)"
+              "value": "90/115/140/165/190 (+25% de la puissance magique)"
             },
             {
               "description": "Réduction des dégâts :",
@@ -21162,9 +21631,9 @@
     },
     "abilityDescription2": {
       "itemDescription": {
-        "cooldown": "10s",
+        "cooldown": "12s",
         "cost": "70/75/80/85/90",
-        "description": "Isis lance une boule d'énergie spirituelle qui gagne progressivement en puissance. Elle peut la faire exploser à tout moment pour étourdir et infliger des dégâts aux ennemis à moins de 10 unités.\n\nLes dégâts et la durée de l'étourdissement peuvent atteindre jusqu'à 1,5x la valeur de base, à distance maximale.",
+        "description": "Isis lance une boule d'énergie spirituelle qui gagne progressivement en puissance. Elle peut la faire exploser à tout moment pour étourdir et infliger des dégâts aux ennemis à moins de 10 unités. Les dégâts et la durée de l'étourdissement peuvent atteindre jusqu'à 1,5x la valeur de base, à distance maximale.",
         "menuitems": [
           {
             "description": "Compétence :",
@@ -21233,7 +21702,7 @@
           },
           {
             "description": "Bouclier :",
-            "value": "70/110/150/190/230"
+            "value": "50/95/140/155/230"
           }
         ]
       }
@@ -21268,7 +21737,7 @@
           },
           {
             "description": "Guérison :",
-            "value": "110/130/150/170/190 (+25% de la puissance magique)"
+            "value": "90/115/140/165/190 (+25% de la puissance magique)"
           },
           {
             "description": "Réduction des dégâts :",
@@ -22758,7 +23227,7 @@
           "rankitems": [
             {
               "description": "Dégâts de l'immersion :",
-              "value": "150/200/250/300/350 (+40% de la puissance magique)"
+              "value": "150/200/250/300/350 (+35% de la puissance magique)"
             },
             {
               "description": "Dégâts de sortie/d'atterrissage :",
@@ -22790,7 +23259,7 @@
             },
             {
               "description": "Augmentation des dégâts subis :",
-              "value": "10%"
+              "value": "15%"
             },
             {
               "description": "Durée :",
@@ -22986,7 +23455,7 @@
         "rankitems": [
           {
             "description": "Dégâts de l'immersion :",
-            "value": "150/200/250/300/350 (+40% de la puissance magique)"
+            "value": "150/200/250/300/350 (+35% de la puissance magique)"
           },
           {
             "description": "Dégâts de sortie/d'atterrissage :",
@@ -23013,7 +23482,7 @@
           },
           {
             "description": "Augmentation des dégâts subis :",
-            "value": "10%"
+            "value": "15%"
           },
           {
             "description": "Durée :",
@@ -23722,7 +24191,7 @@
     "ManaPerFive": 4.6,
     "ManaPerLevel": 34,
     "Name": "Khepri",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Égyptien",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -24043,7 +24512,7 @@
           "rankitems": [
             {
               "description": "Dégâts périodiques :",
-              "value": "10/20/30/40/50 (+15% de la puissance magique)"
+              "value": "9/18/27/36/45 (+15% de la puissance magique)"
             },
             {
               "description": "Durée de la tornade :",
@@ -24227,7 +24696,7 @@
         "rankitems": [
           {
             "description": "Dégâts périodiques :",
-            "value": "10/20/30/40/50 (+15% de la puissance magique)"
+            "value": "9/18/27/36/45 (+15% de la puissance magique)"
           },
           {
             "description": "Durée de la tornade :",
@@ -30542,7 +31011,7 @@
     "MP5PerLevel": 0.4,
     "MagicProtection": 30,
     "MagicProtectionPerLevel": 0.9,
-    "MagicalPower": 160,
+    "MagicalPower": 152,
     "MagicalPowerPerLevel": 9.5,
     "Mana": 240,
     "ManaPerFive": 5,
@@ -35989,7 +36458,7 @@
     "Ability_1": {
       "Description": {
         "itemDescription": {
-          "cooldown": "7s",
+          "cooldown": "8s",
           "cost": "40/45/50/55/60",
           "description": "Seth rassemble sa haine en un projectile de dégâts qu'il propulse droit devant lui.\n\nSimultanément, ses engeances déclenchent une ruée vers l'emplacement ciblé. Elles ralentissent les ennemis traversés pendant 3s et leur infligent des dégâts (seulement 40% de la valeur de base lorsque plusieurs engeances atteignent la même cible).",
           "menuitems": [
@@ -36220,7 +36689,7 @@
     "Type": " Mêlée, Physique",
     "abilityDescription1": {
       "itemDescription": {
-        "cooldown": "7s",
+        "cooldown": "8s",
         "cost": "40/45/50/55/60",
         "description": "Seth rassemble sa haine en un projectile de dégâts qu'il propulse droit devant lui.\n\nSimultanément, ses engeances déclenchent une ruée vers l'emplacement ciblé. Elles ralentissent les ennemis traversés pendant 3s et leur infligent des dégâts (seulement 40% de la valeur de base lorsque plusieurs engeances atteignent la même cible).",
         "menuitems": [
@@ -37109,7 +37578,7 @@
     "ManaPerFive": 4.5,
     "ManaPerLevel": 35,
     "Name": "Sobek",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Égyptien",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -38140,7 +38609,7 @@
         "itemDescription": {
           "cooldown": "16/15/14/13/12s",
           "cost": "60/65/70/75/80",
-          "description": "Susano exécute trois attaques consécutives. Il dispose de 3s entre chacune d'entre elles pour les enchaîner.\r\nAttaque 1 : 100% des dégâts aux ennemis dans une zone conique.\r\nAttaque 2 : 100% des dégâts aux ennemis proches.\r\nAttaque 3 : ruée qui inflige 50% des dégâts.",
+          "description": "Susano exécute trois attaques consécutives. Il dispose de 3s entre chacune d'entre elles pour les enchaîner. \nAttaque 1 : 100% des dégâts aux ennemis dans une zone conique.\nAttaque 2 : 100% des dégâts aux ennemis proches.\nAttaque 3 : ruée qui inflige 50% des dégâts.",
           "menuitems": [
             {
               "description": "Compétence :",
@@ -38162,7 +38631,7 @@
           "rankitems": [
             {
               "description": "Dégâts par coup :",
-              "value": "40/65/90/115/140 (+55% de la puissance physique)"
+              "value": "40/65/90/115/140 (50% de la puissance physique)"
             }
           ]
         }
@@ -38248,7 +38717,7 @@
         "itemDescription": {
           "cooldown": "100s",
           "cost": "80/85/90/95/100",
-          "description": "Susano crée un ouragan autour de lui qui attire les ennemis vers son centre. Il grandit progressivement, et une fois qu'il atteint sa taille maximale, il fuse dans la direction à laquelle Susano fait face, en projetant les ennemis sur son chemin. Ses dégâts dépendent de sa taille. \n\nSusano peut réactiver cette compétence pour libérer prématurément l'ouragan, mais il inflige alors moins de dégâts. S'il n'a pas encore atteint la moitié de sa taille maximale, il ne projette pas les ennemis.",
+          "description": "Susano crée un ouragan autour de lui qui attire les ennemis vers son centre. Il grandit progressivement, et une fois qu'il atteint sa taille maximale, il fuse dans la direction à laquelle Susano fait face, en projetant les ennemis sur son chemin. Ses dégâts dépendent de sa taille. Susano peut réactiver cette compétence pour libérer prématurément l'ouragan, mais il inflige alors moins de dégâts. S'il n'a pas encore atteint la moitié de sa taille maximale, il ne projette pas les ennemis.",
           "menuitems": [
             {
               "description": "Compétence :",
@@ -38270,7 +38739,7 @@
           "rankitems": [
             {
               "description": "Dégâts max :",
-              "value": "215/280/345/410/475 (140% de la puissance physique)"
+              "value": "215/280/345/410/475 (+125% de la puissance physique)"
             }
           ]
         }
@@ -38339,7 +38808,7 @@
       "itemDescription": {
         "cooldown": "16/15/14/13/12s",
         "cost": "60/65/70/75/80",
-        "description": "Susano exécute trois attaques consécutives. Il dispose de 3s entre chacune d'entre elles pour les enchaîner.\r\nAttaque 1 : 100% des dégâts aux ennemis dans une zone conique.\r\nAttaque 2 : 100% des dégâts aux ennemis proches.\r\nAttaque 3 : ruée qui inflige 50% des dégâts.",
+        "description": "Susano exécute trois attaques consécutives. Il dispose de 3s entre chacune d'entre elles pour les enchaîner. \nAttaque 1 : 100% des dégâts aux ennemis dans une zone conique.\nAttaque 2 : 100% des dégâts aux ennemis proches.\nAttaque 3 : ruée qui inflige 50% des dégâts.",
         "menuitems": [
           {
             "description": "Compétence :",
@@ -38361,7 +38830,7 @@
         "rankitems": [
           {
             "description": "Dégâts par coup :",
-            "value": "40/65/90/115/140 (+55% de la puissance physique)"
+            "value": "40/65/90/115/140 (50% de la puissance physique)"
           }
         ]
       }
@@ -38432,7 +38901,7 @@
       "itemDescription": {
         "cooldown": "100s",
         "cost": "80/85/90/95/100",
-        "description": "Susano crée un ouragan autour de lui qui attire les ennemis vers son centre. Il grandit progressivement, et une fois qu'il atteint sa taille maximale, il fuse dans la direction à laquelle Susano fait face, en projetant les ennemis sur son chemin. Ses dégâts dépendent de sa taille. \n\nSusano peut réactiver cette compétence pour libérer prématurément l'ouragan, mais il inflige alors moins de dégâts. S'il n'a pas encore atteint la moitié de sa taille maximale, il ne projette pas les ennemis.",
+        "description": "Susano crée un ouragan autour de lui qui attire les ennemis vers son centre. Il grandit progressivement, et une fois qu'il atteint sa taille maximale, il fuse dans la direction à laquelle Susano fait face, en projetant les ennemis sur son chemin. Ses dégâts dépendent de sa taille. Susano peut réactiver cette compétence pour libérer prématurément l'ouragan, mais il inflige alors moins de dégâts. S'il n'a pas encore atteint la moitié de sa taille maximale, il ne projette pas les ennemis.",
         "menuitems": [
           {
             "description": "Compétence :",
@@ -38454,7 +38923,7 @@
         "rankitems": [
           {
             "description": "Dégâts max :",
-            "value": "215/280/345/410/475 (140% de la puissance physique)"
+            "value": "215/280/345/410/475 (+125% de la puissance physique)"
           }
         ]
       }
@@ -40419,7 +40888,7 @@
           "rankitems": [
             {
               "description": "Dégâts :",
-              "value": "150/200/250/300/350 (100% de la puissance physique)"
+              "value": "100/150/200/250/300 (100% de la puissance physique)"
             },
             {
               "description": "Étourdissement :",
@@ -40427,7 +40896,7 @@
             },
             {
               "description": "Dégâts des éclairs :",
-              "value": "20/30/40/50/60 (+15% de la puissance physique)"
+              "value": "15/25/35/45/55 (+15% de la puissance physique)"
             }
           ]
         }
@@ -40615,7 +41084,7 @@
         "rankitems": [
           {
             "description": "Dégâts :",
-            "value": "150/200/250/300/350 (100% de la puissance physique)"
+            "value": "100/150/200/250/300 (100% de la puissance physique)"
           },
           {
             "description": "Étourdissement :",
@@ -40623,7 +41092,7 @@
           },
           {
             "description": "Dégâts des éclairs :",
-            "value": "20/30/40/50/60 (+15% de la puissance physique)"
+            "value": "15/25/35/45/55 (+15% de la puissance physique)"
           }
         ]
       }
@@ -41225,7 +41694,7 @@
             },
             {
               "description": "Guérison :",
-              "value": "30/55/80/105/130 (+20% de la puissance physique)"
+              "value": "20/45/70/95/120 (+20% de la puissance physique)"
             }
           ]
         }
@@ -41426,7 +41895,7 @@
           },
           {
             "description": "Guérison :",
-            "value": "30/55/80/105/130 (+20% de la puissance physique)"
+            "value": "20/45/70/95/120 (+20% de la puissance physique)"
           }
         ]
       }
@@ -43673,7 +44142,7 @@
             },
             {
               "description": "Soins :",
-              "value": "20/40/60/80/100 (+20% de la puissance magique)"
+              "value": "30/55/80/105/130 (+20% de la puissance magique)"
             },
             {
               "description": "Bouclier :",
@@ -43797,7 +44266,7 @@
           "rankitems": [
             {
               "description": "Omi supplémentaire :",
-              "value": "à 300/ 450 et 600 Mana+PM5"
+              "value": "à 300 Mana+PM5 ; aux niveaux 4 & 12"
             },
             {
               "description": "Soins d'attaque de base :",
@@ -43919,7 +44388,7 @@
           },
           {
             "description": "Soins :",
-            "value": "20/40/60/80/100 (+20% de la puissance magique)"
+            "value": "30/55/80/105/130 (+20% de la puissance magique)"
           },
           {
             "description": "Bouclier :",
@@ -44028,7 +44497,7 @@
         "rankitems": [
           {
             "description": "Omi supplémentaire :",
-            "value": "à 300/ 450 et 600 Mana+PM5"
+            "value": "à 300 Mana+PM5 ; aux niveaux 4 & 12"
           },
           {
             "description": "Soins d'attaque de base :",
@@ -44063,7 +44532,7 @@
     "godCard_URL": "https://web2.hirez.com/smite/god-cards/yemoja.jpg",
     "godIcon_URL": "https://web2.hirez.com/smite/god-icons/yemoja.jpg",
     "id": 3811,
-    "latestGod": "y",
+    "latestGod": "n",
     "ret_msg": null
   },
   {
@@ -44673,7 +45142,7 @@
     "ManaPerFive": 4.6,
     "ManaPerLevel": 44,
     "Name": "Zeus",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Grec",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,

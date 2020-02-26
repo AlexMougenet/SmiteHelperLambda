@@ -1701,7 +1701,7 @@
             },
             {
               "description": "Aura de Benevolência:",
-              "value": "5/10/15/20/25 % movimento"
+              "value": "5/9/13/17/21 % movimento"
             },
             {
               "description": "Aura de Valor:",
@@ -1825,7 +1825,7 @@
           "rankitems": [
             {
               "description": "Dano por acerto:",
-              "value": "95/140/185/230/275 (+50% da sua força física)"
+              "value": "80/125/170/215/260 (+50% da sua força física)"
             },
             {
               "description": "Duração da Lentidão:",
@@ -1899,7 +1899,7 @@
     "ManaPerFive": 4.8,
     "ManaPerLevel": 35,
     "Name": "Amaterasu",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Japonês",
     "PhysicalPower": 39,
     "PhysicalPowerPerLevel": 2,
@@ -1936,7 +1936,7 @@
           },
           {
             "description": "Aura de Benevolência:",
-            "value": "5/10/15/20/25 % movimento"
+            "value": "5/9/13/17/21 % movimento"
           },
           {
             "description": "Aura de Valor:",
@@ -2045,7 +2045,7 @@
         "rankitems": [
           {
             "description": "Dano por acerto:",
-            "value": "95/140/185/230/275 (+50% da sua força física)"
+            "value": "80/125/170/215/260 (+50% da sua força física)"
           },
           {
             "description": "Duração da Lentidão:",
@@ -4005,7 +4005,7 @@
     "ManaPerFive": 4.8,
     "ManaPerLevel": 41,
     "Name": "Aracne",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Grego",
     "PhysicalPower": 38,
     "PhysicalPowerPerLevel": 2.2,
@@ -4851,7 +4851,7 @@
     "ManaPerFive": 4.4,
     "ManaPerLevel": 34,
     "Name": "Ártemis",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Grego",
     "PhysicalPower": 35,
     "PhysicalPowerPerLevel": 2.5,
@@ -8952,7 +8952,7 @@
     "Ability_1": {
       "Description": {
         "itemDescription": {
-          "cooldown": "13s",
+          "cooldown": "12s",
           "cost": "50/55/60/65/70",
           "description": "Camazotz emite um alto grito, emanando uma onda sonar em uma linha, atravessando lacaios e causando dano.\n\nSe esse grito acertar um deus a onda de som ecoará. Se Camazotz pegar esse eco, ele mantêm a visão desse deus nos próximos 15s e ganha poder bônus.",
           "menuitems": [
@@ -8993,8 +8993,8 @@
       "Description": {
         "itemDescription": {
           "cooldown": "10s",
-          "cost": "60/65/70/75/80.",
-          "description": "Camazotz comanda uma revoada de morcegos que atacam um único alvo, causando dano e 30% de lentidão, e trazendo vida de volta. \n\n Se o alvo for um monstro grande de selva, ele ficará marcado e Camazotz receberá um bônus estocável de Vampirismo por 300s em adição à vida. Monstros já marcados por essa habilidade não darão a Camazotz outro estoque de Vampirismo ou mais cura.",
+          "cost": "60/65/70/75/80",
+          "description": "Camazotz comanda uma revoada de morcegos que atacam um único alvo, causando dano e 30% de lentidão, e trazendo vida de volta.\n\nSe o alvo for um monstro grande de selva, ele ficará marcado e Camazotz receberá um bônus estocável de Vampirismo por 300s em adição à vida. Monstros já marcados por essa habilidade não darão a Camazotz outro estoque de Vampirismo ou mais cura.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -9024,7 +9024,7 @@
             },
             {
               "description": "Bônus por Estoque:",
-              "value": "3% Aumento de cura e roubo de vida"
+              "value": "4% Aumento de cura e roubo de vida"
             },
             {
               "description": "Estoques Máximos:",
@@ -9050,7 +9050,7 @@
             },
             {
               "description": "Afeta:",
-              "value": "Inimigos e Você"
+              "value": "Inimigos e você"
             },
             {
               "description": "Dano:",
@@ -9058,7 +9058,7 @@
             },
             {
               "description": "Alcance:",
-              "value": "30"
+              "value": "45"
             }
           ],
           "rankitems": [
@@ -9148,7 +9148,7 @@
             },
             {
               "description": "Bônus de Sorver Essência:",
-              "value": "6% de roubo de vida físico e de cura aumentada"
+              "value": "8% de roubo de vida físico e de cura aumentada"
             }
           ]
         }
@@ -9187,7 +9187,7 @@
     "Type": " Corporal, Físico",
     "abilityDescription1": {
       "itemDescription": {
-        "cooldown": "13s",
+        "cooldown": "12s",
         "cost": "50/55/60/65/70",
         "description": "Camazotz emite um alto grito, emanando uma onda sonar em uma linha, atravessando lacaios e causando dano.\n\nSe esse grito acertar um deus a onda de som ecoará. Se Camazotz pegar esse eco, ele mantêm a visão desse deus nos próximos 15s e ganha poder bônus.",
         "menuitems": [
@@ -9223,8 +9223,8 @@
     "abilityDescription2": {
       "itemDescription": {
         "cooldown": "10s",
-        "cost": "60/65/70/75/80.",
-        "description": "Camazotz comanda uma revoada de morcegos que atacam um único alvo, causando dano e 30% de lentidão, e trazendo vida de volta. \n\n Se o alvo for um monstro grande de selva, ele ficará marcado e Camazotz receberá um bônus estocável de Vampirismo por 300s em adição à vida. Monstros já marcados por essa habilidade não darão a Camazotz outro estoque de Vampirismo ou mais cura.",
+        "cost": "60/65/70/75/80",
+        "description": "Camazotz comanda uma revoada de morcegos que atacam um único alvo, causando dano e 30% de lentidão, e trazendo vida de volta.\n\nSe o alvo for um monstro grande de selva, ele ficará marcado e Camazotz receberá um bônus estocável de Vampirismo por 300s em adição à vida. Monstros já marcados por essa habilidade não darão a Camazotz outro estoque de Vampirismo ou mais cura.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -9254,7 +9254,7 @@
           },
           {
             "description": "Bônus por Estoque:",
-            "value": "3% Aumento de cura e roubo de vida"
+            "value": "4% Aumento de cura e roubo de vida"
           },
           {
             "description": "Estoques Máximos:",
@@ -9275,7 +9275,7 @@
           },
           {
             "description": "Afeta:",
-            "value": "Inimigos e Você"
+            "value": "Inimigos e você"
           },
           {
             "description": "Dano:",
@@ -9283,7 +9283,7 @@
           },
           {
             "description": "Alcance:",
-            "value": "30"
+            "value": "45"
           }
         ],
         "rankitems": [
@@ -9363,7 +9363,7 @@
           },
           {
             "description": "Bônus de Sorver Essência:",
-            "value": "6% de roubo de vida físico e de cura aumentada"
+            "value": "8% de roubo de vida físico e de cura aumentada"
           }
         ]
       }
@@ -9482,8 +9482,8 @@
               "value": "8/9/10/11/12%"
             },
             {
-              "description": "Redução de Produção:",
-              "value": "6/8/10/12/14%"
+              "description": "Redução de Proteção:",
+              "value": "6/9/12/15/18%"
             },
             {
               "description": "Duração:",
@@ -9589,7 +9589,7 @@
         "itemDescription": {
           "cooldown": "",
           "cost": "",
-          "description": "Sempre que uma divindade inimiga dentro de 40 unidades de Cérbero é curada, aquela cura é reduzida em 20% e Cérbero recebe 40% daquela cura.",
+          "description": "Sempre que uma divindade inimiga dentro de 40 unidades de Cérbero é curada, aquela cura é reduzida em 20% e Cérbero recebe 50% daquela cura.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -9597,13 +9597,13 @@
             },
             {
               "description": "Afeta:",
-              "value": "Você e Inimigos"
+              "value": "Você e inimigos"
             }
           ],
           "rankitems": [
             {
               "description": "Roubo de Cura:",
-              "value": "40%"
+              "value": "50%"
             }
           ]
         }
@@ -9708,8 +9708,8 @@
             "value": "8/9/10/11/12%"
           },
           {
-            "description": "Redução de Produção:",
-            "value": "6/8/10/12/14%"
+            "description": "Redução de Proteção:",
+            "value": "6/9/12/15/18%"
           },
           {
             "description": "Duração:",
@@ -9800,7 +9800,7 @@
       "itemDescription": {
         "cooldown": "",
         "cost": "",
-        "description": "Sempre que uma divindade inimiga dentro de 40 unidades de Cérbero é curada, aquela cura é reduzida em 20% e Cérbero recebe 40% daquela cura.",
+        "description": "Sempre que uma divindade inimiga dentro de 40 unidades de Cérbero é curada, aquela cura é reduzida em 20% e Cérbero recebe 50% daquela cura.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -9808,13 +9808,13 @@
           },
           {
             "description": "Afeta:",
-            "value": "Você e Inimigos"
+            "value": "Você e inimigos"
           }
         ],
         "rankitems": [
           {
             "description": "Roubo de Cura:",
-            "value": "40%"
+            "value": "50%"
           }
         ]
       }
@@ -13428,7 +13428,7 @@
     "ManaPerFive": 4.6,
     "ManaPerLevel": 40,
     "Name": "Da Ji",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Chinês",
     "PhysicalPower": 39,
     "PhysicalPowerPerLevel": 2.25,
@@ -13677,7 +13677,7 @@
           "rankitems": [
             {
               "description": "Dano da Orbe:",
-              "value": "70/115/160/205/250 (+75% do seu poder mágico)"
+              "value": "75/125/175/225/275 (+75% do seu poder mágico)"
             },
             {
               "description": "Dano Menor:",
@@ -13733,7 +13733,7 @@
     "Ability_3": {
       "Description": {
         "itemDescription": {
-          "cooldown": "18s",
+          "cooldown": "16s",
           "cost": "50/55/60/65/70",
           "description": "Discórdia salta a uma pequena distância e cria uma área de confusão onde aterrissar e que continua por 5s. Enquanto estiver dentro da área, ela ficará invisível e ganha velocidade de movimento bônus. O intervalo de suas habilidades 1 e 2 são reduzidos em uma quantidade de tempo adicional para cada 0,5s que ela fica na área. Atacar da área a deixará exposta por um breve período.",
           "menuitems": [
@@ -13867,7 +13867,7 @@
     "ManaPerFive": 5,
     "ManaPerLevel": 51,
     "Name": "Discórdia",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Romano",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -13904,7 +13904,7 @@
         "rankitems": [
           {
             "description": "Dano da Orbe:",
-            "value": "70/115/160/205/250 (+75% do seu poder mágico)"
+            "value": "75/125/175/225/275 (+75% do seu poder mágico)"
           },
           {
             "description": "Dano Menor:",
@@ -13950,7 +13950,7 @@
     },
     "abilityDescription3": {
       "itemDescription": {
-        "cooldown": "18s",
+        "cooldown": "16s",
         "cost": "50/55/60/65/70",
         "description": "Discórdia salta a uma pequena distância e cria uma área de confusão onde aterrissar e que continua por 5s. Enquanto estiver dentro da área, ela ficará invisível e ganha velocidade de movimento bônus. O intervalo de suas habilidades 1 e 2 são reduzidos em uma quantidade de tempo adicional para cada 0,5s que ela fica na área. Atacar da área a deixará exposta por um breve período.",
         "menuitems": [
@@ -15330,58 +15330,22 @@
     "ret_msg": null
   },
   {
-    "Ability1": "Aurora Boreal",
-    "Ability2": "Lâmina da Aurora",
+    "Ability1": "Irradiar",
+    "Ability2": "Pulso",
     "Ability3": "Banimento",
     "Ability4": "Discrição da Valquíria",
-    "Ability5": "Guerreira Mística",
-    "AbilityId1": 16396,
-    "AbilityId2": 16406,
+    "Ability5": "Bênção de Brisingamen",
+    "AbilityId1": 8344,
+    "AbilityId2": 8345,
     "AbilityId3": 8413,
     "AbilityId4": 8371,
-    "AbilityId5": 16391,
+    "AbilityId5": 8364,
     "Ability_1": {
       "Description": {
         "itemDescription": {
-          "cooldown": "9s",
+          "cooldown": "11s",
           "cost": "60/65/70/75/80",
-          "description": "Freya deixa sua arma mais poderosa, fazendo com que seus 5 próximos ataques básicos causem dano mágico bônus na área ao redor de cada inimigo atingido. Inimigos atingidos pela explosão mágica sofrem lentidão por 1,25s. Lacaios tomam 25% do dano da explosão. Deuses tomam 25% do dano de cada explosão após a primeira.",
-          "menuitems": [
-            {
-              "description": "Habilidade:",
-              "value": "Aura"
-            },
-            {
-              "description": "Afeta:",
-              "value": "Inimigos"
-            },
-            {
-              "description": "Dano:",
-              "value": "Mágico"
-            }
-          ],
-          "rankitems": [
-            {
-              "description": "Dano:",
-              "value": "10/15/25/40/60 (10% do seu poder mágico)"
-            },
-            {
-              "description": "Lentidão:",
-              "value": "15%"
-            }
-          ]
-        }
-      },
-      "Id": 16396,
-      "Summary": "Aurora Boreal",
-      "URL": "https://web2.hirez.com/smite/god-abilities/northern-lights.jpg"
-    },
-    "Ability_2": {
-      "Description": {
-        "itemDescription": {
-          "cooldown": "0/5s",
-          "cost": "14/18/22/26/30 por disparo",
-          "description": "Freya pode alternar entre aumentar o poder de seus ataques corpo a corpo ou ter ataques a longa distância que atravessam escudos e param em divindades. Ambos ataques - corpo a corpo e à distância - ganham dano mágico bônus. Ataques à distância não causam dano mágico bônus em lacaios. Quando escolhido, cada ataque a distância consome mana.",
+          "description": "Freya ativa um bônus que faz com que seus ataques básicos causem dano mágico bônus.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -15389,7 +15353,7 @@
             },
             {
               "description": "Afeta:",
-              "value": "Si própria"
+              "value": "Si mesma"
             },
             {
               "description": "Dano:",
@@ -15398,19 +15362,59 @@
           ],
           "rankitems": [
             {
-              "description": "Dano bônus de ataque corpo a corpo:",
-              "value": "28/40/52/64/76 (+20% do seu poder mágico)"
+              "description": "Dano Bônus:",
+              "value": "40/55/70/85/100 (+25% do seu poder mágico)"
             },
             {
-              "description": "Dano bônus de ataques à distância",
-              "value": "1/10/20/30/40 (+15% do seu poder mágico)"
+              "description": "Duração:",
+              "value": "5s"
             }
           ]
         }
       },
-      "Id": 16406,
-      "Summary": "Lâmina da Aurora",
-      "URL": "https://web2.hirez.com/smite/god-abilities/aurora-blade.jpg"
+      "Id": 8344,
+      "Summary": "Irradiar",
+      "URL": "https://web2.hirez.com/smite/god-abilities/irradiate.jpg"
+    },
+    "Ability_2": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "11s",
+          "cost": "60/65/70/75/80",
+          "description": "Freya ativa um bônus que transforma seus ataques básicos em ataques de longa distância, causando dano mágico bônus e deixando lentos o alvo e os inimigos próximos. A área de efeito e lentidão é perdida quando Irradiar estiver ativa.",
+          "menuitems": [
+            {
+              "description": "Habilidade:",
+              "value": "Bônus"
+            },
+            {
+              "description": "Afeta:",
+              "value": "Si mesmo"
+            },
+            {
+              "description": "Dano:",
+              "value": "Mágico"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Dano Bônus:",
+              "value": "20/30/40/50/60 (+15% do seu poder mágico)"
+            },
+            {
+              "description": "Duração:",
+              "value": "6s"
+            },
+            {
+              "description": "Lentidão:",
+              "value": "25%"
+            }
+          ]
+        }
+      },
+      "Id": 8345,
+      "Summary": "Pulso",
+      "URL": "https://web2.hirez.com/smite/god-abilities/pulse.jpg"
     },
     "Ability_3": {
       "Description": {
@@ -15471,7 +15475,7 @@
           "rankitems": [
             {
               "description": "Dano por Disparo:",
-              "value": "80/115/150/185/220 (+30% do seu poder mágico)"
+              "value": "100/135/170/205/240 (+35% do seu poder mágico)"
             },
             {
               "description": "Duração:",
@@ -15489,23 +15493,28 @@
         "itemDescription": {
           "cooldown": "",
           "cost": "",
-          "description": "Os ataques básicos de corpo a corpo bem-sucedidos de Freya recuperam 6% da mana máxima. Seus ataques à distância e habilidades a curam em 1,5% da sua vida máxima a cada acerto, até uma vez por disparo.",
+          "description": "O colar de Freya concede a ela roubo de vida mágico adicional.",
           "menuitems": [
             {
               "description": "Habilidade:",
-              "value": "Passiva"
+              "value": "Bônus"
             },
             {
               "description": "Afeta:",
               "value": "Si própria"
             }
           ],
-          "rankitems": []
+          "rankitems": [
+            {
+              "description": "Roubo de Vida Mágico:",
+              "value": "15%"
+            }
+          ]
         }
       },
-      "Id": 16391,
-      "Summary": "Guerreira Mística",
-      "URL": "https://web2.hirez.com/smite/god-abilities/mystic-warrior.jpg"
+      "Id": 8364,
+      "Summary": "Bênção de Brisingamen",
+      "URL": "https://web2.hirez.com/smite/god-abilities/brisingamens-blessing.jpg"
     },
     "AttackSpeed": 0.95,
     "AttackSpeedPerLevel": 0.019,
@@ -15532,45 +15541,14 @@
     "PhysicalProtectionPerLevel": 2.8,
     "Pros": " Alto Dano em Área, Controle Médio",
     "Roles": " Mago",
-    "Speed": 370,
+    "Speed": 375,
     "Title": "Rainha das Valquírias",
     "Type": " Corporal, Mágico",
     "abilityDescription1": {
       "itemDescription": {
-        "cooldown": "9s",
+        "cooldown": "11s",
         "cost": "60/65/70/75/80",
-        "description": "Freya deixa sua arma mais poderosa, fazendo com que seus 5 próximos ataques básicos causem dano mágico bônus na área ao redor de cada inimigo atingido. Inimigos atingidos pela explosão mágica sofrem lentidão por 1,25s. Lacaios tomam 25% do dano da explosão. Deuses tomam 25% do dano de cada explosão após a primeira.",
-        "menuitems": [
-          {
-            "description": "Habilidade:",
-            "value": "Aura"
-          },
-          {
-            "description": "Afeta:",
-            "value": "Inimigos"
-          },
-          {
-            "description": "Dano:",
-            "value": "Mágico"
-          }
-        ],
-        "rankitems": [
-          {
-            "description": "Dano:",
-            "value": "10/15/25/40/60 (10% do seu poder mágico)"
-          },
-          {
-            "description": "Lentidão:",
-            "value": "15%"
-          }
-        ]
-      }
-    },
-    "abilityDescription2": {
-      "itemDescription": {
-        "cooldown": "0/5s",
-        "cost": "14/18/22/26/30 por disparo",
-        "description": "Freya pode alternar entre aumentar o poder de seus ataques corpo a corpo ou ter ataques a longa distância que atravessam escudos e param em divindades. Ambos ataques - corpo a corpo e à distância - ganham dano mágico bônus. Ataques à distância não causam dano mágico bônus em lacaios. Quando escolhido, cada ataque a distância consome mana.",
+        "description": "Freya ativa um bônus que faz com que seus ataques básicos causem dano mágico bônus.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -15578,7 +15556,7 @@
           },
           {
             "description": "Afeta:",
-            "value": "Si própria"
+            "value": "Si mesma"
           },
           {
             "description": "Dano:",
@@ -15587,12 +15565,47 @@
         ],
         "rankitems": [
           {
-            "description": "Dano bônus de ataque corpo a corpo:",
-            "value": "28/40/52/64/76 (+20% do seu poder mágico)"
+            "description": "Dano Bônus:",
+            "value": "40/55/70/85/100 (+25% do seu poder mágico)"
           },
           {
-            "description": "Dano bônus de ataques à distância",
-            "value": "1/10/20/30/40 (+15% do seu poder mágico)"
+            "description": "Duração:",
+            "value": "5s"
+          }
+        ]
+      }
+    },
+    "abilityDescription2": {
+      "itemDescription": {
+        "cooldown": "11s",
+        "cost": "60/65/70/75/80",
+        "description": "Freya ativa um bônus que transforma seus ataques básicos em ataques de longa distância, causando dano mágico bônus e deixando lentos o alvo e os inimigos próximos. A área de efeito e lentidão é perdida quando Irradiar estiver ativa.",
+        "menuitems": [
+          {
+            "description": "Habilidade:",
+            "value": "Bônus"
+          },
+          {
+            "description": "Afeta:",
+            "value": "Si mesmo"
+          },
+          {
+            "description": "Dano:",
+            "value": "Mágico"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Dano Bônus:",
+            "value": "20/30/40/50/60 (+15% do seu poder mágico)"
+          },
+          {
+            "description": "Duração:",
+            "value": "6s"
+          },
+          {
+            "description": "Lentidão:",
+            "value": "25%"
           }
         ]
       }
@@ -15650,7 +15663,7 @@
         "rankitems": [
           {
             "description": "Dano por Disparo:",
-            "value": "80/115/150/185/220 (+30% do seu poder mágico)"
+            "value": "100/135/170/205/240 (+35% do seu poder mágico)"
           },
           {
             "description": "Duração:",
@@ -15663,18 +15676,23 @@
       "itemDescription": {
         "cooldown": "",
         "cost": "",
-        "description": "Os ataques básicos de corpo a corpo bem-sucedidos de Freya recuperam 6% da mana máxima. Seus ataques à distância e habilidades a curam em 1,5% da sua vida máxima a cada acerto, até uma vez por disparo.",
+        "description": "O colar de Freya concede a ela roubo de vida mágico adicional.",
         "menuitems": [
           {
             "description": "Habilidade:",
-            "value": "Passiva"
+            "value": "Bônus"
           },
           {
             "description": "Afeta:",
             "value": "Si própria"
           }
         ],
-        "rankitems": []
+        "rankitems": [
+          {
+            "description": "Roubo de Vida Mágico:",
+            "value": "15%"
+          }
+        ]
       }
     },
     "basicAttack": {
@@ -15695,11 +15713,11 @@
         "rankitems": []
       }
     },
-    "godAbility1_URL": "https://web2.hirez.com/smite/god-abilities/northern-lights.jpg",
-    "godAbility2_URL": "https://web2.hirez.com/smite/god-abilities/aurora-blade.jpg",
+    "godAbility1_URL": "https://web2.hirez.com/smite/god-abilities/irradiate.jpg",
+    "godAbility2_URL": "https://web2.hirez.com/smite/god-abilities/pulse.jpg",
     "godAbility3_URL": "https://web2.hirez.com/smite/god-abilities/banish.jpg",
     "godAbility4_URL": "https://web2.hirez.com/smite/god-abilities/valkyries-discretion.jpg",
-    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/mystic-warrior.jpg",
+    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/brisingamens-blessing.jpg",
     "godCard_URL": "https://web2.hirez.com/smite/god-cards/freya.jpg",
     "godIcon_URL": "https://web2.hirez.com/smite/god-icons/freya.jpg",
     "id": 1784,
@@ -18275,6 +18293,457 @@
     "ret_msg": null
   },
   {
+    "Ability1": "Visão Profunda",
+    "Ability2": "Gjallarhorn",
+    "Ability3": "A Bifrost",
+    "Ability4": "Através dos Reinos",
+    "Ability5": "O Guardião da Ponte Arco-Íris",
+    "AbilityId1": 17698,
+    "AbilityId2": 17699,
+    "AbilityId3": 17700,
+    "AbilityId4": 17701,
+    "AbilityId5": 17697,
+    "Ability_1": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "14s",
+          "cost": "50/55/60/65/70",
+          "description": "Heimdall arremessa sua espada, Hofuð, no ar. Ela brilha com uma luz ofuscante, revelando inimigos dentro de 120 unidades. Heimdall pode redisparar sua habilidade para chamar sua espada de volta, fazendo-a voar até a área marcada, causando dano aos inimigos.",
+          "menuitems": [
+            {
+              "description": "Habilidade:",
+              "value": "Círculo"
+            },
+            {
+              "description": "Afeta:",
+              "value": "Inimigos"
+            },
+            {
+              "description": "Dano:",
+              "value": "Físico"
+            },
+            {
+              "description": "Alcance:",
+              "value": "15"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Dano:",
+              "value": "70/125/180/235/290 (+95% do seu poder físico)"
+            }
+          ]
+        }
+      },
+      "Id": 17698,
+      "Summary": "Visão Profunda",
+      "URL": "https://web2.hirez.com/smite/god-abilities/piercing-sight.jpg"
+    },
+    "Ability_2": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "14s",
+          "cost": "60/65/70/75/80",
+          "description": "Heimdall sopra o Gjallarhorn por 2s, fazendo com que os inimigos à frente fiquem lentos e tomem dano a cada 0,5s. Enquanto sopra, Heimdall fica imune a repulsão e ganha proteções bônus. Quando Heimdall terminar de soprar, ou porque cancelou ou porque chegou ao fim, ele ergue o Gjallarhorn para um último ataque. Esse ataque causa dano nos inimigos e os repele para longe de Heimdall",
+          "menuitems": [
+            {
+              "description": "Habilidade:",
+              "value": "Cone"
+            },
+            {
+              "description": "Afeta:",
+              "value": "Inimigos"
+            },
+            {
+              "description": "Dano:",
+              "value": "Físico"
+            },
+            {
+              "description": "Alcance:",
+              "value": "70"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Dano por tique:",
+              "value": "11/22/33/44/55 (+45% do seu poder físico)"
+            },
+            {
+              "description": "Dano da repulsão:",
+              "value": "50/90/130/170/210 (+85% do seu poder físico)"
+            },
+            {
+              "description": "Proteções:",
+              "value": "8/16/24/32/40"
+            },
+            {
+              "description": "Lentidão:",
+              "value": "25%"
+            },
+            {
+              "description": "Lentidão de cadência:",
+              "value": "15%"
+            }
+          ]
+        }
+      },
+      "Id": 17699,
+      "Summary": "Gjallarhorn",
+      "URL": "https://web2.hirez.com/smite/god-abilities/gjallarhorn.jpg"
+    },
+    "Ability_3": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "Variável",
+          "cost": "40",
+          "description": "Heimdall conjura um fragmento da Bifrost no local marcado. Quando dois fragmentos são posicionados, eles são vinculados, permitindo que Heimdall atravesse a Bifrost. Quanto mais distante estão os fragmentos, mais tempo leva para ele começar a atravessar e mais tempo ele demorará para poder usá-los de novo. Se Heimdall colocar um terceiro fragmento, o fragmento mais antigo sumirá. Inimigos que atravessarem entre os dois fragmentos são revelados a Heimdall.",
+          "menuitems": [
+            {
+              "description": "Habilidade:",
+              "value": "Círculo"
+            },
+            {
+              "description": "Afeta:",
+              "value": "Si mesmo"
+            },
+            {
+              "description": "Alcance:",
+              "value": "Ilimitado"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Escala da distância:",
+              "value": "de 85 a 700 unidades"
+            },
+            {
+              "description": "Escala de preparação:",
+              "value": "de 0.5s a 3.5s"
+            },
+            {
+              "description": "Escala de intervalo:",
+              "value": "de 14s a 210/180/150/120/90s"
+            }
+          ]
+        }
+      },
+      "Id": 17700,
+      "Summary": "A Bifrost",
+      "URL": "https://web2.hirez.com/smite/god-abilities/the-bifrost.jpg"
+    },
+    "Ability_4": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "Duração da viagem",
+          "cost": "4s",
+          "description": "Heimdall corre em frente, com o machado em punho. Se Heimdall atingir um deus inimigo, ele os atordoa, e então faz um ataque devastador com seu machado, mandando o alvo para o céu. Um portal da Bifrost aparece e Heimdall envia o inimigo pelos reinos de Muspelheim e Niflheim, antes de trazê-lo de volta a um local aleatório próximo. Muspelheim queima o inimigo a cada 0.25s por 1.5s, e Niflheim causa lentidão ao inimigo.",
+          "menuitems": [
+            {
+              "description": "Habilidade:",
+              "value": "Corrida"
+            },
+            {
+              "description": "Afeta:",
+              "value": "Inimigos"
+            },
+            {
+              "description": "Alcance:",
+              "value": "55"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Dano por acerto:",
+              "value": "150/240/330/420/510 (+110% do seu poder físico)"
+            },
+            {
+              "description": "Dano de Muspelheim:",
+              "value": "14/18/22/26/30 (+15% do seu poder físico)"
+            },
+            {
+              "description": "Dano de Acerto na Parede:",
+              "value": "35/75/115/155/195 (+30% do seu poder físico)"
+            },
+            {
+              "description": "Lentidão de Niflheim:",
+              "value": "25%"
+            },
+            {
+              "description": "Duração da Lentidão:",
+              "value": "2.5s"
+            }
+          ]
+        }
+      },
+      "Id": 17701,
+      "Summary": "Através dos Reinos",
+      "URL": "https://web2.hirez.com/smite/god-abilities/through-the-realms.jpg"
+    },
+    "Ability_5": {
+      "Description": {
+        "itemDescription": {
+          "cooldown": "",
+          "cost": "",
+          "description": "Quando Heimdall vê um deus inimigo no seu campo de visão, ele ganha poder físico, até um máximo de 5 deuses. Quando um deus inimigo deixa seu campo de visão, Heimdall continua a vê-lo pelos próximos 4s. Os ataques críticos de Heimdall só causam 70% de dano bônus.",
+          "menuitems": [
+            {
+              "description": "Habilidade:",
+              "value": "Bônus"
+            },
+            {
+              "description": "Afeta:",
+              "value": "Si mesmo"
+            }
+          ],
+          "rankitems": [
+            {
+              "description": "Poder Físico por estoque",
+              "value": "2%"
+            }
+          ]
+        }
+      },
+      "Id": 17697,
+      "Summary": "O Guardião da Ponte Arco-Íris",
+      "URL": "https://web2.hirez.com/smite/god-abilities/the-vigilant.jpg"
+    },
+    "AttackSpeed": 0.96,
+    "AttackSpeedPerLevel": 0.014,
+    "Cons": "",
+    "HP5PerLevel": 0.8,
+    "Health": 480,
+    "HealthPerFive": 8,
+    "HealthPerLevel": 80,
+    "Lore": "Todos os caminhos têm seus guardiões. E nenhum guardião é mais obstinado quanto às su8as obrigações do que o arguto Heimdall, sentinela da Bifrost, a Ponte Arco-Íris. O observador de Asgard é um sentinela sem igual nos Nove Reinos, e ele mantém uma vigilância eterna no ponto onde o Arco-Íris encontra o céu. Com olhar preciso e audição apurada, Heimdall guarda os salões dos deuses, alerta para a aproximação de qualquer inimigo, como tamb´m para qualquer sinal do Ragnarok.\\n\\nÉ sabido que Heimdall necessita de muito pouco sono, e consegue enxergar por centenas de quilômetros. Sua audição é tão aguçada que ele pode ouvir o crescer da grama e o murmúrio dos mortos. Sua trombeta, Gjallarhorn, pode ser ouvida através dos Nove Reinos quando ele a toca. Mas não são apenas seus sentidos que fazem de Heimdall um sentinela sooberbo.\\n\\nEle também tem o dom da premonição, oq ue permite que ele saiba os movimentos dos oponentes antes que sejam feitos, e que sinta a aproximação de forças ocultas. Como um dos Aesir, ele é um combatente habilidoso, e sua intuição garante vantagem contra até mesmo os maispreparados oponentes.\\n\\nTambém é comentado que Heimdall tem algum tipo de conexão com Yggdrasil, a Árvore do Mundo. Alguns dizem que ele foi moldado a partir de um dos galhos da grande árvore. Outros insistem que ele tem algum tipo de elo, assim como Ratatosk. Seja qual for a verdade, é certo que Heimdall não vê com bons olhos qualquer um que ameace Yggdrasil.\\n\\nPor isso, quando sua visão recaiu sobre os lacaios de Perséfone, que se aproximavam da Árvore, Heimdall imediatamente confrontou-os. Mesmo extremamente poderosa, a Rainha do Submundo não conseguiu esconder suas intenções do vigia de Asgard.",
+    "MP5PerLevel": 0.4,
+    "MagicProtection": 30,
+    "MagicProtectionPerLevel": 0.9,
+    "MagicalPower": 0,
+    "MagicalPowerPerLevel": 0,
+    "Mana": 230,
+    "ManaPerFive": 4.5,
+    "ManaPerLevel": 34,
+    "Name": "Heimdall",
+    "OnFreeRotation": "",
+    "Pantheon": "Nórdico",
+    "PhysicalPower": 32,
+    "PhysicalPowerPerLevel": 3,
+    "PhysicalProtection": 16,
+    "PhysicalProtectionPerLevel": 3,
+    "Pros": " Alto Dano Individual",
+    "Roles": " Caçador",
+    "Speed": 365,
+    "Title": "O Guardião da Ponte Arco-Íris",
+    "Type": " Atirador",
+    "abilityDescription1": {
+      "itemDescription": {
+        "cooldown": "14s",
+        "cost": "50/55/60/65/70",
+        "description": "Heimdall arremessa sua espada, Hofuð, no ar. Ela brilha com uma luz ofuscante, revelando inimigos dentro de 120 unidades. Heimdall pode redisparar sua habilidade para chamar sua espada de volta, fazendo-a voar até a área marcada, causando dano aos inimigos.",
+        "menuitems": [
+          {
+            "description": "Habilidade:",
+            "value": "Círculo"
+          },
+          {
+            "description": "Afeta:",
+            "value": "Inimigos"
+          },
+          {
+            "description": "Dano:",
+            "value": "Físico"
+          },
+          {
+            "description": "Alcance:",
+            "value": "15"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Dano:",
+            "value": "70/125/180/235/290 (+95% do seu poder físico)"
+          }
+        ]
+      }
+    },
+    "abilityDescription2": {
+      "itemDescription": {
+        "cooldown": "14s",
+        "cost": "60/65/70/75/80",
+        "description": "Heimdall sopra o Gjallarhorn por 2s, fazendo com que os inimigos à frente fiquem lentos e tomem dano a cada 0,5s. Enquanto sopra, Heimdall fica imune a repulsão e ganha proteções bônus. Quando Heimdall terminar de soprar, ou porque cancelou ou porque chegou ao fim, ele ergue o Gjallarhorn para um último ataque. Esse ataque causa dano nos inimigos e os repele para longe de Heimdall",
+        "menuitems": [
+          {
+            "description": "Habilidade:",
+            "value": "Cone"
+          },
+          {
+            "description": "Afeta:",
+            "value": "Inimigos"
+          },
+          {
+            "description": "Dano:",
+            "value": "Físico"
+          },
+          {
+            "description": "Alcance:",
+            "value": "70"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Dano por tique:",
+            "value": "11/22/33/44/55 (+45% do seu poder físico)"
+          },
+          {
+            "description": "Dano da repulsão:",
+            "value": "50/90/130/170/210 (+85% do seu poder físico)"
+          },
+          {
+            "description": "Proteções:",
+            "value": "8/16/24/32/40"
+          },
+          {
+            "description": "Lentidão:",
+            "value": "25%"
+          },
+          {
+            "description": "Lentidão de cadência:",
+            "value": "15%"
+          }
+        ]
+      }
+    },
+    "abilityDescription3": {
+      "itemDescription": {
+        "cooldown": "Variável",
+        "cost": "40",
+        "description": "Heimdall conjura um fragmento da Bifrost no local marcado. Quando dois fragmentos são posicionados, eles são vinculados, permitindo que Heimdall atravesse a Bifrost. Quanto mais distante estão os fragmentos, mais tempo leva para ele começar a atravessar e mais tempo ele demorará para poder usá-los de novo. Se Heimdall colocar um terceiro fragmento, o fragmento mais antigo sumirá. Inimigos que atravessarem entre os dois fragmentos são revelados a Heimdall.",
+        "menuitems": [
+          {
+            "description": "Habilidade:",
+            "value": "Círculo"
+          },
+          {
+            "description": "Afeta:",
+            "value": "Si mesmo"
+          },
+          {
+            "description": "Alcance:",
+            "value": "Ilimitado"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Escala da distância:",
+            "value": "de 85 a 700 unidades"
+          },
+          {
+            "description": "Escala de preparação:",
+            "value": "de 0.5s a 3.5s"
+          },
+          {
+            "description": "Escala de intervalo:",
+            "value": "de 14s a 210/180/150/120/90s"
+          }
+        ]
+      }
+    },
+    "abilityDescription4": {
+      "itemDescription": {
+        "cooldown": "Duração da viagem",
+        "cost": "4s",
+        "description": "Heimdall corre em frente, com o machado em punho. Se Heimdall atingir um deus inimigo, ele os atordoa, e então faz um ataque devastador com seu machado, mandando o alvo para o céu. Um portal da Bifrost aparece e Heimdall envia o inimigo pelos reinos de Muspelheim e Niflheim, antes de trazê-lo de volta a um local aleatório próximo. Muspelheim queima o inimigo a cada 0.25s por 1.5s, e Niflheim causa lentidão ao inimigo.",
+        "menuitems": [
+          {
+            "description": "Habilidade:",
+            "value": "Corrida"
+          },
+          {
+            "description": "Afeta:",
+            "value": "Inimigos"
+          },
+          {
+            "description": "Alcance:",
+            "value": "55"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Dano por acerto:",
+            "value": "150/240/330/420/510 (+110% do seu poder físico)"
+          },
+          {
+            "description": "Dano de Muspelheim:",
+            "value": "14/18/22/26/30 (+15% do seu poder físico)"
+          },
+          {
+            "description": "Dano de Acerto na Parede:",
+            "value": "35/75/115/155/195 (+30% do seu poder físico)"
+          },
+          {
+            "description": "Lentidão de Niflheim:",
+            "value": "25%"
+          },
+          {
+            "description": "Duração da Lentidão:",
+            "value": "2.5s"
+          }
+        ]
+      }
+    },
+    "abilityDescription5": {
+      "itemDescription": {
+        "cooldown": "",
+        "cost": "",
+        "description": "Quando Heimdall vê um deus inimigo no seu campo de visão, ele ganha poder físico, até um máximo de 5 deuses. Quando um deus inimigo deixa seu campo de visão, Heimdall continua a vê-lo pelos próximos 4s. Os ataques críticos de Heimdall só causam 70% de dano bônus.",
+        "menuitems": [
+          {
+            "description": "Habilidade:",
+            "value": "Bônus"
+          },
+          {
+            "description": "Afeta:",
+            "value": "Si mesmo"
+          }
+        ],
+        "rankitems": [
+          {
+            "description": "Poder Físico por estoque",
+            "value": "2%"
+          }
+        ]
+      }
+    },
+    "basicAttack": {
+      "itemDescription": {
+        "cooldown": "",
+        "cost": "",
+        "description": "",
+        "menuitems": [
+          {
+            "description": "Dano:",
+            "value": "36 + 2,8/nível (+100% de poder físico)"
+          },
+          {
+            "description": "Progressão:",
+            "value": "1,3/1,3/1,5x de dano e cadência, atingindo área de 7,5 nos primeiros dois acertos"
+          }
+        ],
+        "rankitems": []
+      }
+    },
+    "godAbility1_URL": "https://web2.hirez.com/smite/god-abilities/piercing-sight.jpg",
+    "godAbility2_URL": "https://web2.hirez.com/smite/god-abilities/gjallarhorn.jpg",
+    "godAbility3_URL": "https://web2.hirez.com/smite/god-abilities/the-bifrost.jpg",
+    "godAbility4_URL": "https://web2.hirez.com/smite/god-abilities/through-the-realms.jpg",
+    "godAbility5_URL": "https://web2.hirez.com/smite/god-abilities/the-vigilant.jpg",
+    "godCard_URL": "https://web2.hirez.com/smite/god-cards/heimdallr.jpg",
+    "godIcon_URL": "https://web2.hirez.com/smite/god-icons/heimdallr.jpg",
+    "id": 3812,
+    "latestGod": "y",
+    "ret_msg": null
+  },
+  {
     "Ability1": "Decompor (Restaurar)",
     "Ability2": "Estorvar (Purificar)",
     "Ability3": "Repulsão (Inspirar)",
@@ -19749,7 +20218,7 @@
     "ManaPerFive": 4.7,
     "ManaPerLevel": 37,
     "Name": "Hórus",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Egípcio",
     "PhysicalPower": 37,
     "PhysicalPowerPerLevel": 2.1,
@@ -20852,7 +21321,7 @@
           "rankitems": [
             {
               "description": "Dano:",
-              "value": "50/90/120/160/180 (+40% do seu poder mágico)"
+              "value": "50/80/110/140/170 (+40% do seu poder mágico)"
             },
             {
               "description": "Dano bônus a escudos:",
@@ -20860,11 +21329,11 @@
             },
             {
               "description": "Cura:",
-              "value": "20/40/60/80/100 (+20% do seu poder mágico)"
+              "value": "30/55/80/105/130 (+20% do seu poder mágico)"
             },
             {
               "description": "Escudo:",
-              "value": "50/100/150/200/250 (+20% do seu poder mágico)"
+              "value": "40/80/120/160/200 (+20% do seu poder mágico)"
             }
           ]
         }
@@ -20984,7 +21453,7 @@
           "rankitems": [
             {
               "description": "Libera Omi adicional em:",
-              "value": "300/ 450 e 600 de mana/MP5 de itens."
+              "value": "300 de mana/MP5 de itens/ atingindo os níveis 4 e 12."
             },
             {
               "description": "Cura do ataque básico:",
@@ -21098,7 +21567,7 @@
         "rankitems": [
           {
             "description": "Dano:",
-            "value": "50/90/120/160/180 (+40% do seu poder mágico)"
+            "value": "50/80/110/140/170 (+40% do seu poder mágico)"
           },
           {
             "description": "Dano bônus a escudos:",
@@ -21106,11 +21575,11 @@
           },
           {
             "description": "Cura:",
-            "value": "20/40/60/80/100 (+20% do seu poder mágico)"
+            "value": "30/55/80/105/130 (+20% do seu poder mágico)"
           },
           {
             "description": "Escudo:",
-            "value": "50/100/150/200/250 (+20% do seu poder mágico)"
+            "value": "40/80/120/160/200 (+20% do seu poder mágico)"
           }
         ]
       }
@@ -21215,7 +21684,7 @@
         "rankitems": [
           {
             "description": "Libera Omi adicional em:",
-            "value": "300/ 450 e 600 de mana/MP5 de itens."
+            "value": "300 de mana/MP5 de itens/ atingindo os níveis 4 e 12."
           },
           {
             "description": "Cura do ataque básico:",
@@ -21250,7 +21719,7 @@
     "godCard_URL": "https://web2.hirez.com/smite/god-cards/yemoja.jpg",
     "godIcon_URL": "https://web2.hirez.com/smite/god-icons/yemoja.jpg",
     "id": 3811,
-    "latestGod": "y",
+    "latestGod": "n",
     "ret_msg": null
   },
   {
@@ -21311,7 +21780,7 @@
     "Ability_2": {
       "Description": {
         "itemDescription": {
-          "cooldown": "10s",
+          "cooldown": "12s",
           "cost": "70/75/80/85/90",
           "description": "Ísis dispara uma bola de energia espiritual. À medida em que a bola viaja, ela ganha poder até 1,5x do alcance máximo. A qualquer momento, Ísis pode ativar a habilidade de detonar a bola, causando dano mágico e atordoando inimigos dentro de 10 unidades, escalando em duração a até 1,5s no alcance máximo.",
           "menuitems": [
@@ -21387,7 +21856,7 @@
             },
             {
               "description": "Escudo:",
-              "value": "70/110/150/190/230"
+              "value": "50/95/140/185/230"
             }
           ]
         }
@@ -21427,7 +21896,7 @@
             },
             {
               "description": "Cura:",
-              "value": "110/130/150/170/190 (+25% do seu poder mágico)"
+              "value": "90/115/140/165/190 (+25% do seu poder mágico)"
             },
             {
               "description": "Mitigação de Dano:",
@@ -21557,7 +22026,7 @@
     },
     "abilityDescription2": {
       "itemDescription": {
-        "cooldown": "10s",
+        "cooldown": "12s",
         "cost": "70/75/80/85/90",
         "description": "Ísis dispara uma bola de energia espiritual. À medida em que a bola viaja, ela ganha poder até 1,5x do alcance máximo. A qualquer momento, Ísis pode ativar a habilidade de detonar a bola, causando dano mágico e atordoando inimigos dentro de 10 unidades, escalando em duração a até 1,5s no alcance máximo.",
         "menuitems": [
@@ -21628,7 +22097,7 @@
           },
           {
             "description": "Escudo:",
-            "value": "70/110/150/190/230"
+            "value": "50/95/140/185/230"
           }
         ]
       }
@@ -21663,7 +22132,7 @@
           },
           {
             "description": "Cura:",
-            "value": "110/130/150/170/190 (+25% do seu poder mágico)"
+            "value": "90/115/140/165/190 (+25% do seu poder mágico)"
           },
           {
             "description": "Mitigação de Dano:",
@@ -23534,7 +24003,7 @@
         "itemDescription": {
           "cooldown": "100s",
           "cost": "100",
-          "description": "Jormungandr prepara-se para entrar no mundo, aumentando seu tamanho enquanto ele prepara um ataque devastador.\nApós selecionar uma área alvo, Jormungandr salta e voa pelo ar, e mergulha novamente atingindo os inimigos conforme seu corpo bate no solo. Ele pode dar mais 2 saltos.\nQuando Jormungandr emerge e submerge durante essa habilidade, ele joga para cima ao emergir e deixa uma nuvem tóxica ao submergir.",
+          "description": "Jormungandr prepara-se para entrar no mundo, aumentando seu tamanho enquanto ele prepara um ataque devastador.  \nApós selecionar uma área alvo, Jormungandr salta e voa pelo ar, e mergulha novamente atingindo os inimigos conforme seu corpo bate no solo. Ele deve dar mais 2 saltos.\nQuando Jormungandr emerge e submerge durante essa habilidade, ele joga para cima ao emergir e deixa uma nuvem tóxica ao submergir.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -23556,7 +24025,7 @@
           "rankitems": [
             {
               "description": "Dano ao submergir:",
-              "value": "150/200/250/300/350 (+40% do seu poder mágico)"
+              "value": "150/200/250/300/350 (+35% do seu poder mágico)"
             },
             {
               "description": "Dano ao emergir/ bater no solo:",
@@ -23574,7 +24043,7 @@
         "itemDescription": {
           "cooldown": "",
           "cost": "",
-          "description": "Jormungandr é tão grande que não pode ser afetado por deslocamentos forçados. Ao invés disso ele recebe arrebatamento, uma lentidão não-evitável que se esvai aos poucos e que aumenta o dano que ele recebe durante o efeito. Toda cadência além da base aumenta a taxa de recarga dos ataques básicos de Jormungandr. Os ataques básicos não desencadeiam efeitos efeitos de itens por acerto.",
+          "description": "Jormungandr é tão grande que não pode ser afetado por deslocamentos forçados. Ao invés disso ele recebe arrebatamento, uma lentidão não-evitável que se esvai aos poucos e que aumenta o dano que ele recebe durante o efeito. Toda cadência além da base aumenta a taxa de recarga dos ataques básicos de Jormungandr. Os ataques básicos não desencadeiam efeitos de itens por acerto.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -23588,7 +24057,7 @@
             },
             {
               "description": "Aumento do dano recebido:",
-              "value": "10%"
+              "value": "15%"
             },
             {
               "description": "Duração:",
@@ -23762,7 +24231,7 @@
       "itemDescription": {
         "cooldown": "100s",
         "cost": "100",
-        "description": "Jormungandr prepara-se para entrar no mundo, aumentando seu tamanho enquanto ele prepara um ataque devastador.\nApós selecionar uma área alvo, Jormungandr salta e voa pelo ar, e mergulha novamente atingindo os inimigos conforme seu corpo bate no solo. Ele pode dar mais 2 saltos.\nQuando Jormungandr emerge e submerge durante essa habilidade, ele joga para cima ao emergir e deixa uma nuvem tóxica ao submergir.",
+        "description": "Jormungandr prepara-se para entrar no mundo, aumentando seu tamanho enquanto ele prepara um ataque devastador.  \nApós selecionar uma área alvo, Jormungandr salta e voa pelo ar, e mergulha novamente atingindo os inimigos conforme seu corpo bate no solo. Ele deve dar mais 2 saltos.\nQuando Jormungandr emerge e submerge durante essa habilidade, ele joga para cima ao emergir e deixa uma nuvem tóxica ao submergir.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -23784,7 +24253,7 @@
         "rankitems": [
           {
             "description": "Dano ao submergir:",
-            "value": "150/200/250/300/350 (+40% do seu poder mágico)"
+            "value": "150/200/250/300/350 (+35% do seu poder mágico)"
           },
           {
             "description": "Dano ao emergir/ bater no solo:",
@@ -23797,7 +24266,7 @@
       "itemDescription": {
         "cooldown": "",
         "cost": "",
-        "description": "Jormungandr é tão grande que não pode ser afetado por deslocamentos forçados. Ao invés disso ele recebe arrebatamento, uma lentidão não-evitável que se esvai aos poucos e que aumenta o dano que ele recebe durante o efeito. Toda cadência além da base aumenta a taxa de recarga dos ataques básicos de Jormungandr. Os ataques básicos não desencadeiam efeitos efeitos de itens por acerto.",
+        "description": "Jormungandr é tão grande que não pode ser afetado por deslocamentos forçados. Ao invés disso ele recebe arrebatamento, uma lentidão não-evitável que se esvai aos poucos e que aumenta o dano que ele recebe durante o efeito. Toda cadência além da base aumenta a taxa de recarga dos ataques básicos de Jormungandr. Os ataques básicos não desencadeiam efeitos de itens por acerto.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -23811,7 +24280,7 @@
           },
           {
             "description": "Aumento do dano recebido:",
-            "value": "10%"
+            "value": "15%"
           },
           {
             "description": "Duração:",
@@ -24520,7 +24989,7 @@
     "ManaPerFive": 4.6,
     "ManaPerLevel": 34,
     "Name": "Khepri",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Egípcio",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -24840,8 +25309,8 @@
           ],
           "rankitems": [
             {
-              "description": "Dano por segundo:",
-              "value": "10/20/30/40/50 (+15% do seu poder mágico)"
+              "description": "Dano por tique:",
+              "value": "9/18/27/36/45 (+15% do seu poder mágico)"
             },
             {
               "description": "Duração do Tornado:",
@@ -25024,8 +25493,8 @@
         ],
         "rankitems": [
           {
-            "description": "Dano por segundo:",
-            "value": "10/20/30/40/50 (+15% do seu poder mágico)"
+            "description": "Dano por tique:",
+            "value": "9/18/27/36/45 (+15% do seu poder mágico)"
           },
           {
             "description": "Duração do Tornado:",
@@ -27874,7 +28343,7 @@
     "ManaPerFive": 4.4,
     "ManaPerLevel": 40,
     "Name": "Mulzencab",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Maia",
     "PhysicalPower": 38,
     "PhysicalPowerPerLevel": 2.2,
@@ -31332,7 +31801,7 @@
     "MP5PerLevel": 0.4,
     "MagicProtection": 30,
     "MagicProtectionPerLevel": 0.9,
-    "MagicalPower": 160,
+    "MagicalPower": 152,
     "MagicalPowerPerLevel": 9.5,
     "Mana": 240,
     "ManaPerFive": 5,
@@ -37200,9 +37669,9 @@
     "Ability_1": {
       "Description": {
         "itemDescription": {
-          "cooldown": "7s",
+          "cooldown": "8s",
           "cost": "40/45/50/55/60",
-          "description": "Set congrega seu ódio, arremessando-o à frente. Inimigos atingidos tomam dano e sofrem lentidão por 3s.\n\nAs cópias de Set são ativadas quando Set dispara o ataque, arremetendo na direção que Set determinar. Inimigos atingidos pela arremetida das cópias tomam dano e sofrem lentidão por 3s. Qualquer arremetida após a primeira causa 40% do dano.",
+          "description": "Set congrega seu ódio, arremessando-o à frente. Inimigos atingidos tomam dano e sofrem lentidão por 3s. \n\nAs cópias de Set são ativadas quando Set dispara o ataque, arremetendo na direção que Set determinar. Inimigos atingidos pela arremetida das cópias tomam dano e sofrem lentidão por 3s. Qualquer arremetida após a primeira causa 40% do dano.",
           "menuitems": [
             {
               "description": "Habilidade:",
@@ -37431,9 +37900,9 @@
     "Type": " Corporal, Físico",
     "abilityDescription1": {
       "itemDescription": {
-        "cooldown": "7s",
+        "cooldown": "8s",
         "cost": "40/45/50/55/60",
-        "description": "Set congrega seu ódio, arremessando-o à frente. Inimigos atingidos tomam dano e sofrem lentidão por 3s.\n\nAs cópias de Set são ativadas quando Set dispara o ataque, arremetendo na direção que Set determinar. Inimigos atingidos pela arremetida das cópias tomam dano e sofrem lentidão por 3s. Qualquer arremetida após a primeira causa 40% do dano.",
+        "description": "Set congrega seu ódio, arremessando-o à frente. Inimigos atingidos tomam dano e sofrem lentidão por 3s. \n\nAs cópias de Set são ativadas quando Set dispara o ataque, arremetendo na direção que Set determinar. Inimigos atingidos pela arremetida das cópias tomam dano e sofrem lentidão por 3s. Qualquer arremetida após a primeira causa 40% do dano.",
         "menuitems": [
           {
             "description": "Habilidade:",
@@ -38721,7 +39190,7 @@
     "ManaPerFive": 4.5,
     "ManaPerLevel": 35,
     "Name": "Sobek",
-    "OnFreeRotation": "",
+    "OnFreeRotation": "true",
     "Pantheon": "Egípcio",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
@@ -39752,29 +40221,29 @@
         "itemDescription": {
           "cooldown": "16/15/14/13/12s",
           "cost": "60/65/70/75/80",
-          "description": "Susano moves thrice in quick succession; after each attack he has up to 3s to fire the next one. \nFirst Attack: 100% Damage to all Enemies in a cone. \nSecond Attack: 100% Damage to all Enemies in a circle. \nThird Attack: 50% Damage while Dashing forward.",
+          "description": "Susanoo se move três vezes em rápida sucessão; depois de cada ataque ele tem até 3s para fazer o próximo. \nPrimeiro ataque: 100% de dano a todos os inimigos em cone. \nSegundo ataque: 100% de dano a todos os inimigos em um círculo. \nTerceiro ataque: 50% de dano enquanto está avançando à frente.",
           "menuitems": [
             {
-              "description": "Ability:",
-              "value": "Dash Special"
+              "description": "Habilidade:",
+              "value": "Avanço especial"
             },
             {
-              "description": "Affects:",
-              "value": "Enemies"
+              "description": "Afeta:",
+              "value": "Inimigos"
             },
             {
-              "description": "Damage:",
-              "value": "Physical"
+              "description": "Dano:",
+              "value": "Físico"
             },
             {
-              "description": "Range:",
+              "description": "Alcance:",
               "value": "30"
             }
           ],
           "rankitems": [
             {
-              "description": "Damage per Hit:",
-              "value": "40/65/90/115/140 (+existsprop1007/0.55/+# /+55% of your Physical Power)"
+              "description": "Dano por acerto:",
+              "value": "40/65/90/115/140 (50% do seu poder físico)"
             }
           ]
         }
@@ -39882,7 +40351,7 @@
           "rankitems": [
             {
               "description": "Dano máximo:",
-              "value": "215/280/345/410/475 (140% do seu poder físico)"
+              "value": "215/280/345/410/475 (+125% do seu poder físico)"
             }
           ]
         }
@@ -39951,29 +40420,29 @@
       "itemDescription": {
         "cooldown": "16/15/14/13/12s",
         "cost": "60/65/70/75/80",
-        "description": "Susano moves thrice in quick succession; after each attack he has up to 3s to fire the next one. \nFirst Attack: 100% Damage to all Enemies in a cone. \nSecond Attack: 100% Damage to all Enemies in a circle. \nThird Attack: 50% Damage while Dashing forward.",
+        "description": "Susanoo se move três vezes em rápida sucessão; depois de cada ataque ele tem até 3s para fazer o próximo. \nPrimeiro ataque: 100% de dano a todos os inimigos em cone. \nSegundo ataque: 100% de dano a todos os inimigos em um círculo. \nTerceiro ataque: 50% de dano enquanto está avançando à frente.",
         "menuitems": [
           {
-            "description": "Ability:",
-            "value": "Dash Special"
+            "description": "Habilidade:",
+            "value": "Avanço especial"
           },
           {
-            "description": "Affects:",
-            "value": "Enemies"
+            "description": "Afeta:",
+            "value": "Inimigos"
           },
           {
-            "description": "Damage:",
-            "value": "Physical"
+            "description": "Dano:",
+            "value": "Físico"
           },
           {
-            "description": "Range:",
+            "description": "Alcance:",
             "value": "30"
           }
         ],
         "rankitems": [
           {
-            "description": "Damage per Hit:",
-            "value": "40/65/90/115/140 (+existsprop1007/0.55/+# /+55% of your Physical Power)"
+            "description": "Dano por acerto:",
+            "value": "40/65/90/115/140 (50% do seu poder físico)"
           }
         ]
       }
@@ -40066,7 +40535,7 @@
         "rankitems": [
           {
             "description": "Dano máximo:",
-            "value": "215/280/345/410/475 (140% do seu poder físico)"
+            "value": "215/280/345/410/475 (+125% do seu poder físico)"
           }
         ]
       }
@@ -41095,7 +41564,7 @@
           "rankitems": [
             {
               "description": "Dano:",
-              "value": "150/200/250/300/350 (100% do seu poder físico)"
+              "value": "100/150/200/250/300 (100% do seu poder físico)"
             },
             {
               "description": "Atordoamento:",
@@ -41103,7 +41572,7 @@
             },
             {
               "description": "Dano do Relâmpago:",
-              "value": "20/30/40/50/60 (+15% do seu poder físico)"
+              "value": "15/25/35/45/55 (+15% do seu poder físico)"
             }
           ]
         }
@@ -41291,7 +41760,7 @@
         "rankitems": [
           {
             "description": "Dano:",
-            "value": "150/200/250/300/350 (100% do seu poder físico)"
+            "value": "100/150/200/250/300 (100% do seu poder físico)"
           },
           {
             "description": "Atordoamento:",
@@ -41299,7 +41768,7 @@
           },
           {
             "description": "Dano do Relâmpago:",
-            "value": "20/30/40/50/60 (+15% do seu poder físico)"
+            "value": "15/25/35/45/55 (+15% do seu poder físico)"
           }
         ]
       }
@@ -41901,7 +42370,7 @@
             },
             {
               "description": "Cura:",
-              "value": "30/55/80/105/130 (+20% do seu poder físico)"
+              "value": "20/45/70/95/120 (+20% do seu poder físico)"
             }
           ]
         }
@@ -42102,7 +42571,7 @@
           },
           {
             "description": "Cura:",
-            "value": "30/55/80/105/130 (+20% do seu poder físico)"
+            "value": "20/45/70/95/120 (+20% do seu poder físico)"
           }
         ]
       }
@@ -44455,7 +44924,7 @@
     "ManaPerFive": 4.6,
     "ManaPerLevel": 44,
     "Name": "Zeus",
-    "OnFreeRotation": "true",
+    "OnFreeRotation": "",
     "Pantheon": "Grego",
     "PhysicalPower": 0,
     "PhysicalPowerPerLevel": 0,
