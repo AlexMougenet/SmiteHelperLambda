@@ -38,6 +38,16 @@ const BuildIntentHandler = {
         return buildIntent.handle(handlerInput, null);
     }
 };
+const ActiveIntentHandler = {
+    canHandle(handlerInput) {
+        return handlerInput.requestEnvelope.request.type === 'IntentRequest'
+            && (handlerInput.requestEnvelope.request.intent.name === 'ActiveIntent');
+    },
+    handle(handlerInput) {
+        const activeIntent = require('./handlers/activeIntent');
+        return activeIntent.handle(handlerInput);
+    }
+};
 const ItemNumberIntentHandler = {
     canHandle(handlerInput) {
         return handlerInput.requestEnvelope.request.type === 'IntentRequest'
@@ -145,6 +155,7 @@ exports.handler = Alexa.SkillBuilders.custom()
     .addRequestHandlers(
         LaunchRequestHandler,
         BuildIntentHandler,
+        ActiveIntentHandler,
         ItemNumberIntentHandler,
         HelpIntentHandler,
         CancelAndStopIntentHandler,
